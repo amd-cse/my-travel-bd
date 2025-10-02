@@ -15,7 +15,7 @@ export default function Navbar({ session }: { session: Session | null }) {
                     </span>
                 </Link>
                 <div className="flex items-center space-x-4">
-                    {session ? (
+                    {session?.user?.id ? (
                         <>
                             <Link href="/trips" className='text-slate-900 hover:text-sky-900'>My Trips</Link>
                             <Link href="/globe" className="text-slate-900 hover:text-sky-900">Globe</Link>
