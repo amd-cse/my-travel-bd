@@ -66,10 +66,14 @@ export default function DistrictMap({ geojsonData }: DistrictMapProps) {
             })
 
             map.current?.on('click', 'attractions-points', (e) => {
-                const coords = e.features![0].geometry.coordinates as [number, number];
-                const name = e.features![0].properties!.name || "no name in geojson";
+                if (!e.features || e.features.length === 0) return;
+                const feature = e.features[0];
+                if (feature.geometry.type !== 'Point') return;
 
-                const type = e.features![0].properties!.tourism || e.features![0].properties!.natural || e.features![0].properties!.historic || "Attraction default value";
+                const coords = feature.geometry.coordinates as [number, number];
+                const name = feature.properties!.name || "no name in geojson";
+
+                const type = feature.properties!.tourism || feature.properties!.natural || feature.properties!.historic || "Attraction default value";
                 new maplibregl.Popup().setLngLat(coords).setHTML(`<h1>${name}</h1><br/><small>${type}</small>`).addTo(map.current!);
             })
 
