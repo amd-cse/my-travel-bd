@@ -1,0 +1,167 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.1737307,
+          23.5510989
+        ]
+      },
+      "properties": {
+        "name": "Jhenidah Somobai Somity",
+        "tourism": "museum",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Jhenaidah"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.165046,
+          23.5454828
+        ]
+      },
+      "properties": {
+        "name": "Sheikh Mujib Monument শেখ মুজিব মনুমেন্ট",
+        "tourism": "",
+        "historic": "monument",
+        "natural": "",
+        "amenity": "",
+        "district": "Jhenaidah"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.1905257,
+          23.5423715
+        ]
+      },
+      "properties": {
+        "name": "প্রেরণা ৭১",
+        "tourism": "",
+        "historic": "monument",
+        "natural": "",
+        "amenity": "",
+        "district": "Jhenaidah"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.1785339,
+          23.54411
+        ]
+      },
+      "properties": {
+        "name": "Street Food",
+        "tourism": "hotel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Jhenaidah"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.1710451,
+          23.5316541
+        ]
+      },
+      "properties": {
+        "name": "Molla Hotel মোল্লা হোটেল",
+        "tourism": "hotel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Jhenaidah"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.1726068,
+          23.5449816
+        ]
+      },
+      "properties": {
+        "name": "পায়রা চত্তর",
+        "tourism": "",
+        "historic": "memorial",
+        "natural": "",
+        "amenity": "",
+        "district": "Jhenaidah"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.1850459,
+          23.5621686
+        ]
+      },
+      "properties": {
+        "name": "Miar Dalan Zamindar Bari",
+        "tourism": "",
+        "historic": "castle",
+        "natural": "",
+        "amenity": "",
+        "district": "Jhenaidah"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.2993843,
+          23.6453825
+        ]
+      },
+      "properties": {
+        "name": "হাজী মোহাম্মদ বদর উদ্দিন জোয়ার্দ্দার চত্বর",
+        "tourism": "",
+        "historic": "monument",
+        "natural": "",
+        "amenity": "",
+        "district": "Jhenaidah"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.302175,
+          23.6445095
+        ]
+      },
+      "properties": {
+        "name": "বাউল উদ্দিন জোয়ার্দ্দার চত্বর",
+        "tourism": "",
+        "historic": "monument",
+        "natural": "",
+        "amenity": "",
+        "district": "Jhenaidah"
+      }
+    }
+  ]
+}

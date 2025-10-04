@@ -1,0 +1,725 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.3941794,
+          24.7622618
+        ]
+      },
+      "properties": {
+        "name": "AMC Girls Hostel",
+        "tourism": "hostel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Mymensingh"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.3949837,
+          24.7675266
+        ]
+      },
+      "properties": {
+        "name": "SP Bungalow",
+        "tourism": "guest_house",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Mymensingh"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.3996435,
+          24.767442
+        ]
+      },
+      "properties": {
+        "name": "সার্কিট হাউজ",
+        "tourism": "guest_house",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Mymensingh"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.398368,
+          24.76822
+        ]
+      },
+      "properties": {
+        "name": "DC Bungalow",
+        "tourism": "guest_house",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Mymensingh"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.4120547,
+          24.7418746
+        ]
+      },
+      "properties": {
+        "name": "MMCH Ladies Hostel",
+        "tourism": "hostel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Mymensingh"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.4100316,
+          24.7556948
+        ]
+      },
+      "properties": {
+        "name": "Hotel Amir International",
+        "tourism": "hotel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Mymensingh"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.4441358,
+          24.7186476
+        ]
+      },
+      "properties": {
+        "name": "Bachelor's Quarter",
+        "tourism": "hostel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Mymensingh"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.4349984,
+          24.717301
+        ]
+      },
+      "properties": {
+        "name": "Fazlul Hoque Hall",
+        "tourism": "hostel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Mymensingh"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.4322447,
+          24.7333371
+        ]
+      },
+      "properties": {
+        "name": "BAU Guest House",
+        "tourism": "guest_house",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Mymensingh"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.4107781,
+          24.7551913
+        ]
+      },
+      "properties": {
+        "name": "Khan International Hotel",
+        "tourism": "hotel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Mymensingh"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.3480169,
+          24.3756093
+        ]
+      },
+      "properties": {
+        "name": "kamrul.islam",
+        "tourism": "artwork",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Mymensingh"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.3980558,
+          24.7580766
+        ]
+      },
+      "properties": {
+        "name": "Mymensingh Zilla School Hostel",
+        "tourism": "hostel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Mymensingh"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.4394961,
+          24.7219215
+        ]
+      },
+      "properties": {
+        "name": "Shahid Nuzmull Ahosan hall",
+        "tourism": "hostel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Mymensingh"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.4001937,
+          24.7629707
+        ]
+      },
+      "properties": {
+        "name": "Hotel Mustafiz Int.",
+        "tourism": "hotel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Mymensingh"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.3566672,
+          24.7819122
+        ]
+      },
+      "properties": {
+        "name": "সওজ পরিদর্শন বাংলো",
+        "tourism": "guest_house",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Mymensingh"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.5695175,
+          24.7579604
+        ]
+      },
+      "properties": {
+        "name": "Gouripur Mohila Degree College Hostel",
+        "tourism": "hostel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Mymensingh"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.4134813,
+          24.7480261
+        ]
+      },
+      "properties": {
+        "name": "Suprio Das Hall",
+        "tourism": "hostel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Mymensingh"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.4363686,
+          24.7180735
+        ]
+      },
+      "properties": {
+        "name": "Hossain Shahid Souhrawardi Hall",
+        "tourism": "hostel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Mymensingh"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.3763354,
+          24.5829744
+        ]
+      },
+      "properties": {
+        "name": "দোলনচাঁপা হল",
+        "tourism": "hostel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Mymensingh"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.3758463,
+          24.5813578
+        ]
+      },
+      "properties": {
+        "name": "অগ্নিবীণা হল",
+        "tourism": "hostel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Mymensingh"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.5966815,
+          24.6886788
+        ]
+      },
+      "properties": {
+        "name": "Upazila Shahid Minner",
+        "tourism": "",
+        "historic": "memorial",
+        "natural": "",
+        "amenity": "",
+        "district": "Mymensingh"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.4029999,
+          24.7618456
+        ]
+      },
+      "properties": {
+        "name": "Shoshi Lodge",
+        "tourism": "",
+        "historic": "castle",
+        "natural": "",
+        "amenity": "",
+        "district": "Mymensingh"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.4030185,
+          24.7621694
+        ]
+      },
+      "properties": {
+        "name": "Debi Venus Sculpture",
+        "tourism": "artwork",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Mymensingh"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.3940248,
+          24.5874103
+        ]
+      },
+      "properties": {
+        "name": "FX Rifat",
+        "tourism": "",
+        "historic": "manor",
+        "natural": "",
+        "amenity": "",
+        "district": "Mymensingh"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.4108966,
+          24.7560661
+        ]
+      },
+      "properties": {
+        "name": "Hotel Hera",
+        "tourism": "hotel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Mymensingh"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.3751915,
+          24.5814061
+        ]
+      },
+      "properties": {
+        "name": "Joy Bangla Vaskorjo",
+        "tourism": "",
+        "historic": "monument",
+        "natural": "",
+        "amenity": "",
+        "district": "Mymensingh"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.374811,
+          24.3786709
+        ]
+      },
+      "properties": {
+        "name": "Russell Spinning Mills Dormitory, Hotel",
+        "tourism": "hotel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Mymensingh"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.3948136,
+          24.5819203
+        ]
+      },
+      "properties": {
+        "name": "Global Best Content Tec Bangladesh, Historical landmark",
+        "tourism": "museum",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Mymensingh"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.3995541,
+          24.5451034
+        ]
+      },
+      "properties": {
+        "name": "Bismillah Hotel And Biriyani House",
+        "tourism": "hotel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Mymensingh"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.3922494,
+          24.4951803
+        ]
+      },
+      "properties": {
+        "name": "Minister Water Park And Resort, Resort hotel",
+        "tourism": "hotel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Mymensingh"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.4050763,
+          24.6671046
+        ]
+      },
+      "properties": {
+        "name": "CBNCB Girls Hostel, Hostel",
+        "tourism": "hostel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Mymensingh"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.405726,
+          24.6743204
+        ]
+      },
+      "properties": {
+        "name": "Rifat Hotel And Restaurant",
+        "tourism": "hotel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Mymensingh"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.4091595,
+          24.7405577
+        ]
+      },
+      "properties": {
+        "name": "Mymensingh Polytechnic Institute Ladies Hostel",
+        "tourism": "hostel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Mymensingh"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.4066801,
+          24.7177358
+        ]
+      },
+      "properties": {
+        "name": "College Hostel, Hostel",
+        "tourism": "hostel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Mymensingh"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.3689054,
+          24.7503066
+        ]
+      },
+      "properties": {
+        "name": "Modhumoty Group (Mymensingh Office)",
+        "tourism": "camp_site",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Mymensingh"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.3774556,
+          24.7434105
+        ]
+      },
+      "properties": {
+        "name": "Mymensingh cantonment tank, Tourist attraction",
+        "tourism": "attraction",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Mymensingh"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.4165977,
+          24.7502914
+        ]
+      },
+      "properties": {
+        "name": "Shoshi Lodge Sculpture, Sculpture",
+        "tourism": "artwork",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Mymensingh"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.4219425,
+          24.74686
+        ]
+      },
+      "properties": {
+        "name": "Liberation Memorial, Historical landmark",
+        "tourism": "",
+        "historic": "pillory",
+        "natural": "",
+        "amenity": "",
+        "district": "Mymensingh"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.3226901,
+          24.7782345
+        ]
+      },
+      "properties": {
+        "name": "Harti Road junction, Historical landmark,",
+        "tourism": "",
+        "historic": "castle",
+        "natural": "",
+        "amenity": "",
+        "district": "Mymensingh"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.399417,
+          24.7624697
+        ]
+      },
+      "properties": {
+        "name": "Central Shaheed Minar, Historical landmark",
+        "tourism": "",
+        "historic": "castle",
+        "natural": "",
+        "amenity": "",
+        "district": "Mymensingh"
+      }
+    }
+  ]
+}

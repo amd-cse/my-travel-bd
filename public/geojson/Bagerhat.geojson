@@ -1,0 +1,383 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.7583993,
+          22.6609351
+        ]
+      },
+      "properties": {
+        "name": "Khan Jahan Ali's Tomb",
+        "tourism": "attraction",
+        "historic": "",
+        "natural": "",
+        "amenity": "place_of_worship",
+        "district": "Bagerhat"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.9728219,
+          22.5792769
+        ]
+      },
+      "properties": {
+        "name": "হোটেল অবকাশ",
+        "tourism": "hotel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Bagerhat"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.96712,
+          22.5795252
+        ]
+      },
+      "properties": {
+        "name": "শহীদ মিনার",
+        "tourism": "",
+        "historic": "monument",
+        "natural": "",
+        "amenity": "",
+        "district": "Bagerhat"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.7772407,
+          22.6552647
+        ]
+      },
+      "properties": {
+        "name": "Freedom Fighters Monument, Dasani, Bagerhat",
+        "tourism": "",
+        "historic": "monument",
+        "natural": "",
+        "amenity": "",
+        "district": "Bagerhat"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.9865554,
+          22.5973565
+        ]
+      },
+      "properties": {
+        "name": "Rayerkathi Jomidar Bari",
+        "tourism": "",
+        "historic": "archaeological_site",
+        "natural": "",
+        "amenity": "",
+        "district": "Bagerhat"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.80764,
+          22.6414867
+        ]
+      },
+      "properties": {
+        "name": "IMTB Hostel",
+        "tourism": "hostel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Bagerhat"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.7926771,
+          22.6481511
+        ]
+      },
+      "properties": {
+        "name": "Hotel AL- Amin",
+        "tourism": "hotel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Bagerhat"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.7833338,
+          22.6662592
+        ]
+      },
+      "properties": {
+        "name": "Govt. PC College Girls Hostel",
+        "tourism": "hostel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Bagerhat"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.7830898,
+          22.6659907
+        ]
+      },
+      "properties": {
+        "name": "PC College New Girls Hostel",
+        "tourism": "hostel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Bagerhat"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.7818962,
+          22.6658558
+        ]
+      },
+      "properties": {
+        "name": "Hindu Boys Hostel",
+        "tourism": "hostel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Bagerhat"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.7818747,
+          22.6654956
+        ]
+      },
+      "properties": {
+        "name": "Old Boys Hostel",
+        "tourism": "hostel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Bagerhat"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.7820692,
+          22.6651974
+        ]
+      },
+      "properties": {
+        "name": "New Boys Hostel",
+        "tourism": "hostel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Bagerhat"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.7877058,
+          22.6684372
+        ]
+      },
+      "properties": {
+        "name": "MATS Girls Hostel",
+        "tourism": "hostel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Bagerhat"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.7875959,
+          22.6686637
+        ]
+      },
+      "properties": {
+        "name": "MATS Boys Hostel",
+        "tourism": "hostel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Bagerhat"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.6120298,
+          22.8317117
+        ]
+      },
+      "properties": {
+        "name": "Welcome to Terokhada Upazila",
+        "tourism": "",
+        "historic": "boundary_stone",
+        "natural": "",
+        "amenity": "",
+        "district": "Bagerhat"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.6517445,
+          22.8511845
+        ]
+      },
+      "properties": {
+        "name": "Welcome to Terokhada Upazila",
+        "tourism": "",
+        "historic": "boundary_stone",
+        "natural": "",
+        "amenity": "",
+        "district": "Bagerhat"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.7971691,
+          22.6544599
+        ]
+      },
+      "properties": {
+        "name": "Dam Bari",
+        "tourism": "hotel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Bagerhat"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.7960924,
+          22.6595131
+        ]
+      },
+      "properties": {
+        "name": "রাহাত আবাসিক হোটেল",
+        "tourism": "hotel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Bagerhat"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.796451,
+          22.6583245
+        ]
+      },
+      "properties": {
+        "name": "হোটেল মোহনা",
+        "tourism": "hotel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Bagerhat"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.7966506,
+          22.6597281
+        ]
+      },
+      "properties": {
+        "name": "হাছান আবাসিক হোটেল",
+        "tourism": "hotel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Bagerhat"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.7965859,
+          22.6597645
+        ]
+      },
+      "properties": {
+        "name": "রহমত হোটল আবাসিক",
+        "tourism": "hotel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Bagerhat"
+      }
+    }
+  ]
+}

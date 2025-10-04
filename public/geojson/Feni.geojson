@@ -1,0 +1,347 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.3992992,
+          23.0102557
+        ]
+      },
+      "properties": {
+        "name": "শহীদ মিনার",
+        "tourism": "",
+        "historic": "monument",
+        "natural": "",
+        "amenity": "",
+        "district": "Feni"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.5269913,
+          22.9199053
+        ]
+      },
+      "properties": {
+        "name": "Shamser Gazi'r Bhita",
+        "tourism": "",
+        "historic": "monument",
+        "natural": "",
+        "amenity": "",
+        "district": "Feni"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.3260724,
+          23.1296531
+        ]
+      },
+      "properties": {
+        "name": "Dream House Bhuiyan Bari Guest House",
+        "tourism": "guest_house",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Feni"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.552569,
+          22.9290303
+        ]
+      },
+      "properties": {
+        "name": "ডাইবার হোটেল",
+        "tourism": "hotel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Feni"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.5462829,
+          22.9207681
+        ]
+      },
+      "properties": {
+        "name": "East Hinguli Bazar",
+        "tourism": "hotel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Feni"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.5338932,
+          22.894952
+        ]
+      },
+      "properties": {
+        "name": "Murad Boarding",
+        "tourism": "hotel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Feni"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.3812783,
+          23.009892
+        ]
+      },
+      "properties": {
+        "name": "হোটেল মানিক আবাসিক",
+        "tourism": "hotel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Feni"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.5712707,
+          22.9650251
+        ]
+      },
+      "properties": {
+        "name": "Fort of Shamsher Gazi",
+        "tourism": "",
+        "historic": "fort",
+        "natural": "",
+        "amenity": "",
+        "district": "Feni"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.4003337,
+          22.9973317
+        ]
+      },
+      "properties": {
+        "name": "Feni Ijtema Maidan",
+        "tourism": "camp_site",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Feni"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.3598772,
+          23.0321151
+        ]
+      },
+      "properties": {
+        "name": "Alauddin Bhuiayan Badi",
+        "tourism": "chalet",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Feni"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.3363858,
+          23.1142631
+        ]
+      },
+      "properties": {
+        "name": "Betiyara Shaheed Memorial Complex",
+        "tourism": "information",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Feni"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.5323497,
+          22.9030406
+        ]
+      },
+      "properties": {
+        "name": "Islamic Hotel & Restaurant, Baraiyarhat, Chittagong",
+        "tourism": "hotel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Feni"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.5422944,
+          22.8699056
+        ]
+      },
+      "properties": {
+        "name": "BSRM GATE",
+        "tourism": "",
+        "historic": "city_gate",
+        "natural": "",
+        "amenity": "",
+        "district": "Feni"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.5426484,
+          22.8698834
+        ]
+      },
+      "properties": {
+        "name": "BSRM Get Barirhat, BSML Approach Rd, Zorargonj, Chittagong",
+        "tourism": "",
+        "historic": "city_gate",
+        "natural": "",
+        "amenity": "",
+        "district": "Feni"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.5439819,
+          22.8675641
+        ]
+      },
+      "properties": {
+        "name": "Kola bagan hotel, Zorargonj, Chittagong",
+        "tourism": "hotel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Feni"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.5454242,
+          22.8576787
+        ]
+      },
+      "properties": {
+        "name": "Allah r dan hotel",
+        "tourism": "hotel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Feni"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.3912418,
+          22.8458522
+        ]
+      },
+      "properties": {
+        "name": "Shaheed Minar",
+        "tourism": "",
+        "historic": "memorial",
+        "natural": "",
+        "amenity": "",
+        "district": "Feni"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.3506335,
+          23.0654304
+        ]
+      },
+      "properties": {
+        "name": "Rajab Ali BHY Bari",
+        "tourism": "",
+        "historic": "castle",
+        "natural": "",
+        "amenity": "",
+        "district": "Feni"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.3507522,
+          23.0647449
+        ]
+      },
+      "properties": {
+        "name": "Rajab Ali Bhuiyan Bari",
+        "tourism": "",
+        "historic": "castle",
+        "natural": "",
+        "amenity": "",
+        "district": "Feni"
+      }
+    }
+  ]
+}

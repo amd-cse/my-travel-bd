@@ -1,0 +1,95 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.5038553,
+          23.1800395
+        ]
+      },
+      "properties": {
+        "name": "Narail Circuit House",
+        "tourism": "guest_house",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Narail"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.5856631,
+          23.051562
+        ]
+      },
+      "properties": {
+        "name": "asddd",
+        "tourism": "",
+        "historic": "",
+        "natural": "tree",
+        "amenity": "",
+        "district": "Narail"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.4324145,
+          23.0116158
+        ]
+      },
+      "properties": {
+        "name": "Egaro Shib Mondir",
+        "tourism": "",
+        "historic": "archaeological_site",
+        "natural": "",
+        "amenity": "",
+        "district": "Narail"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.5106291,
+          23.1689088
+        ]
+      },
+      "properties": {
+        "name": "Badha Ghat",
+        "tourism": "attraction",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Narail"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.3952804,
+          23.0328132
+        ]
+      },
+      "properties": {
+        "name": "স্মৃতিসৌধ",
+        "tourism": "",
+        "historic": "stone",
+        "natural": "",
+        "amenity": "",
+        "district": "Narail"
+      }
+    }
+  ]
+}

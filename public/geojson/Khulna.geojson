@@ -1,0 +1,383 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.5285907,
+          22.8682168
+        ]
+      },
+      "properties": {
+        "name": "B.L college shidminar",
+        "tourism": "",
+        "historic": "monument",
+        "natural": "",
+        "amenity": "",
+        "district": "Khulna"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.5313151,
+          22.8031465
+        ]
+      },
+      "properties": {
+        "name": "New women hostel",
+        "tourism": "hostel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Khulna"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.5297952,
+          22.8031791
+        ]
+      },
+      "properties": {
+        "name": "Monument",
+        "tourism": "",
+        "historic": "monument",
+        "natural": "",
+        "amenity": "",
+        "district": "Khulna"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.5625462,
+          22.809425
+        ]
+      },
+      "properties": {
+        "name": "Shohid Minar",
+        "tourism": "",
+        "historic": "monument",
+        "natural": "",
+        "amenity": "",
+        "district": "Khulna"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.564187,
+          22.8176046
+        ]
+      },
+      "properties": {
+        "name": "Hotel Boisakhi",
+        "tourism": "hotel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Khulna"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.5232991,
+          22.8734136
+        ]
+      },
+      "properties": {
+        "name": "মহাসিন মোড়",
+        "tourism": "information",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Khulna"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.5138485,
+          22.8746629
+        ]
+      },
+      "properties": {
+        "name": "ছবেদা বাগান",
+        "tourism": "",
+        "historic": "",
+        "natural": "tree",
+        "amenity": "",
+        "district": "Khulna"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.5023526,
+          22.8991543
+        ]
+      },
+      "properties": {
+        "name": "Durbar Bangla",
+        "tourism": "",
+        "historic": "monument",
+        "natural": "",
+        "amenity": "",
+        "district": "Khulna"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.5610914,
+          22.8103633
+        ]
+      },
+      "properties": {
+        "name": "Titan international",
+        "tourism": "hotel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Khulna"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.5715631,
+          22.8064464
+        ]
+      },
+      "properties": {
+        "name": "A+ Building",
+        "tourism": "hostel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Khulna"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.5297435,
+          22.8626081
+        ]
+      },
+      "properties": {
+        "name": "Bir Bangali",
+        "tourism": "",
+        "historic": "monument",
+        "natural": "",
+        "amenity": "",
+        "district": "Khulna"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.5051749,
+          22.8993062
+        ]
+      },
+      "properties": {
+        "name": "Central Shaheed Minar",
+        "tourism": "",
+        "historic": "monument",
+        "natural": "",
+        "amenity": "",
+        "district": "Khulna"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.5420745,
+          22.7840141
+        ]
+      },
+      "properties": {
+        "name": "Wood Apple",
+        "tourism": "",
+        "historic": "",
+        "natural": "tree",
+        "amenity": "",
+        "district": "Khulna"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.5424071,
+          22.7840827
+        ]
+      },
+      "properties": {
+        "name": "Mango Tree",
+        "tourism": "",
+        "historic": "",
+        "natural": "tree",
+        "amenity": "",
+        "district": "Khulna"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.5421952,
+          22.7841118
+        ]
+      },
+      "properties": {
+        "name": "Mango Tree",
+        "tourism": "",
+        "historic": "",
+        "natural": "tree",
+        "amenity": "",
+        "district": "Khulna"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.5422828,
+          22.7840933
+        ]
+      },
+      "properties": {
+        "name": "Mango Tree",
+        "tourism": "",
+        "historic": "",
+        "natural": "tree",
+        "amenity": "",
+        "district": "Khulna"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.5424353,
+          22.7841331
+        ]
+      },
+      "properties": {
+        "name": "Coconut Tree",
+        "tourism": "",
+        "historic": "",
+        "natural": "tree",
+        "amenity": "",
+        "district": "Khulna"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.5350551,
+          22.8425722
+        ]
+      },
+      "properties": {
+        "name": "Mangrove Hostel 7",
+        "tourism": "hostel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Khulna"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.5368431,
+          22.8133734
+        ]
+      },
+      "properties": {
+        "name": "Radisson blu Khulna",
+        "tourism": "hotel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Khulna"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.6120298,
+          22.8317117
+        ]
+      },
+      "properties": {
+        "name": "Welcome to Terokhada Upazila",
+        "tourism": "",
+        "historic": "boundary_stone",
+        "natural": "",
+        "amenity": "",
+        "district": "Khulna"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.6517445,
+          22.8511845
+        ]
+      },
+      "properties": {
+        "name": "Welcome to Terokhada Upazila",
+        "tourism": "",
+        "historic": "boundary_stone",
+        "natural": "",
+        "amenity": "",
+        "district": "Khulna"
+      }
+    }
+  ]
+}

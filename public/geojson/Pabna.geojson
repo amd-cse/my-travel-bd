@@ -1,0 +1,77 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.220085,
+          23.9198221
+        ]
+      },
+      "properties": {
+        "name": "Shilaidaha Kuthibari",
+        "tourism": "museum",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Pabna"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.5946829,
+          24.1832155
+        ]
+      },
+      "properties": {
+        "name": "Rabindranath statue",
+        "tourism": "",
+        "historic": "castle",
+        "natural": "",
+        "amenity": "",
+        "district": "Pabna"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.2562039,
+          24.0113759
+        ]
+      },
+      "properties": {
+        "name": "Evergreen Pabna চিরহরিত পাবনা",
+        "tourism": "",
+        "historic": "castle",
+        "natural": "",
+        "amenity": "",
+        "district": "Pabna"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.2540365,
+          24.0132637
+        ]
+      },
+      "properties": {
+        "name": "Green Valley Hostel সবুজ উপত্যকা হোস্টেল",
+        "tourism": "hostel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Pabna"
+      }
+    }
+  ]
+}

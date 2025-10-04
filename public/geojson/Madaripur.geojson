@@ -1,0 +1,23 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.2019437,
+          23.1670969
+        ]
+      },
+      "properties": {
+        "name": "Hotel Sarbick International হোটেল সার্বিক আন্তর্জাতিক",
+        "tourism": "hotel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Madaripur"
+      }
+    }
+  ]
+}

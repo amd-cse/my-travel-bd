@@ -1,0 +1,779 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.1226475,
+          21.8130846
+        ]
+      },
+      "properties": {
+        "name": "কুয়াকাটা সমুদ্র সৈকত",
+        "tourism": "",
+        "historic": "",
+        "natural": "beach",
+        "amenity": "",
+        "district": "Patuakhali"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.1854187,
+          21.7999284
+        ]
+      },
+      "properties": {
+        "name": "কুয়াকাটা সমুদ্র সৈকত",
+        "tourism": "attraction",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Patuakhali"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.0726445,
+          21.8748813
+        ]
+      },
+      "properties": {
+        "name": "আশার চর",
+        "tourism": "viewpoint",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Patuakhali"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.1203759,
+          22.1605365
+        ]
+      },
+      "properties": {
+        "name": "Alom Hotel",
+        "tourism": "hotel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Patuakhali"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.1190432,
+          22.1593237
+        ]
+      },
+      "properties": {
+        "name": "Hotel Swapno Bilash",
+        "tourism": "hotel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Patuakhali"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.1231859,
+          22.1610651
+        ]
+      },
+      "properties": {
+        "name": "হোটেল তাজবিন",
+        "tourism": "hotel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Patuakhali"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.0967718,
+          22.1554507
+        ]
+      },
+      "properties": {
+        "name": "আদর্শ পলিটেকনিক হোস্টেল",
+        "tourism": "hostel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Patuakhali"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.2300255,
+          22.1418866
+        ]
+      },
+      "properties": {
+        "name": "Zila parishad Dakbanglo",
+        "tourism": "guest_house",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Patuakhali"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.3832394,
+          21.9531883
+        ]
+      },
+      "properties": {
+        "name": "Char Ganga Matir Kella",
+        "tourism": "",
+        "historic": "castle",
+        "natural": "",
+        "amenity": "",
+        "district": "Patuakhali"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.017842,
+          21.9898601
+        ]
+      },
+      "properties": {
+        "name": "Picnic Spot",
+        "tourism": "picnic_site",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Patuakhali"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.0320202,
+          22.1124834
+        ]
+      },
+      "properties": {
+        "name": "Abason",
+        "tourism": "hostel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Patuakhali"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.0380444,
+          21.9394828
+        ]
+      },
+      "properties": {
+        "name": "Tourist Spot",
+        "tourism": "attraction",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Patuakhali"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.0469773,
+          21.938767
+        ]
+      },
+      "properties": {
+        "name": "Ward Boundary",
+        "tourism": "",
+        "historic": "boundary_stone",
+        "natural": "",
+        "amenity": "",
+        "district": "Patuakhali"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.0472686,
+          21.9302397
+        ]
+      },
+      "properties": {
+        "name": "Ward Boundary",
+        "tourism": "",
+        "historic": "boundary_stone",
+        "natural": "",
+        "amenity": "",
+        "district": "Patuakhali"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.0424674,
+          21.9261517
+        ]
+      },
+      "properties": {
+        "name": "Ward Boundary",
+        "tourism": "",
+        "historic": "boundary_stone",
+        "natural": "",
+        "amenity": "",
+        "district": "Patuakhali"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.038021,
+          21.9177588
+        ]
+      },
+      "properties": {
+        "name": "Ward Boundary",
+        "tourism": "",
+        "historic": "boundary_stone",
+        "natural": "",
+        "amenity": "",
+        "district": "Patuakhali"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.0321637,
+          21.9402317
+        ]
+      },
+      "properties": {
+        "name": "Word Boundary",
+        "tourism": "",
+        "historic": "boundary_stone",
+        "natural": "",
+        "amenity": "",
+        "district": "Patuakhali"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.0332594,
+          21.9457349
+        ]
+      },
+      "properties": {
+        "name": "Word Boundary",
+        "tourism": "",
+        "historic": "boundary_stone",
+        "natural": "",
+        "amenity": "",
+        "district": "Patuakhali"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.0454742,
+          21.9442099
+        ]
+      },
+      "properties": {
+        "name": "Ward Boundary",
+        "tourism": "",
+        "historic": "boundary_stone",
+        "natural": "",
+        "amenity": "",
+        "district": "Patuakhali"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.0413597,
+          21.9455981
+        ]
+      },
+      "properties": {
+        "name": "Word Boundary",
+        "tourism": "",
+        "historic": "boundary_stone",
+        "natural": "",
+        "amenity": "",
+        "district": "Patuakhali"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.0503343,
+          21.9448567
+        ]
+      },
+      "properties": {
+        "name": "Word Boundary",
+        "tourism": "",
+        "historic": "boundary_stone",
+        "natural": "",
+        "amenity": "",
+        "district": "Patuakhali"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.0569969,
+          21.9529321
+        ]
+      },
+      "properties": {
+        "name": "Ward boundary",
+        "tourism": "",
+        "historic": "boundary_stone",
+        "natural": "",
+        "amenity": "",
+        "district": "Patuakhali"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.0545695,
+          21.9532157
+        ]
+      },
+      "properties": {
+        "name": "Ward Boundary",
+        "tourism": "",
+        "historic": "boundary_stone",
+        "natural": "",
+        "amenity": "",
+        "district": "Patuakhali"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.0607789,
+          21.9514096
+        ]
+      },
+      "properties": {
+        "name": "ward Boundary",
+        "tourism": "",
+        "historic": "boundary_stone",
+        "natural": "",
+        "amenity": "",
+        "district": "Patuakhali"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.0599045,
+          21.9372138
+        ]
+      },
+      "properties": {
+        "name": "ward Boundary",
+        "tourism": "",
+        "historic": "boundary_stone",
+        "natural": "",
+        "amenity": "",
+        "district": "Patuakhali"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.0598427,
+          21.9366963
+        ]
+      },
+      "properties": {
+        "name": "ward Boundary",
+        "tourism": "",
+        "historic": "boundary_stone",
+        "natural": "",
+        "amenity": "",
+        "district": "Patuakhali"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.0629193,
+          21.9143186
+        ]
+      },
+      "properties": {
+        "name": "ward Boundary",
+        "tourism": "",
+        "historic": "boundary_stone",
+        "natural": "",
+        "amenity": "",
+        "district": "Patuakhali"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.0641477,
+          21.9132075
+        ]
+      },
+      "properties": {
+        "name": "Ward boundary",
+        "tourism": "",
+        "historic": "boundary_stone",
+        "natural": "",
+        "amenity": "",
+        "district": "Patuakhali"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.0739378,
+          21.9310981
+        ]
+      },
+      "properties": {
+        "name": "ward Boundary",
+        "tourism": "",
+        "historic": "boundary_stone",
+        "natural": "",
+        "amenity": "",
+        "district": "Patuakhali"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.0770444,
+          21.9335979
+        ]
+      },
+      "properties": {
+        "name": "Boundary",
+        "tourism": "",
+        "historic": "boundary_stone",
+        "natural": "",
+        "amenity": "",
+        "district": "Patuakhali"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.0772309,
+          21.9339677
+        ]
+      },
+      "properties": {
+        "name": "Ward boundary",
+        "tourism": "",
+        "historic": "boundary_stone",
+        "natural": "",
+        "amenity": "",
+        "district": "Patuakhali"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.0680973,
+          21.935084
+        ]
+      },
+      "properties": {
+        "name": "ward Boundary",
+        "tourism": "",
+        "historic": "boundary_stone",
+        "natural": "",
+        "amenity": "",
+        "district": "Patuakhali"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.0659012,
+          21.9350965
+        ]
+      },
+      "properties": {
+        "name": "ward Boundary",
+        "tourism": "",
+        "historic": "boundary_stone",
+        "natural": "",
+        "amenity": "",
+        "district": "Patuakhali"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.0666046,
+          21.9381095
+        ]
+      },
+      "properties": {
+        "name": "ward Boundary",
+        "tourism": "",
+        "historic": "boundary_stone",
+        "natural": "",
+        "amenity": "",
+        "district": "Patuakhali"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.0681522,
+          21.9418563
+        ]
+      },
+      "properties": {
+        "name": "Ward boundary",
+        "tourism": "",
+        "historic": "boundary_stone",
+        "natural": "",
+        "amenity": "",
+        "district": "Patuakhali"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.0878906,
+          21.9354572
+        ]
+      },
+      "properties": {
+        "name": "Ward boundary",
+        "tourism": "",
+        "historic": "boundary_stone",
+        "natural": "",
+        "amenity": "",
+        "district": "Patuakhali"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.0825958,
+          21.9559033
+        ]
+      },
+      "properties": {
+        "name": "Ward boundary",
+        "tourism": "",
+        "historic": "boundary_stone",
+        "natural": "",
+        "amenity": "",
+        "district": "Patuakhali"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.0828858,
+          21.9565533
+        ]
+      },
+      "properties": {
+        "name": "Ward boundary",
+        "tourism": "",
+        "historic": "boundary_stone",
+        "natural": "",
+        "amenity": "",
+        "district": "Patuakhali"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.0715077,
+          21.9542668
+        ]
+      },
+      "properties": {
+        "name": "Ward boundary",
+        "tourism": "",
+        "historic": "boundary_stone",
+        "natural": "",
+        "amenity": "",
+        "district": "Patuakhali"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.0705314,
+          21.9589673
+        ]
+      },
+      "properties": {
+        "name": "Ward boundary",
+        "tourism": "",
+        "historic": "boundary_stone",
+        "natural": "",
+        "amenity": "",
+        "district": "Patuakhali"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.0693592,
+          21.9630692
+        ]
+      },
+      "properties": {
+        "name": "Ward boundary",
+        "tourism": "",
+        "historic": "boundary_stone",
+        "natural": "",
+        "amenity": "",
+        "district": "Patuakhali"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.0796294,
+          21.9923969
+        ]
+      },
+      "properties": {
+        "name": "Ward boundary",
+        "tourism": "",
+        "historic": "boundary_stone",
+        "natural": "",
+        "amenity": "",
+        "district": "Patuakhali"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.0794933,
+          21.9692718
+        ]
+      },
+      "properties": {
+        "name": "Ward boundary",
+        "tourism": "",
+        "historic": "boundary_stone",
+        "natural": "",
+        "amenity": "",
+        "district": "Patuakhali"
+      }
+    }
+  ]
+}

@@ -1,0 +1,275 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.9381054,
+          24.8182759
+        ]
+      },
+      "properties": {
+        "name": "hotel SK হোটেল এস কে",
+        "tourism": "hotel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Naogaon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.9402189,
+          24.8133786
+        ]
+      },
+      "properties": {
+        "name": "Solaiman Mishtanno Vandar O Restaurant",
+        "tourism": "hotel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Naogaon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.2760902,
+          24.9050042
+        ]
+      },
+      "properties": {
+        "name": "শালবন বিহার",
+        "tourism": "",
+        "historic": "archaeological_site",
+        "natural": "",
+        "amenity": "",
+        "district": "Naogaon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.2927553,
+          24.9162904
+        ]
+      },
+      "properties": {
+        "name": "পিড়াপাঠ গোখরা মন্দির",
+        "tourism": "",
+        "historic": "archaeological_site",
+        "natural": "",
+        "amenity": "",
+        "district": "Naogaon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.9321369,
+          24.8234716
+        ]
+      },
+      "properties": {
+        "name": "ব্যাচলার ছাত্রাবাস",
+        "tourism": "hostel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Naogaon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.9342762,
+          24.8211363
+        ]
+      },
+      "properties": {
+        "name": "Naogaon Zila Sarak Paribahan Malik Group",
+        "tourism": "camp_site",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Naogaon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.9399342,
+          24.8135563
+        ]
+      },
+      "properties": {
+        "name": "Central Shaheed Minar-কেন্দ্রিয় শহীদ মিনার",
+        "tourism": "",
+        "historic": "monument",
+        "natural": "",
+        "amenity": "",
+        "district": "Naogaon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.9401978,
+          24.8127288
+        ]
+      },
+      "properties": {
+        "name": "Naojoan Square, Naogaon",
+        "tourism": "",
+        "historic": "monument",
+        "natural": "",
+        "amenity": "",
+        "district": "Naogaon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.9488492,
+          24.8066848
+        ]
+      },
+      "properties": {
+        "name": "Sharnali Hotel and Mistanno Vandar, Inter District Bus Stand, Naogaon",
+        "tourism": "hotel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Naogaon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.9607789,
+          24.8022646
+        ]
+      },
+      "properties": {
+        "name": "EON Group of Industries ltd. Naogaon",
+        "tourism": "camp_site",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Naogaon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.9641686,
+          24.7507895
+        ]
+      },
+      "properties": {
+        "name": "Chak Bolaki, Natore Highway, Raninagar,Naogaon",
+        "tourism": "",
+        "historic": "monument",
+        "natural": "",
+        "amenity": "",
+        "district": "Naogaon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.9375524,
+          24.7320381
+        ]
+      },
+      "properties": {
+        "name": "Khadija Hotel, Natore Highway, Raninagar, Natore",
+        "tourism": "hotel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Naogaon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.9199313,
+          24.7103854
+        ]
+      },
+      "properties": {
+        "name": "Muktijoddha Hotel, Naogaon - Natore Hwy, Naogaon",
+        "tourism": "hotel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Naogaon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.2506679,
+          24.6471714
+        ]
+      },
+      "properties": {
+        "name": "Central Shaheed Minar",
+        "tourism": "",
+        "historic": "memorial",
+        "natural": "",
+        "amenity": "",
+        "district": "Naogaon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.2440402,
+          24.6275528
+        ]
+      },
+      "properties": {
+        "name": "Sujoy Holel, Hotel",
+        "tourism": "hotel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Naogaon"
+      }
+    }
+  ]
+}

@@ -1,0 +1,149 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.6584604,
+          23.2263802
+        ]
+      },
+      "properties": {
+        "name": "অঙ্গীকার",
+        "tourism": "",
+        "historic": "monument",
+        "natural": "",
+        "amenity": "",
+        "district": "Chandpur"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.6742433,
+          23.2344078
+        ]
+      },
+      "properties": {
+        "name": "Chandpur Circuit House",
+        "tourism": "guest_house",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Chandpur"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.8593832,
+          23.1073016
+        ]
+      },
+      "properties": {
+        "name": "Ramgonj Cintiel Monument",
+        "tourism": "",
+        "historic": "monument",
+        "natural": "",
+        "amenity": "",
+        "district": "Chandpur"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.6547172,
+          23.2258326
+        ]
+      },
+      "properties": {
+        "name": "শপথ চত্বর",
+        "tourism": "",
+        "historic": "memorial",
+        "natural": "",
+        "amenity": "",
+        "district": "Chandpur"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.8638294,
+          23.3488657
+        ]
+      },
+      "properties": {
+        "name": "Bangladesh",
+        "tourism": "apartment",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Chandpur"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.8978465,
+          23.3379479
+        ]
+      },
+      "properties": {
+        "name": "CPI Sritisodh",
+        "tourism": "",
+        "historic": "monument",
+        "natural": "",
+        "amenity": "",
+        "district": "Chandpur"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.6402728,
+          23.2308695
+        ]
+      },
+      "properties": {
+        "name": "রক্তধারা",
+        "tourism": "",
+        "historic": "monument",
+        "natural": "",
+        "amenity": "",
+        "district": "Chandpur"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.5984477,
+          23.3962266
+        ]
+      },
+      "properties": {
+        "name": "মোহনপুর পর্যটন কেন্দ্র",
+        "tourism": "attraction",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Chandpur"
+      }
+    }
+  ]
+}

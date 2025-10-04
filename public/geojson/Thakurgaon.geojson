@@ -1,0 +1,167 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.4473773,
+          26.0397663
+        ]
+      },
+      "properties": {
+        "name": "ESDO Guest House",
+        "tourism": "guest_house",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Thakurgaon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.4472015,
+          26.0395008
+        ]
+      },
+      "properties": {
+        "name": "Monument",
+        "tourism": "",
+        "historic": "monument",
+        "natural": "",
+        "amenity": "",
+        "district": "Thakurgaon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.533323,
+          26.1227609
+        ]
+      },
+      "properties": {
+        "name": "onar Bangla Hotel সোনার বাংলা হোটেল",
+        "tourism": "hostel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Thakurgaon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.5347893,
+          26.1248311
+        ]
+      },
+      "properties": {
+        "name": "Niribili Hotel নিরিবিলি হোটেল",
+        "tourism": "hostel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Thakurgaon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.4521639,
+          26.0387049
+        ]
+      },
+      "properties": {
+        "name": "Thakurgaon Government College Shahid Minar.",
+        "tourism": "",
+        "historic": "monument",
+        "natural": "",
+        "amenity": "",
+        "district": "Thakurgaon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.4627009,
+          26.0311064
+        ]
+      },
+      "properties": {
+        "name": "Hotel address inn",
+        "tourism": "hotel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Thakurgaon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.4568774,
+          26.0347284
+        ]
+      },
+      "properties": {
+        "name": "Aparajay 71",
+        "tourism": "artwork",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Thakurgaon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.4307844,
+          26.0355259
+        ]
+      },
+      "properties": {
+        "name": "Siyam & Shihab's House",
+        "tourism": "",
+        "historic": "castle",
+        "natural": "",
+        "amenity": "",
+        "district": "Thakurgaon"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.4785067,
+          26.0282874
+        ]
+      },
+      "properties": {
+        "name": "Hotel Mokbul Res",
+        "tourism": "hotel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Thakurgaon"
+      }
+    }
+  ]
+}

@@ -1,0 +1,293 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.2911166,
+          24.9493349
+        ]
+      },
+      "properties": {
+        "name": "Dewramara Beel",
+        "tourism": "",
+        "historic": "",
+        "natural": "water",
+        "amenity": "",
+        "district": "Sherpur"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.3404058,
+          25.1230899
+        ]
+      },
+      "properties": {
+        "name": "শাহীন হোটেল",
+        "tourism": "hotel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Sherpur"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.1778087,
+          24.9672653
+        ]
+      },
+      "properties": {
+        "name": "উপজেলা ডাক বাংলো, নকলা।",
+        "tourism": "guest_house",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Sherpur"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.006782,
+          25.0250309
+        ]
+      },
+      "properties": {
+        "name": "Hotel Suha, Hotel",
+        "tourism": "hotel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Sherpur"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.0173306,
+          25.0156382
+        ]
+      },
+      "properties": {
+        "name": "Pigeons Square, Tourist attraction",
+        "tourism": "attraction",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Sherpur"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.1482776,
+          25.1058906
+        ]
+      },
+      "properties": {
+        "name": "Chel Akhali Kashbon, Tourist attraction",
+        "tourism": "attraction",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Sherpur"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.1883521,
+          25.0929644
+        ]
+      },
+      "properties": {
+        "name": "Zero point Gorkanda, Historical landmark",
+        "tourism": "",
+        "historic": "pillory",
+        "natural": "",
+        "amenity": "",
+        "district": "Sherpur"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.1927293,
+          25.0894756
+        ]
+      },
+      "properties": {
+        "name": "Counselor Ghat, Tourist attraction",
+        "tourism": "attraction",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Sherpur"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.0374613,
+          24.9866395
+        ]
+      },
+      "properties": {
+        "name": "Kanashakhola Freedom Fighter Square, Memorial",
+        "tourism": "",
+        "historic": "memorial",
+        "natural": "",
+        "amenity": "",
+        "district": "Sherpur"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.2069852,
+          24.9629189
+        ]
+      },
+      "properties": {
+        "name": "Care Rice Hotel, Hotel",
+        "tourism": "hotel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Sherpur"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.1873876,
+          25.0873164
+        ]
+      },
+      "properties": {
+        "name": "Tempustant Island, Historical landmark",
+        "tourism": "",
+        "historic": "pillory",
+        "natural": "",
+        "amenity": "",
+        "district": "Sherpur"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.2176634,
+          25.1952449
+        ]
+      },
+      "properties": {
+        "name": "Eyasin Hotel, Hotel",
+        "tourism": "hotel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Sherpur"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.070269,
+          25.191822
+        ]
+      },
+      "properties": {
+        "name": "Zila parishod Dakbanglo, Hotel",
+        "tourism": "hotel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Sherpur"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.2863133,
+          25.1805827
+        ]
+      },
+      "properties": {
+        "name": "Horipodo Ritchil Memorial, Museum",
+        "tourism": "museum",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Sherpur"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.0251399,
+          25.0202907
+        ]
+      },
+      "properties": {
+        "name": "SOPNO NIR HOSTEL, Hostel",
+        "tourism": "hotel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Sherpur"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.0206503,
+          25.0200128
+        ]
+      },
+      "properties": {
+        "name": "Pone Tin Ani Jomidar Bari, Historical landmark",
+        "tourism": "",
+        "historic": "pillory",
+        "natural": "",
+        "amenity": "",
+        "district": "Sherpur"
+      }
+    }
+  ]
+}

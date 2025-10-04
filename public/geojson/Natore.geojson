@@ -1,0 +1,311 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.080007,
+          24.2983937
+        ]
+      },
+      "properties": {
+        "name": "Bonpara Bypass Chottor, Dhaka - Natore Hwy, Bonpara, Natore",
+        "tourism": "",
+        "historic": "monument",
+        "natural": "",
+        "amenity": "",
+        "district": "Natore"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.0712783,
+          24.3428092
+        ]
+      },
+      "properties": {
+        "name": "Bonoful Hotel",
+        "tourism": "hotel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Natore"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.0702917,
+          24.3439048
+        ]
+      },
+      "properties": {
+        "name": "Modubon Hotel",
+        "tourism": "hotel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Natore"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.0705405,
+          24.3447395
+        ]
+      },
+      "properties": {
+        "name": "Ahmedpur New Adorso Hotel And Resturent",
+        "tourism": "hotel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Natore"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.2691872,
+          24.481743
+        ]
+      },
+      "properties": {
+        "name": "বট গাছ",
+        "tourism": "",
+        "historic": "",
+        "natural": "tree",
+        "amenity": "",
+        "district": "Natore"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.266208,
+          24.4622371
+        ]
+      },
+      "properties": {
+        "name": "Mango Tree",
+        "tourism": "",
+        "historic": "",
+        "natural": "tree",
+        "amenity": "",
+        "district": "Natore"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.2685062,
+          24.4858773
+        ]
+      },
+      "properties": {
+        "name": "বট গাছ",
+        "tourism": "",
+        "historic": "",
+        "natural": "tree",
+        "amenity": "",
+        "district": "Natore"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.2942934,
+          24.4736567
+        ]
+      },
+      "properties": {
+        "name": "কৎ বেল",
+        "tourism": "",
+        "historic": "",
+        "natural": "tree",
+        "amenity": "",
+        "district": "Natore"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.2653876,
+          24.4634437
+        ]
+      },
+      "properties": {
+        "name": "palm-tree",
+        "tourism": "",
+        "historic": "",
+        "natural": "tree",
+        "amenity": "",
+        "district": "Natore"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.2323269,
+          24.3682459
+        ]
+      },
+      "properties": {
+        "name": "School Hostel",
+        "tourism": "hostel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Natore"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.0014558,
+          24.4062116
+        ]
+      },
+      "properties": {
+        "name": "Textile Institute, Natore- Boys Hostel, Natore City Bypass, Natore",
+        "tourism": "hostel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Natore"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.0293705,
+          24.4047861
+        ]
+      },
+      "properties": {
+        "name": "Hamza group home, Rajshahi - Dhaka Hwy, Natore",
+        "tourism": "camp_site",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Natore"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.0713259,
+          24.3430684
+        ]
+      },
+      "properties": {
+        "name": "Bonoful Hotel, Rajshahi - Dhaka Hwy, Ahmedpur, Natore",
+        "tourism": "hotel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Natore"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.0799519,
+          24.2993041
+        ]
+      },
+      "properties": {
+        "name": "One Seven Hotel & Restaurant, Bonpara, Natore",
+        "tourism": "hotel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Natore"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.1501403,
+          24.3170573
+        ]
+      },
+      "properties": {
+        "name": "Boral Hotel",
+        "tourism": "hotel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Natore"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.1722503,
+          24.3192248
+        ]
+      },
+      "properties": {
+        "name": "Rajshahi Jahangir Hotel, Razzak Mor Bus Stop, Dhaka - Rajshahi Hwy, Natore",
+        "tourism": "hotel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Natore"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.0374952,
+          24.2486871
+        ]
+      },
+      "properties": {
+        "name": "Lalpur Central Shahid Minar, Lalpur - Gopalpur - Banpara Rd, Walia, Natore",
+        "tourism": "",
+        "historic": "monument",
+        "natural": "",
+        "amenity": "",
+        "district": "Natore"
+      }
+    }
+  ]
+}

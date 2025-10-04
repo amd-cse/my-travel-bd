@@ -1,0 +1,437 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.2834291,
+          23.8518279
+        ]
+      },
+      "properties": {
+        "name": "Circuit House",
+        "tourism": "artwork",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Brahmanbaria"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.2852588,
+          23.8391411
+        ]
+      },
+      "properties": {
+        "name": "Rajdhani",
+        "tourism": "hotel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Brahmanbaria"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.2812511,
+          23.8386505
+        ]
+      },
+      "properties": {
+        "name": "Royal Guest House",
+        "tourism": "hotel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Brahmanbaria"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.2833233,
+          23.8462462
+        ]
+      },
+      "properties": {
+        "name": "Hotel Mars",
+        "tourism": "hotel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Brahmanbaria"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.2861867,
+          23.8555756
+        ]
+      },
+      "properties": {
+        "name": "Malancha Niwas",
+        "tourism": "",
+        "historic": "yes",
+        "natural": "",
+        "amenity": "",
+        "district": "Brahmanbaria"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.2796021,
+          23.8299337
+        ]
+      },
+      "properties": {
+        "name": "Hotel City Centre",
+        "tourism": "hotel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Brahmanbaria"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.2797115,
+          23.8295439
+        ]
+      },
+      "properties": {
+        "name": "Hotel Welcome Palace",
+        "tourism": "hotel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Brahmanbaria"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.278876,
+          23.8285249
+        ]
+      },
+      "properties": {
+        "name": "Hotel Centre Point",
+        "tourism": "hotel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Brahmanbaria"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.2806367,
+          23.8296753
+        ]
+      },
+      "properties": {
+        "name": "Saurastra Hotel",
+        "tourism": "hotel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Brahmanbaria"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.2794779,
+          23.8294863
+        ]
+      },
+      "properties": {
+        "name": "Somraj Regency",
+        "tourism": "hotel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Brahmanbaria"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.278364,
+          23.8301437
+        ]
+      },
+      "properties": {
+        "name": "Executive Inn",
+        "tourism": "hotel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Brahmanbaria"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.2806816,
+          23.8291659
+        ]
+      },
+      "properties": {
+        "name": "Hotel Rajmahal",
+        "tourism": "hotel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Brahmanbaria"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.2770614,
+          23.8291987
+        ]
+      },
+      "properties": {
+        "name": "Hotel Exclusive International",
+        "tourism": "hotel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Brahmanbaria"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.9309417,
+          23.6389281
+        ]
+      },
+      "properties": {
+        "name": "Allahu Square",
+        "tourism": "",
+        "historic": "monument",
+        "natural": "",
+        "amenity": "",
+        "district": "Brahmanbaria"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.9926414,
+          23.742693
+        ]
+      },
+      "properties": {
+        "name": "bonsy bot",
+        "tourism": "",
+        "historic": "",
+        "natural": "tree",
+        "amenity": "",
+        "district": "Brahmanbaria"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.0001374,
+          23.7406846
+        ]
+      },
+      "properties": {
+        "name": "Ibrahim Sarkar",
+        "tourism": "guest_house",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Brahmanbaria"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.0011748,
+          23.7401455
+        ]
+      },
+      "properties": {
+        "name": "shahid miner",
+        "tourism": "",
+        "historic": "monument",
+        "natural": "",
+        "amenity": "",
+        "district": "Brahmanbaria"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.0023199,
+          23.7429689
+        ]
+      },
+      "properties": {
+        "name": "SAHID MINAR",
+        "tourism": "",
+        "historic": "monument",
+        "natural": "",
+        "amenity": "",
+        "district": "Brahmanbaria"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.1129215,
+          23.985928
+        ]
+      },
+      "properties": {
+        "name": "Kal Bhairab Temple",
+        "tourism": "attraction",
+        "historic": "",
+        "natural": "",
+        "amenity": "place_of_worship",
+        "district": "Brahmanbaria"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.2693091,
+          23.8319633
+        ]
+      },
+      "properties": {
+        "name": "Hotel Sonar Tori",
+        "tourism": "hotel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Brahmanbaria"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.2824928,
+          23.8279129
+        ]
+      },
+      "properties": {
+        "name": "Central Guest House",
+        "tourism": "hotel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Brahmanbaria"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.1997734,
+          23.8369146
+        ]
+      },
+      "properties": {
+        "name": "বীরশ্রেষ্ঠ শহীদ সিপাহী মোহাম্মদ মোস্তফা কামাল এর সমাধি",
+        "tourism": "",
+        "historic": "stone",
+        "natural": "",
+        "amenity": "",
+        "district": "Brahmanbaria"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.2750795,
+          23.8439631
+        ]
+      },
+      "properties": {
+        "name": "Pragati School",
+        "tourism": "",
+        "historic": "boundary_stone",
+        "natural": "",
+        "amenity": "",
+        "district": "Brahmanbaria"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.2768374,
+          23.8351568
+        ]
+      },
+      "properties": {
+        "name": "Ujjayanta Homestay",
+        "tourism": "guest_house",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Brahmanbaria"
+      }
+    }
+  ]
+}

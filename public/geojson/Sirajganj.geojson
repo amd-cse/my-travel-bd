@@ -1,0 +1,383 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.8141811,
+          24.3894461
+        ]
+      },
+      "properties": {
+        "name": "Jamuna Resort",
+        "tourism": "attraction",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Sirajganj"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.8128308,
+          24.3903522
+        ]
+      },
+      "properties": {
+        "name": "Jamuna Resort",
+        "tourism": "hotel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Sirajganj"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.8965651,
+          24.2333437
+        ]
+      },
+      "properties": {
+        "name": "রহিমা ছাত্রাবাস",
+        "tourism": "hostel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Sirajganj"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.5517463,
+          24.4191764
+        ]
+      },
+      "properties": {
+        "name": "Sirajganj Moar",
+        "tourism": "",
+        "historic": "memorial",
+        "natural": "",
+        "amenity": "",
+        "district": "Sirajganj"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.5946829,
+          24.1832155
+        ]
+      },
+      "properties": {
+        "name": "Rabindranath statue",
+        "tourism": "",
+        "historic": "castle",
+        "natural": "",
+        "amenity": "",
+        "district": "Sirajganj"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.7078021,
+          24.4632636
+        ]
+      },
+      "properties": {
+        "name": "শহীদ সামসুজ্জোহা মুসলিম ছাত্রাবাস",
+        "tourism": "hostel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Sirajganj"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.7074636,
+          24.4621473
+        ]
+      },
+      "properties": {
+        "name": "ছাত্রী নিবাস, সিরাজগঞ্জ সরকারি কলেজ",
+        "tourism": "hostel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Sirajganj"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.8908914,
+          24.2365216
+        ]
+      },
+      "properties": {
+        "name": "শহীদ বুদ্ধিজীবী সার্কেল",
+        "tourism": "",
+        "historic": "monument",
+        "natural": "",
+        "amenity": "",
+        "district": "Sirajganj"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.8909957,
+          24.2348888
+        ]
+      },
+      "properties": {
+        "name": "শহীদ মিনার",
+        "tourism": "",
+        "historic": "monument",
+        "natural": "",
+        "amenity": "",
+        "district": "Sirajganj"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.7382553,
+          24.396868
+        ]
+      },
+      "properties": {
+        "name": "Bangabandhu Sculpture",
+        "tourism": "",
+        "historic": "monument",
+        "natural": "",
+        "amenity": "",
+        "district": "Sirajganj"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.7181587,
+          24.4594463
+        ]
+      },
+      "properties": {
+        "name": "North Bengal Medical Dormitory",
+        "tourism": "apartment",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Sirajganj"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.8925017,
+          24.2347757
+        ]
+      },
+      "properties": {
+        "name": "প্রত্যয় ৭১",
+        "tourism": "",
+        "historic": "memorial",
+        "natural": "",
+        "amenity": "",
+        "district": "Sirajganj"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.702363,
+          24.4525528
+        ]
+      },
+      "properties": {
+        "name": "শহীদ মিনার",
+        "tourism": "",
+        "historic": "monument",
+        "natural": "",
+        "amenity": "",
+        "district": "Sirajganj"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.8086934,
+          24.3943013
+        ]
+      },
+      "properties": {
+        "name": "KPI Police Camp, State police",
+        "tourism": "camp_pitch",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Sirajganj"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.8855079,
+          24.4460816
+        ]
+      },
+      "properties": {
+        "name": "PRB HOUSE, Resort hotel",
+        "tourism": "hotel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Sirajganj"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.8173356,
+          24.4164832
+        ]
+      },
+      "properties": {
+        "name": "Mumtaz Fakir High School Shaheed Minar, Monument maker",
+        "tourism": "",
+        "historic": "monument",
+        "natural": "",
+        "amenity": "",
+        "district": "Sirajganj"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.5312017,
+          24.4135197
+        ]
+      },
+      "properties": {
+        "name": "Bismillah Highway Hotel And Restaurant, Hotel",
+        "tourism": "hotel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Sirajganj"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.5508254,
+          24.4217506
+        ]
+      },
+      "properties": {
+        "name": "Khan Abashik Hotel, Hotel",
+        "tourism": "hotel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Sirajganj"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.5510766,
+          24.4212563
+        ]
+      },
+      "properties": {
+        "name": "Atiya Residential Hotel, Hotel",
+        "tourism": "hotel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Sirajganj"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.5619836,
+          24.4209136
+        ]
+      },
+      "properties": {
+        "name": "Hanif Highway Hotel",
+        "tourism": "hotel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Sirajganj"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.532591,
+          24.4680363
+        ]
+      },
+      "properties": {
+        "name": "Jhumur Hotel And Restaurant, Hotel",
+        "tourism": "hotel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Sirajganj"
+      }
+    }
+  ]
+}

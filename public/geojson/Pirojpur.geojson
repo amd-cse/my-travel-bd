@@ -1,0 +1,167 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.0595463,
+          22.6241163
+        ]
+      },
+      "properties": {
+        "name": "ডাকবাংলা",
+        "tourism": "guest_house",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Pirojpur"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.0599226,
+          22.6217821
+        ]
+      },
+      "properties": {
+        "name": "শহীদ মিনার",
+        "tourism": "",
+        "historic": "monument",
+        "natural": "",
+        "amenity": "",
+        "district": "Pirojpur"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.9728219,
+          22.5792769
+        ]
+      },
+      "properties": {
+        "name": "হোটেল অবকাশ",
+        "tourism": "hotel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Pirojpur"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.0596789,
+          22.6317378
+        ]
+      },
+      "properties": {
+        "name": "সরকারী পাইলট হাউজ",
+        "tourism": "guest_house",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Pirojpur"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.96712,
+          22.5795252
+        ]
+      },
+      "properties": {
+        "name": "শহীদ মিনার",
+        "tourism": "",
+        "historic": "monument",
+        "natural": "",
+        "amenity": "",
+        "district": "Pirojpur"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.9865554,
+          22.5973565
+        ]
+      },
+      "properties": {
+        "name": "Rayerkathi Jomidar Bari",
+        "tourism": "",
+        "historic": "archaeological_site",
+        "natural": "",
+        "amenity": "",
+        "district": "Pirojpur"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.9428716,
+          22.3830925
+        ]
+      },
+      "properties": {
+        "name": "Momin Masjid",
+        "tourism": "",
+        "historic": "archaeological_site",
+        "natural": "",
+        "amenity": "",
+        "district": "Pirojpur"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.80764,
+          22.6414867
+        ]
+      },
+      "properties": {
+        "name": "IMTB Hostel",
+        "tourism": "hostel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Pirojpur"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.8538961,
+          22.313138
+        ]
+      },
+      "properties": {
+        "name": "Rayenda Union Shaheed Minar",
+        "tourism": "",
+        "historic": "memorial",
+        "natural": "",
+        "amenity": "",
+        "district": "Pirojpur"
+      }
+    }
+  ]
+}

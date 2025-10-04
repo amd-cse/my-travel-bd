@@ -1,0 +1,221 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.8639827,
+          25.9263196
+        ]
+      },
+      "properties": {
+        "name": "Nilphamari Circuit House",
+        "tourism": "guest_house",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Nilphamari"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.853583,
+          25.9322072
+        ]
+      },
+      "properties": {
+        "name": "স্মৃতি অম্লান চত্বর",
+        "tourism": "",
+        "historic": "monument",
+        "natural": "",
+        "amenity": "",
+        "district": "Nilphamari"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.8559197,
+          25.9295178
+        ]
+      },
+      "properties": {
+        "name": "কিছুক্ষন আবাসিক হোটেল",
+        "tourism": "motel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Nilphamari"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.8531232,
+          25.9334783
+        ]
+      },
+      "properties": {
+        "name": "শহীদ মিনার",
+        "tourism": "",
+        "historic": "fort",
+        "natural": "",
+        "amenity": "",
+        "district": "Nilphamari"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.90478,
+          25.7761952
+        ]
+      },
+      "properties": {
+        "name": "Daud mension",
+        "tourism": "apartment",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Nilphamari"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.0061299,
+          25.8110649
+        ]
+      },
+      "properties": {
+        "name": "Puratan Chouputhi, Historical landmark",
+        "tourism": "",
+        "historic": "pillory",
+        "natural": "",
+        "amenity": "",
+        "district": "Nilphamari"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.964463,
+          25.8019212
+        ]
+      },
+      "properties": {
+        "name": "Mughal Darbar Heritage Hotel And Resort, Resort hotel",
+        "tourism": "hostel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Nilphamari"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.8987489,
+          25.7781049
+        ]
+      },
+      "properties": {
+        "name": "Hotel Amzadia International, Hotel",
+        "tourism": "hotel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Nilphamari"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.8682062,
+          25.8872683
+        ]
+      },
+      "properties": {
+        "name": "New Mubarak Sweets And Confectionery, Hotel",
+        "tourism": "hotel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Nilphamari"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.8654067,
+          25.9172381
+        ]
+      },
+      "properties": {
+        "name": "Muktijoddha Complex, Museum",
+        "tourism": "museum",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Nilphamari"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.8552696,
+          25.9325517
+        ]
+      },
+      "properties": {
+        "name": "Bangabandhu Chattar, Historical landmark",
+        "tourism": "",
+        "historic": "pillory",
+        "natural": "",
+        "amenity": "",
+        "district": "Nilphamari"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.8538576,
+          25.9366408
+        ]
+      },
+      "properties": {
+        "name": "Nilphamari Government High School Hostel, Hostel",
+        "tourism": "hostel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Nilphamari"
+      }
+    }
+  ]
+}

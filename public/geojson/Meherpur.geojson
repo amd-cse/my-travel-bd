@@ -1,0 +1,239 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.6555785,
+          23.6398121
+        ]
+      },
+      "properties": {
+        "name": "Atkabar",
+        "tourism": "",
+        "historic": "monument",
+        "natural": "",
+        "amenity": "",
+        "district": "Meherpur"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.6561914,
+          23.6400417
+        ]
+      },
+      "properties": {
+        "name": "Atkabar Sriti Complex",
+        "tourism": "museum",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Meherpur"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.5937006,
+          23.6471832
+        ]
+      },
+      "properties": {
+        "name": "Mujibnagar Monument",
+        "tourism": "",
+        "historic": "monument",
+        "natural": "",
+        "amenity": "",
+        "district": "Meherpur"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.6781943,
+          23.7411704
+        ]
+      },
+      "properties": {
+        "name": "Amjhupi Neelkuthi",
+        "tourism": "",
+        "historic": "archaeological_site",
+        "natural": "",
+        "amenity": "",
+        "district": "Meherpur"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.6312228,
+          23.7768276
+        ]
+      },
+      "properties": {
+        "name": "Hotel Onabil",
+        "tourism": "hotel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Meherpur"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.6415455,
+          23.7693481
+        ]
+      },
+      "properties": {
+        "name": "Shaheed Minar",
+        "tourism": "",
+        "historic": "monument",
+        "natural": "",
+        "amenity": "",
+        "district": "Meherpur"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.6354337,
+          23.7695633
+        ]
+      },
+      "properties": {
+        "name": "Shohag Guest House",
+        "tourism": "hotel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Meherpur"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.6344863,
+          23.769436
+        ]
+      },
+      "properties": {
+        "name": "Fin Tower",
+        "tourism": "hotel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Meherpur"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.6407999,
+          23.7664896
+        ]
+      },
+      "properties": {
+        "name": "Meherpur Shaheed Minar",
+        "tourism": "",
+        "historic": "monument",
+        "natural": "",
+        "amenity": "",
+        "district": "Meherpur"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.5957097,
+          23.6505035
+        ]
+      },
+      "properties": {
+        "name": "Surjodoy Dakbanglow",
+        "tourism": "hotel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Meherpur"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.5965843,
+          23.6496628
+        ]
+      },
+      "properties": {
+        "name": "Parjatan Motel , Mujibnangar",
+        "tourism": "motel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Meherpur"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.5990046,
+          23.6539105
+        ]
+      },
+      "properties": {
+        "name": "Monoroma Park & Mini Zoo",
+        "tourism": "zoo",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Meherpur"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.6329083,
+          23.7695589
+        ]
+      },
+      "properties": {
+        "name": "Hotel Bazar More",
+        "tourism": "hotel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Meherpur"
+      }
+    }
+  ]
+}

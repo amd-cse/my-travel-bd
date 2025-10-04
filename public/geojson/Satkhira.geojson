@@ -1,0 +1,59 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.2654068,
+          22.5810005
+        ]
+      },
+      "properties": {
+        "name": "সাহেব শেখ আলহাজ্ব",
+        "tourism": "",
+        "historic": "castle",
+        "natural": "",
+        "amenity": "",
+        "district": "Satkhira"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.2641452,
+          22.6276016
+        ]
+      },
+      "properties": {
+        "name": "House of Sir Prafulla Chandra Roy",
+        "tourism": "",
+        "historic": "archaeological_site",
+        "natural": "",
+        "amenity": "",
+        "district": "Satkhira"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.0863375,
+          22.3820739
+        ]
+      },
+      "properties": {
+        "name": "Jahajghata Naval Fort",
+        "tourism": "attraction",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Satkhira"
+      }
+    }
+  ]
+}

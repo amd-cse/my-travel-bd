@@ -1,0 +1,2957 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.4074303,
+          23.7934023
+        ]
+      },
+      "properties": {
+        "name": "Hotel Sweet Dreams Dhaka",
+        "tourism": "hotel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Narayanganj"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.4132993,
+          23.7895724
+        ]
+      },
+      "properties": {
+        "name": "hotel Golden Deer",
+        "tourism": "hotel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Narayanganj"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.4044419,
+          23.7932936
+        ]
+      },
+      "properties": {
+        "name": "Sarina Hotel",
+        "tourism": "hotel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Narayanganj"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.4169389,
+          23.7814391
+        ]
+      },
+      "properties": {
+        "name": "Hotel Washington",
+        "tourism": "hotel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Narayanganj"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.416881,
+          23.7280669
+        ]
+      },
+      "properties": {
+        "name": "Balaka",
+        "tourism": "",
+        "historic": "monument",
+        "natural": "",
+        "amenity": "",
+        "district": "Narayanganj"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.4034988,
+          23.7806973
+        ]
+      },
+      "properties": {
+        "name": "Hotel Abakash",
+        "tourism": "hotel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Narayanganj"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.4141622,
+          23.7816101
+        ]
+      },
+      "properties": {
+        "name": "Hotel De Crystal Crown",
+        "tourism": "hotel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Narayanganj"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.414635,
+          23.7816833
+        ]
+      },
+      "properties": {
+        "name": "Bengal Inn",
+        "tourism": "hotel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Narayanganj"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.4072628,
+          23.7989538
+        ]
+      },
+      "properties": {
+        "name": "লরেল হোটেল",
+        "tourism": "hotel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Narayanganj"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.4073437,
+          23.7992782
+        ]
+      },
+      "properties": {
+        "name": "মারিনো গেস্ট হাউস",
+        "tourism": "guest_house",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Narayanganj"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.4182171,
+          23.7233176
+        ]
+      },
+      "properties": {
+        "name": "বঙ্গভবন",
+        "tourism": "",
+        "historic": "castle",
+        "natural": "",
+        "amenity": "",
+        "district": "Narayanganj"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.4101407,
+          23.7797895
+        ]
+      },
+      "properties": {
+        "name": "BRAC INN",
+        "tourism": "hotel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Narayanganj"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.5349817,
+          23.5506429
+        ]
+      },
+      "properties": {
+        "name": "Tristar Hotel",
+        "tourism": "hotel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Narayanganj"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.5346017,
+          23.5512303
+        ]
+      },
+      "properties": {
+        "name": "Comfort Hotel",
+        "tourism": "hotel",
+        "historic": "",
+        "natural": "",
+        "amenity": "pharmacy",
+        "district": "Narayanganj"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.4185254,
+          23.7411463
+        ]
+      },
+      "properties": {
+        "name": "হোটেল আশরাফি",
+        "tourism": "hotel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Narayanganj"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.4137589,
+          23.7439755
+        ]
+      },
+      "properties": {
+        "name": "Manhattan Hotel",
+        "tourism": "hotel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Narayanganj"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.4135043,
+          23.7362321
+        ]
+      },
+      "properties": {
+        "name": "victory",
+        "tourism": "hotel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Narayanganj"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.4145865,
+          23.7890731
+        ]
+      },
+      "properties": {
+        "name": "Green Goose Guest House",
+        "tourism": "guest_house",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Narayanganj"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.4042359,
+          23.797679
+        ]
+      },
+      "properties": {
+        "name": "Royal Park Hotel",
+        "tourism": "hotel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Narayanganj"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.4011506,
+          23.7226895
+        ]
+      },
+      "properties": {
+        "name": "Nimtoli Tragedy",
+        "tourism": "",
+        "historic": "monument",
+        "natural": "",
+        "amenity": "",
+        "district": "Narayanganj"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.4262161,
+          23.79617
+        ]
+      },
+      "properties": {
+        "name": "Contemporary Heights Hotel",
+        "tourism": "hotel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Narayanganj"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.4094933,
+          23.7304595
+        ]
+      },
+      "properties": {
+        "name": "Olyampia Palace",
+        "tourism": "hotel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Narayanganj"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.4013545,
+          23.7356854
+        ]
+      },
+      "properties": {
+        "name": "রমনা বটমূল",
+        "tourism": "",
+        "historic": "",
+        "natural": "tree",
+        "amenity": "",
+        "district": "Narayanganj"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.4107008,
+          23.7974301
+        ]
+      },
+      "properties": {
+        "name": "Quality Inn",
+        "tourism": "hotel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Narayanganj"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.4114644,
+          23.720477
+        ]
+      },
+      "properties": {
+        "name": "ঢাকা হোটেল",
+        "tourism": "hotel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Narayanganj"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.4113653,
+          23.7205034
+        ]
+      },
+      "properties": {
+        "name": "নিউ ঢাকা হোটেল",
+        "tourism": "hotel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Narayanganj"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.4044806,
+          23.7529356
+        ]
+      },
+      "properties": {
+        "name": "mango tree",
+        "tourism": "",
+        "historic": "",
+        "natural": "tree",
+        "amenity": "",
+        "district": "Narayanganj"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.4096621,
+          23.709032
+        ]
+      },
+      "properties": {
+        "name": "Zoology Museum",
+        "tourism": "museum",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Narayanganj"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.4257251,
+          23.6968257
+        ]
+      },
+      "properties": {
+        "name": "শহীদ মিনার",
+        "tourism": "",
+        "historic": "monument",
+        "natural": "",
+        "amenity": "",
+        "district": "Narayanganj"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.4107728,
+          23.7966618
+        ]
+      },
+      "properties": {
+        "name": "Marriott Guest House",
+        "tourism": "guest_house",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Narayanganj"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.4119415,
+          23.7910589
+        ]
+      },
+      "properties": {
+        "name": "Hotel Lake Breeze",
+        "tourism": "hotel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Narayanganj"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.4081061,
+          23.7344088
+        ]
+      },
+      "properties": {
+        "name": "Chittagong Hotel",
+        "tourism": "hotel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Narayanganj"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.4082354,
+          23.7378995
+        ]
+      },
+      "properties": {
+        "name": "Hotel Razmoni Isha Kha",
+        "tourism": "hotel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Narayanganj"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.5344018,
+          23.556952
+        ]
+      },
+      "properties": {
+        "name": "PTI Hostel (Female)",
+        "tourism": "hostel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Narayanganj"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.5334197,
+          23.5576008
+        ]
+      },
+      "properties": {
+        "name": "PTI Hostel (Female)",
+        "tourism": "hostel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Narayanganj"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.5342875,
+          23.5566202
+        ]
+      },
+      "properties": {
+        "name": "PTI Hostel (Male)",
+        "tourism": "hostel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Narayanganj"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.4139341,
+          23.7551364
+        ]
+      },
+      "properties": {
+        "name": "mango tree",
+        "tourism": "",
+        "historic": "",
+        "natural": "tree",
+        "amenity": "",
+        "district": "Narayanganj"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.405505,
+          23.7551701
+        ]
+      },
+      "properties": {
+        "name": "Bismillah hotel",
+        "tourism": "hotel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Narayanganj"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.4108379,
+          23.7600845
+        ]
+      },
+      "properties": {
+        "name": "Allahar Dan Hotel",
+        "tourism": "hotel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Narayanganj"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.4103697,
+          23.7555836
+        ]
+      },
+      "properties": {
+        "name": "Banana Tree",
+        "tourism": "",
+        "historic": "",
+        "natural": "tree",
+        "amenity": "",
+        "district": "Narayanganj"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.4090167,
+          23.7502807
+        ]
+      },
+      "properties": {
+        "name": "The Dormitory",
+        "tourism": "hostel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Narayanganj"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.4204466,
+          23.7215783
+        ]
+      },
+      "properties": {
+        "name": "Ittefaq Circle",
+        "tourism": "attraction",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Narayanganj"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.4105427,
+          23.7276687
+        ]
+      },
+      "properties": {
+        "name": "Nur Hosen Chottor (Zero Point)",
+        "tourism": "",
+        "historic": "monument",
+        "natural": "",
+        "amenity": "",
+        "district": "Narayanganj"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.4201028,
+          23.732785
+        ]
+      },
+      "properties": {
+        "name": "বটতলা",
+        "tourism": "",
+        "historic": "",
+        "natural": "tree",
+        "amenity": "",
+        "district": "Narayanganj"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.4267141,
+          23.7178682
+        ]
+      },
+      "properties": {
+        "name": "banyan tree",
+        "tourism": "",
+        "historic": "",
+        "natural": "tree",
+        "amenity": "",
+        "district": "Narayanganj"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.4250646,
+          23.7304853
+        ]
+      },
+      "properties": {
+        "name": "হোটেল মেলোডি",
+        "tourism": "hotel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Narayanganj"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.4075163,
+          23.738221
+        ]
+      },
+      "properties": {
+        "name": "Wills Little Flower School and College language martyrs monument",
+        "tourism": "",
+        "historic": "monument",
+        "natural": "",
+        "amenity": "",
+        "district": "Narayanganj"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.4196222,
+          23.7897847
+        ]
+      },
+      "properties": {
+        "name": "Accenture Bangladesh Limited",
+        "tourism": "",
+        "historic": "castle",
+        "natural": "",
+        "amenity": "",
+        "district": "Narayanganj"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.4251606,
+          23.7975471
+        ]
+      },
+      "properties": {
+        "name": "Blossom Hotel",
+        "tourism": "hotel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Narayanganj"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.4308901,
+          23.7309546
+        ]
+      },
+      "properties": {
+        "name": "বিসমিল্লাহ হোটেল",
+        "tourism": "hotel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Narayanganj"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.4086047,
+          23.7183091
+        ]
+      },
+      "properties": {
+        "name": "Hotel Al Razzak International",
+        "tourism": "hotel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Narayanganj"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.418505,
+          23.7046964
+        ]
+      },
+      "properties": {
+        "name": "Sutrapur Jamidar Bari",
+        "tourism": "",
+        "historic": "archaeological_site",
+        "natural": "",
+        "amenity": "",
+        "district": "Narayanganj"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.4134684,
+          23.7038752
+        ]
+      },
+      "properties": {
+        "name": "Ruplal House",
+        "tourism": "",
+        "historic": "archaeological_site",
+        "natural": "",
+        "amenity": "",
+        "district": "Narayanganj"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.4108469,
+          23.7283201
+        ]
+      },
+      "properties": {
+        "name": "Postal Museum",
+        "tourism": "museum",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Narayanganj"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.4153052,
+          23.7035338
+        ]
+      },
+      "properties": {
+        "name": "Dhaka Kendro",
+        "tourism": "museum",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Narayanganj"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.4041862,
+          23.7355354
+        ]
+      },
+      "properties": {
+        "name": "International Mother Language Museum",
+        "tourism": "museum",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Narayanganj"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.408122,
+          23.7238201
+        ]
+      },
+      "properties": {
+        "name": "Nogor Jadughor",
+        "tourism": "museum",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Narayanganj"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.4101558,
+          23.735545
+        ]
+      },
+      "properties": {
+        "name": "Central Law College",
+        "tourism": "",
+        "historic": "yes",
+        "natural": "",
+        "amenity": "",
+        "district": "Narayanganj"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.4005235,
+          23.7937612
+        ]
+      },
+      "properties": {
+        "name": "হোটেল ঢাকা টুডে",
+        "tourism": "hotel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Narayanganj"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.4021,
+          23.79311
+        ]
+      },
+      "properties": {
+        "name": "Bithika",
+        "tourism": "apartment",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Narayanganj"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.421629,
+          23.7265547
+        ]
+      },
+      "properties": {
+        "name": "শাপলা চত্বর",
+        "tourism": "artwork",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Narayanganj"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.4083462,
+          23.7301658
+        ]
+      },
+      "properties": {
+        "name": "Hotel Delux",
+        "tourism": "hotel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Narayanganj"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.413863,
+          23.721011
+        ]
+      },
+      "properties": {
+        "name": "Thatari Bazar Bot Tola",
+        "tourism": "",
+        "historic": "",
+        "natural": "tree",
+        "amenity": "",
+        "district": "Narayanganj"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.4150608,
+          23.7443085
+        ]
+      },
+      "properties": {
+        "name": "এবস্টট্রাক্ট বিল্ডার্স বিডি লিঃ",
+        "tourism": "apartment",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Narayanganj"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.4132409,
+          23.7452059
+        ]
+      },
+      "properties": {
+        "name": "ঢাকা অক্সফোর্ড ইন্টারন্যাশনাল কলেজ",
+        "tourism": "attraction",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Narayanganj"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.5607208,
+          23.6681627
+        ]
+      },
+      "properties": {
+        "name": "CH Castle & Resortসিএইচ ক্যাসল এন্ড রিজোর্ট",
+        "tourism": "motel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Narayanganj"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.5018395,
+          23.6156772
+        ]
+      },
+      "properties": {
+        "name": "ফিরে দেখা ৭১ স্তম্ভ",
+        "tourism": "",
+        "historic": "monument",
+        "natural": "",
+        "amenity": "",
+        "district": "Narayanganj"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.5251477,
+          23.7402931
+        ]
+      },
+      "properties": {
+        "name": "Shaheed Bakul Monument",
+        "tourism": "",
+        "historic": "monument",
+        "natural": "",
+        "amenity": "",
+        "district": "Narayanganj"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.4411247,
+          23.7091144
+        ]
+      },
+      "properties": {
+        "name": "Uttar Kutubkhali Jame Masjid",
+        "tourism": "",
+        "historic": "wayside_shrine",
+        "natural": "",
+        "amenity": "place_of_worship",
+        "district": "Narayanganj"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.4277718,
+          23.7738429
+        ]
+      },
+      "properties": {
+        "name": "Memorial Of Siraj Mia",
+        "tourism": "",
+        "historic": "memorial",
+        "natural": "",
+        "amenity": "",
+        "district": "Narayanganj"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.4236959,
+          23.7765495
+        ]
+      },
+      "properties": {
+        "name": "Founder of Badda Alatunnesa",
+        "tourism": "",
+        "historic": "memorial",
+        "natural": "",
+        "amenity": "",
+        "district": "Narayanganj"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.4021778,
+          23.7152058
+        ]
+      },
+      "properties": {
+        "name": "Shohid Minar",
+        "tourism": "",
+        "historic": "memorial",
+        "natural": "",
+        "amenity": "",
+        "district": "Narayanganj"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.4025601,
+          23.7238959
+        ]
+      },
+      "properties": {
+        "name": "Nimtoli Gate",
+        "tourism": "yes",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Narayanganj"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.4215751,
+          23.7664358
+        ]
+      },
+      "properties": {
+        "name": "The Waterfront Hotel",
+        "tourism": "hotel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Narayanganj"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.4580285,
+          23.5279974
+        ]
+      },
+      "properties": {
+        "name": "Jaam Paar জাম পার",
+        "tourism": "",
+        "historic": "",
+        "natural": "tree",
+        "amenity": "",
+        "district": "Narayanganj"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.4125613,
+          23.704508
+        ]
+      },
+      "properties": {
+        "name": "লালকুঠি",
+        "tourism": "",
+        "historic": "archaeological_site",
+        "natural": "",
+        "amenity": "",
+        "district": "Narayanganj"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.4759553,
+          23.6294518
+        ]
+      },
+      "properties": {
+        "name": "Adventure Land Park",
+        "tourism": "theme_park",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Narayanganj"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.4253137,
+          23.7294942
+        ]
+      },
+      "properties": {
+        "name": "হোটেল স্টার সিটি ইন্টাঃ",
+        "tourism": "guest_house",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Narayanganj"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.4268771,
+          23.7435485
+        ]
+      },
+      "properties": {
+        "name": "বেগম রোকেয়া কর্মজীবী মহিলা হোস্টেল",
+        "tourism": "hostel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Narayanganj"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.4065827,
+          23.7922832
+        ]
+      },
+      "properties": {
+        "name": "Innotel Luxury Business Hotel",
+        "tourism": "hotel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Narayanganj"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.4042716,
+          23.7929921
+        ]
+      },
+      "properties": {
+        "name": "Nordic Hotels",
+        "tourism": "hotel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Narayanganj"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.4030234,
+          23.790818
+        ]
+      },
+      "properties": {
+        "name": "Platinum Suites",
+        "tourism": "hotel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Narayanganj"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.4035839,
+          23.7907619
+        ]
+      },
+      "properties": {
+        "name": "Platinum Grande",
+        "tourism": "hotel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Narayanganj"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.4005182,
+          23.7943414
+        ]
+      },
+      "properties": {
+        "name": "Banyan Tree",
+        "tourism": "",
+        "historic": "",
+        "natural": "tree",
+        "amenity": "",
+        "district": "Narayanganj"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.4002279,
+          23.7150638
+        ]
+      },
+      "properties": {
+        "name": "Payra Chattar",
+        "tourism": "",
+        "historic": "memorial",
+        "natural": "",
+        "amenity": "",
+        "district": "Narayanganj"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.40395,
+          23.7248409
+        ]
+      },
+      "properties": {
+        "name": "আবুল খায়ের ভবন",
+        "tourism": "apartment",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Narayanganj"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.466302,
+          23.5109172
+        ]
+      },
+      "properties": {
+        "name": "Central Upazila Shahid Minar",
+        "tourism": "",
+        "historic": "monument",
+        "natural": "",
+        "amenity": "",
+        "district": "Narayanganj"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.4247624,
+          23.770934
+        ]
+      },
+      "properties": {
+        "name": "Hotel Mohona Residential",
+        "tourism": "hotel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Narayanganj"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.4074358,
+          23.7261474
+        ]
+      },
+      "properties": {
+        "name": "Bibi Mariam Cannon",
+        "tourism": "",
+        "historic": "cannon",
+        "natural": "",
+        "amenity": "",
+        "district": "Narayanganj"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.4309801,
+          23.7880878
+        ]
+      },
+      "properties": {
+        "name": "bellal timber traders",
+        "tourism": "",
+        "historic": "",
+        "natural": "wood",
+        "amenity": "",
+        "district": "Narayanganj"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.4816291,
+          23.7208289
+        ]
+      },
+      "properties": {
+        "name": "কড়ই গাছ",
+        "tourism": "",
+        "historic": "",
+        "natural": "tree",
+        "amenity": "",
+        "district": "Narayanganj"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.4799049,
+          23.7276376
+        ]
+      },
+      "properties": {
+        "name": "আম গাছ",
+        "tourism": "",
+        "historic": "",
+        "natural": "tree",
+        "amenity": "",
+        "district": "Narayanganj"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.4797008,
+          23.7275535
+        ]
+      },
+      "properties": {
+        "name": "কৃষ্ণচূড়া",
+        "tourism": "",
+        "historic": "",
+        "natural": "tree",
+        "amenity": "",
+        "district": "Narayanganj"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.4009176,
+          23.7368285
+        ]
+      },
+      "properties": {
+        "name": "ক্ষণিকের মিলন",
+        "tourism": "",
+        "historic": "",
+        "natural": "tree",
+        "amenity": "",
+        "district": "Narayanganj"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.4025092,
+          23.7244439
+        ]
+      },
+      "properties": {
+        "name": "নিমতলী দেউড়ী",
+        "tourism": "",
+        "historic": "archaeological_site",
+        "natural": "",
+        "amenity": "",
+        "district": "Narayanganj"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.4689996,
+          23.5317183
+        ]
+      },
+      "properties": {
+        "name": "Nateswar Deul",
+        "tourism": "",
+        "historic": "ruins",
+        "natural": "",
+        "amenity": "",
+        "district": "Narayanganj"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.4061502,
+          23.7085536
+        ]
+      },
+      "properties": {
+        "name": "Ahsan Manzil",
+        "tourism": "attraction",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Narayanganj"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.4156633,
+          23.7330855
+        ]
+      },
+      "properties": {
+        "name": "Hotel Provas Ltd",
+        "tourism": "hotel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Narayanganj"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.4152474,
+          23.7330511
+        ]
+      },
+      "properties": {
+        "name": "Hotel Baksi",
+        "tourism": "hotel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Narayanganj"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.4149795,
+          23.731972
+        ]
+      },
+      "properties": {
+        "name": "Hotel Plaza Inn",
+        "tourism": "hotel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Narayanganj"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.4164101,
+          23.7311632
+        ]
+      },
+      "properties": {
+        "name": "Hotel Melody",
+        "tourism": "hotel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Narayanganj"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.4161628,
+          23.7305151
+        ]
+      },
+      "properties": {
+        "name": "Hotel Al Raj",
+        "tourism": "hotel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Narayanganj"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.4164145,
+          23.7310606
+        ]
+      },
+      "properties": {
+        "name": "Hotel Moon",
+        "tourism": "hotel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Narayanganj"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.4161116,
+          23.7304835
+        ]
+      },
+      "properties": {
+        "name": "Hotel D Badsha & Restaurant",
+        "tourism": "hotel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Narayanganj"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.4174452,
+          23.7347455
+        ]
+      },
+      "properties": {
+        "name": "Hotel Ashor",
+        "tourism": "hotel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Narayanganj"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.4175871,
+          23.7346428
+        ]
+      },
+      "properties": {
+        "name": "New Mitali Abasik Hotel",
+        "tourism": "hotel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Narayanganj"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.4177421,
+          23.7345514
+        ]
+      },
+      "properties": {
+        "name": "Hotel Ideal",
+        "tourism": "hotel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Narayanganj"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.4160717,
+          23.7311138
+        ]
+      },
+      "properties": {
+        "name": "Hotel De Rahmania",
+        "tourism": "hotel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Narayanganj"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.4173153,
+          23.734807
+        ]
+      },
+      "properties": {
+        "name": "South Pacific Hotel Ltd",
+        "tourism": "hotel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Narayanganj"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.4157376,
+          23.7313774
+        ]
+      },
+      "properties": {
+        "name": "Hotel Upaban International",
+        "tourism": "hotel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Narayanganj"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.4166475,
+          23.7309248
+        ]
+      },
+      "properties": {
+        "name": "Hotel Upokul",
+        "tourism": "hotel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Narayanganj"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.4173776,
+          23.7347584
+        ]
+      },
+      "properties": {
+        "name": "Hotel Parabat",
+        "tourism": "hotel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Narayanganj"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.4171138,
+          23.7307203
+        ]
+      },
+      "properties": {
+        "name": "Hotel Al Shams",
+        "tourism": "hotel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Narayanganj"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.4177201,
+          23.7345782
+        ]
+      },
+      "properties": {
+        "name": "Hotel Moon International",
+        "tourism": "hotel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Narayanganj"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.4175586,
+          23.734662
+        ]
+      },
+      "properties": {
+        "name": "Hotel Baitul Quarar",
+        "tourism": "hotel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Narayanganj"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.4181161,
+          23.7342506
+        ]
+      },
+      "properties": {
+        "name": "Hotel Jonaki",
+        "tourism": "hotel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Narayanganj"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.4179525,
+          23.7343684
+        ]
+      },
+      "properties": {
+        "name": "Hotel Eastern",
+        "tourism": "hotel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Narayanganj"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.4180641,
+          23.7342788
+        ]
+      },
+      "properties": {
+        "name": "Dosti Hotel",
+        "tourism": "hotel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Narayanganj"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.4197697,
+          23.7325987
+        ]
+      },
+      "properties": {
+        "name": "Prince Garden Hotel",
+        "tourism": "hotel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Narayanganj"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.4247653,
+          23.764823
+        ]
+      },
+      "properties": {
+        "name": "Banasree Tower",
+        "tourism": "apartment",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Narayanganj"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.4192264,
+          23.7392341
+        ]
+      },
+      "properties": {
+        "name": "Liberation War Museum of Bangladesh Police",
+        "tourism": "museum",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Narayanganj"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.4155751,
+          23.7434343
+        ]
+      },
+      "properties": {
+        "name": "Proshanti Heights",
+        "tourism": "apartment",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Narayanganj"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.4067909,
+          23.733178
+        ]
+      },
+      "properties": {
+        "name": "Tanaka Tower (তানাকা টাওয়ার)",
+        "tourism": "apartment",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Narayanganj"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.41217,
+          23.7470091
+        ]
+      },
+      "properties": {
+        "name": "Siraj Garden",
+        "tourism": "apartment",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Narayanganj"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.4914854,
+          23.6764086
+        ]
+      },
+      "properties": {
+        "name": "Khal Par Vhuigar",
+        "tourism": "guest_house",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Narayanganj"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.4805504,
+          23.7270797
+        ]
+      },
+      "properties": {
+        "name": "কৃষ্ণচূড়া",
+        "tourism": "",
+        "historic": "",
+        "natural": "tree",
+        "amenity": "public_bath",
+        "district": "Narayanganj"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.4810997,
+          23.7249316
+        ]
+      },
+      "properties": {
+        "name": "কড়ই",
+        "tourism": "",
+        "historic": "",
+        "natural": "tree",
+        "amenity": "",
+        "district": "Narayanganj"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.4815318,
+          23.7211258
+        ]
+      },
+      "properties": {
+        "name": "কড়ই গাছ",
+        "tourism": "",
+        "historic": "",
+        "natural": "tree",
+        "amenity": "",
+        "district": "Narayanganj"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.4815036,
+          23.7208973
+        ]
+      },
+      "properties": {
+        "name": "কড়ই গাছ",
+        "tourism": "",
+        "historic": "",
+        "natural": "tree",
+        "amenity": "",
+        "district": "Narayanganj"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.4815159,
+          23.7211942
+        ]
+      },
+      "properties": {
+        "name": "কড়ই গাছ",
+        "tourism": "",
+        "historic": "",
+        "natural": "tree",
+        "amenity": "",
+        "district": "Narayanganj"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.4289444,
+          23.7594124
+        ]
+      },
+      "properties": {
+        "name": "DLI Aziz Garden",
+        "tourism": "apartment",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Narayanganj"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.4178855,
+          23.7815169
+        ]
+      },
+      "properties": {
+        "name": "Fairmount",
+        "tourism": "hotel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Narayanganj"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.4243838,
+          23.7918851
+        ]
+      },
+      "properties": {
+        "name": "Hotel In Need near US Embassy Dhaka",
+        "tourism": "hotel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Narayanganj"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.4334485,
+          23.760095
+        ]
+      },
+      "properties": {
+        "name": "Pitch Park - পিচ পার্ক",
+        "tourism": "apartment",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Narayanganj"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.4455758,
+          23.7624028
+        ]
+      },
+      "properties": {
+        "name": "House No. 08",
+        "tourism": "apartment",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Narayanganj"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.4455588,
+          23.7624146
+        ]
+      },
+      "properties": {
+        "name": "House No. 7",
+        "tourism": "apartment",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Narayanganj"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.4041222,
+          23.6781818
+        ]
+      },
+      "properties": {
+        "name": "Mayer Dowa food hotel, Keraniganj",
+        "tourism": "hotel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Narayanganj"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.4340414,
+          23.7097406
+        ]
+      },
+      "properties": {
+        "name": "Rashidia Hotel, Shahid Faroque Rd, Dhaka",
+        "tourism": "hotel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Narayanganj"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.4335571,
+          23.7099512
+        ]
+      },
+      "properties": {
+        "name": "Bismillah Hotel & Restaurant, Sahid Faruk Road, North Jatrabari, Dhaka",
+        "tourism": "hotel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Narayanganj"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.4349861,
+          23.7083475
+        ]
+      },
+      "properties": {
+        "name": "Hotel Rongdhanu Residential, Dhaka - Mawa Highway, South Jatarabari, Dhaka",
+        "tourism": "hotel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Narayanganj"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.4087138,
+          23.7144881
+        ]
+      },
+      "properties": {
+        "name": "Naya Bazaar, Historical landmark, Dholaikhal Rd, Dhaka",
+        "tourism": "",
+        "historic": "pillory",
+        "natural": "",
+        "amenity": "",
+        "district": "Narayanganj"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.4042621,
+          23.7136903
+        ]
+      },
+      "properties": {
+        "name": "Fitnation Gym Armanitola, South Bangla bank building, K.P Koilash Ghosh lane, Dhaka",
+        "tourism": "attraction",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Narayanganj"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.4230901,
+          23.7158877
+        ]
+      },
+      "properties": {
+        "name": "Tasmery Group Limited, Company, Swamibagh Rd, Dhaka",
+        "tourism": "camp_site",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Narayanganj"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.4170222,
+          23.7217849
+        ]
+      },
+      "properties": {
+        "name": "Modern Herbal Group, Joykali Mondir, Dhaka - Sylhet Hwy, Dhaka",
+        "tourism": "camp_site",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Narayanganj"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.4161966,
+          23.7218156
+        ]
+      },
+      "properties": {
+        "name": "Hotel Desh Bangla (Residential) ~ Kaptan Bazar, Kaptan Bazar Road, Joykali Mandir Road, Dhaka",
+        "tourism": "hotel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Narayanganj"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.4017694,
+          23.7233646
+        ]
+      },
+      "properties": {
+        "name": "Hotel Sufia Limited, Nawab Katra Rd, Dhaka",
+        "tourism": "hotel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Narayanganj"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.4011689,
+          23.7683963
+        ]
+      },
+      "properties": {
+        "name": "Hussain Group of Industries",
+        "tourism": "camp_site",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Narayanganj"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.4037431,
+          23.736379
+        ]
+      },
+      "properties": {
+        "name": "Shyamlima Gate of Ramna Park",
+        "tourism": "",
+        "historic": "castle",
+        "natural": "",
+        "amenity": "",
+        "district": "Narayanganj"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.4036531,
+          23.7286857
+        ]
+      },
+      "properties": {
+        "name": "Old High Court Gate, Historical landmark",
+        "tourism": "museum",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Narayanganj"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.4082202,
+          23.741872
+        ]
+      },
+      "properties": {
+        "name": "Kormojibi Mohila Hostel",
+        "tourism": "hostel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Narayanganj"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.4034222,
+          23.79085
+        ]
+      },
+      "properties": {
+        "name": "PLATINUM GRAND",
+        "tourism": "hotel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Narayanganj"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.4035987,
+          23.793006
+        ]
+      },
+      "properties": {
+        "name": "Hotel The Cox Today",
+        "tourism": "hotel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Narayanganj"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.4037489,
+          23.7930919
+        ]
+      },
+      "properties": {
+        "name": "Grand Sylhet Hotel & Resort",
+        "tourism": "hotel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Narayanganj"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.4043398,
+          23.74868
+        ]
+      },
+      "properties": {
+        "name": "Hotel Rose Garden Abasik",
+        "tourism": "hotel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Narayanganj"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.4250187,
+          23.7343844
+        ]
+      },
+      "properties": {
+        "name": "Railway Rest House, Guest house",
+        "tourism": "guest_house",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Narayanganj"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.4007206,
+          23.7940947
+        ]
+      },
+      "properties": {
+        "name": "Hotel Purobi Fresh International",
+        "tourism": "hotel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Narayanganj"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.4799593,
+          23.7268266
+        ]
+      },
+      "properties": {
+        "name": "কৃষ্ণচূড়া",
+        "tourism": "",
+        "historic": "",
+        "natural": "tree",
+        "amenity": "",
+        "district": "Narayanganj"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.4794872,
+          23.7285895
+        ]
+      },
+      "properties": {
+        "name": "তেঁতুল",
+        "tourism": "",
+        "historic": "",
+        "natural": "tree",
+        "amenity": "",
+        "district": "Narayanganj"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.4045762,
+          23.7971154
+        ]
+      },
+      "properties": {
+        "name": "Royal Park Residence Hotel",
+        "tourism": "hotel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Narayanganj"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.4027876,
+          23.798978
+        ]
+      },
+      "properties": {
+        "name": "Neha Thai Spa",
+        "tourism": "information",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Narayanganj"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.4011556,
+          23.7288565
+        ]
+      },
+      "properties": {
+        "name": "Duronto",
+        "tourism": "artwork",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Narayanganj"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.6015743,
+          23.6486423
+        ]
+      },
+      "properties": {
+        "name": "Zainul Folk Arts & Crafts Museum , Narayangonj",
+        "tourism": "museum",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Narayanganj"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.4092857,
+          23.705892
+        ]
+      },
+      "properties": {
+        "name": "BIWTA Dhaka River Port, Sadarghat",
+        "tourism": "",
+        "historic": "",
+        "natural": "beach",
+        "amenity": "",
+        "district": "Narayanganj"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.5015877,
+          23.6017433
+        ]
+      },
+      "properties": {
+        "name": "শহীদ বাপ্পী চত্বর",
+        "tourism": "artwork",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Narayanganj"
+      }
+    }
+  ]
+}

@@ -1,0 +1,131 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.9568034,
+          23.0878344
+        ]
+      },
+      "properties": {
+        "name": "Alutila Tourist Spot - আলুটিলা পর্যটন কেন্দ্র",
+        "tourism": "yes",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Khagrachhari"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.9569215,
+          23.0879973
+        ]
+      },
+      "properties": {
+        "name": "Alutila Cave Passenger Camp",
+        "tourism": "yes",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Khagrachhari"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.956624,
+          23.0891694
+        ]
+      },
+      "properties": {
+        "name": "Alutila Cave আলুটিলা গুহা",
+        "tourism": "yes",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Khagrachhari"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.9621886,
+          23.1005298
+        ]
+      },
+      "properties": {
+        "name": "রিসাং ঝর্না",
+        "tourism": "yes",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Khagrachhari"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.9788175,
+          23.1011792
+        ]
+      },
+      "properties": {
+        "name": "Khagrachari Tourism Centre খাগড়াছড়ি পর্যটন কেন্দ্র",
+        "tourism": "yes",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Khagrachhari"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.0672798,
+          23.251699
+        ]
+      },
+      "properties": {
+        "name": "Sa & Ja Banglo",
+        "tourism": "hotel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Khagrachhari"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.9904911,
+          23.0966445
+        ]
+      },
+      "properties": {
+        "name": "নিউজিল্যান্ড পাড়া",
+        "tourism": "attraction",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Khagrachhari"
+      }
+    }
+  ]
+}

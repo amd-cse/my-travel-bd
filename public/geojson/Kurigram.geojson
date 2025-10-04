@@ -1,0 +1,167 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.6381226,
+          25.8008519
+        ]
+      },
+      "properties": {
+        "name": "BGB camp",
+        "tourism": "camp_site",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Kurigram"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.6409222,
+          25.8125807
+        ]
+      },
+      "properties": {
+        "name": "Modhur More",
+        "tourism": "",
+        "historic": "monument",
+        "natural": "",
+        "amenity": "",
+        "district": "Kurigram"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.6483734,
+          25.8132259
+        ]
+      },
+      "properties": {
+        "name": "Dada More",
+        "tourism": "",
+        "historic": "monument",
+        "natural": "",
+        "amenity": "",
+        "district": "Kurigram"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.650004,
+          25.8172591
+        ]
+      },
+      "properties": {
+        "name": "Mita Rest House মিতা বিশ্রাম হাউস",
+        "tourism": "hotel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Kurigram"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.6917544,
+          25.9654683
+        ]
+      },
+      "properties": {
+        "name": "স্মৃতি রেস্ট হাউজ",
+        "tourism": "hotel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Kurigram"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.6078744,
+          25.7829893
+        ]
+      },
+      "properties": {
+        "name": "apurba sarker Home",
+        "tourism": "guest_house",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Kurigram"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.8756769,
+          25.6079493
+        ]
+      },
+      "properties": {
+        "name": "বিজিবি ক্যাম্প",
+        "tourism": "camp_site",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Kurigram"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.8533717,
+          25.6549991
+        ]
+      },
+      "properties": {
+        "name": "kachari mather mango tree",
+        "tourism": "",
+        "historic": "",
+        "natural": "tree",
+        "amenity": "",
+        "district": "Kurigram"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.6584468,
+          25.6425135
+        ]
+      },
+      "properties": {
+        "name": "Shaheed Minar",
+        "tourism": "",
+        "historic": "monument",
+        "natural": "",
+        "amenity": "",
+        "district": "Kurigram"
+      }
+    }
+  ]
+}

@@ -34,7 +34,7 @@ export default function TripDetail({ trip }: TripProps) {
                     </Link>
                 </div>
             </div>
-            <div className="bg-blue-300 p-6 shadow-md shadow-blue-100 rounded-lg">
+            <div className="bg-teal-200 p-6 shadow-md shadow-blue-100 rounded-lg">
                 <Tabs value={activeTab} onValueChange={setActiveTab}>
                     <TabsList className="mb-6">
                         <TabsTrigger value='overview' className='text-lg'>Overview</TabsTrigger>

@@ -1,0 +1,257 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.7472581,
+          24.2953134
+        ]
+      },
+      "properties": {
+        "name": "Tea Research Institute Guest House",
+        "tourism": "guest_house",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Moulvibazar"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.9984348,
+          24.31855
+        ]
+      },
+      "properties": {
+        "name": "Sri Krishna Hotel",
+        "tourism": "guest_house",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Moulvibazar"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.620547,
+          24.4255118
+        ]
+      },
+      "properties": {
+        "name": "Hazrat Shah Sadruddin Qureshi (RAH)",
+        "tourism": "",
+        "historic": "tomb",
+        "natural": "",
+        "amenity": "",
+        "district": "Moulvibazar"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.7252512,
+          24.3094064
+        ]
+      },
+      "properties": {
+        "name": "Sreemangal Guest House",
+        "tourism": "guest_house",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Moulvibazar"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.7413055,
+          24.3039414
+        ]
+      },
+      "properties": {
+        "name": "Mass killing ground 71",
+        "tourism": "",
+        "historic": "memorial",
+        "natural": "",
+        "amenity": "",
+        "district": "Moulvibazar"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.6776948,
+          24.6264325
+        ]
+      },
+      "properties": {
+        "name": "মুক্তিযোদ্ধা চত্তর",
+        "tourism": "",
+        "historic": "memorial",
+        "natural": "",
+        "amenity": "",
+        "district": "Moulvibazar"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.7231671,
+          24.3150205
+        ]
+      },
+      "properties": {
+        "name": "Zoo - Sitesh Ranjan Deb (Wildlife Conservationist)",
+        "tourism": "zoo",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Moulvibazar"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.620549,
+          24.4255106
+        ]
+      },
+      "properties": {
+        "name": "Hazrat Shah Badruddin Qureshi (RAH)",
+        "tourism": "",
+        "historic": "tomb",
+        "natural": "",
+        "amenity": "",
+        "district": "Moulvibazar"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.7619282,
+          24.489816
+        ]
+      },
+      "properties": {
+        "name": "Rest Inn Hotel",
+        "tourism": "hotel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Moulvibazar"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.7395171,
+          24.291892
+        ]
+      },
+      "properties": {
+        "name": "Noor Villa",
+        "tourism": "hotel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Moulvibazar"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.8227584,
+          24.2099588
+        ]
+      },
+      "properties": {
+        "name": "Bir Shrestho Hamidur Rahman Monument",
+        "tourism": "",
+        "historic": "monument",
+        "natural": "",
+        "amenity": "",
+        "district": "Moulvibazar"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.7643255,
+          24.301785
+        ]
+      },
+      "properties": {
+        "name": "গ্রান্ড সুলতান টি রিসোর্ট এন্ড গলফ ক্লাব",
+        "tourism": "hotel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Moulvibazar"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.7600707,
+          24.3018981
+        ]
+      },
+      "properties": {
+        "name": "শ্রীমঙ্গল টি রিসোর্ট এন্ড মিউজিয়াম",
+        "tourism": "hotel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Moulvibazar"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.824223,
+          24.337482
+        ]
+      },
+      "properties": {
+        "name": "HEED BD Guest House",
+        "tourism": "guest_house",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Moulvibazar"
+      }
+    }
+  ]
+}

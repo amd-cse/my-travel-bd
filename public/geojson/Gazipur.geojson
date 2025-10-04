@@ -1,0 +1,2075 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.4085878,
+          23.8021166
+        ]
+      },
+      "properties": {
+        "name": "হোটেল লেক ক্যাসেল",
+        "tourism": "hotel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Gazipur"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.3455833,
+          23.8157465
+        ]
+      },
+      "properties": {
+        "name": "Snakes",
+        "tourism": "attraction",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Gazipur"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.3437505,
+          23.8114842
+        ]
+      },
+      "properties": {
+        "name": "Guinea Pig",
+        "tourism": "attraction",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Gazipur"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.3453036,
+          23.8126025
+        ]
+      },
+      "properties": {
+        "name": "Greater Flamingo",
+        "tourism": "attraction",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Gazipur"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.3464461,
+          23.8141694
+        ]
+      },
+      "properties": {
+        "name": "Oriental Pied Hornbill Cage",
+        "tourism": "attraction",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Gazipur"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.3440451,
+          23.8143732
+        ]
+      },
+      "properties": {
+        "name": "Donkey cage",
+        "tourism": "attraction",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Gazipur"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.3444468,
+          23.8145943
+        ]
+      },
+      "properties": {
+        "name": "Estuarine Crocodile cage",
+        "tourism": "attraction",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Gazipur"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.3464659,
+          23.8125662
+        ]
+      },
+      "properties": {
+        "name": "বানরের খাঁচা",
+        "tourism": "attraction",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Gazipur"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.3473446,
+          23.815822
+        ]
+      },
+      "properties": {
+        "name": "রয়েল বেঙ্গল বাঘের খাচা",
+        "tourism": "attraction",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Gazipur"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.3471571,
+          23.8148748
+        ]
+      },
+      "properties": {
+        "name": "Samber Deer Cage",
+        "tourism": "attraction",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Gazipur"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.3439808,
+          23.8121333
+        ]
+      },
+      "properties": {
+        "name": "ভোদড় খাঁচা",
+        "tourism": "attraction",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Gazipur"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.3460093,
+          23.8159713
+        ]
+      },
+      "properties": {
+        "name": "Baboons",
+        "tourism": "attraction",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Gazipur"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.3464161,
+          23.8139566
+        ]
+      },
+      "properties": {
+        "name": "Lesser Adjutant Cage",
+        "tourism": "attraction",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Gazipur"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.342373,
+          23.811343
+        ]
+      },
+      "properties": {
+        "name": "Orix Cage",
+        "tourism": "attraction",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Gazipur"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.345183,
+          23.8158017
+        ]
+      },
+      "properties": {
+        "name": "Peafowl Cage",
+        "tourism": "attraction",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Gazipur"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.3466219,
+          23.8141635
+        ]
+      },
+      "properties": {
+        "name": "Black Necked Stork Cage",
+        "tourism": "attraction",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Gazipur"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.2576092,
+          23.84621
+        ]
+      },
+      "properties": {
+        "name": "Rana Plaza (Collapsed)",
+        "tourism": "",
+        "historic": "ruins",
+        "natural": "",
+        "amenity": "",
+        "district": "Gazipur"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.2706049,
+          23.8796858
+        ]
+      },
+      "properties": {
+        "name": "Amar Ekushey",
+        "tourism": "",
+        "historic": "monument",
+        "natural": "",
+        "amenity": "",
+        "district": "Gazipur"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.2682913,
+          23.8798203
+        ]
+      },
+      "properties": {
+        "name": "Jahangirnagar University Shaheed Minar",
+        "tourism": "",
+        "historic": "monument",
+        "natural": "",
+        "amenity": "",
+        "district": "Gazipur"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.4180812,
+          23.8065333
+        ]
+      },
+      "properties": {
+        "name": "La Villa",
+        "tourism": "hotel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Gazipur"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.4179539,
+          23.8364188
+        ]
+      },
+      "properties": {
+        "name": "Le Meridien Dhaka",
+        "tourism": "hotel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Gazipur"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.2611194,
+          23.8578755
+        ]
+      },
+      "properties": {
+        "name": "YMCA Training Centre",
+        "tourism": "guest_house",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Gazipur"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.3786704,
+          23.802536
+        ]
+      },
+      "properties": {
+        "name": "Tripti Niloy",
+        "tourism": "hotel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Gazipur"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.3730367,
+          23.8092644
+        ]
+      },
+      "properties": {
+        "name": "Shaheed Minar",
+        "tourism": "",
+        "historic": "memorial",
+        "natural": "",
+        "amenity": "",
+        "district": "Gazipur"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.2677759,
+          23.8810978
+        ]
+      },
+      "properties": {
+        "name": "Kobir Soroni",
+        "tourism": "",
+        "historic": "memorial",
+        "natural": "",
+        "amenity": "",
+        "district": "Gazipur"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.271628,
+          23.8808694
+        ]
+      },
+      "properties": {
+        "name": "Tarzan Point",
+        "tourism": "",
+        "historic": "",
+        "natural": "tree",
+        "amenity": "restaurant",
+        "district": "Gazipur"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.4037371,
+          23.8725313
+        ]
+      },
+      "properties": {
+        "name": "Hotel Milina",
+        "tourism": "hotel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Gazipur"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.4004827,
+          23.8592733
+        ]
+      },
+      "properties": {
+        "name": "Richmont hotel",
+        "tourism": "hotel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Gazipur"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.3718215,
+          23.8147238
+        ]
+      },
+      "properties": {
+        "name": "Shimanto's House",
+        "tourism": "guest_house",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Gazipur"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.2894833,
+          23.9291939
+        ]
+      },
+      "properties": {
+        "name": "Y a ripon",
+        "tourism": "guest_house",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Gazipur"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.4025408,
+          23.8293369
+        ]
+      },
+      "properties": {
+        "name": "Indoor Games Room (Girls)",
+        "tourism": "",
+        "historic": "",
+        "natural": "tree",
+        "amenity": "",
+        "district": "Gazipur"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.3681201,
+          23.8095357
+        ]
+      },
+      "properties": {
+        "name": "Popular Diagnostic Center Ltd Unit-2",
+        "tourism": "hostel",
+        "historic": "",
+        "natural": "",
+        "amenity": "hospital",
+        "district": "Gazipur"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.3818024,
+          23.9894901
+        ]
+      },
+      "properties": {
+        "name": "অর্জিত স্বাধীনতা",
+        "tourism": "",
+        "historic": "memorial",
+        "natural": "",
+        "amenity": "",
+        "district": "Gazipur"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.2994377,
+          23.8500906
+        ]
+      },
+      "properties": {
+        "name": "Raj koroi tree",
+        "tourism": "",
+        "historic": "",
+        "natural": "tree",
+        "amenity": "",
+        "district": "Gazipur"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.2978676,
+          23.8504559
+        ]
+      },
+      "properties": {
+        "name": "Polash flower tree",
+        "tourism": "",
+        "historic": "",
+        "natural": "tree",
+        "amenity": "",
+        "district": "Gazipur"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.2933402,
+          23.8502361
+        ]
+      },
+      "properties": {
+        "name": "Mango tree",
+        "tourism": "",
+        "historic": "",
+        "natural": "tree",
+        "amenity": "",
+        "district": "Gazipur"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.293355,
+          23.8503172
+        ]
+      },
+      "properties": {
+        "name": "Mango tree",
+        "tourism": "",
+        "historic": "",
+        "natural": "tree",
+        "amenity": "",
+        "district": "Gazipur"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.2933604,
+          23.8503479
+        ]
+      },
+      "properties": {
+        "name": "Jackfruit tree",
+        "tourism": "",
+        "historic": "",
+        "natural": "tree",
+        "amenity": "",
+        "district": "Gazipur"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.2932088,
+          23.8504681
+        ]
+      },
+      "properties": {
+        "name": "Mango tree",
+        "tourism": "",
+        "historic": "",
+        "natural": "tree",
+        "amenity": "",
+        "district": "Gazipur"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.2932061,
+          23.8504975
+        ]
+      },
+      "properties": {
+        "name": "Mango tree",
+        "tourism": "",
+        "historic": "",
+        "natural": "tree",
+        "amenity": "",
+        "district": "Gazipur"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.3686516,
+          23.8070772
+        ]
+      },
+      "properties": {
+        "name": "১০ নম্বর গোল চক্কর",
+        "tourism": "attraction",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Gazipur"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.3934358,
+          23.8225732
+        ]
+      },
+      "properties": {
+        "name": "ECB Chottor",
+        "tourism": "",
+        "historic": "monument",
+        "natural": "",
+        "amenity": "",
+        "district": "Gazipur"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.257073,
+          23.8472632
+        ]
+      },
+      "properties": {
+        "name": "Savar Internation",
+        "tourism": "hotel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Gazipur"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.2613665,
+          23.8577239
+        ]
+      },
+      "properties": {
+        "name": "Robin ar Hotel রবিনের হোটেল",
+        "tourism": "hotel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Gazipur"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.2682651,
+          23.868129
+        ]
+      },
+      "properties": {
+        "name": "Officer's club",
+        "tourism": "guest_house",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Gazipur"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.2639234,
+          23.924459
+        ]
+      },
+      "properties": {
+        "name": "Valcan Hall",
+        "tourism": "guest_house",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Gazipur"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.4010026,
+          23.8776441
+        ]
+      },
+      "properties": {
+        "name": "Grand Dhaka Hotel",
+        "tourism": "hotel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Gazipur"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.3466263,
+          23.8122143
+        ]
+      },
+      "properties": {
+        "name": "চিত্রা হরিণ",
+        "tourism": "attraction",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Gazipur"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.2681833,
+          23.9263269
+        ]
+      },
+      "properties": {
+        "name": "Mizan Picnic Spot",
+        "tourism": "picnic_site",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Gazipur"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.3497922,
+          23.8182736
+        ]
+      },
+      "properties": {
+        "name": "Botanical Eastern Lake View",
+        "tourism": "viewpoint",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Gazipur"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.2611117,
+          23.9453435
+        ]
+      },
+      "properties": {
+        "name": "Ruposhi Bangla Park",
+        "tourism": "theme_park",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Gazipur"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.4032884,
+          23.8023938
+        ]
+      },
+      "properties": {
+        "name": "কেন্দ্রীয় মেস",
+        "tourism": "guest_house",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Gazipur"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.4005759,
+          23.8768113
+        ]
+      },
+      "properties": {
+        "name": "Element By Westin",
+        "tourism": "hotel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Gazipur"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.3752098,
+          23.8163596
+        ]
+      },
+      "properties": {
+        "name": "DEAR",
+        "tourism": "",
+        "historic": "",
+        "natural": "cliff",
+        "amenity": "",
+        "district": "Gazipur"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.3510016,
+          23.8071476
+        ]
+      },
+      "properties": {
+        "name": "Setu Homes",
+        "tourism": "apartment",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Gazipur"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.4072506,
+          23.9918321
+        ]
+      },
+      "properties": {
+        "name": "BRRI Headquarter",
+        "tourism": "museum",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Gazipur"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.4090634,
+          23.9919332
+        ]
+      },
+      "properties": {
+        "name": "BRRI Dormitory",
+        "tourism": "motel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Gazipur"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.3997253,
+          23.8613001
+        ]
+      },
+      "properties": {
+        "name": "Second Cup Coffee Company",
+        "tourism": "hotel",
+        "historic": "",
+        "natural": "",
+        "amenity": "cafe",
+        "district": "Gazipur"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.4031384,
+          23.856103
+        ]
+      },
+      "properties": {
+        "name": "Hotel Afford Inn",
+        "tourism": "hotel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Gazipur"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.3680027,
+          23.8105746
+        ]
+      },
+      "properties": {
+        "name": "Sugandha",
+        "tourism": "apartment",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Gazipur"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.3682763,
+          23.8067613
+        ]
+      },
+      "properties": {
+        "name": "Al Baraka Hotel & Restaurant",
+        "tourism": "hotel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Gazipur"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.3731204,
+          23.8089307
+        ]
+      },
+      "properties": {
+        "name": "God's Gift",
+        "tourism": "apartment",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Gazipur"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.3683802,
+          23.8128515
+        ]
+      },
+      "properties": {
+        "name": "Fortune Height",
+        "tourism": "apartment",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Gazipur"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.2661341,
+          23.8865236
+        ]
+      },
+      "properties": {
+        "name": "মুন্নি চত্তর",
+        "tourism": "",
+        "historic": "memorial",
+        "natural": "",
+        "amenity": "",
+        "district": "Gazipur"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.2700904,
+          23.8784738
+        ]
+      },
+      "properties": {
+        "name": "সপ্তমছায়া মঞ্চ",
+        "tourism": "",
+        "historic": "memorial",
+        "natural": "",
+        "amenity": "",
+        "district": "Gazipur"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.2668766,
+          23.8797819
+        ]
+      },
+      "properties": {
+        "name": "সংসপ্তক",
+        "tourism": "",
+        "historic": "memorial",
+        "natural": "",
+        "amenity": "",
+        "district": "Gazipur"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.3709289,
+          23.8102194
+        ]
+      },
+      "properties": {
+        "name": "Sumon Mansion",
+        "tourism": "apartment",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Gazipur"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.3716443,
+          23.8103574
+        ]
+      },
+      "properties": {
+        "name": "Monowara Mantion",
+        "tourism": "apartment",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Gazipur"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.3666782,
+          23.8143799
+        ]
+      },
+      "properties": {
+        "name": "Xxx",
+        "tourism": "",
+        "historic": "monument",
+        "natural": "",
+        "amenity": "",
+        "district": "Gazipur"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.3517775,
+          23.8239264
+        ]
+      },
+      "properties": {
+        "name": "Botanical Garden Gate 4",
+        "tourism": "attraction",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Gazipur"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.2681861,
+          23.8809242
+        ]
+      },
+      "properties": {
+        "name": "Murad Chattor",
+        "tourism": "",
+        "historic": "memorial",
+        "natural": "",
+        "amenity": "",
+        "district": "Gazipur"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.4041363,
+          23.8551664
+        ]
+      },
+      "properties": {
+        "name": "Best Western Plus Maple Leaf",
+        "tourism": "hotel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Gazipur"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.3554174,
+          23.8540851
+        ]
+      },
+      "properties": {
+        "name": "Chameli (11C, 11D)",
+        "tourism": "apartment",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Gazipur"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.354677,
+          23.8535267
+        ]
+      },
+      "properties": {
+        "name": "RUAP Surma Building 11HI",
+        "tourism": "apartment",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Gazipur"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.3562703,
+          23.8533786
+        ]
+      },
+      "properties": {
+        "name": "Kopotakkho (9A, 9B, 9C, 9D)",
+        "tourism": "apartment",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Gazipur"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.3560987,
+          23.8536632
+        ]
+      },
+      "properties": {
+        "name": "Tower B - Kopotakkho",
+        "tourism": "apartment",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Gazipur"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.3561684,
+          23.8524121
+        ]
+      },
+      "properties": {
+        "name": "Korotoa(10A, 10B, 10C, 10D)",
+        "tourism": "apartment",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Gazipur"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.3545156,
+          23.8534791
+        ]
+      },
+      "properties": {
+        "name": "Surma(11H, 11I)",
+        "tourism": "apartment",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Gazipur"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.2681668,
+          23.8963447
+        ]
+      },
+      "properties": {
+        "name": "4th Staff Quater",
+        "tourism": "guest_house",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Gazipur"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.3682777,
+          23.8066186
+        ]
+      },
+      "properties": {
+        "name": "Janani IT center;Hotel Roze",
+        "tourism": "hotel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Gazipur"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.3683502,
+          23.8066585
+        ]
+      },
+      "properties": {
+        "name": "Swiden abashik",
+        "tourism": "hotel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Gazipur"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.3866423,
+          23.8543181
+        ]
+      },
+      "properties": {
+        "name": "Saidur Art",
+        "tourism": "artwork",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Gazipur"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.3567101,
+          23.8561712
+        ]
+      },
+      "properties": {
+        "name": "ইছামতি",
+        "tourism": "apartment",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Gazipur"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.3564519,
+          23.855846
+        ]
+      },
+      "properties": {
+        "name": "7A",
+        "tourism": "apartment",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Gazipur"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.3917808,
+          23.8249227
+        ]
+      },
+      "properties": {
+        "name": "ছায়া পল্লী আবাসিক এলাকা",
+        "tourism": "apartment",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Gazipur"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.489589,
+          23.8148204
+        ]
+      },
+      "properties": {
+        "name": "Nice Cottage",
+        "tourism": "chalet",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Gazipur"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.3573552,
+          23.8009841
+        ]
+      },
+      "properties": {
+        "name": "হোটেল শিকদার আবাসিক",
+        "tourism": "hotel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Gazipur"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.2683837,
+          23.8857985
+        ]
+      },
+      "properties": {
+        "name": "Migratory Bird Lake 2",
+        "tourism": "",
+        "historic": "",
+        "natural": "wetland",
+        "amenity": "",
+        "district": "Gazipur"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.3682427,
+          23.8068148
+        ]
+      },
+      "properties": {
+        "name": "Hotel New Rose Heaven",
+        "tourism": "hotel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Gazipur"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.3681302,
+          23.8067567
+        ]
+      },
+      "properties": {
+        "name": "Hotel Dhaka Palace",
+        "tourism": "hotel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Gazipur"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.3667661,
+          23.8065272
+        ]
+      },
+      "properties": {
+        "name": "Singapore Residential Hotel",
+        "tourism": "hotel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Gazipur"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.3665513,
+          23.8064541
+        ]
+      },
+      "properties": {
+        "name": "Hotel Novena Dhaka (Residence)",
+        "tourism": "hotel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Gazipur"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.3653297,
+          23.8059464
+        ]
+      },
+      "properties": {
+        "name": "Hotel Prime Inn",
+        "tourism": "hotel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Gazipur"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.3528807,
+          23.8063089
+        ]
+      },
+      "properties": {
+        "name": "Collegiate Chatro Hostel",
+        "tourism": "hostel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Gazipur"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.3551714,
+          23.807053
+        ]
+      },
+      "properties": {
+        "name": "Super Hostel",
+        "tourism": "hostel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Gazipur"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.3687463,
+          23.8062049
+        ]
+      },
+      "properties": {
+        "name": "Hotel Boishakhi Abashik",
+        "tourism": "hotel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Gazipur"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.4005365,
+          23.8757551
+        ]
+      },
+      "properties": {
+        "name": "Hotel Nice Look International",
+        "tourism": "hotel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Gazipur"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.3994451,
+          23.8946094
+        ]
+      },
+      "properties": {
+        "name": "Aman Group, Warehouse",
+        "tourism": "camp_site",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Gazipur"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.3963005,
+          23.9092985
+        ]
+      },
+      "properties": {
+        "name": "Tongi Government College Girls Hostel",
+        "tourism": "hostel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Gazipur"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.2909164,
+          23.9082804
+        ]
+      },
+      "properties": {
+        "name": "AZMAT GROUP",
+        "tourism": "camp_site",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Gazipur"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.3149175,
+          23.9122055
+        ]
+      },
+      "properties": {
+        "name": "Mamata Palli Hotel & Resort",
+        "tourism": "hostel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Gazipur"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.3894192,
+          23.9306378
+        ]
+      },
+      "properties": {
+        "name": "Tairunnesa Memorial Medical College Girls, Hostel",
+        "tourism": "hostel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Gazipur"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.3149996,
+          23.8825424
+        ]
+      },
+      "properties": {
+        "name": "Sappahire Hotel & Resort",
+        "tourism": "information",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Gazipur"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.3854815,
+          23.8950465
+        ]
+      },
+      "properties": {
+        "name": "Star Residence Hotel",
+        "tourism": "hotel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Gazipur"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.3529122,
+          23.8938736
+        ]
+      },
+      "properties": {
+        "name": "Bismillah Lane, Historical landmark",
+        "tourism": "",
+        "historic": "castle",
+        "natural": "",
+        "amenity": "",
+        "district": "Gazipur"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.3525001,
+          23.8936811
+        ]
+      },
+      "properties": {
+        "name": "Ashulia View Zone, Tourist attraction",
+        "tourism": "attraction",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Gazipur"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.3486203,
+          23.894448
+        ]
+      },
+      "properties": {
+        "name": "Turag River, Ashulia, Tourist attraction",
+        "tourism": "attraction",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Gazipur"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.3081735,
+          23.9328147
+        ]
+      },
+      "properties": {
+        "name": "Norosinhopur Bot-Tola, Historical landmark",
+        "tourism": "",
+        "historic": "castle",
+        "natural": "",
+        "amenity": "",
+        "district": "Gazipur"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.2918037,
+          23.9363503
+        ]
+      },
+      "properties": {
+        "name": "Heritage Park",
+        "tourism": "theme_park",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Gazipur"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.2638603,
+          23.9742037
+        ]
+      },
+      "properties": {
+        "name": "Shabib bhuiyan global park Alhamdulilah corporations, Historical landmark",
+        "tourism": "",
+        "historic": "castle",
+        "natural": "",
+        "amenity": "",
+        "district": "Gazipur"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.2654993,
+          23.9756997
+        ]
+      },
+      "properties": {
+        "name": "PRAASAD EPZ GOLF RESORT, Resort hotel",
+        "tourism": "hotel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Gazipur"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.27493,
+          23.8656552
+        ]
+      },
+      "properties": {
+        "name": "Savar Mini Zoo",
+        "tourism": "zoo",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Gazipur"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.2644954,
+          23.9081326
+        ]
+      },
+      "properties": {
+        "name": "Army IBA Girls Hostel 2, Hostel",
+        "tourism": "hotel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Gazipur"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.2285836,
+          23.910318
+        ]
+      },
+      "properties": {
+        "name": "Roads and Highways Rest House",
+        "tourism": "guest_house",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Gazipur"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.4028797,
+          23.8110302
+        ]
+      },
+      "properties": {
+        "name": "Hero Gate",
+        "tourism": "museum",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Gazipur"
+      }
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.7758752,
+          23.8701436
+        ]
+      },
+      "properties": {
+        "name": "Teota Jamidar Bari",
+        "tourism": "attraction",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Rajbari"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.6554123,
+          23.7367527
+        ]
+      },
+      "properties": {
+        "name": "Bir Protik",
+        "tourism": "",
+        "historic": "monument",
+        "natural": "",
+        "amenity": "",
+        "district": "Rajbari"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.644829,
+          23.7605991
+        ]
+      },
+      "properties": {
+        "name": "Main Shaheed Minar Rajbari",
+        "tourism": "",
+        "historic": "monument",
+        "natural": "",
+        "amenity": "",
+        "district": "Rajbari"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.6460607,
+          23.7589198
+        ]
+      },
+      "properties": {
+        "name": "Panna Chattar",
+        "tourism": "",
+        "historic": "memorial",
+        "natural": "",
+        "amenity": "",
+        "district": "Rajbari"
+      }
+    }
+  ]
+}

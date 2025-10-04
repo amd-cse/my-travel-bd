@@ -1,0 +1,293 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.3707372,
+          22.7065038
+        ]
+      },
+      "properties": {
+        "name": "Sedona",
+        "tourism": "hotel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Barisal"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.3698196,
+          22.7006491
+        ]
+      },
+      "properties": {
+        "name": "Arena Hotel",
+        "tourism": "hotel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Barisal"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.3703161,
+          22.6994871
+        ]
+      },
+      "properties": {
+        "name": "বরিশাল কেন্দ্রীয় শহীদ মিনার",
+        "tourism": "",
+        "historic": "monument",
+        "natural": "",
+        "amenity": "",
+        "district": "Barisal"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.3725008,
+          22.7048352
+        ]
+      },
+      "properties": {
+        "name": "হোটেল তুহিন",
+        "tourism": "hotel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Barisal"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.3727762,
+          22.7014653
+        ]
+      },
+      "properties": {
+        "name": "Barisal Divisional Museum",
+        "tourism": "museum",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Barisal"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.3302114,
+          22.762599
+        ]
+      },
+      "properties": {
+        "name": "Lakutia Zamindar Bari",
+        "tourism": "",
+        "historic": "archaeological_site",
+        "natural": "",
+        "amenity": "",
+        "district": "Barisal"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.3449833,
+          22.5394285
+        ]
+      },
+      "properties": {
+        "name": "Bakergonj Guest House",
+        "tourism": "guest_house",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Barisal"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.3385829,
+          22.5408394
+        ]
+      },
+      "properties": {
+        "name": "Bakerganj Dak Banglow",
+        "tourism": "guest_house",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Barisal"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.3606827,
+          22.6975965
+        ]
+      },
+      "properties": {
+        "name": "Polytechnical GirlsHostel pond",
+        "tourism": "hostel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Barisal"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.3624362,
+          22.6977073
+        ]
+      },
+      "properties": {
+        "name": "Polytechnical Boys Hostel",
+        "tourism": "hostel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Barisal"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.3622055,
+          22.6976974
+        ]
+      },
+      "properties": {
+        "name": "Polytechnical Boys Hostel",
+        "tourism": "hostel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Barisal"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.3703031,
+          22.6990818
+        ]
+      },
+      "properties": {
+        "name": "Barishal Guest House",
+        "tourism": "hotel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Barisal"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.3646373,
+          22.6788517
+        ]
+      },
+      "properties": {
+        "name": "বট গাছ",
+        "tourism": "",
+        "historic": "",
+        "natural": "tree",
+        "amenity": "",
+        "district": "Barisal"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.3642973,
+          22.6896588
+        ]
+      },
+      "properties": {
+        "name": "IHT boys Hostel, Barisal",
+        "tourism": "hostel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Barisal"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.3649587,
+          22.690502
+        ]
+      },
+      "properties": {
+        "name": "IHT Girl's Hostel, Barishal",
+        "tourism": "hostel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Barisal"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.3726403,
+          22.703328
+        ]
+      },
+      "properties": {
+        "name": "বেল-ইসলামিয়া হোস্টেল",
+        "tourism": "hostel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Barisal"
+      }
+    }
+  ]
+}

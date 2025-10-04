@@ -1,0 +1,149 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.2039432,
+          23.1515437
+        ]
+      },
+      "properties": {
+        "name": "Tetul Tala",
+        "tourism": "",
+        "historic": "",
+        "natural": "tree",
+        "amenity": "",
+        "district": "Jessore"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.2585596,
+          23.2762119
+        ]
+      },
+      "properties": {
+        "name": "Khajura Police & Battalion Camp খাজুরা পুলিশ এবং ব্যাটালিয়ন ক্যাম্প",
+        "tourism": "camp_pitch",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Jessore"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.2854598,
+          23.1279933
+        ]
+      },
+      "properties": {
+        "name": "Saddam Hotel সাদ্দাম হোটেল",
+        "tourism": "hotel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Jessore"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.20046,
+          23.1704088
+        ]
+      },
+      "properties": {
+        "name": "Shisu park,Jessore",
+        "tourism": "theme_park",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Jessore"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.3952804,
+          23.0328132
+        ]
+      },
+      "properties": {
+        "name": "স্মৃতিসৌধ",
+        "tourism": "",
+        "historic": "stone",
+        "natural": "",
+        "amenity": "",
+        "district": "Jessore"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.2345902,
+          23.143587
+        ]
+      },
+      "properties": {
+        "name": "Haji Mohsin Imambara",
+        "tourism": "",
+        "historic": "farm",
+        "natural": "",
+        "amenity": "",
+        "district": "Jessore"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.2334229,
+          23.1465662
+        ]
+      },
+      "properties": {
+        "name": "জোড়া শিব মন্দির",
+        "tourism": "",
+        "historic": "stone",
+        "natural": "",
+        "amenity": "",
+        "district": "Jessore"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.019657,
+          23.2638839
+        ]
+      },
+      "properties": {
+        "name": "Murtir Mor",
+        "tourism": "",
+        "historic": "monument",
+        "natural": "",
+        "amenity": "",
+        "district": "Jessore"
+      }
+    }
+  ]
+}

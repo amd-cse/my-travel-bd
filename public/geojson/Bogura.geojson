@@ -1,0 +1,1013 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.3794408,
+          24.815551
+        ]
+      },
+      "properties": {
+        "name": "Bogura Shapla Square",
+        "tourism": "",
+        "historic": "monument",
+        "natural": "",
+        "amenity": "",
+        "district": "Bogura"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.3724158,
+          24.8501673
+        ]
+      },
+      "properties": {
+        "name": "Akboria Abasik",
+        "tourism": "hotel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Bogura"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.3589599,
+          24.8465248
+        ]
+      },
+      "properties": {
+        "name": "বেগম রোকেয়া হল",
+        "tourism": "hostel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Bogura"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.3588586,
+          24.840561
+        ]
+      },
+      "properties": {
+        "name": "Joy Chattrabash",
+        "tourism": "hostel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Bogura"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.3458368,
+          24.9625401
+        ]
+      },
+      "properties": {
+        "name": "গোবিন্দ ভিটা",
+        "tourism": "attraction",
+        "historic": "archaeological_site",
+        "natural": "",
+        "amenity": "",
+        "district": "Bogura"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.3962376,
+          24.7711161
+        ]
+      },
+      "properties": {
+        "name": "Army APC Statue আর্মি এপিসি মূর্তি",
+        "tourism": "",
+        "historic": "castle",
+        "natural": "",
+        "amenity": "",
+        "district": "Bogura"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.3965008,
+          24.7619965
+        ]
+      },
+      "properties": {
+        "name": "Niribili Chhatrabash নিরিবিলি ছাত্রাবাস",
+        "tourism": "hostel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Bogura"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.3969314,
+          24.7044761
+        ]
+      },
+      "properties": {
+        "name": "Ornamental Nursery",
+        "tourism": "",
+        "historic": "",
+        "natural": "yes",
+        "amenity": "",
+        "district": "Bogura"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.4077913,
+          24.6902681
+        ]
+      },
+      "properties": {
+        "name": "Malek Hotel মালেক হোটেল",
+        "tourism": "hotel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Bogura"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.4167376,
+          24.6710519
+        ]
+      },
+      "properties": {
+        "name": "হোটেল কি নাম ( Hotel Ki Naam)",
+        "tourism": "hotel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Bogura"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.3603683,
+          24.8888842
+        ]
+      },
+      "properties": {
+        "name": "বিমান ভাস্কর্য",
+        "tourism": "",
+        "historic": "monument",
+        "natural": "",
+        "amenity": "",
+        "district": "Bogura"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.3555163,
+          24.908534
+        ]
+      },
+      "properties": {
+        "name": "TMSS Female Medical College Hostel",
+        "tourism": "hostel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Bogura"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.3532594,
+          24.9096538
+        ]
+      },
+      "properties": {
+        "name": "সাকিব ছাত্রাবাস",
+        "tourism": "hostel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Bogura"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.3532087,
+          24.9097572
+        ]
+      },
+      "properties": {
+        "name": "TTI Female Student Hostel",
+        "tourism": "hostel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Bogura"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.3487501,
+          24.9483805
+        ]
+      },
+      "properties": {
+        "name": "বিসমিল্লাহ্‌ বোডিং",
+        "tourism": "hotel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Bogura"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.3495138,
+          24.9514617
+        ]
+      },
+      "properties": {
+        "name": "মহাস্থান মিউজিয়াম পার্ক",
+        "tourism": "museum",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Bogura"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.3482021,
+          24.9505055
+        ]
+      },
+      "properties": {
+        "name": "Mohosthangor Dakbanglo",
+        "tourism": "hotel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Bogura"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.3364273,
+          24.935779
+        ]
+      },
+      "properties": {
+        "name": "গোকুল মেধ",
+        "tourism": "attraction",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Bogura"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.5806592,
+          24.8920357
+        ]
+      },
+      "properties": {
+        "name": "Bangla",
+        "tourism": "attraction",
+        "historic": "",
+        "natural": "",
+        "amenity": "ferry_terminal",
+        "district": "Bogura"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.3758031,
+          24.8225879
+        ]
+      },
+      "properties": {
+        "name": "Dokkhin Prantik Chatrabas",
+        "tourism": "hostel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Bogura"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.375767,
+          24.8221703
+        ]
+      },
+      "properties": {
+        "name": "Pranthoshala, South Hostel, Bogra Polytechnic Institute.",
+        "tourism": "hotel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Bogura"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.375799,
+          24.8230713
+        ]
+      },
+      "properties": {
+        "name": "Uttor Prantik Chatrabas, Bogra Polytechnic Institute, Bogra",
+        "tourism": "hotel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Bogura"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.3719983,
+          24.8484358
+        ]
+      },
+      "properties": {
+        "name": "Ruposhi Bangla Hotel",
+        "tourism": "hotel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Bogura"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.3593639,
+          24.8205414
+        ]
+      },
+      "properties": {
+        "name": "Bot Gas",
+        "tourism": "",
+        "historic": "",
+        "natural": "tree",
+        "amenity": "",
+        "district": "Bogura"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.3729449,
+          24.8480738
+        ]
+      },
+      "properties": {
+        "name": "Bir Shrestho Chottor",
+        "tourism": "",
+        "historic": "monument",
+        "natural": "",
+        "amenity": "",
+        "district": "Bogura"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.3364324,
+          24.936221
+        ]
+      },
+      "properties": {
+        "name": "গোকুল মেধ",
+        "tourism": "",
+        "historic": "archaeological_site",
+        "natural": "",
+        "amenity": "",
+        "district": "Bogura"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.3566083,
+          24.8449469
+        ]
+      },
+      "properties": {
+        "name": "Azizul Haque College Shahid Minar",
+        "tourism": "",
+        "historic": "monument",
+        "natural": "",
+        "amenity": "",
+        "district": "Bogura"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.3523769,
+          24.8284544
+        ]
+      },
+      "properties": {
+        "name": "Girls Hostel",
+        "tourism": "hostel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Bogura"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.3516832,
+          24.8277813
+        ]
+      },
+      "properties": {
+        "name": "Boys Hostel",
+        "tourism": "hostel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Bogura"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.2760902,
+          24.9050042
+        ]
+      },
+      "properties": {
+        "name": "শালবন বিহার",
+        "tourism": "",
+        "historic": "archaeological_site",
+        "natural": "",
+        "amenity": "",
+        "district": "Bogura"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.2927553,
+          24.9162904
+        ]
+      },
+      "properties": {
+        "name": "পিড়াপাঠ গোখরা মন্দির",
+        "tourism": "",
+        "historic": "archaeological_site",
+        "natural": "",
+        "amenity": "",
+        "district": "Bogura"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.3461237,
+          24.9614407
+        ]
+      },
+      "properties": {
+        "name": "জাহাজঘাটা",
+        "tourism": "",
+        "historic": "archaeological_site",
+        "natural": "",
+        "amenity": "",
+        "district": "Bogura"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.338043,
+          24.9505597
+        ]
+      },
+      "properties": {
+        "name": "তামার দরজা",
+        "tourism": "",
+        "historic": "archaeological_site",
+        "natural": "",
+        "amenity": "",
+        "district": "Bogura"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.3478259,
+          24.9545791
+        ]
+      },
+      "properties": {
+        "name": "জিয়ত্‌ কুণ্ড",
+        "tourism": "",
+        "historic": "archaeological_site",
+        "natural": "",
+        "amenity": "",
+        "district": "Bogura"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.3479769,
+          24.9495981
+        ]
+      },
+      "properties": {
+        "name": "ফররুখ শিয়র মসজিদ",
+        "tourism": "",
+        "historic": "archaeological_site",
+        "natural": "",
+        "amenity": "",
+        "district": "Bogura"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.3259773,
+          24.9611497
+        ]
+      },
+      "properties": {
+        "name": "খুলনার ধাপ",
+        "tourism": "",
+        "historic": "archaeological_site",
+        "natural": "",
+        "amenity": "",
+        "district": "Bogura"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.3258827,
+          24.9477933
+        ]
+      },
+      "properties": {
+        "name": "গোদাইবাড়ি ধাপ",
+        "tourism": "",
+        "historic": "archaeological_site",
+        "natural": "",
+        "amenity": "",
+        "district": "Bogura"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.3762082,
+          24.8330207
+        ]
+      },
+      "properties": {
+        "name": "Shahjalal Hotel and Boarding House",
+        "tourism": "hotel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Bogura"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.3758698,
+          24.8328495
+        ]
+      },
+      "properties": {
+        "name": "Hotel Taj",
+        "tourism": "hotel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Bogura"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.3757706,
+          24.8330593
+        ]
+      },
+      "properties": {
+        "name": "Hotel Diamond Residential Boarding",
+        "tourism": "hotel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Bogura"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.3757095,
+          24.8332996
+        ]
+      },
+      "properties": {
+        "name": "Hotel Mid City",
+        "tourism": "hotel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Bogura"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.3741989,
+          24.8423595
+        ]
+      },
+      "properties": {
+        "name": "Red Chillis",
+        "tourism": "hotel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Bogura"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.5697098,
+          24.8870101
+        ]
+      },
+      "properties": {
+        "name": "Central Shaheed Minar",
+        "tourism": "",
+        "historic": "memorial",
+        "natural": "",
+        "amenity": "",
+        "district": "Bogura"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.2506679,
+          24.6471714
+        ]
+      },
+      "properties": {
+        "name": "Central Shaheed Minar",
+        "tourism": "",
+        "historic": "memorial",
+        "natural": "",
+        "amenity": "",
+        "district": "Bogura"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.369992,
+          24.8712936
+        ]
+      },
+      "properties": {
+        "name": "Muktir Fulbari",
+        "tourism": "",
+        "historic": "memorial",
+        "natural": "",
+        "amenity": "",
+        "district": "Bogura"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.3509673,
+          24.7249961
+        ]
+      },
+      "properties": {
+        "name": "Hasan's house",
+        "tourism": "guest_house",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Bogura"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.3978773,
+          24.7047272
+        ]
+      },
+      "properties": {
+        "name": "Square Polytechnic Institute Hostel-002, Hostel",
+        "tourism": "hotel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Bogura"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.3800732,
+          24.8249311
+        ]
+      },
+      "properties": {
+        "name": "Opposite of Police Line School, Hostel",
+        "tourism": "hostel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Bogura"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.3490406,
+          24.8598689
+        ]
+      },
+      "properties": {
+        "name": "Hotel Bogura Today",
+        "tourism": "hotel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Bogura"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.394219,
+          24.7032983
+        ]
+      },
+      "properties": {
+        "name": "International Hostel, Hotel",
+        "tourism": "hotel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Bogura"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.392139,
+          24.7453421
+        ]
+      },
+      "properties": {
+        "name": "Army Medical College Bogura, Residential Hostel",
+        "tourism": "hostel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Bogura"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.396172,
+          24.761048
+        ]
+      },
+      "properties": {
+        "name": "Army Tank statue, Historical landmark",
+        "tourism": "",
+        "historic": "castle",
+        "natural": "",
+        "amenity": "",
+        "district": "Bogura"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.377253,
+          24.8109118
+        ]
+      },
+      "properties": {
+        "name": "awang factory Engineers Quarters, Hostel",
+        "tourism": "hotel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Bogura"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.2440402,
+          24.6275528
+        ]
+      },
+      "properties": {
+        "name": "Sujoy Holel, Hotel",
+        "tourism": "hotel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Bogura"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.361403,
+          24.8887423
+        ]
+      },
+      "properties": {
+        "name": "Bogura 2nd Bypass Highway, Historical landmark",
+        "tourism": "",
+        "historic": "pillory",
+        "natural": "",
+        "amenity": "",
+        "district": "Bogura"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.350982,
+          24.9142226
+        ]
+      },
+      "properties": {
+        "name": "Baghopara - Noongola/Ghoradhap Rd, Historical landmark",
+        "tourism": "",
+        "historic": "pillory",
+        "natural": "",
+        "amenity": "",
+        "district": "Bogura"
+      }
+    }
+  ]
+}

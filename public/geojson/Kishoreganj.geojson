@@ -1,0 +1,167 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.6607971,
+          24.2608381
+        ]
+      },
+      "properties": {
+        "name": "Egarasindhur Fort",
+        "tourism": "",
+        "historic": "castle",
+        "natural": "",
+        "amenity": "",
+        "district": "Kishoreganj"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.7510432,
+          24.2188153
+        ]
+      },
+      "properties": {
+        "name": "Masum-Mamun Store",
+        "tourism": "hotel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Kishoreganj"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.7512694,
+          24.2190519
+        ]
+      },
+      "properties": {
+        "name": "Mahida-Mahiya Hotel",
+        "tourism": "hotel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Kishoreganj"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.7366382,
+          24.2310794
+        ]
+      },
+      "properties": {
+        "name": "Oise-Onno Mistanno Vandar",
+        "tourism": "hotel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Kishoreganj"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.6948615,
+          24.1311103
+        ]
+      },
+      "properties": {
+        "name": "Hatem House",
+        "tourism": "",
+        "historic": "castle",
+        "natural": "",
+        "amenity": "",
+        "district": "Kishoreganj"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.7370492,
+          24.0388204
+        ]
+      },
+      "properties": {
+        "name": "Shibpur Dak Bunglow",
+        "tourism": "guest_house",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Kishoreganj"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.7303219,
+          24.0375914
+        ]
+      },
+      "properties": {
+        "name": "Abdul Mannan Bhuiyan's Grave",
+        "tourism": "",
+        "historic": "memorial",
+        "natural": "",
+        "amenity": "",
+        "district": "Kishoreganj"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.8092832,
+          24.0045294
+        ]
+      },
+      "properties": {
+        "name": "Tangirtek Buddhist Temple",
+        "tourism": "",
+        "historic": "ruins",
+        "natural": "",
+        "amenity": "",
+        "district": "Kishoreganj"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.8253645,
+          24.092434
+        ]
+      },
+      "properties": {
+        "name": "Wari Boteshwar",
+        "tourism": "",
+        "historic": "archaeological_site",
+        "natural": "",
+        "amenity": "",
+        "district": "Kishoreganj"
+      }
+    }
+  ]
+}

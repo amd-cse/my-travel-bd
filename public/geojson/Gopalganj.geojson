@@ -1,0 +1,131 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.7106753,
+          23.2143262
+        ]
+      },
+      "properties": {
+        "name": "Modhumoti",
+        "tourism": "hotel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Gopalganj"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.6307578,
+          23.0438637
+        ]
+      },
+      "properties": {
+        "name": "Paichor Hotel",
+        "tourism": "hotel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Gopalganj"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.652515,
+          23.043275
+        ]
+      },
+      "properties": {
+        "name": "Bot Brikkho",
+        "tourism": "",
+        "historic": "",
+        "natural": "tree",
+        "amenity": "",
+        "district": "Gopalganj"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.6464423,
+          23.0541199
+        ]
+      },
+      "properties": {
+        "name": "Bot Gach",
+        "tourism": "",
+        "historic": "",
+        "natural": "tree",
+        "amenity": "",
+        "district": "Gopalganj"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.8392952,
+          23.2746478
+        ]
+      },
+      "properties": {
+        "name": "নাঈম মঞ্জিল",
+        "tourism": "guest_house",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Gopalganj"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.8426818,
+          23.0859463
+        ]
+      },
+      "properties": {
+        "name": "উলপুর জমিদার বাড়ী",
+        "tourism": "",
+        "historic": "farm",
+        "natural": "",
+        "amenity": "",
+        "district": "Gopalganj"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.6326246,
+          23.0371414
+        ]
+      },
+      "properties": {
+        "name": "College Shahid Minar",
+        "tourism": "",
+        "historic": "monument",
+        "natural": "",
+        "amenity": "",
+        "district": "Gopalganj"
+      }
+    }
+  ]
+}

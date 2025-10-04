@@ -1,0 +1,527 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.2423416,
+          25.759579
+        ]
+      },
+      "properties": {
+        "name": "RDRS Guest House",
+        "tourism": "guest_house",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Lalmonirhat"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.2544533,
+          25.7505117
+        ]
+      },
+      "properties": {
+        "name": "পায়রা চত্বর",
+        "tourism": "",
+        "historic": "monument",
+        "natural": "",
+        "amenity": "",
+        "district": "Lalmonirhat"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.3120079,
+          26.0378475
+        ]
+      },
+      "properties": {
+        "name": "বিজিবি ক্যাম্প",
+        "tourism": "camp_site",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Lalmonirhat"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.2544099,
+          25.7404487
+        ]
+      },
+      "properties": {
+        "name": "Shapla Chattar",
+        "tourism": "",
+        "historic": "monument",
+        "natural": "",
+        "amenity": "",
+        "district": "Lalmonirhat"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.2461349,
+          25.7413537
+        ]
+      },
+      "properties": {
+        "name": "Mulatol Pakar matha",
+        "tourism": "",
+        "historic": "monument",
+        "natural": "",
+        "amenity": "",
+        "district": "Lalmonirhat"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.2522663,
+          25.7532543
+        ]
+      },
+      "properties": {
+        "name": "Hotel Mohanagor",
+        "tourism": "hotel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Lalmonirhat"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.2469096,
+          25.7149824
+        ]
+      },
+      "properties": {
+        "name": "Abdur Rosid Shatrabas",
+        "tourism": "hostel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Lalmonirhat"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.2638987,
+          25.7175677
+        ]
+      },
+      "properties": {
+        "name": "Tisha Girls Hostel তিশা গার্লস হোস্টেল",
+        "tourism": "hostel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Lalmonirhat"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.2636051,
+          25.7177353
+        ]
+      },
+      "properties": {
+        "name": "Trinoyon Boys Hostel",
+        "tourism": "hostel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Lalmonirhat"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.263769,
+          25.7173748
+        ]
+      },
+      "properties": {
+        "name": "কিছুক্ষন ছাত্রাবাস",
+        "tourism": "hostel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Lalmonirhat"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.2637451,
+          25.7178574
+        ]
+      },
+      "properties": {
+        "name": "Talha Tamim boys Hostel তালহা তামিম ছেলেদের হোস্টেল",
+        "tourism": "hostel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Lalmonirhat"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.2676784,
+          25.7188908
+        ]
+      },
+      "properties": {
+        "name": "Bornaly Boys Inn",
+        "tourism": "hostel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Lalmonirhat"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.4456064,
+          25.8768118
+        ]
+      },
+      "properties": {
+        "name": "মা ক্ষণিকালয়",
+        "tourism": "hotel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Lalmonirhat"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.2003968,
+          25.9667386
+        ]
+      },
+      "properties": {
+        "name": "Chowdhurir More",
+        "tourism": "",
+        "historic": "monument",
+        "natural": "",
+        "amenity": "",
+        "district": "Lalmonirhat"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.2353265,
+          25.7738914
+        ]
+      },
+      "properties": {
+        "name": "RCMC Hostel",
+        "tourism": "hostel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Lalmonirhat"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.2264966,
+          25.7596285
+        ]
+      },
+      "properties": {
+        "name": "ধাপ সাতগাড়া বাইতুল মুকাররাম মডেল কামিল মাদরাসা ছাত্রাবাস",
+        "tourism": "hostel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Lalmonirhat"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.2385912,
+          25.7600565
+        ]
+      },
+      "properties": {
+        "name": "Bijoy Hotel",
+        "tourism": "hotel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Lalmonirhat"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.2567494,
+          25.7478839
+        ]
+      },
+      "properties": {
+        "name": "Grand Palace",
+        "tourism": "hotel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Lalmonirhat"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.2492586,
+          25.7352174
+        ]
+      },
+      "properties": {
+        "name": "Rongpur",
+        "tourism": "",
+        "historic": "wayside_cross",
+        "natural": "",
+        "amenity": "",
+        "district": "Lalmonirhat"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.2556856,
+          25.725543
+        ]
+      },
+      "properties": {
+        "name": "Convin Chatrabas",
+        "tourism": "hostel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Lalmonirhat"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.2187535,
+          25.7691427
+        ]
+      },
+      "properties": {
+        "name": "মেইন গেট",
+        "tourism": "",
+        "historic": "city_gate",
+        "natural": "",
+        "amenity": "",
+        "district": "Lalmonirhat"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.218751,
+          25.7682516
+        ]
+      },
+      "properties": {
+        "name": "কলেজ গেট",
+        "tourism": "",
+        "historic": "city_gate",
+        "natural": "",
+        "amenity": "",
+        "district": "Lalmonirhat"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.2187611,
+          25.7694946
+        ]
+      },
+      "properties": {
+        "name": "স্কুল গেট",
+        "tourism": "",
+        "historic": "city_gate",
+        "natural": "",
+        "amenity": "",
+        "district": "Lalmonirhat"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.2592077,
+          25.7492059
+        ]
+      },
+      "properties": {
+        "name": "শহীদ আবু সাঈদ চত্বর",
+        "tourism": "",
+        "historic": "memorial",
+        "natural": "",
+        "amenity": "",
+        "district": "Lalmonirhat"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.2547477,
+          25.7248444
+        ]
+      },
+      "properties": {
+        "name": "Lalbag Square, Historical landmark",
+        "tourism": "",
+        "historic": "pillory",
+        "natural": "",
+        "amenity": "",
+        "district": "Lalmonirhat"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.2335092,
+          25.7917864
+        ]
+      },
+      "properties": {
+        "name": "Station tea stall, Hostel",
+        "tourism": "hostel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Lalmonirhat"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.222467,
+          25.7760578
+        ]
+      },
+      "properties": {
+        "name": "Mosjid mess ( Baytul Aman Jame Mosjid), Hostel",
+        "tourism": "hostel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Lalmonirhat"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.2633709,
+          25.7137612
+        ]
+      },
+      "properties": {
+        "name": "নাদিরা ছাত্রাবাস",
+        "tourism": "hostel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Lalmonirhat"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.2631015,
+          25.7137135
+        ]
+      },
+      "properties": {
+        "name": "আপন লেডিস হোস্টেল",
+        "tourism": "hostel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Lalmonirhat"
+      }
+    }
+  ]
+}

@@ -1,0 +1,257 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.1520862,
+          23.895771
+        ]
+      },
+      "properties": {
+        "name": "লালন শাহ্‌ মাজার",
+        "tourism": "",
+        "historic": "memorial",
+        "natural": "",
+        "amenity": "",
+        "district": "Kushtia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.9458123,
+          23.7565143
+        ]
+      },
+      "properties": {
+        "name": "Coconut Tree",
+        "tourism": "",
+        "historic": "",
+        "natural": "tree",
+        "amenity": "",
+        "district": "Kushtia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.9457519,
+          23.7565118
+        ]
+      },
+      "properties": {
+        "name": "Coconut",
+        "tourism": "",
+        "historic": "",
+        "natural": "tree",
+        "amenity": "",
+        "district": "Kushtia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.9457419,
+          23.7565456
+        ]
+      },
+      "properties": {
+        "name": "Mango",
+        "tourism": "",
+        "historic": "",
+        "natural": "tree",
+        "amenity": "",
+        "district": "Kushtia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.9457714,
+          23.7565486
+        ]
+      },
+      "properties": {
+        "name": "Lichi",
+        "tourism": "",
+        "historic": "",
+        "natural": "tree",
+        "amenity": "",
+        "district": "Kushtia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.9457821,
+          23.7565155
+        ]
+      },
+      "properties": {
+        "name": "Black Berry",
+        "tourism": "",
+        "historic": "",
+        "natural": "tree",
+        "amenity": "",
+        "district": "Kushtia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.9353149,
+          23.7594725
+        ]
+      },
+      "properties": {
+        "name": "Mango Tree",
+        "tourism": "",
+        "historic": "",
+        "natural": "tree",
+        "amenity": "",
+        "district": "Kushtia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.9354938,
+          23.7594651
+        ]
+      },
+      "properties": {
+        "name": "Mango Tree",
+        "tourism": "",
+        "historic": "",
+        "natural": "tree",
+        "amenity": "",
+        "district": "Kushtia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.1223523,
+          23.9080164
+        ]
+      },
+      "properties": {
+        "name": "Hotel Ratul",
+        "tourism": "hotel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Kushtia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.122328,
+          23.9112884
+        ]
+      },
+      "properties": {
+        "name": "Kushtia Municipality Museum",
+        "tourism": "museum",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Kushtia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.1462116,
+          23.9016133
+        ]
+      },
+      "properties": {
+        "name": "Thakur Lodge",
+        "tourism": "museum",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Kushtia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.1497938,
+          23.895287
+        ]
+      },
+      "properties": {
+        "name": "Lalon Shah Mukto Moydan",
+        "tourism": "",
+        "historic": "",
+        "natural": "yes",
+        "amenity": "",
+        "district": "Kushtia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.1720191,
+          23.883063
+        ]
+      },
+      "properties": {
+        "name": "Mir Mosharraf Hossain Museum & Library",
+        "tourism": "museum",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Kushtia"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.1514035,
+          23.7227121
+        ]
+      },
+      "properties": {
+        "name": "Bot tola",
+        "tourism": "",
+        "historic": "",
+        "natural": "tree",
+        "amenity": "",
+        "district": "Kushtia"
+      }
+    }
+  ]
+}

@@ -1,0 +1,311 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.946804,
+          24.929588
+        ]
+      },
+      "properties": {
+        "name": "Hotel Star International",
+        "tourism": "hotel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Jamalpur"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.9439276,
+          24.9305089
+        ]
+      },
+      "properties": {
+        "name": "ボクルツリー",
+        "tourism": "",
+        "historic": "",
+        "natural": "tree",
+        "amenity": "",
+        "district": "Jamalpur"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.9363656,
+          24.9392184
+        ]
+      },
+      "properties": {
+        "name": "Shah Jamal Shrine",
+        "tourism": "",
+        "historic": "tomb",
+        "natural": "",
+        "amenity": "",
+        "district": "Jamalpur"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.0593555,
+          24.6415058
+        ]
+      },
+      "properties": {
+        "name": "Hawda Beel",
+        "tourism": "",
+        "historic": "",
+        "natural": "lake",
+        "amenity": "",
+        "district": "Jamalpur"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.9346216,
+          24.9308802
+        ]
+      },
+      "properties": {
+        "name": "College Hostel",
+        "tourism": "hostel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Jamalpur"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.8282766,
+          24.6741824
+        ]
+      },
+      "properties": {
+        "name": "Type D U",
+        "tourism": "apartment",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Jamalpur"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.0330157,
+          24.6405478
+        ]
+      },
+      "properties": {
+        "name": "Dhaka Beel",
+        "tourism": "",
+        "historic": "",
+        "natural": "water",
+        "amenity": "",
+        "district": "Jamalpur"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.1778087,
+          24.9672653
+        ]
+      },
+      "properties": {
+        "name": "উপজেলা ডাক বাংলো, নকলা।",
+        "tourism": "guest_house",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Jamalpur"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.9559715,
+          24.6735971
+        ]
+      },
+      "properties": {
+        "name": "District Council Rest House",
+        "tourism": "guest_house",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Jamalpur"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.0312161,
+          24.6108447
+        ]
+      },
+      "properties": {
+        "name": "Hotel Saikat Residentsial, Hotel",
+        "tourism": "hostel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Jamalpur"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.1216063,
+          24.6745498
+        ]
+      },
+      "properties": {
+        "name": "Forest Rest House, Resort hoteln",
+        "tourism": "hotel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Jamalpur"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.1361736,
+          24.6864499
+        ]
+      },
+      "properties": {
+        "name": "Bonbithi rest house, Hotel",
+        "tourism": "hotel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Jamalpur"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.9403789,
+          24.8388735
+        ]
+      },
+      "properties": {
+        "name": "Hotel Titpalla, Hotel",
+        "tourism": "hotel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Jamalpur"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.9467583,
+          24.9288444
+        ]
+      },
+      "properties": {
+        "name": "DBBL Rocket and Agent Bank Office, Bank",
+        "tourism": "",
+        "historic": "",
+        "natural": "bay",
+        "amenity": "",
+        "district": "Jamalpur"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.9510648,
+          24.9150844
+        ]
+      },
+      "properties": {
+        "name": "Hotel Al Samad",
+        "tourism": "hotel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Jamalpur"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.9484084,
+          24.9265011
+        ]
+      },
+      "properties": {
+        "name": "Hotel Rowshon Int.",
+        "tourism": "hotel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Jamalpur"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.0374613,
+          24.9866395
+        ]
+      },
+      "properties": {
+        "name": "Kanashakhola Freedom Fighter Square, Memorial",
+        "tourism": "",
+        "historic": "memorial",
+        "natural": "",
+        "amenity": "",
+        "district": "Jamalpur"
+      }
+    }
+  ]
+}

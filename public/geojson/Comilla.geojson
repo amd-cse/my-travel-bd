@@ -1,0 +1,851 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.1713889,
+          23.4722222
+        ]
+      },
+      "properties": {
+        "name": "কুমিল্লা চিড়িয়াখানা ও বোটানিক্যাল গার্ডেন",
+        "tourism": "zoo",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Comilla"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.1814222,
+          23.4613326
+        ]
+      },
+      "properties": {
+        "name": "Comilla Central Shaheed Minar",
+        "tourism": "",
+        "historic": "monument",
+        "natural": "",
+        "amenity": "",
+        "district": "Comilla"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.3992992,
+          23.0102557
+        ]
+      },
+      "properties": {
+        "name": "শহীদ মিনার",
+        "tourism": "",
+        "historic": "monument",
+        "natural": "",
+        "amenity": "",
+        "district": "Comilla"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.047899,
+          23.3838275
+        ]
+      },
+      "properties": {
+        "name": "Bot Tola",
+        "tourism": "",
+        "historic": "",
+        "natural": "tree",
+        "amenity": "",
+        "district": "Comilla"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.0865228,
+          23.3993464
+        ]
+      },
+      "properties": {
+        "name": "Bot Tola",
+        "tourism": "",
+        "historic": "",
+        "natural": "tree",
+        "amenity": "",
+        "district": "Comilla"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.1342718,
+          23.4165518
+        ]
+      },
+      "properties": {
+        "name": "Bangabandhu Hall",
+        "tourism": "hostel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Comilla"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.1373912,
+          23.4171773
+        ]
+      },
+      "properties": {
+        "name": "Begum Fouzunnessa Chowdhurani Hall",
+        "tourism": "hostel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Comilla"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.1334719,
+          23.4220077
+        ]
+      },
+      "properties": {
+        "name": "Kashbon Resort",
+        "tourism": "picnic_site",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Comilla"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.1353924,
+          23.4167383
+        ]
+      },
+      "properties": {
+        "name": "Kazi Nazrul Islam Hall",
+        "tourism": "hostel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Comilla"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.1371979,
+          23.423594
+        ]
+      },
+      "properties": {
+        "name": "ময়নামতি জাদুঘর",
+        "tourism": "museum",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Comilla"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.1138158,
+          23.2299839
+        ]
+      },
+      "properties": {
+        "name": "Nobab Bari",
+        "tourism": "",
+        "historic": "yes",
+        "natural": "",
+        "amenity": "",
+        "district": "Comilla"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.0910232,
+          23.4762833
+        ]
+      },
+      "properties": {
+        "name": "Dhaka highway hotel and resturant",
+        "tourism": "hotel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Comilla"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.1091757,
+          23.4786037
+        ]
+      },
+      "properties": {
+        "name": "Mostafa Hotel",
+        "tourism": "hotel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Comilla"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.1252148,
+          23.4788757
+        ]
+      },
+      "properties": {
+        "name": "Matri Bhandar Hotel and Sweets",
+        "tourism": "hotel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Comilla"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.1265654,
+          23.4801789
+        ]
+      },
+      "properties": {
+        "name": "Golden Inn Residential Hotel",
+        "tourism": "hotel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Comilla"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.133031,
+          23.4787685
+        ]
+      },
+      "properties": {
+        "name": "Highway Mainamati হাইওয়ে ময়নামতি",
+        "tourism": "hotel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Comilla"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.1451651,
+          23.4524871
+        ]
+      },
+      "properties": {
+        "name": "Hotel moinamoti comilla",
+        "tourism": "hotel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Comilla"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.1769734,
+          23.4168084
+        ]
+      },
+      "properties": {
+        "name": "ফারজানা হোটেল",
+        "tourism": "hotel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Comilla"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.2752536,
+          23.329898
+        ]
+      },
+      "properties": {
+        "name": "শিতলিয়া রাস্তার মাথা",
+        "tourism": "hotel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Comilla"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.3260724,
+          23.1296531
+        ]
+      },
+      "properties": {
+        "name": "Dream House Bhuiyan Bari Guest House",
+        "tourism": "guest_house",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Comilla"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.1856768,
+          23.4507584
+        ]
+      },
+      "properties": {
+        "name": "College hostel",
+        "tourism": "hostel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Comilla"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.136696,
+          23.4766895
+        ]
+      },
+      "properties": {
+        "name": "যুদ্ধ জয়",
+        "tourism": "",
+        "historic": "memorial",
+        "natural": "",
+        "amenity": "",
+        "district": "Comilla"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.1824583,
+          23.4666985
+        ]
+      },
+      "properties": {
+        "name": "Nazrul Memorial Sculpture",
+        "tourism": "",
+        "historic": "memorial",
+        "natural": "",
+        "amenity": "",
+        "district": "Comilla"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.1724425,
+          23.4304076
+        ]
+      },
+      "properties": {
+        "name": "বাংলাদেশ বিদ্যুৎ উন্নয়ন বোর্ড বিশ্রামাগার",
+        "tourism": "guest_house",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Comilla"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.1801135,
+          23.4611165
+        ]
+      },
+      "properties": {
+        "name": "Hotel Diana",
+        "tourism": "hotel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Comilla"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.2481224,
+          23.3642072
+        ]
+      },
+      "properties": {
+        "name": "Hotel Kanon Lakes Resort কানন হ্রদ রিসোর্ট",
+        "tourism": "hotel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Comilla"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.1658597,
+          23.4559017
+        ]
+      },
+      "properties": {
+        "name": "Kazi Nazrul Islam Hall",
+        "tourism": "hostel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Comilla"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.1134032,
+          23.4856911
+        ]
+      },
+      "properties": {
+        "name": "ANCC Female Dormitory",
+        "tourism": "hostel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Comilla"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.0858615,
+          23.4775727
+        ]
+      },
+      "properties": {
+        "name": "Hotel Noor Mahal",
+        "tourism": "hotel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Comilla"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.1324603,
+          23.4169953
+        ]
+      },
+      "properties": {
+        "name": "Shaheed Minar",
+        "tourism": "",
+        "historic": "memorial",
+        "natural": "",
+        "amenity": "",
+        "district": "Comilla"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.3812783,
+          23.009892
+        ]
+      },
+      "properties": {
+        "name": "হোটেল মানিক আবাসিক",
+        "tourism": "hotel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Comilla"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.1293449,
+          23.4388794
+        ]
+      },
+      "properties": {
+        "name": "ইটাখোলা মুড়া",
+        "tourism": "",
+        "historic": "archaeological_site",
+        "natural": "",
+        "amenity": "",
+        "district": "Comilla"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.1315163,
+          23.4420615
+        ]
+      },
+      "properties": {
+        "name": "ভোজ রাজার বিহার",
+        "tourism": "",
+        "historic": "archaeological_site",
+        "natural": "",
+        "amenity": "",
+        "district": "Comilla"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.2788041,
+          23.0752492
+        ]
+      },
+      "properties": {
+        "name": "সাতবাড়িয়া জলা",
+        "tourism": "attraction",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Comilla"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.1315003,
+          23.4387536
+        ]
+      },
+      "properties": {
+        "name": "Latikot Mura",
+        "tourism": "",
+        "historic": "ruins",
+        "natural": "",
+        "amenity": "",
+        "district": "Comilla"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.0588483,
+          23.1562496
+        ]
+      },
+      "properties": {
+        "name": "Monohorganj Upazila Dakbanglow",
+        "tourism": "guest_house",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Comilla"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.3598772,
+          23.0321151
+        ]
+      },
+      "properties": {
+        "name": "Alauddin Bhuiayan Badi",
+        "tourism": "chalet",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Comilla"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.3363858,
+          23.1142631
+        ]
+      },
+      "properties": {
+        "name": "Betiyara Shaheed Memorial Complex",
+        "tourism": "information",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Comilla"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.2379626,
+          23.3803962
+        ]
+      },
+      "properties": {
+        "name": "Shuagaji Forest Check Station",
+        "tourism": "",
+        "historic": "",
+        "natural": "wood",
+        "amenity": "",
+        "district": "Comilla"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.1479727,
+          23.44699
+        ]
+      },
+      "properties": {
+        "name": "Koatbarii Bishwaroad Main point",
+        "tourism": "attraction",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Comilla"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.2493043,
+          23.4640602
+        ]
+      },
+      "properties": {
+        "name": "কটক বাজার মুক্তিযুদ্ধ স্মৃতি সৌধ",
+        "tourism": "",
+        "historic": "monument",
+        "natural": "",
+        "amenity": "",
+        "district": "Comilla"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.0462752,
+          23.3000261
+        ]
+      },
+      "properties": {
+        "name": "Mozammal Hoque Villa",
+        "tourism": "",
+        "historic": "castle",
+        "natural": "",
+        "amenity": "",
+        "district": "Comilla"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.1292075,
+          23.4397292
+        ]
+      },
+      "properties": {
+        "name": "কর্নেল মুড়া",
+        "tourism": "",
+        "historic": "archaeological_site",
+        "natural": "",
+        "amenity": "",
+        "district": "Comilla"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.1376983,
+          23.4262291
+        ]
+      },
+      "properties": {
+        "name": "শালবন বিহার",
+        "tourism": "",
+        "historic": "archaeological_site",
+        "natural": "",
+        "amenity": "",
+        "district": "Comilla"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.130869,
+          23.412777
+        ]
+      },
+      "properties": {
+        "name": "ম্যাজিক প্যারাডাইস পার্ক",
+        "tourism": "theme_park",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Comilla"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.3506335,
+          23.0654304
+        ]
+      },
+      "properties": {
+        "name": "Rajab Ali BHY Bari",
+        "tourism": "",
+        "historic": "castle",
+        "natural": "",
+        "amenity": "",
+        "district": "Comilla"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.3507522,
+          23.0647449
+        ]
+      },
+      "properties": {
+        "name": "Rajab Ali Bhuiyan Bari",
+        "tourism": "",
+        "historic": "castle",
+        "natural": "",
+        "amenity": "",
+        "district": "Comilla"
+      }
+    }
+  ]
+}

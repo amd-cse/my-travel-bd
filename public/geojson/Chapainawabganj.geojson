@@ -1,0 +1,221 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.9916251,
+          24.4197108
+        ]
+      },
+      "properties": {
+        "name": "Natore Royal Palace",
+        "tourism": "",
+        "historic": "memorial",
+        "natural": "",
+        "amenity": "",
+        "district": "Chapainawabganj"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.996322,
+          24.4121963
+        ]
+      },
+      "properties": {
+        "name": "স্বাধীনতা চত্বর নাটোর।",
+        "tourism": "",
+        "historic": "city_gate",
+        "natural": "",
+        "amenity": "",
+        "district": "Chapainawabganj"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.7551766,
+          24.3667347
+        ]
+      },
+      "properties": {
+        "name": "জাতীয় ট্রাভেলস বুথ",
+        "tourism": "information",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Chapainawabganj"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.7182946,
+          24.3122206
+        ]
+      },
+      "properties": {
+        "name": "Doyel",
+        "tourism": "",
+        "historic": "monument",
+        "natural": "",
+        "amenity": "",
+        "district": "Chapainawabganj"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.9973167,
+          24.4140424
+        ]
+      },
+      "properties": {
+        "name": "Hotel Raz - Residential",
+        "tourism": "hotel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Chapainawabganj"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.9927268,
+          24.4138664
+        ]
+      },
+      "properties": {
+        "name": "Govt. Women's College - Hostel 1",
+        "tourism": "hostel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Chapainawabganj"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.9777001,
+          24.4166158
+        ]
+      },
+      "properties": {
+        "name": "Dhansiri Satrabas",
+        "tourism": "hostel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Chapainawabganj"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.9351173,
+          24.3957348
+        ]
+      },
+      "properties": {
+        "name": "Bagha Mamar Hotel, Rajshahi - Dhaka Hwy, Natore",
+        "tourism": "hotel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Chapainawabganj"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.9007181,
+          24.3726025
+        ]
+      },
+      "properties": {
+        "name": "Kader hotel and restaurant, Rajshahi - Dhaka Hwy, Natore",
+        "tourism": "hotel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Chapainawabganj"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.9634075,
+          24.4089527
+        ]
+      },
+      "properties": {
+        "name": "Natore District Leather Traders Group, Rajshahi - Dhaka Hwy, Natore",
+        "tourism": "camp_site",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Chapainawabganj"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.9673977,
+          24.4106305
+        ]
+      },
+      "properties": {
+        "name": "Hotel Prince, Station Bazar Road, Natore",
+        "tourism": "hotel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Chapainawabganj"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.9887961,
+          24.4125278
+        ]
+      },
+      "properties": {
+        "name": "Natore Central Shaheed Minar, Natore",
+        "tourism": "",
+        "historic": "monument",
+        "natural": "",
+        "amenity": "",
+        "district": "Chapainawabganj"
+      }
+    }
+  ]
+}

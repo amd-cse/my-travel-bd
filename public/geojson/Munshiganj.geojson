@@ -1,0 +1,257 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.5349817,
+          23.5506429
+        ]
+      },
+      "properties": {
+        "name": "Tristar Hotel",
+        "tourism": "hotel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Munshiganj"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.5346017,
+          23.5512303
+        ]
+      },
+      "properties": {
+        "name": "Comfort Hotel",
+        "tourism": "hotel",
+        "historic": "",
+        "natural": "",
+        "amenity": "pharmacy",
+        "district": "Munshiganj"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.3322678,
+          23.4632647
+        ]
+      },
+      "properties": {
+        "name": "Padma Resort, Louhajong, Munshigonj",
+        "tourism": "picnic_site",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Munshiganj"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.5344018,
+          23.556952
+        ]
+      },
+      "properties": {
+        "name": "PTI Hostel (Female)",
+        "tourism": "hostel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Munshiganj"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.5334197,
+          23.5576008
+        ]
+      },
+      "properties": {
+        "name": "PTI Hostel (Female)",
+        "tourism": "hostel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Munshiganj"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.5342875,
+          23.5566202
+        ]
+      },
+      "properties": {
+        "name": "PTI Hostel (Male)",
+        "tourism": "hostel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Munshiganj"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.3890148,
+          23.5707588
+        ]
+      },
+      "properties": {
+        "name": "Shahid Meenar",
+        "tourism": "",
+        "historic": "monument",
+        "natural": "",
+        "amenity": "",
+        "district": "Munshiganj"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.4580285,
+          23.5279974
+        ]
+      },
+      "properties": {
+        "name": "Jaam Paar জাম পার",
+        "tourism": "",
+        "historic": "",
+        "natural": "tree",
+        "amenity": "",
+        "district": "Munshiganj"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.466302,
+          23.5109172
+        ]
+      },
+      "properties": {
+        "name": "Central Upazila Shahid Minar",
+        "tourism": "",
+        "historic": "monument",
+        "natural": "",
+        "amenity": "",
+        "district": "Munshiganj"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.5255343,
+          23.4292378
+        ]
+      },
+      "properties": {
+        "name": "farhad sardar's house",
+        "tourism": "motel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Munshiganj"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.4689996,
+          23.5317183
+        ]
+      },
+      "properties": {
+        "name": "Nateswar Deul",
+        "tourism": "",
+        "historic": "ruins",
+        "natural": "",
+        "amenity": "",
+        "district": "Munshiganj"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.5984477,
+          23.3962266
+        ]
+      },
+      "properties": {
+        "name": "মোহনপুর পর্যটন কেন্দ্র",
+        "tourism": "attraction",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Munshiganj"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.3119131,
+          23.589382
+        ]
+      },
+      "properties": {
+        "name": "Pankauri Resort hotel, Dhaka - Mawa Hwy, Solepur",
+        "tourism": "hotel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Munshiganj"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.3419386,
+          23.3046096
+        ]
+      },
+      "properties": {
+        "name": "Darveshkha Kandi wooden pool, Tourist attraction, Dogree",
+        "tourism": "attraction",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Munshiganj"
+      }
+    }
+  ]
+}

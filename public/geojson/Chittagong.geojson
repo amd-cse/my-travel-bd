@@ -1,0 +1,4541 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.82169,
+          22.3577454
+        ]
+      },
+      "properties": {
+        "name": "Peninsula Hotel",
+        "tourism": "hotel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Chittagong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.8246317,
+          22.3486171
+        ]
+      },
+      "properties": {
+        "name": "Circuit House",
+        "tourism": "guest_house",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Chittagong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.8206598,
+          22.3626743
+        ]
+      },
+      "properties": {
+        "name": "Hotel Lords Inn",
+        "tourism": "hotel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Chittagong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.821692,
+          22.3575647
+        ]
+      },
+      "properties": {
+        "name": "Grand Park Hotel",
+        "tourism": "hotel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Chittagong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.8231342,
+          22.3596679
+        ]
+      },
+      "properties": {
+        "name": "Well Park Residence",
+        "tourism": "hotel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Chittagong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.8336538,
+          22.3437313
+        ]
+      },
+      "properties": {
+        "name": "Cheragi Pahar",
+        "tourism": "",
+        "historic": "monument",
+        "natural": "",
+        "amenity": "",
+        "district": "Chittagong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.8250394,
+          22.3362923
+        ]
+      },
+      "properties": {
+        "name": "Hotel Golden Inn",
+        "tourism": "hotel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Chittagong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.8248677,
+          22.3445288
+        ]
+      },
+      "properties": {
+        "name": "Naval Museun",
+        "tourism": "museum",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Chittagong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.793003,
+          22.4704226
+        ]
+      },
+      "properties": {
+        "name": "Chittagong University Club",
+        "tourism": "guest_house",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Chittagong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.7870315,
+          22.470806
+        ]
+      },
+      "properties": {
+        "name": "Central Shaheed Minar",
+        "tourism": "",
+        "historic": "monument",
+        "natural": "",
+        "amenity": "",
+        "district": "Chittagong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.9707019,
+          22.4601845
+        ]
+      },
+      "properties": {
+        "name": "CUET Shaeed Minar",
+        "tourism": "",
+        "historic": "monument",
+        "natural": "",
+        "amenity": "",
+        "district": "Chittagong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.837516,
+          22.3544404
+        ]
+      },
+      "properties": {
+        "name": "Sher- e- Bangla AK Fazrul Hoque Male Hostel",
+        "tourism": "hostel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Chittagong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.8394134,
+          22.3575639
+        ]
+      },
+      "properties": {
+        "name": "Hotel Al-Helal",
+        "tourism": "hotel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Chittagong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.844888,
+          22.368265
+        ]
+      },
+      "properties": {
+        "name": "Hotel Zaman",
+        "tourism": "hotel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Chittagong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.8426611,
+          22.3662864
+        ]
+      },
+      "properties": {
+        "name": "Arkan Hotel & Restaurant",
+        "tourism": "hotel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Chittagong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.8393572,
+          22.3586208
+        ]
+      },
+      "properties": {
+        "name": "Hotel AL-Akaba",
+        "tourism": "hotel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Chittagong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.8396119,
+          22.3588631
+        ]
+      },
+      "properties": {
+        "name": "Hotel Star Park",
+        "tourism": "hotel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Chittagong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.8388259,
+          22.3582103
+        ]
+      },
+      "properties": {
+        "name": "Hotel Four Star",
+        "tourism": "hotel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Chittagong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.837727,
+          22.3583853
+        ]
+      },
+      "properties": {
+        "name": "Hotel Zaman",
+        "tourism": "hotel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Chittagong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.8378607,
+          22.3573005
+        ]
+      },
+      "properties": {
+        "name": "Hotel Chowk Maloncho",
+        "tourism": "hotel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Chittagong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.8388795,
+          22.3559679
+        ]
+      },
+      "properties": {
+        "name": "Matri Chaya Mohila Hostel",
+        "tourism": "hostel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Chittagong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.8114282,
+          22.3663933
+        ]
+      },
+      "properties": {
+        "name": "কাজী নজরুল ইসলাম হল",
+        "tourism": "hostel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Chittagong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.844488,
+          22.3686419
+        ]
+      },
+      "properties": {
+        "name": "Al-madina Hotel;Hotel Tazz",
+        "tourism": "hotel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Chittagong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.8444444,
+          22.3686887
+        ]
+      },
+      "properties": {
+        "name": "Hotel Tazz",
+        "tourism": "hotel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Chittagong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.8431537,
+          22.3685013
+        ]
+      },
+      "properties": {
+        "name": "City Guest House",
+        "tourism": "hotel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Chittagong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.8300064,
+          22.3354881
+        ]
+      },
+      "properties": {
+        "name": "Hotel Mishka",
+        "tourism": "hotel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Chittagong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.8198076,
+          22.3474959
+        ]
+      },
+      "properties": {
+        "name": "The Avenue Hotel and Suites",
+        "tourism": "hotel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Chittagong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.8336791,
+          22.343113
+        ]
+      },
+      "properties": {
+        "name": "Hotel Lusai",
+        "tourism": "hotel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Chittagong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.8269423,
+          22.3547635
+        ]
+      },
+      "properties": {
+        "name": "Well Park Hotel",
+        "tourism": "hotel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Chittagong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.7933166,
+          22.4710184
+        ]
+      },
+      "properties": {
+        "name": "Zero Point",
+        "tourism": "",
+        "historic": "monument",
+        "natural": "",
+        "amenity": "",
+        "district": "Chittagong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.7844642,
+          22.4704368
+        ]
+      },
+      "properties": {
+        "name": "Chittagong University Museam",
+        "tourism": "museum",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Chittagong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.7845187,
+          22.4711583
+        ]
+      },
+      "properties": {
+        "name": "Swadhinata Smrity Mural",
+        "tourism": "",
+        "historic": "monument",
+        "natural": "",
+        "amenity": "",
+        "district": "Chittagong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.823004,
+          22.3475711
+        ]
+      },
+      "properties": {
+        "name": "Radisson Blue",
+        "tourism": "hotel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Chittagong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.8114032,
+          22.3214243
+        ]
+      },
+      "properties": {
+        "name": "Courtyard Marriott Chittagong",
+        "tourism": "hotel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Chittagong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.8126359,
+          22.3264732
+        ]
+      },
+      "properties": {
+        "name": "Hotel Saint Martin",
+        "tourism": "hotel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Chittagong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.808913,
+          22.3955721
+        ]
+      },
+      "properties": {
+        "name": "Chittagong Cantonment Museum",
+        "tourism": "museum",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Chittagong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.8316676,
+          22.3283476
+        ]
+      },
+      "properties": {
+        "name": "Raj Hotel",
+        "tourism": "hotel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Chittagong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.8317094,
+          22.3308208
+        ]
+      },
+      "properties": {
+        "name": "Shahjahan Hotel",
+        "tourism": "hotel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Chittagong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.9722347,
+          22.4648385
+        ]
+      },
+      "properties": {
+        "name": "Sufia Kamal Hall",
+        "tourism": "hostel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Chittagong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.8291531,
+          22.3351182
+        ]
+      },
+      "properties": {
+        "name": "Motel shaikat",
+        "tourism": "hotel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Chittagong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.836742,
+          22.3421753
+        ]
+      },
+      "properties": {
+        "name": "Anderkilla Moore",
+        "tourism": "",
+        "historic": "monument",
+        "natural": "",
+        "amenity": "",
+        "district": "Chittagong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.8337098,
+          22.3373397
+        ]
+      },
+      "properties": {
+        "name": "Chattogram Central Shaheed Minar",
+        "tourism": "",
+        "historic": "monument",
+        "natural": "",
+        "amenity": "",
+        "district": "Chittagong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.8256373,
+          22.3586591
+        ]
+      },
+      "properties": {
+        "name": "Baul Culture Artwork",
+        "tourism": "artwork",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Chittagong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.8377705,
+          22.3341189
+        ]
+      },
+      "properties": {
+        "name": "Muslim High School Hostel",
+        "tourism": "hostel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Chittagong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.8324942,
+          22.3339478
+        ]
+      },
+      "properties": {
+        "name": "New Market Circle",
+        "tourism": "",
+        "historic": "monument",
+        "natural": "",
+        "amenity": "",
+        "district": "Chittagong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.832296,
+          22.3335728
+        ]
+      },
+      "properties": {
+        "name": "Liberation Related",
+        "tourism": "",
+        "historic": "monument",
+        "natural": "",
+        "amenity": "",
+        "district": "Chittagong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.8139833,
+          22.2374766
+        ]
+      },
+      "properties": {
+        "name": "vip rd",
+        "tourism": "",
+        "historic": "",
+        "natural": "tree",
+        "amenity": "",
+        "district": "Chittagong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.814281,
+          22.237674
+        ]
+      },
+      "properties": {
+        "name": "Riverine Restaurant",
+        "tourism": "",
+        "historic": "",
+        "natural": "tree",
+        "amenity": "",
+        "district": "Chittagong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.7921425,
+          22.2344096
+        ]
+      },
+      "properties": {
+        "name": "পতেঙ্গা সী বিচ",
+        "tourism": "",
+        "historic": "",
+        "natural": "beach",
+        "amenity": "",
+        "district": "Chittagong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.8194632,
+          22.4058138
+        ]
+      },
+      "properties": {
+        "name": "Hossain Villa, Baluchara",
+        "tourism": "apartment",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Chittagong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.823536,
+          22.3663485
+        ]
+      },
+      "properties": {
+        "name": "Biplob uddan monument",
+        "tourism": "",
+        "historic": "monument",
+        "natural": "",
+        "amenity": "",
+        "district": "Chittagong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.8127376,
+          22.3342934
+        ]
+      },
+      "properties": {
+        "name": "হোটেল সিলেট",
+        "tourism": "hotel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Chittagong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.8021936,
+          22.2292525
+        ]
+      },
+      "properties": {
+        "name": "Dolphin",
+        "tourism": "hotel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Chittagong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.8094488,
+          22.2669957
+        ]
+      },
+      "properties": {
+        "name": "ইস্টার্ন লুব্রিকেন্টস্ ব্লেন্ডারস লিমিটেড (এলবিবি)",
+        "tourism": "camp_site",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Chittagong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.792835,
+          22.2352608
+        ]
+      },
+      "properties": {
+        "name": "Bismillah Hotel",
+        "tourism": "hotel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Chittagong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.781422,
+          22.2821746
+        ]
+      },
+      "properties": {
+        "name": "উঠান",
+        "tourism": "apartment",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Chittagong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.7930755,
+          22.68832
+        ]
+      },
+      "properties": {
+        "name": "ডাক বাংলা, বিবিরহাট ফটিকছড়ি",
+        "tourism": "guest_house",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Chittagong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.6595397,
+          22.615502
+        ]
+      },
+      "properties": {
+        "name": "Saidpur Medical Hall",
+        "tourism": "hostel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Chittagong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.7921666,
+          22.6316629
+        ]
+      },
+      "properties": {
+        "name": "Zaman Hotel",
+        "tourism": "hotel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Chittagong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.8294605,
+          22.2651133
+        ]
+      },
+      "properties": {
+        "name": "Chittagong Boat Club",
+        "tourism": "hotel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Chittagong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.8281424,
+          22.2634843
+        ]
+      },
+      "properties": {
+        "name": "0911 Plane Statue",
+        "tourism": "",
+        "historic": "monument",
+        "natural": "",
+        "amenity": "",
+        "district": "Chittagong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.8116651,
+          22.3328563
+        ]
+      },
+      "properties": {
+        "name": "Hotel Dubai",
+        "tourism": "hotel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Chittagong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.8123539,
+          22.3326251
+        ]
+      },
+      "properties": {
+        "name": "New Hanif Hotel And Restaurant",
+        "tourism": "hotel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Chittagong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.7043694,
+          22.5226541
+        ]
+      },
+      "properties": {
+        "name": "Smriti 71",
+        "tourism": "",
+        "historic": "monument",
+        "natural": "",
+        "amenity": "",
+        "district": "Chittagong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.9707636,
+          22.4621121
+        ]
+      },
+      "properties": {
+        "name": "Bangabandhus Mural",
+        "tourism": "artwork",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Chittagong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.9710398,
+          22.4619851
+        ]
+      },
+      "properties": {
+        "name": "The sculpture of Independence",
+        "tourism": "artwork",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Chittagong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.7214144,
+          22.4937938
+        ]
+      },
+      "properties": {
+        "name": "Hotashar Chottor",
+        "tourism": "",
+        "historic": "",
+        "natural": "tree",
+        "amenity": "",
+        "district": "Chittagong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.74899,
+          22.4287013
+        ]
+      },
+      "properties": {
+        "name": "Hedayet Villa",
+        "tourism": "guest_house",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Chittagong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.9471392,
+          22.1853587
+        ]
+      },
+      "properties": {
+        "name": "Green House",
+        "tourism": "hotel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Chittagong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.7870079,
+          22.4712912
+        ]
+      },
+      "properties": {
+        "name": "Buddhijibi Smriti Stambh",
+        "tourism": "",
+        "historic": "monument",
+        "natural": "",
+        "amenity": "",
+        "district": "Chittagong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.7933689,
+          22.4710244
+        ]
+      },
+      "properties": {
+        "name": "Swaran",
+        "tourism": "",
+        "historic": "monument",
+        "natural": "",
+        "amenity": "",
+        "district": "Chittagong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.7866084,
+          22.4710735
+        ]
+      },
+      "properties": {
+        "name": "Joy Bangla",
+        "tourism": "",
+        "historic": "monument",
+        "natural": "",
+        "amenity": "",
+        "district": "Chittagong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.8045678,
+          22.3648543
+        ]
+      },
+      "properties": {
+        "name": "Fazilatunnesa Hall",
+        "tourism": "hostel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Chittagong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.7734244,
+          22.3737739
+        ]
+      },
+      "properties": {
+        "name": "Chattogram City Gate",
+        "tourism": "",
+        "historic": "city_gate",
+        "natural": "",
+        "amenity": "",
+        "district": "Chittagong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.6928534,
+          22.6142821
+        ]
+      },
+      "properties": {
+        "name": "Sohosrodhara Waterfall",
+        "tourism": "attraction",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Chittagong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.6875778,
+          22.6009912
+        ]
+      },
+      "properties": {
+        "name": "Suptadhara Jalaprapata, Sitakund Eco Park, and Botanical Garden Road, Chittagong",
+        "tourism": "attraction",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Chittagong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.836846,
+          22.3342948
+        ]
+      },
+      "properties": {
+        "name": "Shaheed Minar, GMHS",
+        "tourism": "",
+        "historic": "memorial",
+        "natural": "",
+        "amenity": "",
+        "district": "Chittagong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.8453093,
+          22.3684043
+        ]
+      },
+      "properties": {
+        "name": "Hotel Gulzar",
+        "tourism": "hotel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Chittagong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.8446616,
+          22.3690315
+        ]
+      },
+      "properties": {
+        "name": "Hotel Moriyom",
+        "tourism": "hotel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Chittagong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.7893878,
+          22.4656601
+        ]
+      },
+      "properties": {
+        "name": "Bongomata Sheikh Fazilatunnesa Mujib Hall",
+        "tourism": "hostel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Chittagong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.8329779,
+          22.3693013
+        ]
+      },
+      "properties": {
+        "name": "Raja Guest House",
+        "tourism": "guest_house",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Chittagong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.8427448,
+          22.3671582
+        ]
+      },
+      "properties": {
+        "name": "Hotel Diamond Park",
+        "tourism": "hotel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Chittagong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.8429321,
+          22.3683724
+        ]
+      },
+      "properties": {
+        "name": "Hotel Al-Raj",
+        "tourism": "hotel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Chittagong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.8418312,
+          22.3678515
+        ]
+      },
+      "properties": {
+        "name": "Cosmo Nursery",
+        "tourism": "",
+        "historic": "",
+        "natural": "tree",
+        "amenity": "",
+        "district": "Chittagong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.7899293,
+          22.4718061
+        ]
+      },
+      "properties": {
+        "name": "Kata Pahar । কাটা পাহাড়",
+        "tourism": "",
+        "historic": "",
+        "natural": "hill",
+        "amenity": "",
+        "district": "Chittagong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.8494822,
+          22.3682277
+        ]
+      },
+      "properties": {
+        "name": "আল-মস্তবা হোটেল",
+        "tourism": "hotel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Chittagong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.8368741,
+          22.3328806
+        ]
+      },
+      "properties": {
+        "name": "Hotel Heritage",
+        "tourism": "hotel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Chittagong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.8209442,
+          22.3569351
+        ]
+      },
+      "properties": {
+        "name": "Godhuli Guest House",
+        "tourism": "guest_house",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Chittagong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.8216789,
+          22.3516976
+        ]
+      },
+      "properties": {
+        "name": "Tunnel City",
+        "tourism": "hotel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Chittagong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.8144017,
+          22.327182
+        ]
+      },
+      "properties": {
+        "name": "Hotel City Inn",
+        "tourism": "hotel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Chittagong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.81272,
+          22.3258135
+        ]
+      },
+      "properties": {
+        "name": "Best Western Alliance (Alliance Hotel & Resorts Ltd.)",
+        "tourism": "hotel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Chittagong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.8104726,
+          22.3225961
+        ]
+      },
+      "properties": {
+        "name": "Gazetted Officers' Colony",
+        "tourism": "hostel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Chittagong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.8104941,
+          22.3237125
+        ]
+      },
+      "properties": {
+        "name": "RHD Inspection Banglo",
+        "tourism": "guest_house",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Chittagong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.8014741,
+          22.3264545
+        ]
+      },
+      "properties": {
+        "name": "Khans Residence",
+        "tourism": "apartment",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Chittagong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.7831506,
+          22.4711548
+        ]
+      },
+      "properties": {
+        "name": "Sohel stor",
+        "tourism": "hotel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Chittagong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.7830289,
+          22.4711445
+        ]
+      },
+      "properties": {
+        "name": "Mojammel Store & Vat Ghor",
+        "tourism": "hotel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Chittagong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.7767056,
+          22.4662457
+        ]
+      },
+      "properties": {
+        "name": "হেশোরাম পাহাড়",
+        "tourism": "",
+        "historic": "",
+        "natural": "hill",
+        "amenity": "",
+        "district": "Chittagong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.7696141,
+          22.4650448
+        ]
+      },
+      "properties": {
+        "name": "দীসা পাহাড়",
+        "tourism": "",
+        "historic": "",
+        "natural": "hill",
+        "amenity": "",
+        "district": "Chittagong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.7681002,
+          22.4640594
+        ]
+      },
+      "properties": {
+        "name": "জংশন হিল",
+        "tourism": "",
+        "historic": "",
+        "natural": "hill",
+        "amenity": "",
+        "district": "Chittagong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.7743297,
+          22.4672308
+        ]
+      },
+      "properties": {
+        "name": "জামিল পাহাড়",
+        "tourism": "",
+        "historic": "",
+        "natural": "hill",
+        "amenity": "",
+        "district": "Chittagong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.7752606,
+          22.4664767
+        ]
+      },
+      "properties": {
+        "name": "শাটল হিল",
+        "tourism": "",
+        "historic": "",
+        "natural": "hill",
+        "amenity": "",
+        "district": "Chittagong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.6573417,
+          22.6200719
+        ]
+      },
+      "properties": {
+        "name": "হোটেল সৌদিয়া আবাসিক",
+        "tourism": "hotel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Chittagong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.6626869,
+          22.6145556
+        ]
+      },
+      "properties": {
+        "name": "Sitakund Upozilla Dak Banglo Resthouse",
+        "tourism": "guest_house",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Chittagong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.5689447,
+          22.7818703
+        ]
+      },
+      "properties": {
+        "name": "Latifiya Gate, Dhaka - Chittagong Hwy, Mirsharai, Chittagong",
+        "tourism": "",
+        "historic": "city_gate",
+        "natural": "",
+        "amenity": "",
+        "district": "Chittagong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.6443412,
+          22.6423274
+        ]
+      },
+      "properties": {
+        "name": "Sonali Hotel Battal Sitakunda Chittagong, Dhaka - Chittagong Hwy, Bariadyala, Chattogram",
+        "tourism": "hotel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Chittagong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.6878668,
+          22.6011384
+        ]
+      },
+      "properties": {
+        "name": "Amiyadhara Jharna, Amir Ali Bhuiyan Rd, Muradpur, Chittagong",
+        "tourism": "attraction",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Chittagong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.6893306,
+          22.6001188
+        ]
+      },
+      "properties": {
+        "name": "স্বচ্ছধারা ঝর্ণা",
+        "tourism": "attraction",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Chittagong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.6788189,
+          22.5314524
+        ]
+      },
+      "properties": {
+        "name": "Jamadar para Samudra Saukat, Jamadar para, Banshbaria, Chattogram",
+        "tourism": "",
+        "historic": "",
+        "natural": "beach",
+        "amenity": "",
+        "district": "Chittagong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.6731855,
+          22.536597
+        ]
+      },
+      "properties": {
+        "name": "Banshbaria Sea Beach, Banshbaria, Chattogram",
+        "tourism": "",
+        "historic": "",
+        "natural": "beach",
+        "amenity": "",
+        "district": "Chittagong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.6682648,
+          22.5444745
+        ]
+      },
+      "properties": {
+        "name": "Banshbaria Sea Beach, Sandwip Ship Ghat Rd, Kumira, Chattogram",
+        "tourism": "",
+        "historic": "",
+        "natural": "beach",
+        "amenity": "",
+        "district": "Chittagong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.6988505,
+          22.5034305
+        ]
+      },
+      "properties": {
+        "name": "Kumira Beach, Kumira, Chattogram",
+        "tourism": "",
+        "historic": "",
+        "natural": "beach",
+        "amenity": "",
+        "district": "Chittagong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.698488,
+          22.5058152
+        ]
+      },
+      "properties": {
+        "name": "OWW TRADING & SHIP BREAKING-1, Kumira, Chattogram",
+        "tourism": "",
+        "historic": "wreck",
+        "natural": "",
+        "amenity": "",
+        "district": "Chittagong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.6996491,
+          22.5020579
+        ]
+      },
+      "properties": {
+        "name": "Alekdia Beach, Kumira, Chattogram",
+        "tourism": "",
+        "historic": "",
+        "natural": "beach",
+        "amenity": "",
+        "district": "Chittagong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.7193753,
+          22.4666056
+        ]
+      },
+      "properties": {
+        "name": "Nimtala Sea Beach, Hatia, Chattogram",
+        "tourism": "",
+        "historic": "",
+        "natural": "beach",
+        "amenity": "",
+        "district": "Chittagong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.7529766,
+          22.4144162
+        ]
+      },
+      "properties": {
+        "name": "Khaja Goribe Newaz Hotel, BTC Gate, Banu Bazar, Bhatiari, Sitakunda, Chattogram",
+        "tourism": "hotel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Chittagong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.739624,
+          22.4352027
+        ]
+      },
+      "properties": {
+        "name": "Allahar Dan Hotel, Dhaka - Chittagong Hwy, Bhatiari, Chattogram",
+        "tourism": "hotel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Chittagong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.7508372,
+          22.3938264
+        ]
+      },
+      "properties": {
+        "name": "Camping Guru, Sangu Gas Field, Salimpur, Salimpur Union, Chattogram",
+        "tourism": "camp_site",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Chittagong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.7565125,
+          22.3886047
+        ]
+      },
+      "properties": {
+        "name": "Ocean Maritime Academy (Hostel), Salimpur Union, Chattogram",
+        "tourism": "hotel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Chittagong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.7429962,
+          22.4278689
+        ]
+      },
+      "properties": {
+        "name": "Ananya shadera Hottel  Dhaka - Chittagong Hwy, Bhatiari, Chattogram",
+        "tourism": "hotel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Chittagong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.7508823,
+          22.4269296
+        ]
+      },
+      "properties": {
+        "name": "Sbadhinata Manacitra, Bhatiari - Hathazari Link Rd, Bhatiari, Chattogram",
+        "tourism": "artwork",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Chittagong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.7461754,
+          22.4244256
+        ]
+      },
+      "properties": {
+        "name": "Bhatiari Shaheed Minar, Dhaka - Chittagong Hwy, Bhatiari, Chattogram",
+        "tourism": "",
+        "historic": "monument",
+        "natural": "",
+        "amenity": "",
+        "district": "Chittagong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.7521304,
+          22.4287241
+        ]
+      },
+      "properties": {
+        "name": "Mile Test SP, Bhatiari - Hathazari Link Rd, Bhatiari, Chattogram",
+        "tourism": "",
+        "historic": "fort",
+        "natural": "",
+        "amenity": "",
+        "district": "Chittagong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.7544494,
+          22.4271074
+        ]
+      },
+      "properties": {
+        "name": "Mostafa Company, Bhatiari - Hathazari Link Rd, Bhatiari, Chattogram",
+        "tourism": "hostel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Chittagong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.7509076,
+          22.427726
+        ]
+      },
+      "properties": {
+        "name": "Shahid S Kabir sir ambagaan ground",
+        "tourism": "",
+        "historic": "fort",
+        "natural": "",
+        "amenity": "",
+        "district": "Chittagong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.7544345,
+          22.4259184
+        ]
+      },
+      "properties": {
+        "name": "Noor Mohammad Company, Bhatiari - Hathazari Link Rd, Bhatiari, Chattogram",
+        "tourism": "hostel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Chittagong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.7573599,
+          22.4277027
+        ]
+      },
+      "properties": {
+        "name": "Sunset Sunrise Point, Bhatiari - Hathazari Link Rd, Bhatiari, Chattogram",
+        "tourism": "attraction",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Chittagong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.7571407,
+          22.4057812
+        ]
+      },
+      "properties": {
+        "name": "Parityakta lala ghore, Faujdarhat, Dhaka - Chittagong Hwy, Chattogram",
+        "tourism": "",
+        "historic": "monument",
+        "natural": "",
+        "amenity": "",
+        "district": "Chittagong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.7762274,
+          22.3701766
+        ]
+      },
+      "properties": {
+        "name": "Badamtoli,eshan mohajan road, Salimpur, Chattogram",
+        "tourism": "hotel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Chittagong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.7817996,
+          22.3624555
+        ]
+      },
+      "properties": {
+        "name": "Hotel Green way (Residential), Ak Khan more, Chattogram",
+        "tourism": "motel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Chittagong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.7740376,
+          22.3568777
+        ]
+      },
+      "properties": {
+        "name": "Vintage Group, Block-A Sagorika Rd, Chattogram",
+        "tourism": "camp_site",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Chittagong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.7717526,
+          22.3578999
+        ]
+      },
+      "properties": {
+        "name": "Modiste Bangladesh Hotel, Sagorika Rd, Chattogram",
+        "tourism": "hotel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Chittagong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.7576464,
+          22.3521545
+        ]
+      },
+      "properties": {
+        "name": "South Kattali Sea Beach, Chittagong Coastal Rd, Chattogram",
+        "tourism": "",
+        "historic": "",
+        "natural": "beach",
+        "amenity": "",
+        "district": "Chittagong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.7825466,
+          22.3591044
+        ]
+      },
+      "properties": {
+        "name": "Hotel Ocean View, Port Connecting Road, Alankar More, Pahartoli, Chattogram",
+        "tourism": "hotel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Chittagong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.7823196,
+          22.3586892
+        ]
+      },
+      "properties": {
+        "name": "Hotel Asian International",
+        "tourism": "hotel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Chittagong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.7825562,
+          22.3579866
+        ]
+      },
+      "properties": {
+        "name": "Hotel Chittagong Today, Port Connecting Rd, Chattogram",
+        "tourism": "hotel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Chittagong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.7840911,
+          22.3603165
+        ]
+      },
+      "properties": {
+        "name": "Masum Group, Nesaria Madrasa Rd, Chattogram",
+        "tourism": "camp_site",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Chittagong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.7851532,
+          22.3587571
+        ]
+      },
+      "properties": {
+        "name": "Four Eyes Group, Besides Shahjalal Islamic Bank Limited, Dhaka Trunk Rd, Chattogram",
+        "tourism": "camp_site",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Chittagong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.7869169,
+          22.3577105
+        ]
+      },
+      "properties": {
+        "name": "Ayesha Hotel, Sagorika Complex, C.D.A Market, Pahartali, Chattogram",
+        "tourism": "hotel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Chittagong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.7871691,
+          22.3573721
+        ]
+      },
+      "properties": {
+        "name": "Hotel Niribili & Birani House, Mocak Plaza, CDA Market, Pahartali, Chattogram",
+        "tourism": "hotel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Chittagong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.7960614,
+          22.3204239
+        ]
+      },
+      "properties": {
+        "name": "Amins Group, Port Connecting Rd, Chattogram",
+        "tourism": "camp_site",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Chittagong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.7895522,
+          22.330369
+        ]
+      },
+      "properties": {
+        "name": "Hotel Al- Bostan, Unnamed Road, Chattogram",
+        "tourism": "hotel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Chittagong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.7978197,
+          22.3449977
+        ]
+      },
+      "properties": {
+        "name": "Mim Aquarium Fish Centre, Eid Gha Kacha Rasta, Halishahor Road, Chattogram",
+        "tourism": "aquarium",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Chittagong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.7673497,
+          22.3327402
+        ]
+      },
+      "properties": {
+        "name": "Bishmillah Hotel and Biriyani House Ltd, Port Link Rd, Abbas Para Halishahar, Chattogram",
+        "tourism": "hotel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Chittagong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.7867911,
+          22.324507
+        ]
+      },
+      "properties": {
+        "name": "New Hostel, Railway Training Academy, Railway Training Academy, Chattogram",
+        "tourism": "hostel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Chittagong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.7839287,
+          22.2978163
+        ]
+      },
+      "properties": {
+        "name": "Arafat hotel, 2 no mailer Martha, Chattogram",
+        "tourism": "hotel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Chittagong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.7662424,
+          22.3208484
+        ]
+      },
+      "properties": {
+        "name": "Chouchala Sea Beach, Chittagong Coastal Rd, Chattogram",
+        "tourism": "",
+        "historic": "",
+        "natural": "beach",
+        "amenity": "",
+        "district": "Chittagong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.7892756,
+          22.327997
+        ]
+      },
+      "properties": {
+        "name": "Bangabandhu Sculpture (Barapole More), Barapole More, Chattogram",
+        "tourism": "",
+        "historic": "monument",
+        "natural": "",
+        "amenity": "",
+        "district": "Chittagong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.7703996,
+          22.3031754
+        ]
+      },
+      "properties": {
+        "name": "Dhoompara Sea Beach, Chittagong Coastal Rd, Chattogram",
+        "tourism": "",
+        "historic": "",
+        "natural": "beach",
+        "amenity": "",
+        "district": "Chittagong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.7674615,
+          22.3127991
+        ]
+      },
+      "properties": {
+        "name": "Anandabazar Beach, Chittagong Coastal Rd, Chattogram",
+        "tourism": "",
+        "historic": "",
+        "natural": "beach",
+        "amenity": "",
+        "district": "Chittagong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.8127294,
+          22.3350953
+        ]
+      },
+      "properties": {
+        "name": "Hotel Hoque Tower International, Haque Tower, Sheikh Mujib Rd, Chattogram",
+        "tourism": "hotel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Chittagong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.8173515,
+          22.3365045
+        ]
+      },
+      "properties": {
+        "name": "Parabar Shahitya Sangskriti Sanghsad, Dhaka Trunk Rd, Chattogram",
+        "tourism": "museum",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Chittagong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.8182456,
+          22.3338154
+        ]
+      },
+      "properties": {
+        "name": "Hotel Holiday (Residential), Pathantuli Sharak, Motiarpul, Kadamtoli, Chattogram",
+        "tourism": "hotel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Chittagong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.8171178,
+          22.3334011
+        ]
+      },
+      "properties": {
+        "name": "Mostofa Hotel, Pathantuli Road, Nazir Pol, Chaumohoni, Chattogram",
+        "tourism": "hotel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Chittagong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.8159334,
+          22.3330441
+        ]
+      },
+      "properties": {
+        "name": "Hotel Purabi",
+        "tourism": "hotel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Chittagong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.8178628,
+          22.3310446
+        ]
+      },
+      "properties": {
+        "name": "New Mokka Hotel, Commerce College Road, Chattogram",
+        "tourism": "hotel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Chittagong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.8178512,
+          22.3250465
+        ]
+      },
+      "properties": {
+        "name": "Commerce College student Hostel, Commerce College Road, Chattogram",
+        "tourism": "hostel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Chittagong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.8127104,
+          22.3237184
+        ]
+      },
+      "properties": {
+        "name": "Green Star Hotel, Sheikh Mujib Road, Agrabad, Chattogram",
+        "tourism": "hotel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Chittagong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.816381,
+          22.326891
+        ]
+      },
+      "properties": {
+        "name": "Hotel Agrabad, D.T Road, Chattogram",
+        "tourism": "hotel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Chittagong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.8153821,
+          22.3275094
+        ]
+      },
+      "properties": {
+        "name": "Infinity Group Of Companies, As-Salam Tower, Sabdar Ali Road, Chattogram",
+        "tourism": "camp_site",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Chittagong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.8151049,
+          22.3280106
+        ]
+      },
+      "properties": {
+        "name": "Ethnological Museum, Sabdar Ali Rd, Chattogram",
+        "tourism": "museum",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Chittagong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.8128772,
+          22.3318699
+        ]
+      },
+      "properties": {
+        "name": "Hotel Eastern View, Sheikh Mujib Rd, Chattogram",
+        "tourism": "hotel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Chittagong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.8159051,
+          22.3327263
+        ]
+      },
+      "properties": {
+        "name": "Hotel Smrity Residential, Pathantuli Road, Nazirpul Chaumohoni, Chattogram",
+        "tourism": "hotel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Chittagong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.8217261,
+          22.3321527
+        ]
+      },
+      "properties": {
+        "name": "M/s. Hotel Amania Vaat Ghor, D. T. Road, Polashi Market, Kadamtoli, Chattogram",
+        "tourism": "hotel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Chittagong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.8202425,
+          22.3291865
+        ]
+      },
+      "properties": {
+        "name": "Nuranee Hotel, Jugi Chand Mosjhid Ln, Chattogram",
+        "tourism": "hotel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Chittagong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.8217643,
+          22.3292156
+        ]
+      },
+      "properties": {
+        "name": "Hotel Pelika, Dhaka Trunk Road, Poshchim Madar Bari, Chattogram",
+        "tourism": "hotel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Chittagong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.77988,
+          22.28675
+        ]
+      },
+      "properties": {
+        "name": "Central Sahid Minar, BEPZA College Rd, Chattogram",
+        "tourism": "",
+        "historic": "pillory",
+        "natural": "",
+        "amenity": "",
+        "district": "Chittagong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.7723213,
+          22.2748156
+        ]
+      },
+      "properties": {
+        "name": "Akmol Ali Sea Beach, EPZ, Chattogram",
+        "tourism": "attraction",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Chittagong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.7794557,
+          22.2742427
+        ]
+      },
+      "properties": {
+        "name": "New side para, Notun side para, S Alam B Alam Rd, Chattogram",
+        "tourism": "attraction",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Chittagong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.7745758,
+          22.2648339
+        ]
+      },
+      "properties": {
+        "name": "Khejurtola Tourist Area, Chittagong Coastal Rd, Chattogram",
+        "tourism": "attraction",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Chittagong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.7780377,
+          22.2683917
+        ]
+      },
+      "properties": {
+        "name": "Khejur Tola Circle, Khezortola, Madrasa Rd, Chattogram",
+        "tourism": "attraction",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Chittagong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.7834868,
+          22.2505144
+        ]
+      },
+      "properties": {
+        "name": "Hajee Abul Hossain Swadagars Farm, Unnamed Road, Chattogram",
+        "tourism": "attraction",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Chittagong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.7832459,
+          22.3629308
+        ]
+      },
+      "properties": {
+        "name": "Hotel Highway International, Zakir Hossain Road, A.K. Khan Mor, Akbarshah, Pahartali, Chattogram",
+        "tourism": "hotel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Chittagong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.8161309,
+          22.3615284
+        ]
+      },
+      "properties": {
+        "name": "Mrinmoy Art Gallery, Priyangon, Zakir Hossain Rd, Chattogram",
+        "tourism": "gallery",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Chittagong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.818224,
+          22.3609832
+        ]
+      },
+      "properties": {
+        "name": "Shanti Niketon Womens Hostel, Bhuiyan Goli, Chattogram",
+        "tourism": "hostel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Chittagong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.8125927,
+          22.3617347
+        ]
+      },
+      "properties": {
+        "name": "Photobank Gallery, Concord Khulshi Town Center, Zakir Hossain Rd, Chattogram",
+        "tourism": "gallery",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Chittagong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.821987,
+          22.3410556
+        ]
+      },
+      "properties": {
+        "name": "Liberation war railway Memorial",
+        "tourism": "",
+        "historic": "memorial",
+        "natural": "",
+        "amenity": "",
+        "district": "Chittagong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.8222418,
+          22.3414563
+        ]
+      },
+      "properties": {
+        "name": "Old Steam Engine",
+        "tourism": "attraction",
+        "historic": "locomotive",
+        "natural": "",
+        "amenity": "",
+        "district": "Chittagong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.7722784,
+          22.3905963
+        ]
+      },
+      "properties": {
+        "name": "Bayezid Link Rd, Katta Pahar, Salimpur, Bayezid Link Rd, Chattogram",
+        "tourism": "attraction",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Chittagong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.8177535,
+          22.4083442
+        ]
+      },
+      "properties": {
+        "name": "New Janata Hotel, S.K. Sahabuddin Supermarket, Baluchara, Hathazari Road, Chattogram",
+        "tourism": "hotel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Chittagong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.819786,
+          22.4205499
+        ]
+      },
+      "properties": {
+        "name": "Maa Food Corner & Hotel, Kamal Khan Plaza, Hathazari Road, Aman Bazar, Chattogram",
+        "tourism": "hotel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Chittagong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.8065146,
+          22.4981969
+        ]
+      },
+      "properties": {
+        "name": "Cafe Hamida Abashik Hotel, Hamida Building ,Bus Stand, Hathazari,Rangamati Road, Chattogram",
+        "tourism": "hotel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Chittagong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.7938446,
+          22.6237778
+        ]
+      },
+      "properties": {
+        "name": "Gauchia Hotel, Chittagong - Khagrachhari Rd, Forhadabad, Chattogram",
+        "tourism": "hotel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Chittagong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.7911298,
+          22.690827
+        ]
+      },
+      "properties": {
+        "name": "Phatikachari Muktiyoddha Catbara, Bibir Hat, Chittagong - Khagrachhari Rd, Bibir Hat, Chattogram",
+        "tourism": "",
+        "historic": "fort",
+        "natural": "",
+        "amenity": "",
+        "district": "Chittagong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.8008556,
+          22.6323447
+        ]
+      },
+      "properties": {
+        "name": "Hotel Mount Royal, Nazirhat, Chittagong - Khagrachhari Rd, Nazir Hat, Chattogram",
+        "tourism": "hotel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Chittagong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.8003734,
+          22.6315005
+        ]
+      },
+      "properties": {
+        "name": "Hajrat Shahenshah Jiaul Hak Maijbhanderi Gate, Najirhat, Chattogram",
+        "tourism": "",
+        "historic": "city_gate",
+        "natural": "",
+        "amenity": "",
+        "district": "Chittagong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.7947835,
+          22.5786075
+        ]
+      },
+      "properties": {
+        "name": "Chairman Ghata, Chittagong - Khagrachhari Rd, Anayetpur, Chattogram",
+        "tourism": "",
+        "historic": "city_gate",
+        "natural": "",
+        "amenity": "",
+        "district": "Chittagong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.8115199,
+          22.4831273
+        ]
+      },
+      "properties": {
+        "name": "New Bar Auliya Hotel & Restaurant, Chittagong - Rangamati-Khagrachhari Rd, Chattogram",
+        "tourism": "hotel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Chittagong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.8201627,
+          22.4422263
+        ]
+      },
+      "properties": {
+        "name": "Cafe Rabeya Hotel, Chowdhuryhat, Foteyabad, Infront of Dataram Sadak, Hathazari, Chattogram",
+        "tourism": "hotel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Chittagong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.9132702,
+          22.5350489
+        ]
+      },
+      "properties": {
+        "name": "Raozan Town Center, Raozan - Amir Hat Rd, Chittagong - Rangamati Hwy, Raozan, Chattogram",
+        "tourism": "",
+        "historic": "castle",
+        "natural": "",
+        "amenity": "",
+        "district": "Chittagong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.9488751,
+          22.5385909
+        ]
+      },
+      "properties": {
+        "name": "Tarek Hotel, Forest Office Gate., Chittagong - Rangamati Hwy, Raozan, Chattogram",
+        "tourism": "hotel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Chittagong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.9532576,
+          22.5385356
+        ]
+      },
+      "properties": {
+        "name": "Raozan Resort",
+        "tourism": "hotel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Chittagong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.8723499,
+          22.2340102
+        ]
+      },
+      "properties": {
+        "name": "All Biryani House at Al Baik Hotel, Chittagong-Anwara-Banshkhali Rd, Anwara, Chattogram",
+        "tourism": "hotel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Chittagong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.8691999,
+          22.2571291
+        ]
+      },
+      "properties": {
+        "name": "Daulatpur Fultola., Tourist attraction, Kornofuli, Daulatpur, Chattogram",
+        "tourism": "attraction",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Chittagong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.9148816,
+          22.5347923
+        ]
+      },
+      "properties": {
+        "name": "Raozan Monument, Chittagong - Rangamati Hwy, Raozan, Chattogram",
+        "tourism": "",
+        "historic": "castle",
+        "natural": "",
+        "amenity": "",
+        "district": "Chittagong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.8869262,
+          22.5310003
+        ]
+      },
+      "properties": {
+        "name": "Jagatmalla Para Bathyabhoomi, Historical landmark, Raozan, Chittagong - Rangamati Hwy, Chattogram",
+        "tourism": "",
+        "historic": "pillory",
+        "natural": "",
+        "amenity": "",
+        "district": "Chittagong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.791544,
+          22.2453545
+        ]
+      },
+      "properties": {
+        "name": "Hotel Diamond, Kamal Ataturk Ave, Chattogram",
+        "tourism": "hotel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Chittagong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.8173582,
+          22.239316
+        ]
+      },
+      "properties": {
+        "name": "Naval Sea Beach, Potenga Rd, VIP Rd, Chattogram",
+        "tourism": "attraction",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Chittagong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.7945366,
+          22.2340651
+        ]
+      },
+      "properties": {
+        "name": "TK Group, Chittagong Coastal Rd, Chattogram",
+        "tourism": "camp_site",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Chittagong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.822017,
+          22.3320315
+        ]
+      },
+      "properties": {
+        "name": "Ali Akbar Hotel, D. T. Road, West Madarbari, Railgate, Chattogram",
+        "tourism": "hotel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Chittagong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.8224506,
+          22.3934525
+        ]
+      },
+      "properties": {
+        "name": "Hotel Zaman, Chattogram Hathajari Highway, Chattogram",
+        "tourism": "hotel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Chittagong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.8252419,
+          22.3319818
+        ]
+      },
+      "properties": {
+        "name": "Natuna Raster Matha, Kamal Gate Rd, Chattogram",
+        "tourism": "",
+        "historic": "castle",
+        "natural": "",
+        "amenity": "",
+        "district": "Chittagong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.8325714,
+          22.3288896
+        ]
+      },
+      "properties": {
+        "name": "Selim Hotel, Kazi Nazrul Islam Rd, Chattogram",
+        "tourism": "hotel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Chittagong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.8361717,
+          22.3329948
+        ]
+      },
+      "properties": {
+        "name": "M. Rahman Associates Meghna Residential Hotel, Shohid Sohorawardi Road, Kotowali, Chattogram",
+        "tourism": "hotel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Chittagong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.8213734,
+          22.3241412
+        ]
+      },
+      "properties": {
+        "name": "Shipping services (SHS) GROUP, Majhirghat Road, Chattogram",
+        "tourism": "camp_site",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Chittagong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.8309092,
+          22.3285267
+        ]
+      },
+      "properties": {
+        "name": "Al Makkah Hotel & Biriyani House, Sadarghat Rd, Chattogram",
+        "tourism": "hotel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Chittagong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.8186058,
+          22.2407915
+        ]
+      },
+      "properties": {
+        "name": "Noakali Hotel, Potenga Rd, Chattogram",
+        "tourism": "hotel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Chittagong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.8154028,
+          22.320758
+        ]
+      },
+      "properties": {
+        "name": "BASHAR GROUP, 92 Amir Hossain Dubhash Rd, Chattogram",
+        "tourism": "camp_site",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Chittagong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.8329301,
+          22.3336644
+        ]
+      },
+      "properties": {
+        "name": "Hotel New Zaman and Biriyani House, Huseyn Shaheed Suhrawardy Rd, Chattogram",
+        "tourism": "hotel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Chittagong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.828448,
+          22.3286213
+        ]
+      },
+      "properties": {
+        "name": "Ma Amena (RA) Girls Hostel., Govt.City College, Chattogram",
+        "tourism": "hotel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Chittagong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.8306635,
+          22.3258113
+        ]
+      },
+      "properties": {
+        "name": "IMS GROUP, (SRB) Banglabazar, Strand Road, Chattogram",
+        "tourism": "camp_site",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Chittagong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.8340011,
+          22.3331184
+        ]
+      },
+      "properties": {
+        "name": "Hotel Herocity, Sadarghat Rd, Chattogram",
+        "tourism": "hotel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Chittagong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.8242289,
+          22.2470684
+        ]
+      },
+      "properties": {
+        "name": "PCT Yard, Potenga Rd, Chattogram",
+        "tourism": "alpine_hut",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Chittagong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.8115448,
+          22.2701663
+        ]
+      },
+      "properties": {
+        "name": "Shah Hossain Alia Road Bhola Saha Mazar Anwara Chittagong, Airport Rd, Chattogram",
+        "tourism": "attraction",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Chittagong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.8034433,
+          22.2536388
+        ]
+      },
+      "properties": {
+        "name": "Jahangir Hotel, Shop No:51, Raja Pukur Ln, Chattogram",
+        "tourism": "hotel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Chittagong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.8084299,
+          22.2621344
+        ]
+      },
+      "properties": {
+        "name": "Kamal Mahajan Hat (Kailla Hat), patenga katgor, Chattogram",
+        "tourism": "",
+        "historic": "fort",
+        "natural": "",
+        "amenity": "",
+        "district": "Chittagong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.8041963,
+          22.252593
+        ]
+      },
+      "properties": {
+        "name": "Dakkhin maiz para Eid gah maidan, M E, S Road, Chattogram",
+        "tourism": "",
+        "historic": "castle",
+        "natural": "",
+        "amenity": "",
+        "district": "Chittagong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.8187342,
+          22.2410947
+        ]
+      },
+      "properties": {
+        "name": "Mayer Dowa Hotel & Restaurant, 15 No Air Port Road, Potenga, Chattogram",
+        "tourism": "hotel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Chittagong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.8130759,
+          22.2419128
+        ]
+      },
+      "properties": {
+        "name": "Airport Ansar Camp, Nizam Market Rd, Chattogram",
+        "tourism": "camp_site",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Chittagong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.7880976,
+          22.289973
+        ]
+      },
+      "properties": {
+        "name": "Chattogram Karnaphuli Ansar Camp, Unnamed Road, Chattogram",
+        "tourism": "camp_site",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Chittagong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.7917,
+          22.2983408
+        ]
+      },
+      "properties": {
+        "name": "R- Rahman Hotel, Unnamed Road, Chattogram",
+        "tourism": "hotel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Chittagong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.8043768,
+          22.3623216
+        ]
+      },
+      "properties": {
+        "name": "Father of the Nation Bangabandhu Sheikh Mujibur Rahman, Zakir Hossain Rd, Chattogram",
+        "tourism": "artwork",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Chittagong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.7921041,
+          22.2988609
+        ]
+      },
+      "properties": {
+        "name": "Mae Doa Hotel & Restaurant, Unnamed Road, Chattogram",
+        "tourism": "hotel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Chittagong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.8279041,
+          22.3411459
+        ]
+      },
+      "properties": {
+        "name": "Hotel Bandargaon, Residential., Jubilee Rd, Chattogram",
+        "tourism": "hotel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Chittagong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.833845,
+          22.3448938
+        ]
+      },
+      "properties": {
+        "name": "Jamal Khan Well, Jamal Khan Rd, Chattogram",
+        "tourism": "",
+        "historic": "pillory",
+        "natural": "",
+        "amenity": "",
+        "district": "Chittagong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.8252318,
+          22.3362053
+        ]
+      },
+      "properties": {
+        "name": "Golden Inn Chattogram Limited, Station Rd, Chattogram",
+        "tourism": "hotel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Chittagong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.8305601,
+          22.3348932
+        ]
+      },
+      "properties": {
+        "name": "Hotel Paramount International, Station Road, Station Rd, Chattogram",
+        "tourism": "hotel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Chittagong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.8340794,
+          22.3477513
+        ]
+      },
+      "properties": {
+        "name": "Jamal Khan Tourist Spot, Jamal Khan Rd, Chattogram",
+        "tourism": "attraction",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Chittagong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.8173311,
+          22.3437278
+        ]
+      },
+      "properties": {
+        "name": "Tiger of Tigerpass 2, CDA Ave, Chattogram",
+        "tourism": "artwork",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Chittagong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.8254671,
+          22.3439628
+        ]
+      },
+      "properties": {
+        "name": "Maritime Museum, Naval Ave, Chattogram",
+        "tourism": "museum",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Chittagong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.8240617,
+          22.3498574
+        ]
+      },
+      "properties": {
+        "name": "Max Group Base Camp ( EEWP ), Chatteshwari Rd, Chattogram",
+        "tourism": "camp_site",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Chittagong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.8213317,
+          22.3636161
+        ]
+      },
+      "properties": {
+        "name": "Europe Bangla Group, Europe Bangla Group, CDA Ave, Chattogram",
+        "tourism": "camp_site",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Chittagong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.8273244,
+          22.3552967
+        ]
+      },
+      "properties": {
+        "name": "Artist Rashid Choudhury Art Gallery, Institute of Fine Arts, University of Chattogram, Chattogram",
+        "tourism": "gallery",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Chittagong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.8383484,
+          22.3584128
+        ]
+      },
+      "properties": {
+        "name": "Hotel Regent Palace Residential, Kapasgola Rd, Chattogram",
+        "tourism": "hotel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Chittagong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.8352393,
+          22.3631603
+        ]
+      },
+      "properties": {
+        "name": "Monir Hotel & Jhal Bitan, Katalganj, Hathazari Road, Panchlaish, Chattogram",
+        "tourism": "hotel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Chittagong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.8347598,
+          22.3636158
+        ]
+      },
+      "properties": {
+        "name": "Khaja Garib-E-Newaz Hotel, Mirzapul Rd, Chattogram",
+        "tourism": "hotel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Chittagong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.8534982,
+          22.3565062
+        ]
+      },
+      "properties": {
+        "name": "RDM Group, Chittagong - Coxs Bazar Hwy, Chattogram",
+        "tourism": "camp_site",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Chittagong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.8703567,
+          22.291283
+        ]
+      },
+      "properties": {
+        "name": "Patiya Crossing, Historical landmark, Chittagong-Coxs Bazar Hwy, Chattogram",
+        "tourism": "",
+        "historic": "pillory",
+        "natural": "",
+        "amenity": "",
+        "district": "Chittagong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.857674,
+          22.3102359
+        ]
+      },
+      "properties": {
+        "name": "New Al Modina Hotel, Dhaka - Chittagong Highway, Chattogram",
+        "tourism": "hotel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Chittagong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.8519757,
+          22.3317848
+        ]
+      },
+      "properties": {
+        "name": "Hotel GM Palace (Residential) AC/NonAC, New Bridge Bus Stop, Dhaka - Chittagong Highway, Chattogram",
+        "tourism": "hotel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Chittagong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.8002834,
+          22.3544373
+        ]
+      },
+      "properties": {
+        "name": "Sheikh Rasel Shishu Park, Ambagan Road, Chattogram",
+        "tourism": "theme_park",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Chittagong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.8013861,
+          22.3543284
+        ]
+      },
+      "properties": {
+        "name": "Bangladesh Railway Museum, Bangladesh Railway Museum, Ambagan Road, Chattogram",
+        "tourism": "museum",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Chittagong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.8218607,
+          22.3515302
+        ]
+      },
+      "properties": {
+        "name": "Kutumbari Restora (Wasa Branch), CDA Ave, Wasa Moor, Chattogram",
+        "tourism": "hotel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Chittagong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.8218337,
+          22.3520668
+        ]
+      },
+      "properties": {
+        "name": "Hotel Silmoon, CDA Ave, Chattogram",
+        "tourism": "hotel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Chittagong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.8092577,
+          22.3480143
+        ]
+      },
+      "properties": {
+        "name": "Fojol Hotel & Bhaat Ghar, Flora Paas Road, Chattogram",
+        "tourism": "hotel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Chittagong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.8214038,
+          22.3512578
+        ]
+      },
+      "properties": {
+        "name": "Hotel Sea Palace Ltd., High Level Road, 3rd Floor, WASA Circle, East Lalkhan Bazar, Chattogram",
+        "tourism": "hotel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Chittagong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.8210748,
+          22.3643862
+        ]
+      },
+      "properties": {
+        "name": "Hotel Cafe D. Azad And Biriyani House, CDA Ave, Chattogram",
+        "tourism": "hotel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Chittagong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.8292207,
+          22.3821194
+        ]
+      },
+      "properties": {
+        "name": "Bagdad Hotel & Biryani House, Chattogram Hathazari Road, Aturar Depo, Chattogram",
+        "tourism": "hotel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Chittagong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.8114824,
+          22.3786083
+        ]
+      },
+      "properties": {
+        "name": "Allar Daan Hotel, word no 2, Dukan No 31,taxtile gate circle, Bayazid Bostami Rd, Chattogram",
+        "tourism": "hotel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Chittagong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.8367389,
+          22.3316173
+        ]
+      },
+      "properties": {
+        "name": "Chitrangon Art School, Firingi Bazar, Chan Shah Mazar Gali, Opp. J.M. Sen School, Kotowali, Chattogram",
+        "tourism": "artwork",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Chittagong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.8319331,
+          22.3307478
+        ]
+      },
+      "properties": {
+        "name": "Hotel Shahjahan, Sadarghat Rd, Chattogram",
+        "tourism": "hotel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Chittagong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.8314357,
+          22.3289123
+        ]
+      },
+      "properties": {
+        "name": "Hotel Al-Amin and Restaurant, Kazi Nazrul Islam Rd, Chattogram",
+        "tourism": "hotel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Chittagong"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.832358,
+          22.3290412
+        ]
+      },
+      "properties": {
+        "name": "Sandwip Trade International (Hotel Sandwip/Sandwip Boding), Kobi Kazi Nazrul Islam Rd, Chattogram",
+        "tourism": "hotel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Chittagong"
+      }
+    }
+  ]
+}

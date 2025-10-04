@@ -1,0 +1,185 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.0672177,
+          25.0880721
+        ]
+      },
+      "properties": {
+        "name": "Kishan Chicken Hatchery",
+        "tourism": "aquarium",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Joypurhat"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.0395848,
+          25.0960106
+        ]
+      },
+      "properties": {
+        "name": "Joypurhat Freedom Fighters Monument জয়পুরহাট মুক্তিযোদ্ধা মনুমেন্ট",
+        "tourism": "",
+        "historic": "monument",
+        "natural": "",
+        "amenity": "",
+        "district": "Joypurhat"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.035626,
+          25.0996654
+        ]
+      },
+      "properties": {
+        "name": "Kishan Poultry & Hatchery Private Limited",
+        "tourism": "aquarium",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Joypurhat"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.2760902,
+          24.9050042
+        ]
+      },
+      "properties": {
+        "name": "শালবন বিহার",
+        "tourism": "",
+        "historic": "archaeological_site",
+        "natural": "",
+        "amenity": "",
+        "district": "Joypurhat"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.2927553,
+          24.9162904
+        ]
+      },
+      "properties": {
+        "name": "পিড়াপাঠ গোখরা মন্দির",
+        "tourism": "",
+        "historic": "archaeological_site",
+        "natural": "",
+        "amenity": "",
+        "district": "Joypurhat"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.000408,
+          25.106486
+        ]
+      },
+      "properties": {
+        "name": "khanjonpur misson boys hostel",
+        "tourism": "hostel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Joypurhat"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.0272895,
+          25.1017073
+        ]
+      },
+      "properties": {
+        "name": "Saheed Minar Joypurhat",
+        "tourism": "",
+        "historic": "monument",
+        "natural": "",
+        "amenity": "",
+        "district": "Joypurhat"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.0235608,
+          25.0961008
+        ]
+      },
+      "properties": {
+        "name": "অনন্যা ছাত্রীনিবাস",
+        "tourism": "hostel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Joypurhat"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.0238962,
+          25.0960897
+        ]
+      },
+      "properties": {
+        "name": "জীম মেস",
+        "tourism": "hostel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Joypurhat"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.0239348,
+          25.0963069
+        ]
+      },
+      "properties": {
+        "name": "সিফাত ছাত্রী নিবাস",
+        "tourism": "hostel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Joypurhat"
+      }
+    }
+  ]
+}

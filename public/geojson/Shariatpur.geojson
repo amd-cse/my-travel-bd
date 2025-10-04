@@ -1,0 +1,77 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.3470888,
+          23.2048606
+        ]
+      },
+      "properties": {
+        "name": "Shariatpur Circuit House",
+        "tourism": "guest_house",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Shariatpur"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.3472954,
+          23.2075167
+        ]
+      },
+      "properties": {
+        "name": "Shariatpur Shahid Minar",
+        "tourism": "",
+        "historic": "monument",
+        "natural": "",
+        "amenity": "",
+        "district": "Shariatpur"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.3344645,
+          23.2994761
+        ]
+      },
+      "properties": {
+        "name": "মোতালেব মাস্টারের বাড়ি",
+        "tourism": "",
+        "historic": "castle",
+        "natural": "",
+        "amenity": "",
+        "district": "Shariatpur"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.4209034,
+          23.1907744
+        ]
+      },
+      "properties": {
+        "name": "বাবুল খার দিঘী",
+        "tourism": "attraction",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Shariatpur"
+      }
+    }
+  ]
+}

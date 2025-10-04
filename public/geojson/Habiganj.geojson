@@ -1,0 +1,131 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.4152783,
+          24.3728174
+        ]
+      },
+      "properties": {
+        "name": "Messrs Adhorso Pharmacy",
+        "tourism": "guest_house",
+        "historic": "",
+        "natural": "",
+        "amenity": "pharmacy",
+        "district": "Habiganj"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.3621585,
+          24.524342
+        ]
+      },
+      "properties": {
+        "name": "শহীদ মিনার",
+        "tourism": "",
+        "historic": "monument",
+        "natural": "",
+        "amenity": "",
+        "district": "Habiganj"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.3600469,
+          24.5265919
+        ]
+      },
+      "properties": {
+        "name": "বানিয়াচং রাজবাড়ী",
+        "tourism": "museum",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Habiganj"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.4089648,
+          24.2371516
+        ]
+      },
+      "properties": {
+        "name": "Lalchand Main Point",
+        "tourism": "",
+        "historic": "",
+        "natural": "wood",
+        "amenity": "",
+        "district": "Habiganj"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.5207049,
+          24.2361728
+        ]
+      },
+      "properties": {
+        "name": "Syed Murad Ahammad Chisti House",
+        "tourism": "museum",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Habiganj"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.4123618,
+          24.3744164
+        ]
+      },
+      "properties": {
+        "name": "Shaeed Mina",
+        "tourism": "",
+        "historic": "monument",
+        "natural": "",
+        "amenity": "",
+        "district": "Habiganj"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.4165986,
+          24.3738582
+        ]
+      },
+      "properties": {
+        "name": "M A Rob (Biruttam) Library and Memorial Museum",
+        "tourism": "museum",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Habiganj"
+      }
+    }
+  ]
+}

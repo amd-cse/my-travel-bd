@@ -1,0 +1,509 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.9579979,
+          24.7165898
+        ]
+      },
+      "properties": {
+        "name": "জেলা পরিষদ ডাক বাংলো",
+        "tourism": "guest_house",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Netrokona"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.8039302,
+          24.816756
+        ]
+      },
+      "properties": {
+        "name": "Palm Tree",
+        "tourism": "",
+        "historic": "",
+        "natural": "tree",
+        "amenity": "",
+        "district": "Netrokona"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.7324488,
+          24.8805723
+        ]
+      },
+      "properties": {
+        "name": "Sahid Minner",
+        "tourism": "",
+        "historic": "monument",
+        "natural": "",
+        "amenity": "",
+        "district": "Netrokona"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.6525732,
+          24.4192286
+        ]
+      },
+      "properties": {
+        "name": "Upazila Central Shahid Minar",
+        "tourism": "",
+        "historic": "monument",
+        "natural": "",
+        "amenity": "",
+        "district": "Netrokona"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.7390472,
+          24.8922193
+        ]
+      },
+      "properties": {
+        "name": "Hotel Kobir International and Kutumbari Restaurant",
+        "tourism": "hotel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Netrokona"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.7519653,
+          24.8049223
+        ]
+      },
+      "properties": {
+        "name": "Madanpur Dak Bungalow",
+        "tourism": "guest_house",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Netrokona"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.6520571,
+          24.4230279
+        ]
+      },
+      "properties": {
+        "name": "College Shahid Min ar",
+        "tourism": "",
+        "historic": "monument",
+        "natural": "",
+        "amenity": "",
+        "district": "Netrokona"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.6522824,
+          24.4237495
+        ]
+      },
+      "properties": {
+        "name": "College Hostel",
+        "tourism": "hotel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Netrokona"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.6525439,
+          24.4246971
+        ]
+      },
+      "properties": {
+        "name": "থানার জামগাছ",
+        "tourism": "",
+        "historic": "",
+        "natural": "tree",
+        "amenity": "",
+        "district": "Netrokona"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.8582954,
+          24.8138706
+        ]
+      },
+      "properties": {
+        "name": "জেলা পরিষদ ডাকবাংলা",
+        "tourism": "motel",
+        "historic": "",
+        "natural": "",
+        "amenity": "motel",
+        "district": "Netrokona"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.8467411,
+          24.6695321
+        ]
+      },
+      "properties": {
+        "name": "Hilaly's Palace",
+        "tourism": "",
+        "historic": "castle",
+        "natural": "",
+        "amenity": "",
+        "district": "Netrokona"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.961035,
+          24.7149219
+        ]
+      },
+      "properties": {
+        "name": "College Shahid Minar",
+        "tourism": "",
+        "historic": "monument",
+        "natural": "",
+        "amenity": "",
+        "district": "Netrokona"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.9544033,
+          24.7166094
+        ]
+      },
+      "properties": {
+        "name": "Sagar Hotel",
+        "tourism": "hotel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Netrokona"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.9482971,
+          24.7168858
+        ]
+      },
+      "properties": {
+        "name": "Hazrat Shah Jalal (R:) Hotel",
+        "tourism": "hotel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Netrokona"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.9475863,
+          24.7166747
+        ]
+      },
+      "properties": {
+        "name": "Joy Ma Confectionery",
+        "tourism": "hotel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Netrokona"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.946461,
+          24.7167391
+        ]
+      },
+      "properties": {
+        "name": "Hotel",
+        "tourism": "hotel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Netrokona"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.956059,
+          24.7166104
+        ]
+      },
+      "properties": {
+        "name": "Naba Ratna Hotel",
+        "tourism": "hotel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Netrokona"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.9564446,
+          24.7169202
+        ]
+      },
+      "properties": {
+        "name": "Animals Hospital",
+        "tourism": "hostel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Netrokona"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.9487671,
+          24.7168854
+        ]
+      },
+      "properties": {
+        "name": "Vai Vai Hotel",
+        "tourism": "hotel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Netrokona"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.9480119,
+          24.7170526
+        ]
+      },
+      "properties": {
+        "name": "Kashbon Sweets Fast-food & Cerf",
+        "tourism": "hotel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Netrokona"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.9480168,
+          24.717013
+        ]
+      },
+      "properties": {
+        "name": "Hotel Nirala",
+        "tourism": "hotel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Netrokona"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.9439012,
+          24.7177756
+        ]
+      },
+      "properties": {
+        "name": "Abdullah Khabar Hotel",
+        "tourism": "hotel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Netrokona"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.9452547,
+          24.7173066
+        ]
+      },
+      "properties": {
+        "name": "Shahid Minar",
+        "tourism": "",
+        "historic": "monument",
+        "natural": "",
+        "amenity": "",
+        "district": "Netrokona"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.9869477,
+          24.7148332
+        ]
+      },
+      "properties": {
+        "name": "ছয় তারা হোটেল",
+        "tourism": "hotel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Netrokona"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.9870299,
+          24.7148205
+        ]
+      },
+      "properties": {
+        "name": "Hazrat Shah Ali  Hotel",
+        "tourism": "hotel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Netrokona"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.7186844,
+          24.8843177
+        ]
+      },
+      "properties": {
+        "name": "Mymensingh",
+        "tourism": "",
+        "historic": "wayside_shrine",
+        "natural": "",
+        "amenity": "",
+        "district": "Netrokona"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.8407342,
+          24.662098
+        ]
+      },
+      "properties": {
+        "name": "ডাক বাংলো",
+        "tourism": "chalet",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Netrokona"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.8504086,
+          24.6680004
+        ]
+      },
+      "properties": {
+        "name": "শহীদ মিনার",
+        "tourism": "",
+        "historic": "memorial",
+        "natural": "",
+        "amenity": "",
+        "district": "Netrokona"
+      }
+    }
+  ]
+}

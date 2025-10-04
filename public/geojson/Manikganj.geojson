@@ -1,0 +1,185 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.9209695,
+          23.7597784
+        ]
+      },
+      "properties": {
+        "name": "BADHAN's HOME",
+        "tourism": "guest_house",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Manikganj"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.9209201,
+          23.7597863
+        ]
+      },
+      "properties": {
+        "name": "BADHAN 's HOME ",
+        "tourism": "guest_house",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Manikganj"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.9999691,
+          23.8583599
+        ]
+      },
+      "properties": {
+        "name": "Shahid Minar",
+        "tourism": "",
+        "historic": "monument",
+        "natural": "",
+        "amenity": "",
+        "district": "Manikganj"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.08456,
+          23.7362688
+        ]
+      },
+      "properties": {
+        "name": "South Sararia Primary School Shahid Minar",
+        "tourism": "",
+        "historic": "memorial",
+        "natural": "",
+        "amenity": "",
+        "district": "Manikganj"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.1145293,
+          23.8162309
+        ]
+      },
+      "properties": {
+        "name": "Parvez Ali",
+        "tourism": "yes",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Manikganj"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.9837453,
+          23.833973
+        ]
+      },
+      "properties": {
+        "name": "Teachers' Quarter, Kaniz Fatema Girls' School & College",
+        "tourism": "hostel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Manikganj"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.06721,
+          23.6206409
+        ]
+      },
+      "properties": {
+        "name": "Moinot Ghat",
+        "tourism": "attraction",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Manikganj"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.0897761,
+          23.6050091
+        ]
+      },
+      "properties": {
+        "name": "GoCamp - Dohar Campsite and Activity Zone",
+        "tourism": "camp_site",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Manikganj"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.1124228,
+          23.6392955
+        ]
+      },
+      "properties": {
+        "name": "Poddar Bari Liberation War Museum",
+        "tourism": "museum",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Manikganj"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.0021402,
+          23.8608927
+        ]
+      },
+      "properties": {
+        "name": "City Dream Hotel And Convention Hall, Hotel",
+        "tourism": "hotel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Manikganj"
+      }
+    }
+  ]
+}

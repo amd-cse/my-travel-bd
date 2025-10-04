@@ -1,0 +1,77 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.2467935,
+          22.7239856
+        ]
+      },
+      "properties": {
+        "name": "gebouw",
+        "tourism": "",
+        "historic": "ruins",
+        "natural": "",
+        "amenity": "",
+        "district": "Noakhali"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.246688,
+          22.7238694
+        ]
+      },
+      "properties": {
+        "name": "gebouw",
+        "tourism": "",
+        "historic": "ruins",
+        "natural": "",
+        "amenity": "",
+        "district": "Noakhali"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.0986326,
+          22.7949596
+        ]
+      },
+      "properties": {
+        "name": "Kolabagan",
+        "tourism": "",
+        "historic": "",
+        "natural": "wood",
+        "amenity": "",
+        "district": "Noakhali"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.1016837,
+          22.7946369
+        ]
+      },
+      "properties": {
+        "name": "Abdul Malek Ukil Hall",
+        "tourism": "hostel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Noakhali"
+      }
+    }
+  ]
+}

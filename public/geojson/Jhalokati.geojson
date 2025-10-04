@@ -1,0 +1,149 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.0595463,
+          22.6241163
+        ]
+      },
+      "properties": {
+        "name": "ডাকবাংলা",
+        "tourism": "guest_house",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Jhalokati"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.0599226,
+          22.6217821
+        ]
+      },
+      "properties": {
+        "name": "শহীদ মিনার",
+        "tourism": "",
+        "historic": "monument",
+        "natural": "",
+        "amenity": "",
+        "district": "Jhalokati"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.0596789,
+          22.6317378
+        ]
+      },
+      "properties": {
+        "name": "সরকারী পাইলট হাউজ",
+        "tourism": "guest_house",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Jhalokati"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.1060436,
+          22.619938
+        ]
+      },
+      "properties": {
+        "name": "Shahid Minar",
+        "tourism": "",
+        "historic": "monument",
+        "natural": "",
+        "amenity": "",
+        "district": "Jhalokati"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.1545383,
+          22.7400959
+        ]
+      },
+      "properties": {
+        "name": "ভাসমান পেয়ারা বাজার",
+        "tourism": "attraction",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Jhalokati"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.1668485,
+          22.6818501
+        ]
+      },
+      "properties": {
+        "name": "Kirtipasha Jamidar Bari",
+        "tourism": "",
+        "historic": "archaeological_site",
+        "natural": "",
+        "amenity": "",
+        "district": "Jhalokati"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.1553918,
+          22.7399555
+        ]
+      },
+      "properties": {
+        "name": "Floating Guava Market",
+        "tourism": "yes",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Jhalokati"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.1054372,
+          22.5784474
+        ]
+      },
+      "properties": {
+        "name": "mollarhat bajar",
+        "tourism": "",
+        "historic": "",
+        "natural": "peak",
+        "amenity": "",
+        "district": "Jhalokati"
+      }
+    }
+  ]
+}

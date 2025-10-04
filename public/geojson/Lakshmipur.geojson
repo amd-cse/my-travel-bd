@@ -1,0 +1,41 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.8385771,
+          22.9416364
+        ]
+      },
+      "properties": {
+        "name": "লক্ষ্মীপুর সার্কিট হাউস",
+        "tourism": "guest_house",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Lakshmipur"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.0986326,
+          22.7949596
+        ]
+      },
+      "properties": {
+        "name": "Kolabagan",
+        "tourism": "",
+        "historic": "",
+        "natural": "wood",
+        "amenity": "",
+        "district": "Lakshmipur"
+      }
+    }
+  ]
+}

@@ -1,0 +1,671 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.8637474,
+          24.8934073
+        ]
+      },
+      "properties": {
+        "name": "Nirvana Inn",
+        "tourism": "hotel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Sylhet"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.868396,
+          24.9019701
+        ]
+      },
+      "properties": {
+        "name": "Hotel Star Pacific",
+        "tourism": "hotel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Sylhet"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.8655043,
+          24.9002124
+        ]
+      },
+      "properties": {
+        "name": "Holy Gate",
+        "tourism": "hotel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Sylhet"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.8578045,
+          24.898765
+        ]
+      },
+      "properties": {
+        "name": "Modhu Shohid Mazar",
+        "tourism": "",
+        "historic": "memorial",
+        "natural": "",
+        "amenity": "",
+        "district": "Sylhet"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.869326,
+          24.9020922
+        ]
+      },
+      "properties": {
+        "name": "Hotel Holy Gate",
+        "tourism": "hotel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Sylhet"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.8677411,
+          24.8996882
+        ]
+      },
+      "properties": {
+        "name": "Aliya Madrasah Hostel",
+        "tourism": "hostel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Sylhet"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.8707747,
+          24.9069504
+        ]
+      },
+      "properties": {
+        "name": "Hotel Polash",
+        "tourism": "hotel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Sylhet"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.869681,
+          24.9016364
+        ]
+      },
+      "properties": {
+        "name": "Noorjahan Hotel",
+        "tourism": "hotel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Sylhet"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.8672371,
+          24.8949033
+        ]
+      },
+      "properties": {
+        "name": "Museum of Raja's",
+        "tourism": "museum",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Sylhet"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.9065046,
+          24.8974952
+        ]
+      },
+      "properties": {
+        "name": "Sylhet Government College Boy's Hostel Area",
+        "tourism": "hostel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Sylhet"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.8676538,
+          24.8945503
+        ]
+      },
+      "properties": {
+        "name": "Grand Palace Hotel & Resorts",
+        "tourism": "hotel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Sylhet"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.8691149,
+          24.890805
+        ]
+      },
+      "properties": {
+        "name": "Hotel River View",
+        "tourism": "hotel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Sylhet"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.8677376,
+          24.8883811
+        ]
+      },
+      "properties": {
+        "name": "Ali Amjad's Clock",
+        "tourism": "attraction",
+        "historic": "",
+        "natural": "",
+        "amenity": "clock",
+        "district": "Sylhet"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.7320805,
+          24.705532
+        ]
+      },
+      "properties": {
+        "name": "Nuhan Hotel",
+        "tourism": "hotel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Sylhet"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.6776948,
+          24.6264325
+        ]
+      },
+      "properties": {
+        "name": "মুক্তিযোদ্ধা চত্তর",
+        "tourism": "",
+        "historic": "memorial",
+        "natural": "",
+        "amenity": "",
+        "district": "Sylhet"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.8572681,
+          24.9037119
+        ]
+      },
+      "properties": {
+        "name": "Zia Hostel",
+        "tourism": "hostel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Sylhet"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.8642345,
+          24.8996831
+        ]
+      },
+      "properties": {
+        "name": "Shahid Samsuddin Hall",
+        "tourism": "hostel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Sylhet"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.8680955,
+          24.898761
+        ]
+      },
+      "properties": {
+        "name": "Sylhet Central shahid Minar",
+        "tourism": "",
+        "historic": "monument",
+        "natural": "",
+        "amenity": "",
+        "district": "Sylhet"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.879038,
+          24.8993392
+        ]
+      },
+      "properties": {
+        "name": "কুমারপাড়া পয়েন্ট",
+        "tourism": "",
+        "historic": "monument",
+        "natural": "",
+        "amenity": "",
+        "district": "Sylhet"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.8655032,
+          24.898716
+        ]
+      },
+      "properties": {
+        "name": "Abu Sina Hostel",
+        "tourism": "hostel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Sylhet"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.9012141,
+          24.9077308
+        ]
+      },
+      "properties": {
+        "name": "শেখ ফজিলাতুন্নেসা মুজিব হল",
+        "tourism": "hostel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Sylhet"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.9006938,
+          24.9077636
+        ]
+      },
+      "properties": {
+        "name": "সুহাসিনী দাশ হল",
+        "tourism": "hostel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Sylhet"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.8610342,
+          24.9550004
+        ]
+      },
+      "properties": {
+        "name": "Grand Sylhet Hotel & Resort",
+        "tourism": "hotel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Sylhet"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.8757965,
+          24.8780403
+        ]
+      },
+      "properties": {
+        "name": "Hotel Ali Plaza",
+        "tourism": "hotel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Sylhet"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.8606818,
+          24.8940839
+        ]
+      },
+      "properties": {
+        "name": "Starlink Communication Services;La Vista Hotel",
+        "tourism": "hotel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Sylhet"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.8356177,
+          24.9073317
+        ]
+      },
+      "properties": {
+        "name": "Tapadar villa",
+        "tourism": "apartment",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Sylhet"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.8745312,
+          24.892259
+        ]
+      },
+      "properties": {
+        "name": "Hotel Metro Int.",
+        "tourism": "hotel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Sylhet"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.8812801,
+          24.8861654
+        ]
+      },
+      "properties": {
+        "name": "Rose View",
+        "tourism": "hotel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Sylhet"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.8513489,
+          24.91222
+        ]
+      },
+      "properties": {
+        "name": "Green Hill Hotel & Restaurant",
+        "tourism": "hotel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Sylhet"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.8511124,
+          24.9114399
+        ]
+      },
+      "properties": {
+        "name": "Ragib-Rabeya Medical College Girls Hostel",
+        "tourism": "hostel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Sylhet"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.7152173,
+          24.9296322
+        ]
+      },
+      "properties": {
+        "name": "farming reserve",
+        "tourism": "caravan_site",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Sylhet"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.8657098,
+          24.8966176
+        ]
+      },
+      "properties": {
+        "name": "সুরমা রেস্ট হাউস",
+        "tourism": "guest_house",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Sylhet"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.8657994,
+          24.8940693
+        ]
+      },
+      "properties": {
+        "name": "Grand Palace hotel & Resorts, Sylhet",
+        "tourism": "hotel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Sylhet"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.8672333,
+          24.8947792
+        ]
+      },
+      "properties": {
+        "name": "Hason Raja Museum",
+        "tourism": "museum",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Sylhet"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.8323541,
+          24.919611
+        ]
+      },
+      "properties": {
+        "name": "Muktomoncho",
+        "tourism": "",
+        "historic": "monument",
+        "natural": "",
+        "amenity": "",
+        "district": "Sylhet"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.8324947,
+          24.92064
+        ]
+      },
+      "properties": {
+        "name": "চেতনা '৭১",
+        "tourism": "artwork",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Sylhet"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.8316975,
+          24.9232706
+        ]
+      },
+      "properties": {
+        "name": "Shaheed Minar",
+        "tourism": "",
+        "historic": "memorial",
+        "natural": "",
+        "amenity": "",
+        "district": "Sylhet"
+      }
+    }
+  ]
+}

@@ -1,0 +1,95 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.7069618,
+          23.9332648
+        ]
+      },
+      "properties": {
+        "name": "Shaheed Tahmid Chattar",
+        "tourism": "",
+        "historic": "memorial",
+        "natural": "",
+        "amenity": "cafe",
+        "district": "Narsingdi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.8562272,
+          23.7880859
+        ]
+      },
+      "properties": {
+        "name": "রূপসদী উওর পারা শহীদ মিনার",
+        "tourism": "",
+        "historic": "monument",
+        "natural": "",
+        "amenity": "",
+        "district": "Narsingdi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.6985193,
+          23.9224617
+        ]
+      },
+      "properties": {
+        "name": "Abdul Kadir Mollah City College Boys Hostel",
+        "tourism": "hostel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Narsingdi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.6348113,
+          23.9744072
+        ]
+      },
+      "properties": {
+        "name": "শহীদ মিনার",
+        "tourism": "",
+        "historic": "memorial",
+        "natural": "",
+        "amenity": "",
+        "district": "Narsingdi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.7011795,
+          23.9294914
+        ]
+      },
+      "properties": {
+        "name": "Royal Fancier",
+        "tourism": "zoo",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Narsingdi"
+      }
+    }
+  ]
+}

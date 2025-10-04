@@ -1,0 +1,707 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.6073983,
+          21.9746709
+        ]
+      },
+      "properties": {
+        "name": "3 Country Point",
+        "tourism": "",
+        "historic": "yes",
+        "natural": "",
+        "amenity": "",
+        "district": "Bandarban"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.5145205,
+          21.9498761
+        ]
+      },
+      "properties": {
+        "name": "কেওক্রাডং",
+        "tourism": "",
+        "historic": "",
+        "natural": "peak",
+        "amenity": "",
+        "district": "Bandarban"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.2168769,
+          22.1506745
+        ]
+      },
+      "properties": {
+        "name": "Shailopropat waterfall",
+        "tourism": "attraction",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Bandarban"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.4162358,
+          22.046735
+        ]
+      },
+      "properties": {
+        "name": "লাইরাম্পি",
+        "tourism": "",
+        "historic": "",
+        "natural": "peak",
+        "amenity": "",
+        "district": "Bandarban"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.466258,
+          21.9936303
+        ]
+      },
+      "properties": {
+        "name": "Patangjhiri",
+        "tourism": "attraction",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Bandarban"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.4713802,
+          21.9796537
+        ]
+      },
+      "properties": {
+        "name": "Laram",
+        "tourism": "guest_house",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Bandarban"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.2228421,
+          22.1686077
+        ]
+      },
+      "properties": {
+        "name": "Milon Chori",
+        "tourism": "guest_house",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Bandarban"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.065805,
+          21.9549403
+        ]
+      },
+      "properties": {
+        "name": "Chunati WIldlife Sanctuary",
+        "tourism": "attraction",
+        "historic": "",
+        "natural": "wood",
+        "amenity": "",
+        "district": "Bandarban"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.5174494,
+          21.8087608
+        ]
+      },
+      "properties": {
+        "name": "Serkor Para",
+        "tourism": "camp_site",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Bandarban"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.5273628,
+          21.8756613
+        ]
+      },
+      "properties": {
+        "name": "লাখুডং",
+        "tourism": "",
+        "historic": "",
+        "natural": "peak",
+        "amenity": "",
+        "district": "Bandarban"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.5364603,
+          21.821586
+        ]
+      },
+      "properties": {
+        "name": "তাজিং ডং",
+        "tourism": "",
+        "historic": "",
+        "natural": "peak",
+        "amenity": "",
+        "district": "Bandarban"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.6072129,
+          21.97464
+        ]
+      },
+      "properties": {
+        "name": "Teen Matha",
+        "tourism": "",
+        "historic": "",
+        "natural": "peak",
+        "amenity": "",
+        "district": "Bandarban"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.5240676,
+          21.9012491
+        ]
+      },
+      "properties": {
+        "name": "কপিতাল",
+        "tourism": "",
+        "historic": "",
+        "natural": "peak",
+        "amenity": "",
+        "district": "Bandarban"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.3795874,
+          21.8203053
+        ]
+      },
+      "properties": {
+        "name": "চিম্বুক",
+        "tourism": "",
+        "historic": "",
+        "natural": "peak",
+        "amenity": "",
+        "district": "Bandarban"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.593389,
+          22.04208
+        ]
+      },
+      "properties": {
+        "name": "Rang Tlang",
+        "tourism": "",
+        "historic": "",
+        "natural": "peak",
+        "amenity": "",
+        "district": "Bandarban"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.2147878,
+          22.1898093
+        ]
+      },
+      "properties": {
+        "name": "Hotel Hill View",
+        "tourism": "hotel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Bandarban"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.2189777,
+          22.190914
+        ]
+      },
+      "properties": {
+        "name": "Circuit House",
+        "tourism": "guest_house",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Bandarban"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.2164631,
+          22.1927345
+        ]
+      },
+      "properties": {
+        "name": "Hotel Plaza",
+        "tourism": "hotel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Bandarban"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.2210706,
+          22.1641251
+        ]
+      },
+      "properties": {
+        "name": "Osing Tong Resort",
+        "tourism": "hotel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Bandarban"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.2165935,
+          22.1508086
+        ]
+      },
+      "properties": {
+        "name": "Shoylo Propat",
+        "tourism": "",
+        "historic": "",
+        "natural": "waterfall",
+        "amenity": "",
+        "district": "Bandarban"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.1731684,
+          22.1055869
+        ]
+      },
+      "properties": {
+        "name": "Prantik Lake",
+        "tourism": "attraction",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Bandarban"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.2153703,
+          22.4995703
+        ]
+      },
+      "properties": {
+        "name": "Master ar hotel",
+        "tourism": "hotel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Bandarban"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.5145014,
+          21.9500334
+        ]
+      },
+      "properties": {
+        "name": "0 point",
+        "tourism": "attraction",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Bandarban"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.0681568,
+          21.9737038
+        ]
+      },
+      "properties": {
+        "name": "chunati",
+        "tourism": "",
+        "historic": "",
+        "natural": "wood",
+        "amenity": "",
+        "district": "Bandarban"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.2098814,
+          22.1686271
+        ]
+      },
+      "properties": {
+        "name": "Nilachol Tourist Spot",
+        "tourism": "attraction",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Bandarban"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.0637422,
+          21.9101965
+        ]
+      },
+      "properties": {
+        "name": "বেলাল মেম্বারের বাড়ী",
+        "tourism": "",
+        "historic": "manor",
+        "natural": "",
+        "amenity": "",
+        "district": "Bandarban"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.0592144,
+          21.9215142
+        ]
+      },
+      "properties": {
+        "name": "শায়ের শাহ (রহঃ) মাজার",
+        "tourism": "",
+        "historic": "wayside_shrine",
+        "natural": "",
+        "amenity": "",
+        "district": "Bandarban"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.0573052,
+          21.933177
+        ]
+      },
+      "properties": {
+        "name": "Dream Land Fishing Resort",
+        "tourism": "hotel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Bandarban"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.4665288,
+          21.830476
+        ]
+      },
+      "properties": {
+        "name": "তমা তুঙ্গী পর্যটন কেন্দ্র",
+        "tourism": "attraction",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Bandarban"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.6032585,
+          21.8223074
+        ]
+      },
+      "properties": {
+        "name": "বংকুপাড়া ক্যাম্প",
+        "tourism": "camp_site",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Bandarban"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.4403593,
+          21.8196064
+        ]
+      },
+      "properties": {
+        "name": "উপজেলা নির্বাহী অফিসারের বাসভবন",
+        "tourism": "guest_house",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Bandarban"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.5054137,
+          21.9297965
+        ]
+      },
+      "properties": {
+        "name": "জাদিপাই জলপ্রপাত",
+        "tourism": "attraction",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Bandarban"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.2149749,
+          22.1905232
+        ]
+      },
+      "properties": {
+        "name": "Hotel Hillton",
+        "tourism": "hotel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Bandarban"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.6074143,
+          21.974719
+        ]
+      },
+      "properties": {
+        "name": "Tripoint Pillar",
+        "tourism": "",
+        "historic": "pillory",
+        "natural": "",
+        "amenity": "",
+        "district": "Bandarban"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.6729903,
+          22.0108389
+        ]
+      },
+      "properties": {
+        "name": "India-Myanmar Border Pillar No. 2",
+        "tourism": "",
+        "historic": "pillory",
+        "natural": "",
+        "amenity": "",
+        "district": "Bandarban"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.6816814,
+          22.1066503
+        ]
+      },
+      "properties": {
+        "name": "India-Myanmar Border Pillar No. 3",
+        "tourism": "",
+        "historic": "pillory",
+        "natural": "",
+        "amenity": "",
+        "district": "Bandarban"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.6879975,
+          22.1062066
+        ]
+      },
+      "properties": {
+        "name": "India-Myanmar Border Pillar No. 4",
+        "tourism": "",
+        "historic": "pillory",
+        "natural": "",
+        "amenity": "",
+        "district": "Bandarban"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.690897,
+          22.0723803
+        ]
+      },
+      "properties": {
+        "name": "India-Myanmar Border Pillar No. 5",
+        "tourism": "",
+        "historic": "pillory",
+        "natural": "",
+        "amenity": "",
+        "district": "Bandarban"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.6952986,
+          22.1535542
+        ]
+      },
+      "properties": {
+        "name": "India-Myanmar Border Pillar No. 6",
+        "tourism": "",
+        "historic": "pillory",
+        "natural": "",
+        "amenity": "",
+        "district": "Bandarban"
+      }
+    }
+  ]
+}

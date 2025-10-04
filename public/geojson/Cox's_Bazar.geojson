@@ -1,0 +1,635 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.0257549,
+          21.3551355
+        ]
+      },
+      "properties": {
+        "name": "Himchori Falls",
+        "tourism": "attraction",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Cox's_Bazar"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.0482773,
+          21.2329536
+        ]
+      },
+      "properties": {
+        "name": "DancingWave Picnin Spot",
+        "tourism": "camp_site",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Cox's_Bazar"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.9803041,
+          21.423671
+        ]
+      },
+      "properties": {
+        "name": "Hotel Coastal Peace",
+        "tourism": "hotel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Cox's_Bazar"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.9800439,
+          21.424068
+        ]
+      },
+      "properties": {
+        "name": "Honey Moon Resorts",
+        "tourism": "hotel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Cox's_Bazar"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.9703883,
+          21.4429256
+        ]
+      },
+      "properties": {
+        "name": "Hotel Renaissance",
+        "tourism": "hotel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Cox's_Bazar"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.9729133,
+          21.4436661
+        ]
+      },
+      "properties": {
+        "name": "Hotel Al Amin",
+        "tourism": "hotel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Cox's_Bazar"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.9741807,
+          21.4457914
+        ]
+      },
+      "properties": {
+        "name": "Rahman Resort",
+        "tourism": "hotel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Cox's_Bazar"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.9740143,
+          21.4462886
+        ]
+      },
+      "properties": {
+        "name": "Hotel Taj Sheba",
+        "tourism": "hotel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Cox's_Bazar"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.9739733,
+          21.4441333
+        ]
+      },
+      "properties": {
+        "name": "Hotel Al Gani",
+        "tourism": "hotel",
+        "historic": "",
+        "natural": "",
+        "amenity": "restaurant",
+        "district": "Cox's_Bazar"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.9748972,
+          21.443808
+        ]
+      },
+      "properties": {
+        "name": "Dhaka Hotel",
+        "tourism": "hotel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Cox's_Bazar"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.9722174,
+          21.4433093
+        ]
+      },
+      "properties": {
+        "name": "Hotel Saikat",
+        "tourism": "hotel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Cox's_Bazar"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.9749688,
+          21.44535
+        ]
+      },
+      "properties": {
+        "name": "Hotel Sundarban",
+        "tourism": "hotel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Cox's_Bazar"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.9749479,
+          21.4453918
+        ]
+      },
+      "properties": {
+        "name": "Hotel Soudia and Restaurant",
+        "tourism": "hotel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Cox's_Bazar"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.9753609,
+          21.4451846
+        ]
+      },
+      "properties": {
+        "name": "Hotel Garden",
+        "tourism": "hotel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Cox's_Bazar"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.9757338,
+          21.4450325
+        ]
+      },
+      "properties": {
+        "name": "Hotel Nishita",
+        "tourism": "hotel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Cox's_Bazar"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.9780542,
+          21.4277282
+        ]
+      },
+      "properties": {
+        "name": "Diamond Palace Guest House",
+        "tourism": "hotel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Cox's_Bazar"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.9781132,
+          21.4275234
+        ]
+      },
+      "properties": {
+        "name": "Diamond Palace Guest House + Saint Martin Bus",
+        "tourism": "hotel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Cox's_Bazar"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.9780031,
+          21.4268844
+        ]
+      },
+      "properties": {
+        "name": "Galaxy Resort + Hanif Bus Counter",
+        "tourism": "hotel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Cox's_Bazar"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.9819108,
+          21.4199132
+        ]
+      },
+      "properties": {
+        "name": "Uni Resort ",
+        "tourism": "hotel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Cox's_Bazar"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.9822944,
+          21.4192713
+        ]
+      },
+      "properties": {
+        "name": "Resort Islandia",
+        "tourism": "hotel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Cox's_Bazar"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.0493834,
+          21.2342137
+        ]
+      },
+      "properties": {
+        "name": "Mission La Bella Resort",
+        "tourism": "hotel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Cox's_Bazar"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.0257222,
+          21.3550552
+        ]
+      },
+      "properties": {
+        "name": "হিমছড়ি ঝর্ণা",
+        "tourism": "",
+        "historic": "",
+        "natural": "waterfall",
+        "amenity": "",
+        "district": "Cox's_Bazar"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.0513344,
+          21.2973179
+        ]
+      },
+      "properties": {
+        "name": "Mermaid Eco Resort",
+        "tourism": "guest_house",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Cox's_Bazar"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.9717078,
+          21.4431232
+        ]
+      },
+      "properties": {
+        "name": "Hotel Zaman",
+        "tourism": "hotel",
+        "historic": "",
+        "natural": "",
+        "amenity": "restaurant",
+        "district": "Cox's_Bazar"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.9854436,
+          21.4132419
+        ]
+      },
+      "properties": {
+        "name": "Sandy land স্যান্ডী ল্যান্ড",
+        "tourism": "hotel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Cox's_Bazar"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.9808176,
+          21.4234896
+        ]
+      },
+      "properties": {
+        "name": "Cos'Bazar",
+        "tourism": "hotel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Cox's_Bazar"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.9835127,
+          21.4191897
+        ]
+      },
+      "properties": {
+        "name": "Ocean Palace",
+        "tourism": "hotel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Cox's_Bazar"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.981899,
+          21.4217107
+        ]
+      },
+      "properties": {
+        "name": "PWD Park",
+        "tourism": "theme_park",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Cox's_Bazar"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.1794049,
+          21.4289298
+        ]
+      },
+      "properties": {
+        "name": "Kabir Apartment Resort",
+        "tourism": "hotel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Cox's_Bazar"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.1754461,
+          21.4265589
+        ]
+      },
+      "properties": {
+        "name": "Rest House",
+        "tourism": "hotel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Cox's_Bazar"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.1724498,
+          21.4228568
+        ]
+      },
+      "properties": {
+        "name": "Upoban Lake Watch Tower",
+        "tourism": "viewpoint",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Cox's_Bazar"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.1722916,
+          21.4227994
+        ]
+      },
+      "properties": {
+        "name": "Upoban Lake",
+        "tourism": "picnic_site",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Cox's_Bazar"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.9078004,
+          21.4745296
+        ]
+      },
+      "properties": {
+        "name": "Sonadia Campfire Resort",
+        "tourism": "camp_site",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Cox's_Bazar"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.9739945,
+          21.4260054
+        ]
+      },
+      "properties": {
+        "name": "Urmee Guest House, Cox's Bazar",
+        "tourism": "guest_house",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Cox's_Bazar"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.0480815,
+          21.2235114
+        ]
+      },
+      "properties": {
+        "name": "Marine Drive Inauguration Plaque",
+        "tourism": "",
+        "historic": "memorial",
+        "natural": "",
+        "amenity": "",
+        "district": "Cox's_Bazar"
+      }
+    }
+  ]
+}

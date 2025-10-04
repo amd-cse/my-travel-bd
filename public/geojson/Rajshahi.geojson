@@ -1,0 +1,1787 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.599947,
+          24.365344
+        ]
+      },
+      "properties": {
+        "name": "Zero Point",
+        "tourism": "",
+        "historic": "monument",
+        "natural": "",
+        "amenity": "",
+        "district": "Rajshahi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.6246598,
+          24.3708954
+        ]
+      },
+      "properties": {
+        "name": "Deshratna Sheikh Hasina Hall",
+        "tourism": "hostel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Rajshahi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.6370297,
+          24.366889
+        ]
+      },
+      "properties": {
+        "name": "Shabash Bangladesh Monument",
+        "tourism": "",
+        "historic": "monument",
+        "natural": "",
+        "amenity": "",
+        "district": "Rajshahi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.6398279,
+          24.3685715
+        ]
+      },
+      "properties": {
+        "name": "Rustom tea stall রুস্তম চায়ের দোকান",
+        "tourism": "",
+        "historic": "monument",
+        "natural": "",
+        "amenity": "",
+        "district": "Rajshahi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.6041108,
+          24.3744301
+        ]
+      },
+      "properties": {
+        "name": "Kamruzzaman Chottor",
+        "tourism": "",
+        "historic": "monument",
+        "natural": "",
+        "amenity": "",
+        "district": "Rajshahi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.6185557,
+          24.3665767
+        ]
+      },
+      "properties": {
+        "name": "Jomuna Park",
+        "tourism": "theme_park",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Rajshahi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.6028697,
+          24.3710568
+        ]
+      },
+      "properties": {
+        "name": "মেট্রোপলিটন হোটেল",
+        "tourism": "hotel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Rajshahi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.6028253,
+          24.3714403
+        ]
+      },
+      "properties": {
+        "name": "ওয়ে হোম",
+        "tourism": "hotel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Rajshahi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.6037086,
+          24.37367
+        ]
+      },
+      "properties": {
+        "name": "হোটেল ডালাস ইন্টারন্যাশনাল",
+        "tourism": "hotel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Rajshahi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.6113371,
+          24.3986888
+        ]
+      },
+      "properties": {
+        "name": "Shahid Zia Shishu Park",
+        "tourism": "theme_park",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Rajshahi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.7551766,
+          24.3667347
+        ]
+      },
+      "properties": {
+        "name": "জাতীয় ট্রাভেলস বুথ",
+        "tourism": "information",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Rajshahi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.6490551,
+          24.3982768
+        ]
+      },
+      "properties": {
+        "name": "Safrin Cottage",
+        "tourism": "hotel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Rajshahi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.6125628,
+          24.4085513
+        ]
+      },
+      "properties": {
+        "name": "Mohila Hostel (RMPI)",
+        "tourism": "hostel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Rajshahi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.6087549,
+          24.4085971
+        ]
+      },
+      "properties": {
+        "name": "Amm chottor",
+        "tourism": "",
+        "historic": "monument",
+        "natural": "",
+        "amenity": "",
+        "district": "Rajshahi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.6142823,
+          24.3750309
+        ]
+      },
+      "properties": {
+        "name": "Railway Officers Rest House, Rajshahi",
+        "tourism": "hotel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Rajshahi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.6236657,
+          24.3703234
+        ]
+      },
+      "properties": {
+        "name": "Chistia Nibash Prvt. Ltd",
+        "tourism": "hostel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Rajshahi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.6235299,
+          24.3699266
+        ]
+      },
+      "properties": {
+        "name": "পদ্মা ছাত্রাবাস",
+        "tourism": "hostel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Rajshahi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.6236344,
+          24.3600414
+        ]
+      },
+      "properties": {
+        "name": "Nupur Ladies Hostel নুপুর লেডিস হোস্টেল",
+        "tourism": "hotel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Rajshahi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.581116,
+          24.3683394
+        ]
+      },
+      "properties": {
+        "name": "C & B Mor, Saheb Bazar Rd,Rajshahi",
+        "tourism": "",
+        "historic": "monument",
+        "natural": "",
+        "amenity": "",
+        "district": "Rajshahi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.5808732,
+          24.3681607
+        ]
+      },
+      "properties": {
+        "name": "Functional functional 628 প্রায়োগিক কার্মিক 628",
+        "tourism": "",
+        "historic": "monument",
+        "natural": "",
+        "amenity": "",
+        "district": "Rajshahi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.5812889,
+          24.3688439
+        ]
+      },
+      "properties": {
+        "name": "The Theme Rainy Park থিম রেইনি পার্ক",
+        "tourism": "theme_park",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Rajshahi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.5712222,
+          24.3695224
+        ]
+      },
+      "properties": {
+        "name": "Rajshahi Central Zoo Gate-1",
+        "tourism": "zoo",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Rajshahi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.5464554,
+          24.3834569
+        ]
+      },
+      "properties": {
+        "name": "Kazi Nazrul Islam Avenue Kashiadanga Mor, Rajshahi - Nawabganj Hwy,Rajshahi \t,RajshahiRajshahi কাজী নজরুল ইসলাম এভিনিউ রাজশাহী",
+        "tourism": "",
+        "historic": "monument",
+        "natural": "",
+        "amenity": "",
+        "district": "Rajshahi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.6470672,
+          24.5461732
+        ]
+      },
+      "properties": {
+        "name": "Mohanpur Circuit House মোহনপুর সার্কিট হাউসে",
+        "tourism": "hostel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Rajshahi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.7182946,
+          24.3122206
+        ]
+      },
+      "properties": {
+        "name": "Doyel",
+        "tourism": "",
+        "historic": "monument",
+        "natural": "",
+        "amenity": "",
+        "district": "Rajshahi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.6078081,
+          24.3802895
+        ]
+      },
+      "properties": {
+        "name": "Shahid Monayam Boys Hostel",
+        "tourism": "hostel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Rajshahi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.5806581,
+          24.3708981
+        ]
+      },
+      "properties": {
+        "name": "RGLHS hostel",
+        "tourism": "hostel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Rajshahi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.5924937,
+          24.3670593
+        ]
+      },
+      "properties": {
+        "name": "Varendra Research Museum, Rajshahi",
+        "tourism": "museum",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Rajshahi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.6607363,
+          24.3716285
+        ]
+      },
+      "properties": {
+        "name": "BRRI Guest House",
+        "tourism": "guest_house",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Rajshahi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.6525634,
+          24.365039
+        ]
+      },
+      "properties": {
+        "name": "Guest House, BCSIR, Rajshahi",
+        "tourism": "guest_house",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Rajshahi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.6466278,
+          24.3686497
+        ]
+      },
+      "properties": {
+        "name": "IBS Hostel, Rajshahi University",
+        "tourism": "hostel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Rajshahi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.6433661,
+          24.367189
+        ]
+      },
+      "properties": {
+        "name": "Bismillah Tower Boys Hostel",
+        "tourism": "hostel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Rajshahi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.6413631,
+          24.3666014
+        ]
+      },
+      "properties": {
+        "name": "Safiuddin Chattrabas",
+        "tourism": "hostel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Rajshahi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.6421278,
+          24.3664257
+        ]
+      },
+      "properties": {
+        "name": "Falguni Girls' Hostel",
+        "tourism": "hostel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Rajshahi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.6343841,
+          24.364817
+        ]
+      },
+      "properties": {
+        "name": "MoniMukta Boys Hostel",
+        "tourism": "hostel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Rajshahi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.6128942,
+          24.3616928
+        ]
+      },
+      "properties": {
+        "name": "Sondhan Hotel",
+        "tourism": "hotel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Rajshahi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.6037136,
+          24.3735837
+        ]
+      },
+      "properties": {
+        "name": "Hotel Gulshan",
+        "tourism": "hotel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Rajshahi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.603299,
+          24.3741212
+        ]
+      },
+      "properties": {
+        "name": "Bindu Hotel & Restaurant",
+        "tourism": "hotel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Rajshahi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.7763261,
+          24.2515247
+        ]
+      },
+      "properties": {
+        "name": "Paranpur Bottola",
+        "tourism": "",
+        "historic": "",
+        "natural": "tree",
+        "amenity": "",
+        "district": "Rajshahi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.7775028,
+          24.2522286
+        ]
+      },
+      "properties": {
+        "name": "পরানপুর উচ্চ বিদ্যালয়,শহিদ মিনার",
+        "tourism": "camp_site",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Rajshahi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.6369243,
+          24.36827
+        ]
+      },
+      "properties": {
+        "name": "The Martyred Intellectual Memorial, RU, Rajshahi",
+        "tourism": "",
+        "historic": "monument",
+        "natural": "",
+        "amenity": "",
+        "district": "Rajshahi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.6082343,
+          24.3906456
+        ]
+      },
+      "properties": {
+        "name": "Biman Chattor,Rajshahi",
+        "tourism": "artwork",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Rajshahi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.5898965,
+          24.3802484
+        ]
+      },
+      "properties": {
+        "name": "Kamruzzaman Stadium Entrance",
+        "tourism": "",
+        "historic": "city_gate",
+        "natural": "",
+        "amenity": "",
+        "district": "Rajshahi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.6212775,
+          24.3597807
+        ]
+      },
+      "properties": {
+        "name": "Talaimari Shahid Minar, Rajshahi",
+        "tourism": "",
+        "historic": "monument",
+        "natural": "",
+        "amenity": "",
+        "district": "Rajshahi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.5708157,
+          24.3692121
+        ]
+      },
+      "properties": {
+        "name": "Shaheed A.H.M. Kamaruzzaman Central Park & Zoo, Rajshahi",
+        "tourism": "zoo",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Rajshahi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.6233845,
+          24.3597655
+        ]
+      },
+      "properties": {
+        "name": "Child Graveyard Talaimari, Rajshahi",
+        "tourism": "",
+        "historic": "monument",
+        "natural": "",
+        "amenity": "",
+        "district": "Rajshahi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.6192993,
+          24.3775755
+        ]
+      },
+      "properties": {
+        "name": "EMP Model Agency & Grooming Institute Rajshahi",
+        "tourism": "artwork",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Rajshahi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.6241859,
+          24.382677
+        ]
+      },
+      "properties": {
+        "name": "বারিন্দা মেডিকেল কলেজ শহীদ মিনার",
+        "tourism": "",
+        "historic": "monument",
+        "natural": "",
+        "amenity": "",
+        "district": "Rajshahi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.5872576,
+          24.3659789
+        ]
+      },
+      "properties": {
+        "name": "Historical Stage Of Rajshahi",
+        "tourism": "artwork",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Rajshahi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.6245561,
+          24.3686995
+        ]
+      },
+      "properties": {
+        "name": "Rh students hostel",
+        "tourism": "hostel",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Rajshahi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.6379312,
+          24.3705931
+        ]
+      },
+      "properties": {
+        "name": "Mining Chattar ( Arena)",
+        "tourism": "artwork",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Rajshahi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.6386604,
+          24.3706331
+        ]
+      },
+      "properties": {
+        "name": "Chemical Point",
+        "tourism": "artwork",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Rajshahi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.6426674,
+          24.3701107
+        ]
+      },
+      "properties": {
+        "name": "Boy and girl rest here",
+        "tourism": "picnic_site",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Rajshahi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.6426656,
+          24.3702642
+        ]
+      },
+      "properties": {
+        "name": "Boy and girl rest here",
+        "tourism": "picnic_site",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Rajshahi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.6396825,
+          24.367877
+        ]
+      },
+      "properties": {
+        "name": "Boy and girl rest here",
+        "tourism": "picnic_site",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Rajshahi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.6395042,
+          24.3678666
+        ]
+      },
+      "properties": {
+        "name": "Boy and girl rest here",
+        "tourism": "picnic_site",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Rajshahi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.6393123,
+          24.3678728
+        ]
+      },
+      "properties": {
+        "name": "Boy and girl rest here",
+        "tourism": "picnic_site",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Rajshahi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.6391579,
+          24.367879
+        ]
+      },
+      "properties": {
+        "name": "Boy and girl rest here",
+        "tourism": "picnic_site",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Rajshahi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.6390966,
+          24.367998
+        ]
+      },
+      "properties": {
+        "name": "Boy and girl rest here",
+        "tourism": "picnic_site",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Rajshahi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.6391068,
+          24.3681325
+        ]
+      },
+      "properties": {
+        "name": "Boy and girl rest here",
+        "tourism": "picnic_site",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Rajshahi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.63911,
+          24.3682716
+        ]
+      },
+      "properties": {
+        "name": "Boy and girl rest here",
+        "tourism": "picnic_site",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Rajshahi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.6394915,
+          24.3680414
+        ]
+      },
+      "properties": {
+        "name": "Boy and girl rest here",
+        "tourism": "picnic_site",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Rajshahi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.6394043,
+          24.3680145
+        ]
+      },
+      "properties": {
+        "name": "Boy and girl rest here",
+        "tourism": "picnic_site",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Rajshahi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.6321938,
+          24.3677339
+        ]
+      },
+      "properties": {
+        "name": "Boy and girl rest here",
+        "tourism": "picnic_site",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Rajshahi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.6324529,
+          24.3677514
+        ]
+      },
+      "properties": {
+        "name": "Boy and girl rest here",
+        "tourism": "picnic_site",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Rajshahi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.6327967,
+          24.3677505
+        ]
+      },
+      "properties": {
+        "name": "Boy and girl rest here",
+        "tourism": "picnic_site",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Rajshahi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.6330209,
+          24.3677567
+        ]
+      },
+      "properties": {
+        "name": "Boy and girl rest here",
+        "tourism": "picnic_site",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Rajshahi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.6332985,
+          24.367748
+        ]
+      },
+      "properties": {
+        "name": "Boy and girl rest here",
+        "tourism": "picnic_site",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Rajshahi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.633594,
+          24.3677344
+        ]
+      },
+      "properties": {
+        "name": "Boy and girl rest here",
+        "tourism": "picnic_site",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Rajshahi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.6339176,
+          24.3677386
+        ]
+      },
+      "properties": {
+        "name": "Boy and girl rest here",
+        "tourism": "picnic_site",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Rajshahi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.6342288,
+          24.3677374
+        ]
+      },
+      "properties": {
+        "name": "Boy and girl rest here",
+        "tourism": "picnic_site",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Rajshahi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.6344103,
+          24.3677415
+        ]
+      },
+      "properties": {
+        "name": "Boy and girl rest here",
+        "tourism": "picnic_site",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Rajshahi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.6346252,
+          24.3677341
+        ]
+      },
+      "properties": {
+        "name": "Boy and girl rest here",
+        "tourism": "picnic_site",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Rajshahi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.6351595,
+          24.3677487
+        ]
+      },
+      "properties": {
+        "name": "Boy and girl rest here",
+        "tourism": "picnic_site",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Rajshahi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.6349471,
+          24.367742
+        ]
+      },
+      "properties": {
+        "name": "Boy and girl rest here",
+        "tourism": "picnic_site",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Rajshahi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.6359771,
+          24.3677594
+        ]
+      },
+      "properties": {
+        "name": "Boy and girl rest here",
+        "tourism": "picnic_site",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Rajshahi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.6355768,
+          24.3677561
+        ]
+      },
+      "properties": {
+        "name": "Boy and girl rest here",
+        "tourism": "picnic_site",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Rajshahi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.6363382,
+          24.3677863
+        ]
+      },
+      "properties": {
+        "name": "Boy and girl rest here",
+        "tourism": "picnic_site",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Rajshahi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.6366748,
+          24.3678077
+        ]
+      },
+      "properties": {
+        "name": "Boy and girl rest here",
+        "tourism": "picnic_site",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Rajshahi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.6366003,
+          24.3680153
+        ]
+      },
+      "properties": {
+        "name": "Boy and girl rest here",
+        "tourism": "picnic_site",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Rajshahi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.6365972,
+          24.3682086
+        ]
+      },
+      "properties": {
+        "name": "Boy and girl rest here",
+        "tourism": "picnic_site",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Rajshahi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.6365734,
+          24.3683544
+        ]
+      },
+      "properties": {
+        "name": "Boy and girl rest here",
+        "tourism": "picnic_site",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Rajshahi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.6363893,
+          24.3683379
+        ]
+      },
+      "properties": {
+        "name": "Boy and girl rest here",
+        "tourism": "picnic_site",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Rajshahi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.6363867,
+          24.368184
+        ]
+      },
+      "properties": {
+        "name": "Boy and girl rest here",
+        "tourism": "picnic_site",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Rajshahi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.6363974,
+          24.3680007
+        ]
+      },
+      "properties": {
+        "name": "Boy and girl rest here",
+        "tourism": "picnic_site",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Rajshahi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.6364323,
+          24.3678566
+        ]
+      },
+      "properties": {
+        "name": "Boy and girl rest here",
+        "tourism": "picnic_site",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Rajshahi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.6338697,
+          24.3682458
+        ]
+      },
+      "properties": {
+        "name": "Boy and girl rest here",
+        "tourism": "picnic_site",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Rajshahi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.6338851,
+          24.3680888
+        ]
+      },
+      "properties": {
+        "name": "Boy and girl rest here",
+        "tourism": "picnic_site",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Rajshahi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.6337166,
+          24.3683045
+        ]
+      },
+      "properties": {
+        "name": "Boy and girl rest here",
+        "tourism": "picnic_site",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Rajshahi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.6335614,
+          24.3683335
+        ]
+      },
+      "properties": {
+        "name": "Boy and girl rest here",
+        "tourism": "picnic_site",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Rajshahi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.6333556,
+          24.3683301
+        ]
+      },
+      "properties": {
+        "name": "Boy and girl rest here",
+        "tourism": "picnic_site",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Rajshahi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.6332142,
+          24.368319
+        ]
+      },
+      "properties": {
+        "name": "Boy and girl rest here",
+        "tourism": "picnic_site",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Rajshahi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.6331739,
+          24.3682188
+        ]
+      },
+      "properties": {
+        "name": "Boy and girl rest here",
+        "tourism": "picnic_site",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Rajshahi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.6331873,
+          24.3681308
+        ]
+      },
+      "properties": {
+        "name": "Boy and girl rest here",
+        "tourism": "picnic_site",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Rajshahi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.6331927,
+          24.3680258
+        ]
+      },
+      "properties": {
+        "name": "Boy and girl rest here",
+        "tourism": "picnic_site",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Rajshahi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.6331927,
+          24.3679122
+        ]
+      },
+      "properties": {
+        "name": "Boy and girl rest here",
+        "tourism": "picnic_site",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Rajshahi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.6332128,
+          24.3678181
+        ]
+      },
+      "properties": {
+        "name": "Boy and girl rest here",
+        "tourism": "picnic_site",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Rajshahi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.6219334,
+          24.3748362
+        ]
+      },
+      "properties": {
+        "name": "Smriti Amlaan",
+        "tourism": "",
+        "historic": "monument",
+        "natural": "",
+        "amenity": "",
+        "district": "Rajshahi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.591863,
+          24.3769357
+        ]
+      },
+      "properties": {
+        "name": "Fisheries Complex",
+        "tourism": "",
+        "historic": "",
+        "natural": "wetland",
+        "amenity": "",
+        "district": "Rajshahi"
+      }
+    }
+  ]
+}
