@@ -1,7 +1,6 @@
 import DistrictMap from "@/component/DistrictMap";
 import { notFound } from 'next/navigation';
 import { FeatureCollection, Point } from 'geojson';
-import { getLocationOrigin } from "next/dist/shared/lib/utils";
 
 const DIST = ['Dhaka', "Cox's_Bazar", "Chittagong", "Sylhet", "Bandarban", "Khulna"];
 
