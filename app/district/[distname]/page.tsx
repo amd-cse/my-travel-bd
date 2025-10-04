@@ -5,6 +5,7 @@ import { getLocationOrigin } from "next/dist/shared/lib/utils";
 
 const DIST = ['Dhaka', "Cox's_Bazar"];
 // Adding a comment
+//Another comment
 export default async function DistPage({ params }: { params: { distname: string } }) {
     const dName = await params;
     const distName = decodeURIComponent(dName.distname);
