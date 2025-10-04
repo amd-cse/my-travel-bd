@@ -13,7 +13,7 @@ export default async function DistPage({ params }: { params: { distname: string 
     }
     let theAbsURL = '';
     if (process.env.VERCEL_URL) {
-        theAbsURL = process.env.VERCEL_URL;
+        theAbsURL = process.cwd();
     }
     else {
         theAbsURL = 'http://localhost:3000'
