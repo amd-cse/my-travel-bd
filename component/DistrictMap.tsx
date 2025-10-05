@@ -4,6 +4,7 @@ import { useEffect, useRef } from "react";
 import maplibregl from 'maplibre-gl';
 import 'maplibre-gl/dist/maplibre-gl.css';
 import { FeatureCollection, Point } from 'geojson'
+import { features } from "process";
 interface DistrictMapProps {
     geojsonData: FeatureCollection<Point>;
 }
@@ -26,7 +27,6 @@ export default function DistrictMap({ geojsonData }: DistrictMapProps) {
             zoom: 15
         })
         map.current?.addControl(new maplibregl.NavigationControl());
-        map.current?.addControl(new maplibregl.FullscreenControl());
 
         map.current?.on('load', () => {
 
@@ -56,8 +56,8 @@ export default function DistrictMap({ geojsonData }: DistrictMapProps) {
                     "text-offset": [0, 1.5], // Adjusted offset for better placement below the circle
                     'text-anchor': 'top',
                     'text-size': 12,
-                    'text-allow-overlap': true, // Prevents labels from overlapping
-                    'text-ignore-placement': true
+                    'text-allow-overlap': false, // Prevents labels from overlapping
+                    'text-ignore-placement': false
                 },
                 paint: {
                     'text-color': '#ffffff',
@@ -80,7 +80,22 @@ export default function DistrictMap({ geojsonData }: DistrictMapProps) {
                 const type = e.features![0].properties!.tourism || e.features![0].properties!.natural || e.features![0].properties!.historic || "Attraction default value";
                 new maplibregl.Popup().setLngLat(coords).setHTML(`<h1>${name}</h1><br/><small>${type}</small>`).addTo(map.current!);
             })
-
+            if (geojsonData.features.length > 0) {
+                const bounds = new maplibregl.LngLatBounds();
+                geojsonData.features.forEach(feature => {
+                    const coords = feature.geometry.coordinates;
+                    if (Array.isArray(coords) && coords.length == 2) {
+                        bounds.extend(coords as [number, number])
+                    }
+                });
+                if (!bounds.isEmpty()) {
+                    map.current?.fitBounds(bounds, {
+                        padding: 60,
+                        maxZoom: 12,
+                        duration: 100
+                    })
+                }
+            }
 
 
         })

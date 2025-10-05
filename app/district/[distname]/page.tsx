@@ -2,7 +2,17 @@ import DistrictMap from "@/component/DistrictMap";
 import { notFound } from 'next/navigation';
 import { FeatureCollection, Point } from 'geojson';
 
-const DIST = ['Dhaka', "Cox's_Bazar", "Chittagong", "Sylhet", "Bandarban", "Khulna"];
+const DIST = ['Dhaka', 'Faridpur', 'Gazipur', 'Gopalganj', 'Kishoreganj', 'Madaripur',
+    'Manikganj', 'Munshiganj', 'Narayanganj', 'Narsingdi', 'Rajbari', 'Shariatpur',
+    'Tangail', 'Barguna', 'Barisal', 'Bhola', 'Jhalokati', 'Patuakhali', 'Pirojpur',
+    'Bandarban', 'Brahmanbaria', 'Chandpur', 'Chittagong', 'Comilla', "Cox's Bazar",
+    'Feni', 'Khagrachhari', 'Lakshmipur', 'Noakhali', 'Rangamati', 'Mymensingh',
+    'Netrokona', 'Jamalpur', 'Sherpur', 'Bogura', 'Joypurhat', 'Naogaon', 'Natore',
+    'Chapainawabganj', 'Pabna', 'Rajshahi', 'Sirajganj', 'Dinajpur', 'Gaibandha',
+    'Kurigram', 'Lalmonirhat', 'Nilphamari', 'Panchagarh', 'Rangpur', 'Thakurgaon',
+    'Habiganj', 'Moulvibazar', 'Sunamganj', 'Sylhet', 'Bagerhat', 'Chuadanga',
+    'Jessore', 'Jhenaidah', 'Khulna', 'Kushtia', 'Magura', 'Meherpur', 'Narail', 'Satkhira'
+];
 
 export default async function DistPage({ params }: { params: { distname: string } }) {
     const dName = await params;

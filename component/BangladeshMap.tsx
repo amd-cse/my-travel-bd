@@ -35,7 +35,7 @@ export default function BangladeshMap() {
                 paint: {
                     'fill-color': '#e0f2fe',
                     'fill-outline-color': '#7ec8e3',
-                    'fill-opacity': 0.6
+                    'fill-opacity': 0.1
                 }
             })
             map.current?.addLayer({
@@ -44,11 +44,11 @@ export default function BangladeshMap() {
                 source: 'districts',
                 layout: {
                     "text-field": ['get', 'ADM2_EN'],
-                    "text-offset": [0, 1.5], // Adjusted offset for better placement below the circle
+                    "text-offset": [0, 0], // Adjusted offset for better placement below the circle
                     'text-anchor': 'top',
                     'text-size': 12,
-                    'text-allow-overlap': true, // Prevents labels from overlapping
-                    'text-ignore-placement': true
+                    'text-allow-overlap': false, // Prevents labels from overlapping
+                    'text-ignore-placement': false
                 },
                 paint: {
                     'text-color': '#ffffff',
