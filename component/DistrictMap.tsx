@@ -26,6 +26,7 @@ export default function DistrictMap({ geojsonData }: DistrictMapProps) {
             zoom: 15
         })
         map.current?.addControl(new maplibregl.NavigationControl());
+        map.current?.addControl(new maplibregl.FullscreenControl());
 
         map.current?.on('load', () => {
 

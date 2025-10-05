@@ -21,6 +21,7 @@ export default function BangladeshMap() {
             minZoom: 5,
             maxZoom: 9
         });
+        map.current?.addControl(new maplibregl.FullscreenControl());
 
         map.current?.on('load', () => {
             map.current?.addSource('districts', {
