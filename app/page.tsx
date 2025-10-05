@@ -1,7 +1,7 @@
 
 import BangladeshMap from "@/component/BangladeshMap";
-import Link from "next/link";
-const DIST = ['Dhaka', "Cox's_Bazar", "Chittagong", "Sylhet", "Bandarban", "Khulna"];
+// import Link from "next/link";
+// const DIST = ['Dhaka', "Cox's_Bazar", "Chittagong", "Sylhet", "Bandarban", "Khulna"];
 
 
 export default function Home() {
