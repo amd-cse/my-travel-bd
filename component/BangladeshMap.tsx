@@ -9,7 +9,7 @@ export default function BangladeshMap() {
 
     const mapCont = useRef<HTMLDivElement>(null);
     const map = useRef<maplibregl.Map | null>(null);
-    const styleUrl = `https://api.maptiler.com/maps/0199aef6-d23c-7ad9-877f-02e0014f3efb/style.json?key=${process.env.NEXT_PUBLIC_MAPTILER_API_KEY}`;
+    const styleUrl = `https://api.maptiler.com/maps/streets-v2/style.json?key=${process.env.NEXT_PUBLIC_MAPTILER_API_KEY}`;
 
     useEffect(() => {
         if (map.current || !mapCont.current) return
@@ -51,7 +51,7 @@ export default function BangladeshMap() {
                     'text-ignore-placement': false
                 },
                 paint: {
-                    'text-color': '#ffffff',
+                    'text-color': '#000000',
                     'text-halo-color': '#F0F0F0',
                     'text-halo-width': 0.3
                 }
