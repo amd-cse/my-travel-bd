@@ -1,5 +1,5 @@
 'use client';
-
+// Update on 28 OCT 2025
 import { useEffect, useRef } from "react";
 import maplibregl from 'maplibre-gl';
 import 'maplibre-gl/dist/maplibre-gl.css';
