@@ -2959,12 +2959,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-         90.40210837281012,
-          23.727502052776046 
+       90.41073517259383,
+          23.70798298927466
         ]
       },
       "properties": {
-        "name": "Curzon Hall",
+        "name": "Brahmo Somaj",
         "tourism": "",
         "historic": "archaeological_site",
         "natural": "",
