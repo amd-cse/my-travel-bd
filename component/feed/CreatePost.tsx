@@ -163,6 +163,9 @@ export default function CreatePost() {
     }
 
     const handleSubmit = async () => {
+        console.log("handleSubmit called");
+        console.log("Caption:", caption);
+        console.log("Selected Files:", selectedFiles.length, selectedFiles);
 
         if (!caption && selectedFiles.length === 0) return;
         setIsUploading(true);
@@ -170,10 +173,15 @@ export default function CreatePost() {
         let imageUrls: string[] = [];
 
         if (selectedFiles.length > 0) {
+            console.log("Starting upload...");
             try {
                 const res = await startUpload(selectedFiles);
+                console.log("Upload result:", res);
                 if (res) {
                     imageUrls = res.map(f => f.url);
+                    console.log("Extracted image URLs:", imageUrls);
+                } else {
+                    console.error("Upload returned no result");
                 }
             } catch (err) {
                 console.error("Upload error:", err);

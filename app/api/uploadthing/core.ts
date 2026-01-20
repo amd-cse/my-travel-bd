@@ -22,6 +22,7 @@ export const ourFileRouter = {
         .middleware(async () => {
             // This code runs on your server before upload
             const session = await auth();
+            console.log("UploadThing Middleware Session:", session); // DEBUG LOG
 
             // If you throw, the user will not be able to upload
             if (!session || !session.user?.id) {

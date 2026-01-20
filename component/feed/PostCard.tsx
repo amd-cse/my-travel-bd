@@ -29,6 +29,7 @@ interface Post {
 }
 
 export default function PostCard({ post, currentUserId }: { post: Post, currentUserId: string }) {
+    console.log("PostCard rendering post:", post.id, "Images:", post.images);
     const [commentText, setCommentText] = useState("")
     const [isSubmitting, setIsSubmitting] = useState(false)
 

@@ -13,31 +13,8 @@ export default async function FeedPage({ searchParams }: { searchParams: { distr
     }
     const sp = await searchParams;
 
-    interface Comment {
-        id: string
-        content: string
-        createdAt: Date
-        author: {
-            name: string | null
-            image: string | null
-        }
-    }
 
-    interface Post {
-        id: string
-        caption: string
-        images: string[]
-        district: string | null
-        locationName: string | null
-        lat: number | null
-        lng: number | null
-        createdAt: Date
-        author: {
-            name: string | null
-            image: string | null
-        }
-        comments: Comment[]
-    }
+
 
     // Await the searchParams to get the district
     const { posts } = await getPosts({ district: sp.district })
@@ -55,7 +32,7 @@ export default async function FeedPage({ searchParams }: { searchParams: { distr
 
                 <div className="space-y-6">
                     {posts && posts.length > 0 ? (
-                        posts.map((post: Post) => (
+                        posts.map((post) => (
                             <PostCard key={post.id} post={post} currentUserId={session.user?.id || ""} />
                         ))
                     ) : (
