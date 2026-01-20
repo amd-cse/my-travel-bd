@@ -1,0 +1,917 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.5,
+          26.25
+        ]
+      },
+      "properties": {
+        "name": "Panchagarh District",
+        "wikidata": "Q2367822",
+        "type": "district of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q2367822"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.303888888,
+          24.49
+        ]
+      },
+      "properties": {
+        "name": "Mahananda River",
+        "wikidata": "Q2428539",
+        "type": "river",
+        "url": "http://www.wikidata.org/entity/Q2428539"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.7592,
+          26.1185
+        ]
+      },
+      "properties": {
+        "name": "Debiganj Upazila",
+        "wikidata": "Q3347654",
+        "type": "upazila of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q3347654"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.7593,
+          26.11858
+        ]
+      },
+      "properties": {
+        "name": "Debiganj Upazila",
+        "wikidata": "Q3347654",
+        "type": "upazila of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q3347654"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.4126,
+          26.6295
+        ]
+      },
+      "properties": {
+        "name": "Banglabandha",
+        "wikidata": "Q3381467",
+        "type": "union council of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q3381467"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.45,
+          26.3
+        ]
+      },
+      "properties": {
+        "name": "Atwari",
+        "wikidata": "Q4072040",
+        "type": "human settlement",
+        "url": "http://www.wikidata.org/entity/Q4072040"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.5559104,
+          26.2007188
+        ]
+      },
+      "properties": {
+        "name": "Boda",
+        "wikidata": "Q4089935",
+        "type": "city",
+        "url": "http://www.wikidata.org/entity/Q4089935"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.35,
+          26.483333333
+        ]
+      },
+      "properties": {
+        "name": "Tetulia",
+        "wikidata": "Q4456718",
+        "type": "human settlement",
+        "url": "http://www.wikidata.org/entity/Q4456718"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.4583,
+          26.3083
+        ]
+      },
+      "properties": {
+        "name": "Atwari Upazila",
+        "wikidata": "Q4818824",
+        "type": "upazila of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q4818824"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.5597,
+          26.2083
+        ]
+      },
+      "properties": {
+        "name": "Boda Upazila",
+        "wikidata": "Q4936371",
+        "type": "upazila of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q4936371"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.7589,
+          26.1194
+        ]
+      },
+      "properties": {
+        "name": "Debiganj Alodini Government Girls High School",
+        "wikidata": "Q5248091",
+        "type": "government girls' high school",
+        "url": "http://www.wikidata.org/entity/Q5248091"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.7583,
+          26.1212
+        ]
+      },
+      "properties": {
+        "name": "Debiganj Girls High School",
+        "wikidata": "Q5248093",
+        "type": "high school",
+        "url": "http://www.wikidata.org/entity/Q5248093"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.756,
+          26.114
+        ]
+      },
+      "properties": {
+        "name": "Dr. Major (Rec.) T. Zaman High School",
+        "wikidata": "Q5304264",
+        "type": "high school",
+        "url": "http://www.wikidata.org/entity/Q5304264"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.7574,
+          26.1169
+        ]
+      },
+      "properties": {
+        "name": "Nripendra Narayan Government High School",
+        "wikidata": "Q7067528",
+        "type": "high school",
+        "url": "http://www.wikidata.org/entity/Q7067528"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.56,
+          26.33
+        ]
+      },
+      "properties": {
+        "name": "Panchagarh-1",
+        "wikidata": "Q7130243",
+        "type": "constituency of the Jatiya Sangsad",
+        "url": "http://www.wikidata.org/entity/Q7130243"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.55,
+          26.2
+        ]
+      },
+      "properties": {
+        "name": "Panchagarh-2",
+        "wikidata": "Q7130244",
+        "type": "constituency of the Jatiya Sangsad",
+        "url": "http://www.wikidata.org/entity/Q7130244"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.5583,
+          26.3347
+        ]
+      },
+      "properties": {
+        "name": "Panchagarh Sadar Upazila",
+        "wikidata": "Q7130246",
+        "type": "upazila of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q7130246"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.35,
+          26.483333333
+        ]
+      },
+      "properties": {
+        "name": "Tetulia Upazila",
+        "wikidata": "Q7706994",
+        "type": "upazila of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q7706994"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.5168,
+          26.2429
+        ]
+      },
+      "properties": {
+        "name": "Jholaishal Shiri Union",
+        "wikidata": "Q13150813",
+        "type": "union council of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q13150813"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.3924,
+          26.264
+        ]
+      },
+      "properties": {
+        "name": "Toria Union",
+        "wikidata": "Q13150886",
+        "type": "union council of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q13150886"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.3357,
+          26.4932
+        ]
+      },
+      "properties": {
+        "name": "Q13150912",
+        "wikidata": "Q13150912",
+        "type": "union council of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q13150912"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.4284,
+          26.2994
+        ]
+      },
+      "properties": {
+        "name": "Dhamor Union",
+        "wikidata": "Q13151119",
+        "type": "union council of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q13151119"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.5854,
+          26.2851
+        ]
+      },
+      "properties": {
+        "name": "Benghari Bonogram",
+        "wikidata": "Q13151889",
+        "type": "union council of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q13151889"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.50979,
+          26.48514
+        ]
+      },
+      "properties": {
+        "name": "Devnagar Union",
+        "wikidata": "Q13151957",
+        "type": "union council of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q13151957"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.4823,
+          26.4689
+        ]
+      },
+      "properties": {
+        "name": "Bhajanpur Union",
+        "wikidata": "Q13151965",
+        "type": "union council of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q13151965"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.6775,
+          26.225
+        ]
+      },
+      "properties": {
+        "name": "Marea Bamonhat Union",
+        "wikidata": "Q13152214",
+        "type": "union council of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q13152214"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.4069,
+          26.5135
+        ]
+      },
+      "properties": {
+        "name": "Shalbahan Union",
+        "wikidata": "Q13152619",
+        "type": "union council of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q13152619"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.76000001,
+          26.11833334
+        ]
+      },
+      "properties": {
+        "name": "Debiganj",
+        "wikidata": "Q14339962",
+        "type": "human settlement",
+        "url": "http://www.wikidata.org/entity/Q14339962"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.56048056,
+          26.34067778
+        ]
+      },
+      "properties": {
+        "name": "Bir Muktijoddha Sirajul Islam Stadium",
+        "wikidata": "Q15199357",
+        "type": "stadium",
+        "url": "http://www.wikidata.org/entity/Q15199357"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.4126,
+          26.6295
+        ]
+      },
+      "properties": {
+        "name": "Banglabandha",
+        "wikidata": "Q16345966",
+        "type": "border checkpoint",
+        "url": "http://www.wikidata.org/entity/Q16345966"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.557777777,
+          26.333333333
+        ]
+      },
+      "properties": {
+        "name": "Panchagarh",
+        "wikidata": "Q21746051",
+        "type": "city",
+        "url": "http://www.wikidata.org/entity/Q21746051"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.557777777,
+          26.333333333
+        ]
+      },
+      "properties": {
+        "name": "Panchagarh",
+        "wikidata": "Q21746051",
+        "type": "human settlement",
+        "url": "http://www.wikidata.org/entity/Q21746051"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.3636,
+          26.2065
+        ]
+      },
+      "properties": {
+        "name": "Alowakhowa Union",
+        "wikidata": "Q22346185",
+        "type": "union council of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q22346185"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.5188,
+          26.1988
+        ]
+      },
+      "properties": {
+        "name": "Balarampur Union, Atwari",
+        "wikidata": "Q22346186",
+        "type": "union council of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q22346186"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.4523,
+          26.5085
+        ]
+      },
+      "properties": {
+        "name": "Buraburi Union",
+        "wikidata": "Q22346794",
+        "type": "union council of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q22346794"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.38323,
+          26.56738
+        ]
+      },
+      "properties": {
+        "name": "Tirnaihat Union",
+        "wikidata": "Q22346795",
+        "type": "union council of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q22346795"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.5836,
+          26.2199
+        ]
+      },
+      "properties": {
+        "name": "Boda Union",
+        "wikidata": "Q22347184",
+        "type": "union council of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q22347184"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.6572,
+          26.2594
+        ]
+      },
+      "properties": {
+        "name": "Kajoldighi Kaligonj Union",
+        "wikidata": "Q22347186",
+        "type": "union council of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q22347186"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.665,
+          26.0622
+        ]
+      },
+      "properties": {
+        "name": "Hazradanga Shahidullah High School",
+        "wikidata": "Q24906694",
+        "type": "high school",
+        "url": "http://www.wikidata.org/entity/Q24906694"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.5491797,
+          26.3392236
+        ]
+      },
+      "properties": {
+        "name": "Moqbular Rahman Government College Panchagarh",
+        "wikidata": "Q25586110",
+        "type": "college",
+        "url": "http://www.wikidata.org/entity/Q25586110"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.5513158,
+          26.3266486
+        ]
+      },
+      "properties": {
+        "name": "Bishnu Prashad Government High School",
+        "wikidata": "Q25586683",
+        "type": "high school",
+        "url": "http://www.wikidata.org/entity/Q25586683"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.559022769,
+          26.334244135
+        ]
+      },
+      "properties": {
+        "name": "Rocks Museum",
+        "wikidata": "Q25587452",
+        "type": "museum",
+        "url": "http://www.wikidata.org/entity/Q25587452"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.6421143,
+          26.3371882
+        ]
+      },
+      "properties": {
+        "name": "Q31725795",
+        "wikidata": "Q31725795",
+        "type": "high school",
+        "url": "http://www.wikidata.org/entity/Q31725795"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.5592337,
+          26.3343129
+        ]
+      },
+      "properties": {
+        "name": "Panchagarh Govt. Women's College",
+        "wikidata": "Q57970798",
+        "type": "college",
+        "url": "http://www.wikidata.org/entity/Q57970798"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.5357714,
+          26.3266144
+        ]
+      },
+      "properties": {
+        "name": "Panchagarh railway station",
+        "wikidata": "Q60454780",
+        "type": "railway station",
+        "url": "http://www.wikidata.org/entity/Q60454780"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.4970993,
+          26.2781904
+        ]
+      },
+      "properties": {
+        "name": "Nayaniburuz railway station",
+        "wikidata": "Q60473943",
+        "type": "railway station",
+        "url": "http://www.wikidata.org/entity/Q60473943"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.7563197,
+          26.114826
+        ]
+      },
+      "properties": {
+        "name": "Q60784135",
+        "wikidata": "Q60784135",
+        "type": "college",
+        "url": "http://www.wikidata.org/entity/Q60784135"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.4493,
+          26.225047222
+        ]
+      },
+      "properties": {
+        "name": "Qismat railway station",
+        "wikidata": "Q85350029",
+        "type": "railway station",
+        "url": "http://www.wikidata.org/entity/Q85350029"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.554439,
+          26.334143
+        ]
+      },
+      "properties": {
+        "name": "Panchagarh Govt. Girls’ High School",
+        "wikidata": "Q116856243",
+        "type": "government girls' high school",
+        "url": "http://www.wikidata.org/entity/Q116856243"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.5588,
+          26.256
+        ]
+      },
+      "properties": {
+        "name": "Moidan Dighi Union",
+        "wikidata": "Q117705854",
+        "type": "administrative territorial entity",
+        "url": "http://www.wikidata.org/entity/Q117705854"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.6314,
+          26.1808
+        ]
+      },
+      "properties": {
+        "name": "Sakoa Union",
+        "wikidata": "Q117705860",
+        "type": "administrative territorial entity",
+        "url": "http://www.wikidata.org/entity/Q117705860"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.6298,
+          26.1199
+        ]
+      },
+      "properties": {
+        "name": "Pachpir Union",
+        "wikidata": "Q117705861",
+        "type": "administrative territorial entity",
+        "url": "http://www.wikidata.org/entity/Q117705861"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.535555555,
+          26.274166666
+        ]
+      },
+      "properties": {
+        "name": "Quaderpur",
+        "wikidata": "Q129165235",
+        "type": "Unknown",
+        "url": "http://www.wikidata.org/entity/Q129165235"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.64615,
+          26.324357
+        ]
+      },
+      "properties": {
+        "name": "Q136906900",
+        "wikidata": "Q136906900",
+        "type": "artificial pond",
+        "url": "http://www.wikidata.org/entity/Q136906900"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.551104,
+          26.205659
+        ]
+      },
+      "properties": {
+        "name": "Pathraj Govt. College",
+        "wikidata": "Q136996258",
+        "type": "college",
+        "url": "http://www.wikidata.org/entity/Q136996258"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.352426,
+          26.487844
+        ]
+      },
+      "properties": {
+        "name": "Tatulia Government College",
+        "wikidata": "Q136996366",
+        "type": "college",
+        "url": "http://www.wikidata.org/entity/Q136996366"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.449986,
+          26.316617
+        ]
+      },
+      "properties": {
+        "name": "Dangirhat Govt. Adarsha College",
+        "wikidata": "Q136996579",
+        "type": "college",
+        "url": "http://www.wikidata.org/entity/Q136996579"
+      }
+    }
+  ]
+}

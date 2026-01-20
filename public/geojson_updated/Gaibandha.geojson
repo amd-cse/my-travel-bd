@@ -1,0 +1,1125 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.5,
+          25.25
+        ]
+      },
+      "properties": {
+        "name": "Gaibandha District",
+        "wikidata": "Q2344595",
+        "type": "district of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q2344595"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.35,
+          25.2833
+        ]
+      },
+      "properties": {
+        "name": "Palashbari Upazila",
+        "wikidata": "Q3347629",
+        "type": "upazila of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q3347629"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.36,
+          25.17
+        ]
+      },
+      "properties": {
+        "name": "Gobindaganj Upazila",
+        "wikidata": "Q3347691",
+        "type": "upazila of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q3347691"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.3917,
+          25.1333
+        ]
+      },
+      "properties": {
+        "name": "Gobindaganj Upazila",
+        "wikidata": "Q3347691",
+        "type": "upazila of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q3347691"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.43,
+          25.4
+        ]
+      },
+      "properties": {
+        "name": "Sadullapur Upazila",
+        "wikidata": "Q3348344",
+        "type": "upazila of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q3348344"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.4667,
+          25.3833
+        ]
+      },
+      "properties": {
+        "name": "Sadullapur Upazila",
+        "wikidata": "Q3348344",
+        "type": "upazila of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q3348344"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.6278,
+          25.325
+        ]
+      },
+      "properties": {
+        "name": "Gaibandha Sadar Upazila",
+        "wikidata": "Q3348596",
+        "type": "upazila of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q3348596"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.57,
+          25.5
+        ]
+      },
+      "properties": {
+        "name": "Rony",
+        "wikidata": "Q3349044",
+        "type": "upazila of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q3349044"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.51909,
+          25.564362222
+        ]
+      },
+      "properties": {
+        "name": "Rony",
+        "wikidata": "Q3349044",
+        "type": "upazila of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q3349044"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.65,
+          25.26
+        ]
+      },
+      "properties": {
+        "name": "Phulchhari Upazila",
+        "wikidata": "Q3349061",
+        "type": "upazila of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q3349061"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.5861,
+          25.1056
+        ]
+      },
+      "properties": {
+        "name": "Saghata Upazila",
+        "wikidata": "Q3349141",
+        "type": "upazila of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q3349141"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.541507,
+          25.328978
+        ]
+      },
+      "properties": {
+        "name": "Gaibandha",
+        "wikidata": "Q4131907",
+        "type": "city",
+        "url": "http://www.wikidata.org/entity/Q4131907"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.4,
+          25.133333333
+        ]
+      },
+      "properties": {
+        "name": "Gobindaganj",
+        "wikidata": "Q4140851",
+        "type": "human settlement",
+        "url": "http://www.wikidata.org/entity/Q4140851"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.35,
+          25.283333333
+        ]
+      },
+      "properties": {
+        "name": "Palashbari",
+        "wikidata": "Q4342497",
+        "type": "human settlement",
+        "url": "http://www.wikidata.org/entity/Q4342497"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.466666666,
+          25.383333333
+        ]
+      },
+      "properties": {
+        "name": "Sadullapur",
+        "wikidata": "Q4404893",
+        "type": "human settlement",
+        "url": "http://www.wikidata.org/entity/Q4404893"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.583333333,
+          25.1
+        ]
+      },
+      "properties": {
+        "name": "Sughatta",
+        "wikidata": "Q4445290",
+        "type": "human settlement",
+        "url": "http://www.wikidata.org/entity/Q4445290"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.5,
+          25.55
+        ]
+      },
+      "properties": {
+        "name": "Sundarganj",
+        "wikidata": "Q4446116",
+        "type": "human settlement",
+        "url": "http://www.wikidata.org/entity/Q4446116"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.3874,
+          25.136
+        ]
+      },
+      "properties": {
+        "name": "Gobindaganj Government High School",
+        "wikidata": "Q5575517",
+        "type": "high school",
+        "url": "http://www.wikidata.org/entity/Q5575517"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.624388888,
+          25.189027777
+        ]
+      },
+      "properties": {
+        "name": "Phulchhari",
+        "wikidata": "Q13637108",
+        "type": "human settlement",
+        "url": "http://www.wikidata.org/entity/Q13637108"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.54405556,
+          25.32458889
+        ]
+      },
+      "properties": {
+        "name": "Gaibadnha District Stadium",
+        "wikidata": "Q15276643",
+        "type": "stadium",
+        "url": "http://www.wikidata.org/entity/Q15276643"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.54407778,
+          25.32470833
+        ]
+      },
+      "properties": {
+        "name": "Gaibadnha District Stadium",
+        "wikidata": "Q15276643",
+        "type": "stadium",
+        "url": "http://www.wikidata.org/entity/Q15276643"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.586334,
+          25.167783
+        ]
+      },
+      "properties": {
+        "name": "Q16346281",
+        "wikidata": "Q16346281",
+        "type": "Hindu temple",
+        "url": "http://www.wikidata.org/entity/Q16346281"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.58,
+          25.11
+        ]
+      },
+      "properties": {
+        "name": "Gaibandha-5",
+        "wikidata": "Q24692976",
+        "type": "constituency of the Jatiya Sangsad",
+        "url": "http://www.wikidata.org/entity/Q24692976"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.39,
+          25.14
+        ]
+      },
+      "properties": {
+        "name": "Gaibandha-4",
+        "wikidata": "Q24692978",
+        "type": "constituency of the Jatiya Sangsad",
+        "url": "http://www.wikidata.org/entity/Q24692978"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.52,
+          25.57
+        ]
+      },
+      "properties": {
+        "name": "Gaibandha-1",
+        "wikidata": "Q24693228",
+        "type": "constituency of the Jatiya Sangsad",
+        "url": "http://www.wikidata.org/entity/Q24693228"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.47,
+          25.39
+        ]
+      },
+      "properties": {
+        "name": "Gaibandha-3",
+        "wikidata": "Q24693234",
+        "type": "constituency of the Jatiya Sangsad",
+        "url": "http://www.wikidata.org/entity/Q24693234"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.3523,
+          25.282
+        ]
+      },
+      "properties": {
+        "name": "Palashbari S.M. Pilot High School",
+        "wikidata": "Q24944781",
+        "type": "high school",
+        "url": "http://www.wikidata.org/entity/Q24944781"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.4443765,
+          25.5314602
+        ]
+      },
+      "properties": {
+        "name": "Bamandanga railway station",
+        "wikidata": "Q60433118",
+        "type": "railway station",
+        "url": "http://www.wikidata.org/entity/Q60433118"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.5421094,
+          25.3327536
+        ]
+      },
+      "properties": {
+        "name": "Gaibandha railway station",
+        "wikidata": "Q60433119",
+        "type": "railway station",
+        "url": "http://www.wikidata.org/entity/Q60433119"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.5236632,
+          25.1657357
+        ]
+      },
+      "properties": {
+        "name": "Bonarpara railway station",
+        "wikidata": "Q60433120",
+        "type": "railway station",
+        "url": "http://www.wikidata.org/entity/Q60433120"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.4937819,
+          25.1042123
+        ]
+      },
+      "properties": {
+        "name": "Mahimaganj railway station",
+        "wikidata": "Q60433156",
+        "type": "railway station",
+        "url": "http://www.wikidata.org/entity/Q60433156"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.4742546,
+          25.4808866
+        ]
+      },
+      "properties": {
+        "name": "Naldanga railway station",
+        "wikidata": "Q60454785",
+        "type": "railway station",
+        "url": "http://www.wikidata.org/entity/Q60454785"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.5426941,
+          25.2834288
+        ]
+      },
+      "properties": {
+        "name": "Trimohoni Junction railway station",
+        "wikidata": "Q60454786",
+        "type": "railway station",
+        "url": "http://www.wikidata.org/entity/Q60454786"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.6101141,
+          25.3083387
+        ]
+      },
+      "properties": {
+        "name": "Balashi Ghat railway station",
+        "wikidata": "Q60454787",
+        "type": "railway station",
+        "url": "http://www.wikidata.org/entity/Q60454787"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.4983572,
+          25.435204
+        ]
+      },
+      "properties": {
+        "name": "Kamarpara railway station",
+        "wikidata": "Q60473952",
+        "type": "railway station",
+        "url": "http://www.wikidata.org/entity/Q60473952"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.5198685,
+          25.3945377
+        ]
+      },
+      "properties": {
+        "name": "Kuptala railway station",
+        "wikidata": "Q60473953",
+        "type": "railway station",
+        "url": "http://www.wikidata.org/entity/Q60473953"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.5795959,
+          25.2989277
+        ]
+      },
+      "properties": {
+        "name": "Kanchipara railway station",
+        "wikidata": "Q60473954",
+        "type": "railway station",
+        "url": "http://www.wikidata.org/entity/Q60473954"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.5425546,
+          25.2351406
+        ]
+      },
+      "properties": {
+        "name": "Badiakhali Road railway station",
+        "wikidata": "Q60473955",
+        "type": "railway station",
+        "url": "http://www.wikidata.org/entity/Q60473955"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.3474457,
+          25.2769525
+        ]
+      },
+      "properties": {
+        "name": "Palashbari Government College",
+        "wikidata": "Q75315599",
+        "type": "college",
+        "url": "http://www.wikidata.org/entity/Q75315599"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.494241,
+          25.07034
+        ]
+      },
+      "properties": {
+        "name": "Q85356836",
+        "wikidata": "Q85356836",
+        "type": "railway station",
+        "url": "http://www.wikidata.org/entity/Q85356836"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.4299,
+          25.571425
+        ]
+      },
+      "properties": {
+        "name": "Q85357419",
+        "wikidata": "Q85357419",
+        "type": "railway station",
+        "url": "http://www.wikidata.org/entity/Q85357419"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.544482,
+          25.329564
+        ]
+      },
+      "properties": {
+        "name": "Gaibandha Govt. Mohila College",
+        "wikidata": "Q136767152",
+        "type": "college",
+        "url": "http://www.wikidata.org/entity/Q136767152"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.5,
+          25.25
+        ]
+      },
+      "properties": {
+        "name": "Gaibandha Government Boys' High School",
+        "wikidata": "Q5516989",
+        "type": "high school",
+        "url": "http://www.wikidata.org/entity/Q5516989"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.3603,
+          25.19797
+        ]
+      },
+      "properties": {
+        "name": "Q13150986",
+        "wikidata": "Q13150986",
+        "type": "union council of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q13150986"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.3917,
+          25.1333
+        ]
+      },
+      "properties": {
+        "name": "Q13151563",
+        "wikidata": "Q13151563",
+        "type": "union council of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q13151563"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.38674,
+          25.137048
+        ]
+      },
+      "properties": {
+        "name": "Q13152901",
+        "wikidata": "Q13152901",
+        "type": "union council of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q13152901"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.4888916,
+          25.1038142
+        ]
+      },
+      "properties": {
+        "name": "Q20613014",
+        "wikidata": "Q20613014",
+        "type": "college",
+        "url": "http://www.wikidata.org/entity/Q20613014"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.08166667,
+          25.10666667
+        ]
+      },
+      "properties": {
+        "name": "Mahimaganj Union",
+        "wikidata": "Q22346578",
+        "type": "union council of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q22346578"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.488797,
+          25.10653
+        ]
+      },
+      "properties": {
+        "name": "Mahimaganj Union",
+        "wikidata": "Q22346578",
+        "type": "union council of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q22346578"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.3427,
+          25.3452
+        ]
+      },
+      "properties": {
+        "name": "Dhaperhat Union",
+        "wikidata": "Q22347825",
+        "type": "union council of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q22347825"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.5933906,
+          25.1372464
+        ]
+      },
+      "properties": {
+        "name": "Munsir Hat Government Primary School",
+        "wikidata": "Q25587055",
+        "type": "primary school",
+        "url": "http://www.wikidata.org/entity/Q25587055"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.5930593,
+          25.1371065
+        ]
+      },
+      "properties": {
+        "name": "Q25587057",
+        "wikidata": "Q25587057",
+        "type": "high school",
+        "url": "http://www.wikidata.org/entity/Q25587057"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.5855625,
+          25.137908
+        ]
+      },
+      "properties": {
+        "name": "Keramotia Government Primary School",
+        "wikidata": "Q25587074",
+        "type": "primary school",
+        "url": "http://www.wikidata.org/entity/Q25587074"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.4920754,
+          25.103394
+        ]
+      },
+      "properties": {
+        "name": "Q25587130",
+        "wikidata": "Q25587130",
+        "type": "high school",
+        "url": "http://www.wikidata.org/entity/Q25587130"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.4913995,
+          25.1035835
+        ]
+      },
+      "properties": {
+        "name": "Q25587133",
+        "wikidata": "Q25587133",
+        "type": "madrasa",
+        "url": "http://www.wikidata.org/entity/Q25587133"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.4807458,
+          25.1117417
+        ]
+      },
+      "properties": {
+        "name": "Q25587134",
+        "wikidata": "Q25587134",
+        "type": "high school",
+        "url": "http://www.wikidata.org/entity/Q25587134"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.4871724,
+          25.1072558
+        ]
+      },
+      "properties": {
+        "name": "Q25587267",
+        "wikidata": "Q25587267",
+        "type": "high school",
+        "url": "http://www.wikidata.org/entity/Q25587267"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.4874996,
+          25.1107532
+        ]
+      },
+      "properties": {
+        "name": "Q25587271",
+        "wikidata": "Q25587271",
+        "type": "college",
+        "url": "http://www.wikidata.org/entity/Q25587271"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.4782352,
+          25.1075278
+        ]
+      },
+      "properties": {
+        "name": "Q25587274",
+        "wikidata": "Q25587274",
+        "type": "college",
+        "url": "http://www.wikidata.org/entity/Q25587274"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.536291,
+          25.333926
+        ]
+      },
+      "properties": {
+        "name": "Ahammad Uddin Shah Shishu Niketon School & College",
+        "wikidata": "Q28125153",
+        "type": "school",
+        "url": "http://www.wikidata.org/entity/Q28125153"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.4912839,
+          25.1063933
+        ]
+      },
+      "properties": {
+        "name": "Q31728576",
+        "wikidata": "Q31728576",
+        "type": "school",
+        "url": "http://www.wikidata.org/entity/Q31728576"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.5385959,
+          25.3240953
+        ]
+      },
+      "properties": {
+        "name": "Gaibandha Government College",
+        "wikidata": "Q60781526",
+        "type": "college",
+        "url": "http://www.wikidata.org/entity/Q60781526"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.521136111,
+          25.569388888
+        ]
+      },
+      "properties": {
+        "name": "Q124634169",
+        "wikidata": "Q124634169",
+        "type": "thana of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q124634169"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.540863888,
+          25.327747222
+        ]
+      },
+      "properties": {
+        "name": "Q124711727",
+        "wikidata": "Q124711727",
+        "type": "thana of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q124711727"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.465944444,
+          25.391188888
+        ]
+      },
+      "properties": {
+        "name": "Q124711809",
+        "wikidata": "Q124711809",
+        "type": "thana of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q124711809"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.584061111,
+          25.110127777
+        ]
+      },
+      "properties": {
+        "name": "Q124711897",
+        "wikidata": "Q124711897",
+        "type": "thana of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q124711897"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.544555555,
+          25.323722222
+        ]
+      },
+      "properties": {
+        "name": "Gaibandha District indoor stedium",
+        "wikidata": "Q134734267",
+        "type": "indoor arena",
+        "url": "http://www.wikidata.org/entity/Q134734267"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.39986,
+          25.135525
+        ]
+      },
+      "properties": {
+        "name": "Gobindaganj Government College",
+        "wikidata": "Q135425548",
+        "type": "college",
+        "url": "http://www.wikidata.org/entity/Q135425548"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.531966,
+          25.175772
+        ]
+      },
+      "properties": {
+        "name": "Bonarpara Government College",
+        "wikidata": "Q136827624",
+        "type": "college",
+        "url": "http://www.wikidata.org/entity/Q136827624"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.592636,
+          25.187385
+        ]
+      },
+      "properties": {
+        "name": "Fulchari Govt. College",
+        "wikidata": "Q136934426",
+        "type": "college",
+        "url": "http://www.wikidata.org/entity/Q136934426"
+      }
+    }
+  ]
+}

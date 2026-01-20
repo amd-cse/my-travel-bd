@@ -1,0 +1,1093 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.25,
+          26.0
+        ]
+      },
+      "properties": {
+        "name": "Lalmonirhat District",
+        "wikidata": "Q2373734",
+        "type": "district of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q2373734"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.35,
+          25.925
+        ]
+      },
+      "properties": {
+        "name": "Aditmari Upazila",
+        "wikidata": "Q3346008",
+        "type": "upazila of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q3346008"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.38,
+          25.93
+        ]
+      },
+      "properties": {
+        "name": "Aditmari Upazila",
+        "wikidata": "Q3346008",
+        "type": "upazila of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q3346008"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.1333,
+          26.1125
+        ]
+      },
+      "properties": {
+        "name": "Hatibandha Upazila",
+        "wikidata": "Q3346651",
+        "type": "upazila of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q3346651"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.45,
+          25.915
+        ]
+      },
+      "properties": {
+        "name": "Lalmonirhat Sadar Upazila",
+        "wikidata": "Q3348360",
+        "type": "upazila of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q3348360"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.01666667,
+          26.35
+        ]
+      },
+      "properties": {
+        "name": "Patgram Upazila",
+        "wikidata": "Q3349619",
+        "type": "upazila of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q3349619"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.2068,
+          25.9676
+        ]
+      },
+      "properties": {
+        "name": "Kaliganj Upazila",
+        "wikidata": "Q3349638",
+        "type": "upazila of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q3349638"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.352722222,
+          25.9205
+        ]
+      },
+      "properties": {
+        "name": "Aditmari",
+        "wikidata": "Q4057595",
+        "type": "human settlement",
+        "url": "http://www.wikidata.org/entity/Q4057595"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.233333333,
+          25.966666666
+        ]
+      },
+      "properties": {
+        "name": "Q4209349",
+        "wikidata": "Q4209349",
+        "type": "human settlement",
+        "url": "http://www.wikidata.org/entity/Q4209349"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.44595,
+          25.91719
+        ]
+      },
+      "properties": {
+        "name": "Lalmonirhat",
+        "wikidata": "Q4253423",
+        "type": "city",
+        "url": "http://www.wikidata.org/entity/Q4253423"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.0,
+          26.366666666
+        ]
+      },
+      "properties": {
+        "name": "Patgram",
+        "wikidata": "Q4346845",
+        "type": "human settlement",
+        "url": "http://www.wikidata.org/entity/Q4346845"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.15,
+          26.116666666
+        ]
+      },
+      "properties": {
+        "name": "Hatibandha",
+        "wikidata": "Q4496527",
+        "type": "human settlement",
+        "url": "http://www.wikidata.org/entity/Q4496527"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.9345,
+          26.3967
+        ]
+      },
+      "properties": {
+        "name": "Burimari railway station",
+        "wikidata": "Q4998862",
+        "type": "railway station",
+        "url": "http://www.wikidata.org/entity/Q4998862"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.9345,
+          26.3967
+        ]
+      },
+      "properties": {
+        "name": "Burimari railway station",
+        "wikidata": "Q4998862",
+        "type": "border train station",
+        "url": "http://www.wikidata.org/entity/Q4998862"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.9345,
+          26.3967
+        ]
+      },
+      "properties": {
+        "name": "Burimari railway station",
+        "wikidata": "Q4998862",
+        "type": "station located on surface",
+        "url": "http://www.wikidata.org/entity/Q4998862"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.45184,
+          25.99224
+        ]
+      },
+      "properties": {
+        "name": "Mogalhat railway station",
+        "wikidata": "Q6890423",
+        "type": "railway station",
+        "url": "http://www.wikidata.org/entity/Q6890423"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.45184,
+          25.99224
+        ]
+      },
+      "properties": {
+        "name": "Mogalhat railway station",
+        "wikidata": "Q6890423",
+        "type": "border train station",
+        "url": "http://www.wikidata.org/entity/Q6890423"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.43305556,
+          25.8875
+        ]
+      },
+      "properties": {
+        "name": "Lalmonirhat Airport",
+        "wikidata": "Q10853002",
+        "type": "airport",
+        "url": "http://www.wikidata.org/entity/Q10853002"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.43748333,
+          25.90878333
+        ]
+      },
+      "properties": {
+        "name": "Lalmonirhat Stadium",
+        "wikidata": "Q15241405",
+        "type": "stadium",
+        "url": "http://www.wikidata.org/entity/Q15241405"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.945097222,
+          26.304072222
+        ]
+      },
+      "properties": {
+        "name": "Dohogram Union",
+        "wikidata": "Q3347229",
+        "type": "union council of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q3347229"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.4205,
+          25.9105
+        ]
+      },
+      "properties": {
+        "name": "Lalmonirhat Government College",
+        "wikidata": "Q6480538",
+        "type": "college",
+        "url": "http://www.wikidata.org/entity/Q6480538"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.44548,
+          25.91193
+        ]
+      },
+      "properties": {
+        "name": "Lalmonirhat railway station",
+        "wikidata": "Q6480542",
+        "type": "railway station",
+        "url": "http://www.wikidata.org/entity/Q6480542"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.44548,
+          25.91193
+        ]
+      },
+      "properties": {
+        "name": "Lalmonirhat railway station",
+        "wikidata": "Q6480542",
+        "type": "station located on surface",
+        "url": "http://www.wikidata.org/entity/Q6480542"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.1115,
+          26.2057
+        ]
+      },
+      "properties": {
+        "name": "Barakhata Union",
+        "wikidata": "Q13151615",
+        "type": "union council of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q13151615"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.453222222,
+          25.917333333
+        ]
+      },
+      "properties": {
+        "name": "Lalmonirhat District Museum",
+        "wikidata": "Q18988935",
+        "type": "museum",
+        "url": "http://www.wikidata.org/entity/Q18988935"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.4501369,
+          25.9171203
+        ]
+      },
+      "properties": {
+        "name": "Q20613290",
+        "wikidata": "Q20613290",
+        "type": "high school",
+        "url": "http://www.wikidata.org/entity/Q20613290"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.14,
+          26.12
+        ]
+      },
+      "properties": {
+        "name": "Lalmonirhat-1",
+        "wikidata": "Q23008281",
+        "type": "constituency of the Jatiya Sangsad",
+        "url": "http://www.wikidata.org/entity/Q23008281"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.22,
+          25.97
+        ]
+      },
+      "properties": {
+        "name": "Lalmonirhat-2",
+        "wikidata": "Q24693212",
+        "type": "constituency of the Jatiya Sangsad",
+        "url": "http://www.wikidata.org/entity/Q24693212"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.45,
+          25.92
+        ]
+      },
+      "properties": {
+        "name": "Lalmonirhat-3",
+        "wikidata": "Q24693215",
+        "type": "constituency of the Jatiya Sangsad",
+        "url": "http://www.wikidata.org/entity/Q24693215"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.0390051,
+          26.3282671
+        ]
+      },
+      "properties": {
+        "name": "Q25586667",
+        "wikidata": "Q25586667",
+        "type": "college",
+        "url": "http://www.wikidata.org/entity/Q25586667"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.025916,
+          26.3379906
+        ]
+      },
+      "properties": {
+        "name": "Govt. Jashimuddin Kazi Abdul Goni Degree College",
+        "wikidata": "Q25587003",
+        "type": "college",
+        "url": "http://www.wikidata.org/entity/Q25587003"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.7048771,
+          26.4091307
+        ]
+      },
+      "properties": {
+        "name": "Dahagram–Angarpota",
+        "wikidata": "Q29378698",
+        "type": "enclave",
+        "url": "http://www.wikidata.org/entity/Q29378698"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.0756867,
+          26.2536043
+        ]
+      },
+      "properties": {
+        "name": "Q31725880",
+        "wikidata": "Q31725880",
+        "type": "high school",
+        "url": "http://www.wikidata.org/entity/Q31725880"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.2043864,
+          25.9655421
+        ]
+      },
+      "properties": {
+        "name": "Kaliganj Karim Uddin Public Pilot High School",
+        "wikidata": "Q56825208",
+        "type": "high school",
+        "url": "http://www.wikidata.org/entity/Q56825208"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.0212351,
+          26.3435614
+        ]
+      },
+      "properties": {
+        "name": "Patgram railway station",
+        "wikidata": "Q60433150",
+        "type": "railway station",
+        "url": "http://www.wikidata.org/entity/Q60433150"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.1384069,
+          26.12835
+        ]
+      },
+      "properties": {
+        "name": "Hatibandha railway station",
+        "wikidata": "Q60433151",
+        "type": "railway station",
+        "url": "http://www.wikidata.org/entity/Q60433151"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.2024612,
+          25.9669962
+        ]
+      },
+      "properties": {
+        "name": "Tushbhandar railway station",
+        "wikidata": "Q60433152",
+        "type": "railway station",
+        "url": "http://www.wikidata.org/entity/Q60433152"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.3488777,
+          25.9242628
+        ]
+      },
+      "properties": {
+        "name": "Aditmari railway station",
+        "wikidata": "Q60433153",
+        "type": "railway station",
+        "url": "http://www.wikidata.org/entity/Q60433153"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.447937,
+          25.8773534
+        ]
+      },
+      "properties": {
+        "name": "Mahendranagar railway station",
+        "wikidata": "Q60433165",
+        "type": "railway station",
+        "url": "http://www.wikidata.org/entity/Q60433165"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.4407887,
+          25.8085431
+        ]
+      },
+      "properties": {
+        "name": "Tista Junction railway station",
+        "wikidata": "Q60433166",
+        "type": "railway station",
+        "url": "http://www.wikidata.org/entity/Q60433166"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.2433542,
+          25.9552906
+        ]
+      },
+      "properties": {
+        "name": "Kakina railway station",
+        "wikidata": "Q60473959",
+        "type": "railway station",
+        "url": "http://www.wikidata.org/entity/Q60473959"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.1631025,
+          26.0266254
+        ]
+      },
+      "properties": {
+        "name": "Bhotemari railway station",
+        "wikidata": "Q60473961",
+        "type": "railway station",
+        "url": "http://www.wikidata.org/entity/Q60473961"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.1384369,
+          26.0742655
+        ]
+      },
+      "properties": {
+        "name": "Shahid Borhan Nagar railway station",
+        "wikidata": "Q60473962",
+        "type": "railway station",
+        "url": "http://www.wikidata.org/entity/Q60473962"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.1112433,
+          26.2024348
+        ]
+      },
+      "properties": {
+        "name": "Barakhata railway station",
+        "wikidata": "Q60473963",
+        "type": "railway station",
+        "url": "http://www.wikidata.org/entity/Q60473963"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.0863943,
+          26.2420359
+        ]
+      },
+      "properties": {
+        "name": "Baura railway station",
+        "wikidata": "Q60473964",
+        "type": "railway station",
+        "url": "http://www.wikidata.org/entity/Q60473964"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.9682481,
+          25.5425152
+        ]
+      },
+      "properties": {
+        "name": "Lost Mosque",
+        "wikidata": "Q61362047",
+        "type": "mosque",
+        "url": "http://www.wikidata.org/entity/Q61362047"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.06297,
+          26.295189
+        ]
+      },
+      "properties": {
+        "name": "Q85351776",
+        "wikidata": "Q85351776",
+        "type": "railway station",
+        "url": "http://www.wikidata.org/entity/Q85351776"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.38708,
+          25.92021
+        ]
+      },
+      "properties": {
+        "name": "Q85352017",
+        "wikidata": "Q85352017",
+        "type": "railway station",
+        "url": "http://www.wikidata.org/entity/Q85352017"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.30592,
+          25.94141
+        ]
+      },
+      "properties": {
+        "name": "Q85352146",
+        "wikidata": "Q85352146",
+        "type": "railway station",
+        "url": "http://www.wikidata.org/entity/Q85352146"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.45,
+          25.916666666
+        ]
+      },
+      "properties": {
+        "name": "Lalmonirhat",
+        "wikidata": "Q85775720",
+        "type": "Unknown",
+        "url": "http://www.wikidata.org/entity/Q85775720"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.251564,
+          25.922381
+        ]
+      },
+      "properties": {
+        "name": "Uttar Bangla College",
+        "wikidata": "Q97383669",
+        "type": "college",
+        "url": "http://www.wikidata.org/entity/Q97383669"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.139941,
+          26.120798
+        ]
+      },
+      "properties": {
+        "name": "Q97823966",
+        "wikidata": "Q97823966",
+        "type": "college",
+        "url": "http://www.wikidata.org/entity/Q97823966"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.0491623,
+          26.1770444
+        ]
+      },
+      "properties": {
+        "name": "Tista Barrage",
+        "wikidata": "Q101246268",
+        "type": "barrage",
+        "url": "http://www.wikidata.org/entity/Q101246268"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.517111,
+          25.813059
+        ]
+      },
+      "properties": {
+        "name": "Sindurmati Tirthadham",
+        "wikidata": "Q113699165",
+        "type": "Hindu temple",
+        "url": "http://www.wikidata.org/entity/Q113699165"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.4747319,
+          25.9215655
+        ]
+      },
+      "properties": {
+        "name": "Q118114999",
+        "wikidata": "Q118114999",
+        "type": "Hindu temple",
+        "url": "http://www.wikidata.org/entity/Q118114999"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.515275,
+          25.829586
+        ]
+      },
+      "properties": {
+        "name": "Senpara Kalirpat",
+        "wikidata": "Q123439003",
+        "type": "Hindu temple",
+        "url": "http://www.wikidata.org/entity/Q123439003"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.306595,
+          25.997571
+        ]
+      },
+      "properties": {
+        "name": "One Row Mosque",
+        "wikidata": "Q125592393",
+        "type": "mosque",
+        "url": "http://www.wikidata.org/entity/Q125592393"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.438531,
+          25.91229
+        ]
+      },
+      "properties": {
+        "name": "Majida Khatun Government Women's College, Lalmonirhat",
+        "wikidata": "Q131155135",
+        "type": "college",
+        "url": "http://www.wikidata.org/entity/Q131155135"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.449054,
+          25.916835
+        ]
+      },
+      "properties": {
+        "name": "Q131407305",
+        "wikidata": "Q131407305",
+        "type": "secondary school",
+        "url": "http://www.wikidata.org/entity/Q131407305"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.435115,
+          25.905081
+        ]
+      },
+      "properties": {
+        "name": "Phakal Police Lines School And College",
+        "wikidata": "Q131519580",
+        "type": "school",
+        "url": "http://www.wikidata.org/entity/Q131519580"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.435115,
+          25.905081
+        ]
+      },
+      "properties": {
+        "name": "Phakal Police Lines School And College",
+        "wikidata": "Q131519580",
+        "type": "college",
+        "url": "http://www.wikidata.org/entity/Q131519580"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.936312,
+          26.397479
+        ]
+      },
+      "properties": {
+        "name": "Q135904439",
+        "wikidata": "Q135904439",
+        "type": "secondary school",
+        "url": "http://www.wikidata.org/entity/Q135904439"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.012485,
+          26.353815
+        ]
+      },
+      "properties": {
+        "name": "Q135904924",
+        "wikidata": "Q135904924",
+        "type": "college",
+        "url": "http://www.wikidata.org/entity/Q135904924"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.140974,
+          26.124062
+        ]
+      },
+      "properties": {
+        "name": "Q135911977",
+        "wikidata": "Q135911977",
+        "type": "museum",
+        "url": "http://www.wikidata.org/entity/Q135911977"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.509609,
+          25.8689
+        ]
+      },
+      "properties": {
+        "name": "Shahid Abul Kashem College",
+        "wikidata": "Q136530349",
+        "type": "college",
+        "url": "http://www.wikidata.org/entity/Q136530349"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.343104,
+          25.92374
+        ]
+      },
+      "properties": {
+        "name": "Q136786745",
+        "wikidata": "Q136786745",
+        "type": "college",
+        "url": "http://www.wikidata.org/entity/Q136786745"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.229577,
+          26.089369
+        ]
+      },
+      "properties": {
+        "name": "Daikhawa Adarsha College",
+        "wikidata": "Q136805223",
+        "type": "college",
+        "url": "http://www.wikidata.org/entity/Q136805223"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.204998,
+          25.965592
+        ]
+      },
+      "properties": {
+        "name": "Govt. Karim Uddin Public College",
+        "wikidata": "Q136913067",
+        "type": "college",
+        "url": "http://www.wikidata.org/entity/Q136913067"
+      }
+    }
+  ]
+}

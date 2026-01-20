@@ -1,0 +1,821 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.93,
+          24.41
+        ]
+      },
+      "properties": {
+        "name": "Natore District",
+        "wikidata": "Q2093361",
+        "type": "district of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q2093361"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.964366666,
+          24.302986111
+        ]
+      },
+      "properties": {
+        "name": "Bagatipara",
+        "wikidata": "Q4074703",
+        "type": "human settlement",
+        "url": "http://www.wikidata.org/entity/Q4074703"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.945,
+          24.33
+        ]
+      },
+      "properties": {
+        "name": "Bagatipara Upazila",
+        "wikidata": "Q4074709",
+        "type": "upazila of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q4074709"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.166666666,
+          24.316666666
+        ]
+      },
+      "properties": {
+        "name": "Baraigram",
+        "wikidata": "Q4077639",
+        "type": "human settlement",
+        "url": "http://www.wikidata.org/entity/Q4077639"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.12,
+          24.26
+        ]
+      },
+      "properties": {
+        "name": "Baraigram Upazila",
+        "wikidata": "Q4077643",
+        "type": "upazila of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q4077643"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.1708,
+          24.3083
+        ]
+      },
+      "properties": {
+        "name": "Baraigram Upazila",
+        "wikidata": "Q4077643",
+        "type": "upazila of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q4077643"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.249067,
+          24.370905
+        ]
+      },
+      "properties": {
+        "name": "Gurudaspur",
+        "wikidata": "Q4152498",
+        "type": "human settlement",
+        "url": "http://www.wikidata.org/entity/Q4152498"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.21,
+          24.38
+        ]
+      },
+      "properties": {
+        "name": "Gurudaspur Upazila",
+        "wikidata": "Q4152506",
+        "type": "upazila of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q4152506"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.25,
+          24.3667
+        ]
+      },
+      "properties": {
+        "name": "Gurudaspur Upazila",
+        "wikidata": "Q4152506",
+        "type": "upazila of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q4152506"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.983333333,
+          24.183333333
+        ]
+      },
+      "properties": {
+        "name": "Lalpur",
+        "wikidata": "Q4253428",
+        "type": "human settlement",
+        "url": "http://www.wikidata.org/entity/Q4253428"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.975,
+          24.1833
+        ]
+      },
+      "properties": {
+        "name": "Lalpur Upazila",
+        "wikidata": "Q4253431",
+        "type": "upazila of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q4253431"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.985833333,
+          24.414166666
+        ]
+      },
+      "properties": {
+        "name": "Natore",
+        "wikidata": "Q4314187",
+        "type": "town",
+        "url": "http://www.wikidata.org/entity/Q4314187"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.93,
+          24.4139
+        ]
+      },
+      "properties": {
+        "name": "Natore Sadar Upazila",
+        "wikidata": "Q4314189",
+        "type": "upazila of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q4314189"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.98,
+          24.45
+        ]
+      },
+      "properties": {
+        "name": "Natore Sadar Upazila",
+        "wikidata": "Q4314189",
+        "type": "upazila of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q4314189"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.972,
+          24.261
+        ]
+      },
+      "properties": {
+        "name": "Abdulpur Railway Station",
+        "wikidata": "Q4666171",
+        "type": "railway station",
+        "url": "http://www.wikidata.org/entity/Q4666171"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.9915,
+          24.4202
+        ]
+      },
+      "properties": {
+        "name": "Natore Rajbari",
+        "wikidata": "Q6980210",
+        "type": "royal palace",
+        "url": "http://www.wikidata.org/entity/Q6980210"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.13333333,
+          24.5
+        ]
+      },
+      "properties": {
+        "name": "Singra Upazila",
+        "wikidata": "Q7215385",
+        "type": "upazila of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q7215385"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.284622222,
+          24.562405555
+        ]
+      },
+      "properties": {
+        "name": "Rahmat Iqbal College",
+        "wikidata": "Q7283502",
+        "type": "school",
+        "url": "http://www.wikidata.org/entity/Q7283502"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.9911,
+          24.42
+        ]
+      },
+      "properties": {
+        "name": "Uttara Gano Bhaban",
+        "wikidata": "Q7903371",
+        "type": "building",
+        "url": "http://www.wikidata.org/entity/Q7903371"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.00015556,
+          24.41684444
+        ]
+      },
+      "properties": {
+        "name": "Shankar Govinda Chowdhury Stadium",
+        "wikidata": "Q15261162",
+        "type": "stadium",
+        "url": "http://www.wikidata.org/entity/Q15261162"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.15,
+          24.5
+        ]
+      },
+      "properties": {
+        "name": "Singra",
+        "wikidata": "Q4420054",
+        "type": "human settlement",
+        "url": "http://www.wikidata.org/entity/Q4420054"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.9,
+          24.26
+        ]
+      },
+      "properties": {
+        "name": "Naldanga Upazila",
+        "wikidata": "Q16909433",
+        "type": "upazila of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q16909433"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.9825,
+          24.410555555
+        ]
+      },
+      "properties": {
+        "name": "Natore Govt. Boys' High School",
+        "wikidata": "Q20612680",
+        "type": "secondary school",
+        "url": "http://www.wikidata.org/entity/Q20612680"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.96,
+          24.18
+        ]
+      },
+      "properties": {
+        "name": "Natore-1",
+        "wikidata": "Q24693349",
+        "type": "constituency of the Jatiya Sangsad",
+        "url": "http://www.wikidata.org/entity/Q24693349"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.0,
+          24.42
+        ]
+      },
+      "properties": {
+        "name": "Natore-2",
+        "wikidata": "Q24693355",
+        "type": "constituency of the Jatiya Sangsad",
+        "url": "http://www.wikidata.org/entity/Q24693355"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.15,
+          24.5
+        ]
+      },
+      "properties": {
+        "name": "Natore-3",
+        "wikidata": "Q24693360",
+        "type": "constituency of the Jatiya Sangsad",
+        "url": "http://www.wikidata.org/entity/Q24693360"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.17,
+          24.31
+        ]
+      },
+      "properties": {
+        "name": "Natore-4",
+        "wikidata": "Q24693366",
+        "type": "constituency of the Jatiya Sangsad",
+        "url": "http://www.wikidata.org/entity/Q24693366"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.082,
+          24.2904
+        ]
+      },
+      "properties": {
+        "name": "Bonpara",
+        "wikidata": "Q24886039",
+        "type": "thana of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q24886039"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.9584982,
+          24.4042093
+        ]
+      },
+      "properties": {
+        "name": "Q25588352",
+        "wikidata": "Q25588352",
+        "type": "college",
+        "url": "http://www.wikidata.org/entity/Q25588352"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.0028,
+          24.4118
+        ]
+      },
+      "properties": {
+        "name": "Rajshahi Science & Technology University",
+        "wikidata": "Q28225251",
+        "type": "private university",
+        "url": "http://www.wikidata.org/entity/Q28225251"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.1806713,
+          24.5436824
+        ]
+      },
+      "properties": {
+        "name": "Chowgram High School & College",
+        "wikidata": "Q42306411",
+        "type": "high school",
+        "url": "http://www.wikidata.org/entity/Q42306411"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.1806713,
+          24.5436824
+        ]
+      },
+      "properties": {
+        "name": "Chowgram High School & College",
+        "wikidata": "Q42306411",
+        "type": "college",
+        "url": "http://www.wikidata.org/entity/Q42306411"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.9663695,
+          24.4110379
+        ]
+      },
+      "properties": {
+        "name": "Natore railway station",
+        "wikidata": "Q60433123",
+        "type": "railway station",
+        "url": "http://www.wikidata.org/entity/Q60433123"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.0062308,
+          24.2059698
+        ]
+      },
+      "properties": {
+        "name": "Azimnagar railway station",
+        "wikidata": "Q60433124",
+        "type": "railway station",
+        "url": "http://www.wikidata.org/entity/Q60433124"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.9619472,
+          24.5359822
+        ]
+      },
+      "properties": {
+        "name": "Madhnagar railway station",
+        "wikidata": "Q60433133",
+        "type": "railway station",
+        "url": "http://www.wikidata.org/entity/Q60433133"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.933449,
+          24.281224
+        ]
+      },
+      "properties": {
+        "name": "Lokmanpur railway station",
+        "wikidata": "Q60433164",
+        "type": "railway station",
+        "url": "http://www.wikidata.org/entity/Q60433164"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.9628163,
+          24.4706127
+        ]
+      },
+      "properties": {
+        "name": "Basudebpur railway station",
+        "wikidata": "Q60454772",
+        "type": "railway station",
+        "url": "http://www.wikidata.org/entity/Q60454772"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.9635086,
+          24.3051564
+        ]
+      },
+      "properties": {
+        "name": "Malanchi railway station",
+        "wikidata": "Q60473929",
+        "type": "railway station",
+        "url": "http://www.wikidata.org/entity/Q60473929"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.9639076,
+          24.3621231
+        ]
+      },
+      "properties": {
+        "name": "Yeasinpur railway station",
+        "wikidata": "Q60473931",
+        "type": "railway station",
+        "url": "http://www.wikidata.org/entity/Q60473931"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.9592278,
+          24.5021449
+        ]
+      },
+      "properties": {
+        "name": "Naldanga Hat railway station",
+        "wikidata": "Q60473932",
+        "type": "railway station",
+        "url": "http://www.wikidata.org/entity/Q60473932"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.99111111,
+          24.42
+        ]
+      },
+      "properties": {
+        "name": "Uttara Ganabhaban Museum",
+        "wikidata": "Q61364833",
+        "type": "museum",
+        "url": "http://www.wikidata.org/entity/Q61364833"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.964182,
+          24.5579033
+        ]
+      },
+      "properties": {
+        "name": "Q63312572",
+        "wikidata": "Q63312572",
+        "type": "railway station",
+        "url": "http://www.wikidata.org/entity/Q63312572"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.93,
+          24.4139
+        ]
+      },
+      "properties": {
+        "name": "Q64347553",
+        "wikidata": "Q64347553",
+        "type": "thana of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q64347553"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.990563,
+          24.416059
+        ]
+      },
+      "properties": {
+        "name": "Rin Sri Sri Jayakali Mother Temple",
+        "wikidata": "Q113501392",
+        "type": "Hindu temple",
+        "url": "http://www.wikidata.org/entity/Q113501392"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.0102,
+          24.2771
+        ]
+      },
+      "properties": {
+        "name": "Qadirabad Cantonment Public School",
+        "wikidata": "Q115932321",
+        "type": "school",
+        "url": "http://www.wikidata.org/entity/Q115932321"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.929652777,
+          24.312563888
+        ]
+      },
+      "properties": {
+        "name": "Q129169354",
+        "wikidata": "Q129169354",
+        "type": "thana of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q129169354"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.139797222,
+          24.506711111
+        ]
+      },
+      "properties": {
+        "name": "Q129169489",
+        "wikidata": "Q129169489",
+        "type": "thana of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q129169489"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.963611111,
+          24.3625
+        ]
+      },
+      "properties": {
+        "name": "Yasinpur",
+        "wikidata": "Q129176863",
+        "type": "administrative territorial entity",
+        "url": "http://www.wikidata.org/entity/Q129176863"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.99011,
+          24.414787
+        ]
+      },
+      "properties": {
+        "name": "Victoria Public Library, Natore",
+        "wikidata": "Q131934960",
+        "type": "public library",
+        "url": "http://www.wikidata.org/entity/Q131934960"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.999997222,
+          24.418094444
+        ]
+      },
+      "properties": {
+        "name": "Natore Indoor Stadium",
+        "wikidata": "Q133467387",
+        "type": "sports venue",
+        "url": "http://www.wikidata.org/entity/Q133467387"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.982318,
+          24.4028
+        ]
+      },
+      "properties": {
+        "name": "N602 (Bangladesh)",
+        "wikidata": "Q134315288",
+        "type": "national highways of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q134315288"
+      }
+    }
+  ]
+}

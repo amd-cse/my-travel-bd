@@ -1,0 +1,1173 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.5,
+          23.616666666
+        ]
+      },
+      "properties": {
+        "name": "Narayanganj",
+        "wikidata": "Q1990163",
+        "type": "city",
+        "url": "http://www.wikidata.org/entity/Q1990163"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.5,
+          23.6
+        ]
+      },
+      "properties": {
+        "name": "Narayanganj District",
+        "wikidata": "Q2208354",
+        "type": "district of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q2208354"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.6083,
+          23.6583
+        ]
+      },
+      "properties": {
+        "name": "Sonargaon Upazila",
+        "wikidata": "Q3345715",
+        "type": "upazila of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q3345715"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.65,
+          23.783333333
+        ]
+      },
+      "properties": {
+        "name": "Araihazar",
+        "wikidata": "Q4068431",
+        "type": "human settlement",
+        "url": "http://www.wikidata.org/entity/Q4068431"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.65,
+          23.7917
+        ]
+      },
+      "properties": {
+        "name": "Araihazar Upazila",
+        "wikidata": "Q4068438",
+        "type": "upazila of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q4068438"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.516666666,
+          23.616666666
+        ]
+      },
+      "properties": {
+        "name": "Bandar",
+        "wikidata": "Q4077241",
+        "type": "human settlement",
+        "url": "http://www.wikidata.org/entity/Q4077241"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.525,
+          23.6167
+        ]
+      },
+      "properties": {
+        "name": "Bandar Upazila",
+        "wikidata": "Q4077244",
+        "type": "upazila of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q4077244"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.54,
+          23.64
+        ]
+      },
+      "properties": {
+        "name": "Bandar Upazila",
+        "wikidata": "Q4077244",
+        "type": "upazila of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q4077244"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.5,
+          23.6
+        ]
+      },
+      "properties": {
+        "name": "Narayanganj Sadar Upazila",
+        "wikidata": "Q4313079",
+        "type": "upazila of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q4313079"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.48,
+          23.63
+        ]
+      },
+      "properties": {
+        "name": "Narayanganj Sadar Upazila",
+        "wikidata": "Q4313079",
+        "type": "upazila of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q4313079"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.516666666,
+          23.791666666
+        ]
+      },
+      "properties": {
+        "name": "Rupganj",
+        "wikidata": "Q4400168",
+        "type": "human settlement",
+        "url": "http://www.wikidata.org/entity/Q4400168"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.616666666,
+          23.65
+        ]
+      },
+      "properties": {
+        "name": "Sonargaon",
+        "wikidata": "Q3350313",
+        "type": "village",
+        "url": "http://www.wikidata.org/entity/Q3350313"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.616666666,
+          23.65
+        ]
+      },
+      "properties": {
+        "name": "Sonargaon",
+        "wikidata": "Q3350313",
+        "type": "archaeological site",
+        "url": "http://www.wikidata.org/entity/Q3350313"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.5167,
+          23.7931
+        ]
+      },
+      "properties": {
+        "name": "Rupganj Upazila",
+        "wikidata": "Q4400172",
+        "type": "upazila of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q4400172"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.54,
+          23.83
+        ]
+      },
+      "properties": {
+        "name": "Rupganj Upazila",
+        "wikidata": "Q4400172",
+        "type": "upazila of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q4400172"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.5087,
+          23.607
+        ]
+      },
+      "properties": {
+        "name": "Bangladesh Institute of Marine Technology",
+        "wikidata": "Q4855315",
+        "type": "higher education institution",
+        "url": "http://www.wikidata.org/entity/Q4855315"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.485555555,
+          23.646111111
+        ]
+      },
+      "properties": {
+        "name": "Fatullah",
+        "wikidata": "Q5438030",
+        "type": "human settlement",
+        "url": "http://www.wikidata.org/entity/Q5438030"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.5912108,
+          23.6564985
+        ]
+      },
+      "properties": {
+        "name": "Goaldi Mosque",
+        "wikidata": "Q5575202",
+        "type": "mosque",
+        "url": "http://www.wikidata.org/entity/Q5575202"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.4973,
+          23.6231
+        ]
+      },
+      "properties": {
+        "name": "Government Tolaram College",
+        "wikidata": "Q5589116",
+        "type": "academic institution",
+        "url": "http://www.wikidata.org/entity/Q5589116"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.5631,
+          23.6468
+        ]
+      },
+      "properties": {
+        "name": "Langalbandh",
+        "wikidata": "Q6485672",
+        "type": "Hindu pilgrimage site",
+        "url": "http://www.wikidata.org/entity/Q6485672"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.501238888,
+          23.614505555
+        ]
+      },
+      "properties": {
+        "name": "Morgan Girls High School",
+        "wikidata": "Q6911673",
+        "type": "high school",
+        "url": "http://www.wikidata.org/entity/Q6911673"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.52046,
+          23.7786
+        ]
+      },
+      "properties": {
+        "name": "Murapara Rajbari",
+        "wikidata": "Q6937335",
+        "type": "building",
+        "url": "http://www.wikidata.org/entity/Q6937335"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.503855555,
+          23.618441666
+        ]
+      },
+      "properties": {
+        "name": "Narayanganj High School and College",
+        "wikidata": "Q6965551",
+        "type": "secondary school",
+        "url": "http://www.wikidata.org/entity/Q6965551"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.6032983,
+          23.6558359
+        ]
+      },
+      "properties": {
+        "name": "Panam City",
+        "wikidata": "Q13058532",
+        "type": "ancient city",
+        "url": "http://www.wikidata.org/entity/Q13058532"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.516666666,
+          23.683333333
+        ]
+      },
+      "properties": {
+        "name": "Siddhirganj",
+        "wikidata": "Q13060024",
+        "type": "city",
+        "url": "http://www.wikidata.org/entity/Q13060024"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.6725,
+          23.7494
+        ]
+      },
+      "properties": {
+        "name": "Uchitpur Union",
+        "wikidata": "Q13149878",
+        "type": "union council of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q13149878"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.5342,
+          23.5957
+        ]
+      },
+      "properties": {
+        "name": "Kalagachhia Union",
+        "wikidata": "Q13150038",
+        "type": "union council of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q13150038"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.7181,
+          23.695
+        ]
+      },
+      "properties": {
+        "name": "Kala Paharia Union",
+        "wikidata": "Q13150165",
+        "type": "union council of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q13150165"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.606,
+          23.7897
+        ]
+      },
+      "properties": {
+        "name": "Duptaraup Union",
+        "wikidata": "Q13151039",
+        "type": "union council of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q13151039"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.5358,
+          23.6704
+        ]
+      },
+      "properties": {
+        "name": "Dhamgar Union",
+        "wikidata": "Q13151110",
+        "type": "union council of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q13151110"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.6659,
+          23.7846
+        ]
+      },
+      "properties": {
+        "name": "Fatehpur Union (Araihazar)",
+        "wikidata": "Q13151522",
+        "type": "union council of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q13151522"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.6264,
+          23.6669
+        ]
+      },
+      "properties": {
+        "name": "Baidyer Bazar Union",
+        "wikidata": "Q13151909",
+        "type": "union council of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q13151909"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.58105,
+          23.87432
+        ]
+      },
+      "properties": {
+        "name": "Bolobo Union",
+        "wikidata": "Q19742712",
+        "type": "union council of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q19742712"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.7302,
+          23.7857
+        ]
+      },
+      "properties": {
+        "name": "Bishnandi Union",
+        "wikidata": "Q22346203",
+        "type": "union council of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q22346203"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.6326,
+          23.7802
+        ]
+      },
+      "properties": {
+        "name": "Brahmandi Bazar Union",
+        "wikidata": "Q22346205",
+        "type": "union council of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q22346205"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.6659,
+          23.7481
+        ]
+      },
+      "properties": {
+        "name": "Haizadi Union",
+        "wikidata": "Q22346206",
+        "type": "union council of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q22346206"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.6767,
+          23.7257
+        ]
+      },
+      "properties": {
+        "name": "Khagakanda Union",
+        "wikidata": "Q22346207",
+        "type": "union council of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q22346207"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.454730987,
+          23.597655123
+        ]
+      },
+      "properties": {
+        "name": "Baktaboli Union",
+        "wikidata": "Q22346985",
+        "type": "union council of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q22346985"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.526109,
+          23.629643
+        ]
+      },
+      "properties": {
+        "name": "Madanpur Union",
+        "wikidata": "Q22347194",
+        "type": "union council of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q22347194"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.5645,
+          23.6503
+        ]
+      },
+      "properties": {
+        "name": "Musapur Union",
+        "wikidata": "Q22347195",
+        "type": "union council of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q22347195"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.507,
+          23.723
+        ]
+      },
+      "properties": {
+        "name": "Tarabo",
+        "wikidata": "Q22347637",
+        "type": "city",
+        "url": "http://www.wikidata.org/entity/Q22347637"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.635555555,
+          23.703611111
+        ]
+      },
+      "properties": {
+        "name": "Baradi Union",
+        "wikidata": "Q22347905",
+        "type": "union council of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q22347905"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.52326,
+          23.70238
+        ]
+      },
+      "properties": {
+        "name": "Kanchpur Union",
+        "wikidata": "Q22347907",
+        "type": "union council of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q22347907"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.5892,
+          23.6343
+        ]
+      },
+      "properties": {
+        "name": "Mugra Para Union",
+        "wikidata": "Q22347908",
+        "type": "union council of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q22347908"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.66,
+          23.79
+        ]
+      },
+      "properties": {
+        "name": "Narayanganj-2",
+        "wikidata": "Q24694453",
+        "type": "constituency of the Jatiya Sangsad",
+        "url": "http://www.wikidata.org/entity/Q24694453"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.48,
+          23.64
+        ]
+      },
+      "properties": {
+        "name": "Narayanganj-4",
+        "wikidata": "Q24694459",
+        "type": "constituency of the Jatiya Sangsad",
+        "url": "http://www.wikidata.org/entity/Q24694459"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.5,
+          23.63
+        ]
+      },
+      "properties": {
+        "name": "Narayanganj-5",
+        "wikidata": "Q24694462",
+        "type": "constituency of the Jatiya Sangsad",
+        "url": "http://www.wikidata.org/entity/Q24694462"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.5027,
+          23.6218
+        ]
+      },
+      "properties": {
+        "name": "Amlapara",
+        "wikidata": "Q24910311",
+        "type": "human settlement",
+        "url": "http://www.wikidata.org/entity/Q24910311"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.204909,
+          25.007187
+        ]
+      },
+      "properties": {
+        "name": "Muazzampur Shahi Mosque",
+        "wikidata": "Q26923748",
+        "type": "mosque",
+        "url": "http://www.wikidata.org/entity/Q26923748"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.7112,
+          23.8016
+        ]
+      },
+      "properties": {
+        "name": "Gopaldi Nazrul Islam Babu College",
+        "wikidata": "Q28225539",
+        "type": "academic institution",
+        "url": "http://www.wikidata.org/entity/Q28225539"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.5055539,
+          23.6187157
+        ]
+      },
+      "properties": {
+        "name": "Narayanganj Rail Junction",
+        "wikidata": "Q30640895",
+        "type": "railway station",
+        "url": "http://www.wikidata.org/entity/Q30640895"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.5055539,
+          23.6187157
+        ]
+      },
+      "properties": {
+        "name": "Narayanganj Rail Junction",
+        "wikidata": "Q30640895",
+        "type": "station located on surface",
+        "url": "http://www.wikidata.org/entity/Q30640895"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.504002777,
+          23.617325
+        ]
+      },
+      "properties": {
+        "name": "Q31726219",
+        "wikidata": "Q31726219",
+        "type": "college",
+        "url": "http://www.wikidata.org/entity/Q31726219"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.4982,
+          23.6232
+        ]
+      },
+      "properties": {
+        "name": "Narayanganj Government Mohila College",
+        "wikidata": "Q39053912",
+        "type": "academic institution",
+        "url": "http://www.wikidata.org/entity/Q39053912"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.4982845,
+          23.624365
+        ]
+      },
+      "properties": {
+        "name": "Chashara railway station",
+        "wikidata": "Q60473894",
+        "type": "railway station",
+        "url": "http://www.wikidata.org/entity/Q60473894"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.4742306,
+          23.6503522
+        ]
+      },
+      "properties": {
+        "name": "Fatulla railway station",
+        "wikidata": "Q60473895",
+        "type": "railway station",
+        "url": "http://www.wikidata.org/entity/Q60473895"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.460082,
+          23.6656948
+        ]
+      },
+      "properties": {
+        "name": "Pagla railway station",
+        "wikidata": "Q60473896",
+        "type": "railway station",
+        "url": "http://www.wikidata.org/entity/Q60473896"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.5035,
+          23.6162
+        ]
+      },
+      "properties": {
+        "name": "Bose Cabin",
+        "wikidata": "Q62265140",
+        "type": "restaurant",
+        "url": "http://www.wikidata.org/entity/Q62265140"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.599967,
+          23.655738
+        ]
+      },
+      "properties": {
+        "name": "17 Panam City",
+        "wikidata": "Q67139924",
+        "type": "building",
+        "url": "http://www.wikidata.org/entity/Q67139924"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.635592,
+          23.70513
+        ]
+      },
+      "properties": {
+        "name": "Baba Lokenath Brahmachari Ashram",
+        "wikidata": "Q97382975",
+        "type": "ashram",
+        "url": "http://www.wikidata.org/entity/Q97382975"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.635592,
+          23.70513
+        ]
+      },
+      "properties": {
+        "name": "Baba Lokenath Brahmachari Ashram",
+        "wikidata": "Q97382975",
+        "type": "Hindu temple",
+        "url": "http://www.wikidata.org/entity/Q97382975"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.6035408,
+          23.6558804
+        ]
+      },
+      "properties": {
+        "name": "39 Panam Nagar",
+        "wikidata": "Q101071352",
+        "type": "building",
+        "url": "http://www.wikidata.org/entity/Q101071352"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.602508,
+          23.6557895
+        ]
+      },
+      "properties": {
+        "name": "Panam Nagar ticket counter",
+        "wikidata": "Q101071399",
+        "type": "ticket counter",
+        "url": "http://www.wikidata.org/entity/Q101071399"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.5222,
+          23.8166
+        ]
+      },
+      "properties": {
+        "name": "Anondo Police Housing Society",
+        "wikidata": "Q104866803",
+        "type": "residential area",
+        "url": "http://www.wikidata.org/entity/Q104866803"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.5016405,
+          23.6146496
+        ]
+      },
+      "properties": {
+        "name": "CineScope",
+        "wikidata": "Q113291672",
+        "type": "movie theater",
+        "url": "http://www.wikidata.org/entity/Q113291672"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.5016405,
+          23.6146496
+        ]
+      },
+      "properties": {
+        "name": "CineScope",
+        "wikidata": "Q113291672",
+        "type": "mini theater",
+        "url": "http://www.wikidata.org/entity/Q113291672"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.514594,
+          23.728398
+        ]
+      },
+      "properties": {
+        "name": "BSCIC Jamdani Village",
+        "wikidata": "Q117791880",
+        "type": "industrial park",
+        "url": "http://www.wikidata.org/entity/Q117791880"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.4993036,
+          23.619765
+        ]
+      },
+      "properties": {
+        "name": "Bangabandhu Road",
+        "wikidata": "Q121422314",
+        "type": "road",
+        "url": "http://www.wikidata.org/entity/Q121422314"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.45502,
+          23.679057
+        ]
+      },
+      "properties": {
+        "name": "Pagla Sewage Treatment Plant",
+        "wikidata": "Q121539464",
+        "type": "wastewater treatment plant",
+        "url": "http://www.wikidata.org/entity/Q121539464"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.691,
+          23.777
+        ]
+      },
+      "properties": {
+        "name": "Mahmudpur Union",
+        "wikidata": "Q125407879",
+        "type": "Unknown",
+        "url": "http://www.wikidata.org/entity/Q125407879"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.6298,
+          23.8477
+        ]
+      },
+      "properties": {
+        "name": "Satgram Union",
+        "wikidata": "Q125407887",
+        "type": "Unknown",
+        "url": "http://www.wikidata.org/entity/Q125407887"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.662213,
+          23.790959
+        ]
+      },
+      "properties": {
+        "name": "Q133803776",
+        "wikidata": "Q133803776",
+        "type": "secondary school",
+        "url": "http://www.wikidata.org/entity/Q133803776"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.500427,
+          23.721801
+        ]
+      },
+      "properties": {
+        "name": "Sultana Kamal Bridge",
+        "wikidata": "Q134410518",
+        "type": "road bridge",
+        "url": "http://www.wikidata.org/entity/Q134410518"
+      }
+    }
+  ]
+}

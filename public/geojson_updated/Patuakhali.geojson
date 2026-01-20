@@ -1,0 +1,1925 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.3181,
+          22.3542
+        ]
+      },
+      "properties": {
+        "name": "Patuakhali District",
+        "wikidata": "Q1429761",
+        "type": "district of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q1429761"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.5903,
+          22.2833
+        ]
+      },
+      "properties": {
+        "name": "Dashmina Upazila",
+        "wikidata": "Q3346050",
+        "type": "upazila of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q3346050"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.3181,
+          22.3542
+        ]
+      },
+      "properties": {
+        "name": "Patuakhali Sadar Upazila",
+        "wikidata": "Q3346068",
+        "type": "upazila of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q3346068"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.32,
+          22.37
+        ]
+      },
+      "properties": {
+        "name": "Patuakhali Sadar Upazila",
+        "wikidata": "Q3346068",
+        "type": "upazila of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q3346068"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.22,
+          22.36
+        ]
+      },
+      "properties": {
+        "name": "Mirzaganj Upazila",
+        "wikidata": "Q3346272",
+        "type": "upazila of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q3346272"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.2422,
+          21.9861
+        ]
+      },
+      "properties": {
+        "name": "Kalapara Upazila",
+        "wikidata": "Q3346759",
+        "type": "upazila of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q3346759"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.40512,
+          22.1607
+        ]
+      },
+      "properties": {
+        "name": "Galachipa Upazila",
+        "wikidata": "Q3346818",
+        "type": "upazila of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q3346818"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.4306,
+          22.1639
+        ]
+      },
+      "properties": {
+        "name": "Galachipa Upazila",
+        "wikidata": "Q3346818",
+        "type": "upazila of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q3346818"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.53,
+          22.45
+        ]
+      },
+      "properties": {
+        "name": "Bauphal Upazila",
+        "wikidata": "Q3352133",
+        "type": "upazila of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q3352133"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.516666666,
+          22.433333333
+        ]
+      },
+      "properties": {
+        "name": "Bauphal",
+        "wikidata": "Q4079706",
+        "type": "human settlement",
+        "url": "http://www.wikidata.org/entity/Q4079706"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.410614,
+          22.164196
+        ]
+      },
+      "properties": {
+        "name": "Galachipa",
+        "wikidata": "Q4132282",
+        "type": "human settlement",
+        "url": "http://www.wikidata.org/entity/Q4132282"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.55,
+          22.283333333
+        ]
+      },
+      "properties": {
+        "name": "Dasmina",
+        "wikidata": "Q4155171",
+        "type": "human settlement",
+        "url": "http://www.wikidata.org/entity/Q4155171"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.3181,
+          22.3542
+        ]
+      },
+      "properties": {
+        "name": "Patuakhali",
+        "wikidata": "Q4347123",
+        "type": "human settlement",
+        "url": "http://www.wikidata.org/entity/Q4347123"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.466666666,
+          22.383333333
+        ]
+      },
+      "properties": {
+        "name": "Adabaria, Patuakhali",
+        "wikidata": "Q4678328",
+        "type": "human settlement",
+        "url": "http://www.wikidata.org/entity/Q4678328"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.516666666,
+          22.866666666
+        ]
+      },
+      "properties": {
+        "name": "Andar Char",
+        "wikidata": "Q4753609",
+        "type": "human settlement",
+        "url": "http://www.wikidata.org/entity/Q4753609"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.266666666,
+          22.433333333
+        ]
+      },
+      "properties": {
+        "name": "Andua",
+        "wikidata": "Q4760304",
+        "type": "village",
+        "url": "http://www.wikidata.org/entity/Q4760304"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.366666666,
+          22.483333333
+        ]
+      },
+      "properties": {
+        "name": "Angaria, Patuakhali",
+        "wikidata": "Q4761958",
+        "type": "human settlement",
+        "url": "http://www.wikidata.org/entity/Q4761958"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.333333333,
+          22.5
+        ]
+      },
+      "properties": {
+        "name": "Atakati",
+        "wikidata": "Q4812659",
+        "type": "human settlement",
+        "url": "http://www.wikidata.org/entity/Q4812659"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.35,
+          22.416666666
+        ]
+      },
+      "properties": {
+        "name": "Badarpur",
+        "wikidata": "Q4840624",
+        "type": "human settlement",
+        "url": "http://www.wikidata.org/entity/Q4840624"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.466666666,
+          22.433333333
+        ]
+      },
+      "properties": {
+        "name": "Baga, Patuakhali",
+        "wikidata": "Q4841381",
+        "type": "human settlement",
+        "url": "http://www.wikidata.org/entity/Q4841381"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.35,
+          22.333333333
+        ]
+      },
+      "properties": {
+        "name": "Bahalgachhia",
+        "wikidata": "Q4842304",
+        "type": "human settlement",
+        "url": "http://www.wikidata.org/entity/Q4842304"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.583333333,
+          22.333333333
+        ]
+      },
+      "properties": {
+        "name": "Baharampur",
+        "wikidata": "Q4842439",
+        "type": "human settlement",
+        "url": "http://www.wikidata.org/entity/Q4842439"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.383333333,
+          22.483333333
+        ]
+      },
+      "properties": {
+        "name": "Baher Char, Barisal",
+        "wikidata": "Q4842531",
+        "type": "human settlement",
+        "url": "http://www.wikidata.org/entity/Q4842531"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.533333333,
+          22.583333333
+        ]
+      },
+      "properties": {
+        "name": "Baherakhola",
+        "wikidata": "Q4842536",
+        "type": "human settlement",
+        "url": "http://www.wikidata.org/entity/Q4842536"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.6,
+          22.316666666
+        ]
+      },
+      "properties": {
+        "name": "Bansbaria",
+        "wikidata": "Q4857111",
+        "type": "human settlement",
+        "url": "http://www.wikidata.org/entity/Q4857111"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.216666666,
+          22.9
+        ]
+      },
+      "properties": {
+        "name": "Bara Baliatali",
+        "wikidata": "Q4858011",
+        "type": "human settlement",
+        "url": "http://www.wikidata.org/entity/Q4858011"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.266666666,
+          22.3
+        ]
+      },
+      "properties": {
+        "name": "Bara Bighai",
+        "wikidata": "Q4858018",
+        "type": "human settlement",
+        "url": "http://www.wikidata.org/entity/Q4858018"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.1167,
+          21.8167
+        ]
+      },
+      "properties": {
+        "name": "Kuakata",
+        "wikidata": "Q6440964",
+        "type": "town",
+        "url": "http://www.wikidata.org/entity/Q6440964"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.337431,
+          22.352868
+        ]
+      },
+      "properties": {
+        "name": "Patuakhali Polytechnic Institute",
+        "wikidata": "Q13058460",
+        "type": "polytechnic institute",
+        "url": "http://www.wikidata.org/entity/Q13058460"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.337483,
+          22.353172
+        ]
+      },
+      "properties": {
+        "name": "Patuakhali Polytechnic Institute",
+        "wikidata": "Q13058460",
+        "type": "polytechnic institute",
+        "url": "http://www.wikidata.org/entity/Q13058460"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.508333333,
+          22.256388888
+        ]
+      },
+      "properties": {
+        "name": "Alipura Union, Dashmina",
+        "wikidata": "Q13149754",
+        "type": "union council of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q13149754"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.233333333,
+          21.983333333
+        ]
+      },
+      "properties": {
+        "name": "Kalapara",
+        "wikidata": "Q13637045",
+        "type": "human settlement",
+        "url": "http://www.wikidata.org/entity/Q13637045"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.233333333,
+          22.366666666
+        ]
+      },
+      "properties": {
+        "name": "Mirzaganj",
+        "wikidata": "Q13637047",
+        "type": "human settlement",
+        "url": "http://www.wikidata.org/entity/Q13637047"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.33054444,
+          22.36278056
+        ]
+      },
+      "properties": {
+        "name": "Patuakhali Stadium",
+        "wikidata": "Q15265704",
+        "type": "stadium",
+        "url": "http://www.wikidata.org/entity/Q15265704"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.4333,
+          21.9333
+        ]
+      },
+      "properties": {
+        "name": "Rangabali Upazila",
+        "wikidata": "Q16899141",
+        "type": "upazila of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q16899141"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.36666667,
+          22.43333333
+        ]
+      },
+      "properties": {
+        "name": "Dumki Upazila",
+        "wikidata": "Q16967435",
+        "type": "upazila of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q16967435"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.3271,
+          22.3629
+        ]
+      },
+      "properties": {
+        "name": "Patuakhali Medical College",
+        "wikidata": "Q18129286",
+        "type": "medical school",
+        "url": "http://www.wikidata.org/entity/Q18129286"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.342285,
+          22.353735
+        ]
+      },
+      "properties": {
+        "name": "Patuakhali Government College",
+        "wikidata": "Q19740404",
+        "type": "college",
+        "url": "http://www.wikidata.org/entity/Q19740404"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.342285,
+          22.353735
+        ]
+      },
+      "properties": {
+        "name": "Patuakhali Government College",
+        "wikidata": "Q19740404",
+        "type": "academic institution",
+        "url": "http://www.wikidata.org/entity/Q19740404"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.33,
+          22.36
+        ]
+      },
+      "properties": {
+        "name": "Patuakhali-1",
+        "wikidata": "Q24693444",
+        "type": "constituency of the Jatiya Sangsad",
+        "url": "http://www.wikidata.org/entity/Q24693444"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.56,
+          22.41
+        ]
+      },
+      "properties": {
+        "name": "Patuakhali-2",
+        "wikidata": "Q24693450",
+        "type": "constituency of the Jatiya Sangsad",
+        "url": "http://www.wikidata.org/entity/Q24693450"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.41,
+          22.17
+        ]
+      },
+      "properties": {
+        "name": "Patuakhali-3",
+        "wikidata": "Q24693456",
+        "type": "constituency of the Jatiya Sangsad",
+        "url": "http://www.wikidata.org/entity/Q24693456"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.22,
+          21.99
+        ]
+      },
+      "properties": {
+        "name": "Patuakhali-4",
+        "wikidata": "Q24693461",
+        "type": "constituency of the Jatiya Sangsad",
+        "url": "http://www.wikidata.org/entity/Q24693461"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.32222222,
+          22.37583333
+        ]
+      },
+      "properties": {
+        "name": "Patuakhali Airport",
+        "wikidata": "Q27963202",
+        "type": "air base",
+        "url": "http://www.wikidata.org/entity/Q27963202"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.373028,
+          22.422444
+        ]
+      },
+      "properties": {
+        "name": "Shrirampur Mosque",
+        "wikidata": "Q76529966",
+        "type": "mosque",
+        "url": "http://www.wikidata.org/entity/Q76529966"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.373028,
+          22.422444
+        ]
+      },
+      "properties": {
+        "name": "Shrirampur Mosque",
+        "wikidata": "Q76529966",
+        "type": "archaeological sites in Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q76529966"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.1808051,
+          22.2701689
+        ]
+      },
+      "properties": {
+        "name": "Majidbaria Shahi Mosque",
+        "wikidata": "Q76633918",
+        "type": "mosque",
+        "url": "http://www.wikidata.org/entity/Q76633918"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.1808051,
+          22.2701689
+        ]
+      },
+      "properties": {
+        "name": "Majidbaria Shahi Mosque",
+        "wikidata": "Q76633918",
+        "type": "archaeological sites in Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q76633918"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.366666666,
+          22.483333333
+        ]
+      },
+      "properties": {
+        "name": "Mirzaganj, Patuakhali",
+        "wikidata": "Q115805700",
+        "type": "administrative territorial entity",
+        "url": "http://www.wikidata.org/entity/Q115805700"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.125318,
+          21.856187
+        ]
+      },
+      "properties": {
+        "name": "Shaheed Sheikh Russel Bridge",
+        "wikidata": "Q119241662",
+        "type": "bridge",
+        "url": "http://www.wikidata.org/entity/Q119241662"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.5314843,
+          22.3407204
+        ]
+      },
+      "properties": {
+        "name": "Amirullah Munshibari Jami Mosque",
+        "wikidata": "Q135113342",
+        "type": "mosque",
+        "url": "http://www.wikidata.org/entity/Q135113342"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.441666666,
+          22.115555555
+        ]
+      },
+      "properties": {
+        "name": "Panpatti Union",
+        "wikidata": "Q7131568",
+        "type": "union council of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q7131568"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.38252,
+          22.46424
+        ]
+      },
+      "properties": {
+        "name": "Patuakhali Science and Technology University",
+        "wikidata": "Q7148748",
+        "type": "public university",
+        "url": "http://www.wikidata.org/entity/Q7148748"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.380277777,
+          22.478611111
+        ]
+      },
+      "properties": {
+        "name": "Angaria Union, Dumki",
+        "wikidata": "Q13149570",
+        "type": "union council of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q13149570"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.348055555,
+          22.285277777
+        ]
+      },
+      "properties": {
+        "name": "Auliapur Union, Patuakhali Sadar",
+        "wikidata": "Q13149598",
+        "type": "union council of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q13149598"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.453055555,
+          22.367777777
+        ]
+      },
+      "properties": {
+        "name": "Adabaria Union, Bauphal",
+        "wikidata": "Q13149669",
+        "type": "union council of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q13149669"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.219444444,
+          22.397777777
+        ]
+      },
+      "properties": {
+        "name": "Amragachhia Union, Mirjaganj",
+        "wikidata": "Q13149722",
+        "type": "union council of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q13149722"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.287222222,
+          22.3825
+        ]
+      },
+      "properties": {
+        "name": "Itbaria Union,Kalapara Upazilla,Patuakhali  Districts",
+        "wikidata": "Q13149826",
+        "type": "union council of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q13149826"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.458055555,
+          22.495
+        ]
+      },
+      "properties": {
+        "name": "Q13149982",
+        "wikidata": "Q13149982",
+        "type": "union council of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q13149982"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.478888888,
+          22.460833333
+        ]
+      },
+      "properties": {
+        "name": "Kanakdia Union, Bauphal",
+        "wikidata": "Q13149995",
+        "type": "union council of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q13149995"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.423888888,
+          22.332222222
+        ]
+      },
+      "properties": {
+        "name": "Kamalapur Union, Patuakhali Sadar",
+        "wikidata": "Q13150005",
+        "type": "union council of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q13150005"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.168611111,
+          22.2975
+        ]
+      },
+      "properties": {
+        "name": "Kakrabunia Union, Mirjaganj",
+        "wikidata": "Q13150138",
+        "type": "union council of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q13150138"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.571388888,
+          22.505555555
+        ]
+      },
+      "properties": {
+        "name": "Keshabpur Union, Bauphal",
+        "wikidata": "Q13150263",
+        "type": "union council of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q13150263"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.412222222,
+          22.126944444
+        ]
+      },
+      "properties": {
+        "name": "Galachipa Union, Galachipa",
+        "wikidata": "Q13150382",
+        "type": "union council of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q13150382"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.534722222,
+          22.057222222
+        ]
+      },
+      "properties": {
+        "name": "Charkajol Union, Galachipa",
+        "wikidata": "Q13150518",
+        "type": "union council of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q13150518"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.446944444,
+          22.004722222
+        ]
+      },
+      "properties": {
+        "name": "Chhota Baisdia Union",
+        "wikidata": "Q13150681",
+        "type": "union council of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q13150681"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.236388888,
+          22.319166666
+        ]
+      },
+      "properties": {
+        "name": "Chhota Bighai Union, Patuakhali Sadar",
+        "wikidata": "Q13150682",
+        "type": "union council of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q13150682"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.378888888,
+          22.329722222
+        ]
+      },
+      "properties": {
+        "name": "Jainkathi Union, Patuakhali Sadar",
+        "wikidata": "Q13150796",
+        "type": "union council of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q13150796"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.569444444,
+          22.261666666
+        ]
+      },
+      "properties": {
+        "name": "Dashmina Union, Dashmina",
+        "wikidata": "Q13150992",
+        "type": "union council of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q13150992"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.3225,
+          22.063611111
+        ]
+      },
+      "properties": {
+        "name": "Dhankhali Union",
+        "wikidata": "Q13151105",
+        "type": "union council of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q13151105"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.216388888,
+          21.840277777
+        ]
+      },
+      "properties": {
+        "name": "Dhulaswar Union",
+        "wikidata": "Q13151126",
+        "type": "union council of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q13151126"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.549444444,
+          22.554722222
+        ]
+      },
+      "properties": {
+        "name": "Dhulia Union, Bauphal",
+        "wikidata": "Q13151127",
+        "type": "union council of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q13151127"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.601944444,
+          22.440555555
+        ]
+      },
+      "properties": {
+        "name": "Nazirpur Union, Bauphal",
+        "wikidata": "Q13151186",
+        "type": "union council of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q13151186"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.505277777,
+          22.370555555
+        ]
+      },
+      "properties": {
+        "name": "Nowmala Union, Bauphal",
+        "wikidata": "Q13151265",
+        "type": "union council of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q13151265"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.359166666,
+          21.916666666
+        ]
+      },
+      "properties": {
+        "name": "Boro Baisdia Union",
+        "wikidata": "Q13151603",
+        "type": "union council of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q13151603"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.323611111,
+          22.398888888
+        ]
+      },
+      "properties": {
+        "name": "Badarpur Union, Patuakhali Sadar",
+        "wikidata": "Q13151636",
+        "type": "union council of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q13151636"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.521111111,
+          22.407777777
+        ]
+      },
+      "properties": {
+        "name": "Bauphal Union, Bauphal",
+        "wikidata": "Q13151707",
+        "type": "union council of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q13151707"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.560833333,
+          22.335
+        ]
+      },
+      "properties": {
+        "name": "Bahrampur Union, Dashmina",
+        "wikidata": "Q13151823",
+        "type": "union council of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q13151823"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.187222222,
+          22.258333333
+        ]
+      },
+      "properties": {
+        "name": "Mazidbaria Union, Mirjaganj",
+        "wikidata": "Q13152076",
+        "type": "union council of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q13152076"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.291388888,
+          22.276666666
+        ]
+      },
+      "properties": {
+        "name": "Marichbunia Union, Patuakhali Sadar",
+        "wikidata": "Q13152125",
+        "type": "union council of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q13152125"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.263333333,
+          22.448055555
+        ]
+      },
+      "properties": {
+        "name": "Madhabkhali Union, Mirjaganj",
+        "wikidata": "Q13152191",
+        "type": "union council of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q13152191"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.253333333,
+          22.390555555
+        ]
+      },
+      "properties": {
+        "name": "Mirzaganj Union, Mirjaganj",
+        "wikidata": "Q13152253",
+        "type": "union council of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q13152253"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.416944444,
+          22.432777777
+        ]
+      },
+      "properties": {
+        "name": "Muradia Union, Dumki",
+        "wikidata": "Q13152280",
+        "type": "union council of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q13152280"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.470277777,
+          22.156666666
+        ]
+      },
+      "properties": {
+        "name": "Ratandi Taltali Union, Galachipa",
+        "wikidata": "Q13152366",
+        "type": "union council of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q13152366"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.509722222,
+          22.209166666
+        ]
+      },
+      "properties": {
+        "name": "Rangopaldi Union, Dashmina",
+        "wikidata": "Q13152368",
+        "type": "union council of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q13152368"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.358333333,
+          22.406111111
+        ]
+      },
+      "properties": {
+        "name": "Lowkathi Union, Patuakhali Sadar",
+        "wikidata": "Q13152536",
+        "type": "union council of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q13152536"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.141944444,
+          21.835555555
+        ]
+      },
+      "properties": {
+        "name": "Lata Chapli Union",
+        "wikidata": "Q13152537",
+        "type": "union council of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q13152537"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.374444444,
+          22.453611111
+        ]
+      },
+      "properties": {
+        "name": "Lebukhali Union, Dumki",
+        "wikidata": "Q13152584",
+        "type": "union council of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q13152584"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.396111111,
+          22.385833333
+        ]
+      },
+      "properties": {
+        "name": "Lohalia Union, Patuakhali Sadar",
+        "wikidata": "Q13152602",
+        "type": "union council of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q13152602"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.533888888,
+          22.479722222
+        ]
+      },
+      "properties": {
+        "name": "Surjyamani Union, Bauphal",
+        "wikidata": "Q13152831",
+        "type": "union council of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q13152831"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.601666666,
+          22.301388888
+        ]
+      },
+      "properties": {
+        "name": "Q19741384",
+        "wikidata": "Q19741384",
+        "type": "union council of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q19741384"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.2175,
+          22.036666666
+        ]
+      },
+      "properties": {
+        "name": "Chakamaiya Union",
+        "wikidata": "Q22346321",
+        "type": "union council of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q22346321"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.285833333,
+          21.959722222
+        ]
+      },
+      "properties": {
+        "name": "Lalua Union",
+        "wikidata": "Q22346322",
+        "type": "union council of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q22346322"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.229444444,
+          21.913888888
+        ]
+      },
+      "properties": {
+        "name": "Mithaganj Union",
+        "wikidata": "Q22346323",
+        "type": "union council of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q22346323"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.170555555,
+          21.946111111
+        ]
+      },
+      "properties": {
+        "name": "Nilganj Union",
+        "wikidata": "Q22346325",
+        "type": "union council of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q22346325"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.249166666,
+          21.996666666
+        ]
+      },
+      "properties": {
+        "name": "Tiakhali Union",
+        "wikidata": "Q22346326",
+        "type": "union council of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q22346326"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.375555555,
+          22.247222222
+        ]
+      },
+      "properties": {
+        "name": "Amkhola Union, Galachipa",
+        "wikidata": "Q22346530",
+        "type": "union council of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q22346530"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.466388888,
+          22.296944444
+        ]
+      },
+      "properties": {
+        "name": "Bakulbaria Union, Galachipa",
+        "wikidata": "Q22346531",
+        "type": "union council of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q22346531"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.378333333,
+          22.047777777
+        ]
+      },
+      "properties": {
+        "name": "Chalitabunia Union",
+        "wikidata": "Q22346532",
+        "type": "union council of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q22346532"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.449444444,
+          22.196111111
+        ]
+      },
+      "properties": {
+        "name": "Chiknikandi Union, Galachipa",
+        "wikidata": "Q22346533",
+        "type": "union council of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q22346533"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.438888888,
+          22.240277777
+        ]
+      },
+      "properties": {
+        "name": "Dakua Union, Galachipa",
+        "wikidata": "Q22346534",
+        "type": "union council of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q22346534"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.374166666,
+          22.16
+        ]
+      },
+      "properties": {
+        "name": "Golkhali Union, Galachipa",
+        "wikidata": "Q22346535",
+        "type": "union council of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q22346535"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.43,
+          21.931666666
+        ]
+      },
+      "properties": {
+        "name": "Rangabali Union",
+        "wikidata": "Q22346536",
+        "type": "union council of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q22346536"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.52,
+          22.324166666
+        ]
+      },
+      "properties": {
+        "name": "Betagi Sankipur Union, Dashmina",
+        "wikidata": "Q22346805",
+        "type": "union council of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q22346805"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.239444444,
+          22.2725
+        ]
+      },
+      "properties": {
+        "name": "Bara Bighai Union, Patuakhali Sadar",
+        "wikidata": "Q22347023",
+        "type": "union council of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q22347023"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.331388888,
+          22.330833333
+        ]
+      },
+      "properties": {
+        "name": "Kalikapur Union, Patuakhali Sadar",
+        "wikidata": "Q22347024",
+        "type": "union council of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q22347024"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.293888888,
+          22.321944444
+        ]
+      },
+      "properties": {
+        "name": "Madarbunia Union, Patuakhali Sadar",
+        "wikidata": "Q22347025",
+        "type": "union council of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q22347025"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.462777777,
+          22.41
+        ]
+      },
+      "properties": {
+        "name": "Boga Union, Bauphal",
+        "wikidata": "Q22347211",
+        "type": "union council of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q22347211"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.560277777,
+          22.385
+        ]
+      },
+      "properties": {
+        "name": "nowmala Union, Bauphal",
+        "wikidata": "Q22347212",
+        "type": "union council of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q22347212"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.609166666,
+          22.370833333
+        ]
+      },
+      "properties": {
+        "name": "Kalaiya Union, Bauphal",
+        "wikidata": "Q22347213",
+        "type": "union council of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q22347213"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.499444444,
+          22.513888888
+        ]
+      },
+      "properties": {
+        "name": "Kalisuri Union, Bauphal",
+        "wikidata": "Q22347214",
+        "type": "union council of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q22347214"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.526944444,
+          22.442777777
+        ]
+      },
+      "properties": {
+        "name": "Madanpura Union, Bauphal",
+        "wikidata": "Q22347215",
+        "type": "union council of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q22347215"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.195833333,
+          22.344444444
+        ]
+      },
+      "properties": {
+        "name": "Deuli Subidkhali Union, Mirjaganj",
+        "wikidata": "Q22347486",
+        "type": "union council of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q22347486"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.1747526,
+          21.9485049
+        ]
+      },
+      "properties": {
+        "name": "Water Museum",
+        "wikidata": "Q61360139",
+        "type": "museum",
+        "url": "http://www.wikidata.org/entity/Q61360139"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.315277777,
+          22.439444444
+        ]
+      },
+      "properties": {
+        "name": "Q75853181",
+        "wikidata": "Q75853181",
+        "type": "union council of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q75853181"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.340436111,
+          21.849427777
+        ]
+      },
+      "properties": {
+        "name": "Jahajmara Sea Beach",
+        "wikidata": "Q124312107",
+        "type": "beach",
+        "url": "http://www.wikidata.org/entity/Q124312107"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.358101,
+          22.347188
+        ]
+      },
+      "properties": {
+        "name": "Lohalia Bridge",
+        "wikidata": "Q132734549",
+        "type": "road bridge",
+        "url": "http://www.wikidata.org/entity/Q132734549"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.382222222,
+          22.463611111
+        ]
+      },
+      "properties": {
+        "name": "Busts of the Seven Bir Sreshtho",
+        "wikidata": "Q135235522",
+        "type": "sculpture",
+        "url": "http://www.wikidata.org/entity/Q135235522"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.219794,
+          22.370108
+        ]
+      },
+      "properties": {
+        "name": "Q136538226",
+        "wikidata": "Q136538226",
+        "type": "university college",
+        "url": "http://www.wikidata.org/entity/Q136538226"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.214967,
+          22.361373
+        ]
+      },
+      "properties": {
+        "name": "Subidkhali Govt Rahman Ishaque Pilot High School",
+        "wikidata": "Q136688326",
+        "type": "secondary school",
+        "url": "http://www.wikidata.org/entity/Q136688326"
+      }
+    }
+  ]
+}

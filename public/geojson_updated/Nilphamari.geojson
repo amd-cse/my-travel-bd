@@ -1,0 +1,1109 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.95,
+          25.95
+        ]
+      },
+      "properties": {
+        "name": "Nilphamari District",
+        "wikidata": "Q2188627",
+        "type": "district of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q2188627"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.9,
+          25.7833
+        ]
+      },
+      "properties": {
+        "name": "Saidpur",
+        "wikidata": "Q3347049",
+        "type": "city",
+        "url": "http://www.wikidata.org/entity/Q3347049"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.846667,
+          25.941667
+        ]
+      },
+      "properties": {
+        "name": "Nilphamari",
+        "wikidata": "Q3916335",
+        "type": "human settlement",
+        "url": "http://www.wikidata.org/entity/Q3916335"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.95,
+          25.95
+        ]
+      },
+      "properties": {
+        "name": "Nilphamari",
+        "wikidata": "Q3916335",
+        "type": "human settlement",
+        "url": "http://www.wikidata.org/entity/Q3916335"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.033333333,
+          26.016666666
+        ]
+      },
+      "properties": {
+        "name": "Jaldhaka",
+        "wikidata": "Q4159765",
+        "type": "human settlement",
+        "url": "http://www.wikidata.org/entity/Q4159765"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.933333333,
+          26.133333333
+        ]
+      },
+      "properties": {
+        "name": "Dimla",
+        "wikidata": "Q4161735",
+        "type": "human settlement",
+        "url": "http://www.wikidata.org/entity/Q4161735"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.833333333,
+          26.1
+        ]
+      },
+      "properties": {
+        "name": "Domar",
+        "wikidata": "Q4165718",
+        "type": "human settlement",
+        "url": "http://www.wikidata.org/entity/Q4165718"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.016666666,
+          25.9
+        ]
+      },
+      "properties": {
+        "name": "Kishoreganj",
+        "wikidata": "Q4222702",
+        "type": "human settlement",
+        "url": "http://www.wikidata.org/entity/Q4222702"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.7967,
+          26.2439
+        ]
+      },
+      "properties": {
+        "name": "Chilahati railway station",
+        "wikidata": "Q5097566",
+        "type": "railway station",
+        "url": "http://www.wikidata.org/entity/Q5097566"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.7967,
+          26.2439
+        ]
+      },
+      "properties": {
+        "name": "Chilahati railway station",
+        "wikidata": "Q5097566",
+        "type": "border train station",
+        "url": "http://www.wikidata.org/entity/Q5097566"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.7967,
+          26.2439
+        ]
+      },
+      "properties": {
+        "name": "Chilahati railway station",
+        "wikidata": "Q5097566",
+        "type": "station located on surface",
+        "url": "http://www.wikidata.org/entity/Q5097566"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.925,
+          26.1278
+        ]
+      },
+      "properties": {
+        "name": "Dimla Upazila",
+        "wikidata": "Q5277706",
+        "type": "upazila of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q5277706"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.0,
+          26.16
+        ]
+      },
+      "properties": {
+        "name": "Dimla Upazila",
+        "wikidata": "Q5277706",
+        "type": "upazila of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q5277706"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.8361,
+          26.1
+        ]
+      },
+      "properties": {
+        "name": "Domar Upazila",
+        "wikidata": "Q5289921",
+        "type": "upazila of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q5289921"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.99,
+          26.03
+        ]
+      },
+      "properties": {
+        "name": "Jaldhaka Upazila",
+        "wikidata": "Q6126712",
+        "type": "upazila of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q6126712"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.025,
+          26.0167
+        ]
+      },
+      "properties": {
+        "name": "Jaldhaka Upazila",
+        "wikidata": "Q6126712",
+        "type": "upazila of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q6126712"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.025,
+          25.9111
+        ]
+      },
+      "properties": {
+        "name": "Kishoreganj Upazila",
+        "wikidata": "Q6416647",
+        "type": "upazila of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q6416647"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.8444,
+          25.9417
+        ]
+      },
+      "properties": {
+        "name": "Nilphamari Sadar Upazila",
+        "wikidata": "Q7037176",
+        "type": "upazila of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q7037176"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.8917,
+          25.7778
+        ]
+      },
+      "properties": {
+        "name": "Saidpur Upazila",
+        "wikidata": "Q7215367",
+        "type": "upazila of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q7215367"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.84560833,
+          25.93202778
+        ]
+      },
+      "properties": {
+        "name": "Nilphamari Stadium",
+        "wikidata": "Q15262347",
+        "type": "stadium",
+        "url": "http://www.wikidata.org/entity/Q15262347"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.92,
+          26.15
+        ]
+      },
+      "properties": {
+        "name": "Nilphamari-1",
+        "wikidata": "Q21251327",
+        "type": "constituency of the Jatiya Sangsad",
+        "url": "http://www.wikidata.org/entity/Q21251327"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.86,
+          25.93
+        ]
+      },
+      "properties": {
+        "name": "Nilphamari-2",
+        "wikidata": "Q21438707",
+        "type": "constituency of the Jatiya Sangsad",
+        "url": "http://www.wikidata.org/entity/Q21438707"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.02,
+          26.02
+        ]
+      },
+      "properties": {
+        "name": "Nilphamari-3",
+        "wikidata": "Q21523037",
+        "type": "constituency of the Jatiya Sangsad",
+        "url": "http://www.wikidata.org/entity/Q21523037"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.9,
+          25.78
+        ]
+      },
+      "properties": {
+        "name": "Nilphamari-4",
+        "wikidata": "Q22979468",
+        "type": "constituency of the Jatiya Sangsad",
+        "url": "http://www.wikidata.org/entity/Q22979468"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.8352281,
+          25.9525801
+        ]
+      },
+      "properties": {
+        "name": "Nilphamari railway station",
+        "wikidata": "Q60433126",
+        "type": "railway station",
+        "url": "http://www.wikidata.org/entity/Q60433126"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.892424,
+          25.7882712
+        ]
+      },
+      "properties": {
+        "name": "Syedpur railway station",
+        "wikidata": "Q60433127",
+        "type": "railway station",
+        "url": "http://www.wikidata.org/entity/Q60433127"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.8386679,
+          25.9313403
+        ]
+      },
+      "properties": {
+        "name": "Nilphamari College railway station",
+        "wikidata": "Q60473944",
+        "type": "railway station",
+        "url": "http://www.wikidata.org/entity/Q60473944"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.8240874,
+          26.0236542
+        ]
+      },
+      "properties": {
+        "name": "Toronibari railway station",
+        "wikidata": "Q60473946",
+        "type": "railway station",
+        "url": "http://www.wikidata.org/entity/Q60473946"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.8007079,
+          26.1746366
+        ]
+      },
+      "properties": {
+        "name": "Mirzaganj railway station",
+        "wikidata": "Q60473947",
+        "type": "railway station",
+        "url": "http://www.wikidata.org/entity/Q60473947"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.8457,
+          25.9309
+        ]
+      },
+      "properties": {
+        "name": "Nilphamari Medical College",
+        "wikidata": "Q61715295",
+        "type": "medical school",
+        "url": "http://www.wikidata.org/entity/Q61715295"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.8402879,
+          25.8832995
+        ]
+      },
+      "properties": {
+        "name": "Q63314379",
+        "wikidata": "Q63314379",
+        "type": "railway station",
+        "url": "http://www.wikidata.org/entity/Q63314379"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.85177,
+          25.85368
+        ]
+      },
+      "properties": {
+        "name": "Q85352602",
+        "wikidata": "Q85352602",
+        "type": "railway station",
+        "url": "http://www.wikidata.org/entity/Q85352602"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.01,
+          25.5356
+        ]
+      },
+      "properties": {
+        "name": "Kishoreganj Union",
+        "wikidata": "Q13150196",
+        "type": "union council of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q13150196"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.022777777,
+          26.02
+        ]
+      },
+      "properties": {
+        "name": "Golmunda Union",
+        "wikidata": "Q13150458",
+        "type": "union council of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q13150458"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.9214,
+          26.152
+        ]
+      },
+      "properties": {
+        "name": "Dimla Sadar Union",
+        "wikidata": "Q13150849",
+        "type": "union council of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q13150849"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.891944444,
+          26.213055555
+        ]
+      },
+      "properties": {
+        "name": "Balapara Union",
+        "wikidata": "Q13151782",
+        "type": "union council of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q13151782"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.88652778,
+          25.7751
+        ]
+      },
+      "properties": {
+        "name": "Saidpur Stadium",
+        "wikidata": "Q15274379",
+        "type": "stadium",
+        "url": "http://www.wikidata.org/entity/Q15274379"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.854514,
+          25.935583
+        ]
+      },
+      "properties": {
+        "name": "Nilphamari Government High School",
+        "wikidata": "Q16345725",
+        "type": "high school",
+        "url": "http://www.wikidata.org/entity/Q16345725"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.8839,
+          25.7754
+        ]
+      },
+      "properties": {
+        "name": "Saidpur College",
+        "wikidata": "Q18353393",
+        "type": "college",
+        "url": "http://www.wikidata.org/entity/Q18353393"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.8317587,
+          26.1052204
+        ]
+      },
+      "properties": {
+        "name": "Q18987510",
+        "wikidata": "Q18987510",
+        "type": "high school",
+        "url": "http://www.wikidata.org/entity/Q18987510"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.9017,
+          25.7842
+        ]
+      },
+      "properties": {
+        "name": "Sunflower School and College",
+        "wikidata": "Q19600005",
+        "type": "secondary school",
+        "url": "http://www.wikidata.org/entity/Q19600005"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.9017,
+          25.7842
+        ]
+      },
+      "properties": {
+        "name": "Sunflower School and College",
+        "wikidata": "Q19600005",
+        "type": "college",
+        "url": "http://www.wikidata.org/entity/Q19600005"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.9041663,
+          25.7708134
+        ]
+      },
+      "properties": {
+        "name": "Saidpur Govt. Science College",
+        "wikidata": "Q20613439",
+        "type": "high school",
+        "url": "http://www.wikidata.org/entity/Q20613439"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.9041663,
+          25.7708134
+        ]
+      },
+      "properties": {
+        "name": "Saidpur Govt. Science College",
+        "wikidata": "Q20613439",
+        "type": "college",
+        "url": "http://www.wikidata.org/entity/Q20613439"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.8526276,
+          25.9311019
+        ]
+      },
+      "properties": {
+        "name": "Q20824190",
+        "wikidata": "Q20824190",
+        "type": "government girls' high school",
+        "url": "http://www.wikidata.org/entity/Q20824190"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.8524145,
+          25.9334822
+        ]
+      },
+      "properties": {
+        "name": "Q20824192",
+        "wikidata": "Q20824192",
+        "type": "college",
+        "url": "http://www.wikidata.org/entity/Q20824192"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.816411,
+          26.109339
+        ]
+      },
+      "properties": {
+        "name": "Domar Government College",
+        "wikidata": "Q24703777",
+        "type": "college",
+        "url": "http://www.wikidata.org/entity/Q24703777"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.9175,
+          25.7631
+        ]
+      },
+      "properties": {
+        "name": "Bangladesh Army University of Science and Technology",
+        "wikidata": "Q24949227",
+        "type": "private university",
+        "url": "http://www.wikidata.org/entity/Q24949227"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.84229,
+          25.93162
+        ]
+      },
+      "properties": {
+        "name": "Nilphamari Government College",
+        "wikidata": "Q25586109",
+        "type": "college",
+        "url": "http://www.wikidata.org/entity/Q25586109"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.8546834,
+          25.9325825
+        ]
+      },
+      "properties": {
+        "name": "Q25586543",
+        "wikidata": "Q25586543",
+        "type": "college",
+        "url": "http://www.wikidata.org/entity/Q25586543"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.8546834,
+          25.9325825
+        ]
+      },
+      "properties": {
+        "name": "Q25586543",
+        "wikidata": "Q25586543",
+        "type": "public school",
+        "url": "http://www.wikidata.org/entity/Q25586543"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.8809612,
+          26.2568546
+        ]
+      },
+      "properties": {
+        "name": "Q25586759",
+        "wikidata": "Q25586759",
+        "type": "high school",
+        "url": "http://www.wikidata.org/entity/Q25586759"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.9232008,
+          26.1464339
+        ]
+      },
+      "properties": {
+        "name": "Dimla Govt. Girls' High School",
+        "wikidata": "Q25586882",
+        "type": "government girls' high school",
+        "url": "http://www.wikidata.org/entity/Q25586882"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.9239165,
+          26.1932593
+        ]
+      },
+      "properties": {
+        "name": "Q25587124",
+        "wikidata": "Q25587124",
+        "type": "college",
+        "url": "http://www.wikidata.org/entity/Q25587124"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.8903,
+          25.7943
+        ]
+      },
+      "properties": {
+        "name": "Chini Mosque",
+        "wikidata": "Q28225247",
+        "type": "mosque",
+        "url": "http://www.wikidata.org/entity/Q28225247"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.9013,
+          25.7785
+        ]
+      },
+      "properties": {
+        "name": "Saidpur Pilot High School",
+        "wikidata": "Q30646610",
+        "type": "high school",
+        "url": "http://www.wikidata.org/entity/Q30646610"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.914499,
+          25.771682
+        ]
+      },
+      "properties": {
+        "name": "Cantonment Public School & College, Saidpur",
+        "wikidata": "Q31724187",
+        "type": "college",
+        "url": "http://www.wikidata.org/entity/Q31724187"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.914499,
+          25.771682
+        ]
+      },
+      "properties": {
+        "name": "Cantonment Public School & College, Saidpur",
+        "wikidata": "Q31724187",
+        "type": "public school",
+        "url": "http://www.wikidata.org/entity/Q31724187"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.9110795,
+          25.7643079
+        ]
+      },
+      "properties": {
+        "name": "Q31724188",
+        "wikidata": "Q31724188",
+        "type": "high school",
+        "url": "http://www.wikidata.org/entity/Q31724188"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.9865863,
+          26.1296695
+        ]
+      },
+      "properties": {
+        "name": "Q31725808",
+        "wikidata": "Q31725808",
+        "type": "high school",
+        "url": "http://www.wikidata.org/entity/Q31725808"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.98308,
+          26.13102
+        ]
+      },
+      "properties": {
+        "name": "Q57633351",
+        "wikidata": "Q57633351",
+        "type": "high school",
+        "url": "http://www.wikidata.org/entity/Q57633351"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.98308,
+          26.13102
+        ]
+      },
+      "properties": {
+        "name": "Q57633351",
+        "wikidata": "Q57633351",
+        "type": "college",
+        "url": "http://www.wikidata.org/entity/Q57633351"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.8196224,
+          26.1016865
+        ]
+      },
+      "properties": {
+        "name": "Domar railway station",
+        "wikidata": "Q60433125",
+        "type": "railway station",
+        "url": "http://www.wikidata.org/entity/Q60433125"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.85907,
+          25.85929
+        ]
+      },
+      "properties": {
+        "name": "Q60763378",
+        "wikidata": "Q60763378",
+        "type": "college",
+        "url": "http://www.wikidata.org/entity/Q60763378"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.015567,
+          26.02546
+        ]
+      },
+      "properties": {
+        "name": "Jaldhaka Govt. College",
+        "wikidata": "Q68562870",
+        "type": "college",
+        "url": "http://www.wikidata.org/entity/Q68562870"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.021135,
+          25.903115
+        ]
+      },
+      "properties": {
+        "name": "Kishorganj Govt. College",
+        "wikidata": "Q137432346",
+        "type": "college",
+        "url": "http://www.wikidata.org/entity/Q137432346"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.79558,
+          26.244531
+        ]
+      },
+      "properties": {
+        "name": "Chilahati Govt. College",
+        "wikidata": "Q137433268",
+        "type": "college",
+        "url": "http://www.wikidata.org/entity/Q137433268"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.912239,
+          26.028565
+        ]
+      },
+      "properties": {
+        "name": "Shimulbari Govt. Degree College",
+        "wikidata": "Q137463805",
+        "type": "college",
+        "url": "http://www.wikidata.org/entity/Q137463805"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.922934,
+          26.154182
+        ]
+      },
+      "properties": {
+        "name": "Dimla Govt. Women's College",
+        "wikidata": "Q137464054",
+        "type": "college",
+        "url": "http://www.wikidata.org/entity/Q137464054"
+      }
+    }
+  ]
+}

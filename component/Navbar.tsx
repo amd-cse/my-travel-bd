@@ -3,27 +3,63 @@ import Link from "next/link";
 import Image from "next/image"
 import { login, logout } from "@/lib/auth-actions";
 import { Session } from "next-auth";
+import { Josefin_Sans } from "next/font/google";
+
+export const josefinSans = Josefin_Sans({
+    subsets: ["latin"],
+    weight: ["300", "400", "500", "600", "700"],
+});
 export default function Navbar({ session }: { session: Session | null }) {
     return (
-        <nav className="bg-white shadow-md py-4 border-b border-gray-200">
+        <nav className="relative
+                        w-full
+                        min-h-[100px]
+                        -top-2.5
+                        right-0
+                        z-[1000]
+                        flex
+                        items-center
+                        justify-between
+                        bg-white
+                        shadow-[0_8px_11px_rgba(14,55,54,0.15)]
+                        px-[100px]
+                        py-5
+                        transition-all
+                        duration-500
+                        ">
             {" "}
             <div className="container mx-auto flex justify-between items-center px-6 lg:px-9">
                 <Link href="/" className="flex items-center">
-                    <Image src={"/logo.png"} alt="Logo" width={50} height={50} />
+                    <Image src={"/MY trip(4).png"} alt="Logo" width={150} height={150} />
                     <span className="text-2xl font-bold text-gray-900">
-                        {" "} MyTripBD
                     </span>
                 </Link>
-                <div className="flex items-center space-x-4">
+                <div className="flex items-center space-x-2">
                     {session?.user?.id ? (
                         <>
-                            <Link href="/trips" className='text-slate-900 hover:text-sky-900'>My Trips</Link>
-                            <Link href="/globe" className="text-slate-900 hover:text-sky-900">Globe</Link>
-                            <button onClick={logout} className="gsi-material-button">Logout</button>
+                            <ul className="flex items-center space-x-5">
+                                <li><Link href="/trips" className={`${josefinSans.className} text-[20px] text-[var(--text-color)] px-4 py-2 flex items-center justify-center rounded-full transition-colors duration-500 hover:bg-[black] hover:text-[white]`}>My Trips</Link></li>
+                                <li><Link href="/feed" className={`${josefinSans.className} text-[20px] text-[var(--text-color)] px-4 py-2 flex items-center justify-center rounded-full transition-colors duration-500 hover:bg-[black] hover:text-[white]`}>Feed</Link></li>
+                                <button
+                                    onClick={logout}
+                                    className={`gsi-material-button ${josefinSans.className} text-[20px] px-4 py-2 rounded-full transition-colors duration-500 hover:bg-[green] hover:text-[white]`}
+                                >
+                                    <div className="gsi-material-button-state"></div>
+                                    <div className="gsi-material-button-content-wrapper">
+                                        <Image src={"/logout.png"} alt="" width={20} height={20} />
+                                        <span className="gsi-material-button-contents">Logout</span>
+
+                                    </div>
+                                </button>
+                            </ul>
+
                         </>
                     ) : (
                         <>
-                            <button onClick={login} className="gsi-material-button">
+                            <button
+                                onClick={login}
+                                className={`gsi-material-button ${josefinSans.className} text-[20px] px-4 py-2 rounded-full transition-colors duration-500 hover:bg-[green] hover:text-[white]`}
+                            >
                                 <div className="gsi-material-button-state"></div>
                                 <div className="gsi-material-button-content-wrapper">
                                     <div className="gsi-material-button-icon">
@@ -36,7 +72,7 @@ export default function Navbar({ session }: { session: Session | null }) {
                                         </svg>
                                     </div>
                                     <span className="gsi-material-button-contents">Sign in with Google</span>
-                                    <span style={{ display: "none" }}>Sign in with Google</span>
+
                                 </div>
                             </button>
                         </>

@@ -1,0 +1,853 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.583333333,
+          22.483333333
+        ]
+      },
+      "properties": {
+        "name": "Port of Mongla",
+        "wikidata": "Q1025642",
+        "type": "port",
+        "url": "http://www.wikidata.org/entity/Q1025642"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.8,
+          22.666666666
+        ]
+      },
+      "properties": {
+        "name": "Bagerhat District",
+        "wikidata": "Q2344861",
+        "type": "district of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q2344861"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.8,
+          22.666666666
+        ]
+      },
+      "properties": {
+        "name": "Bagerhat Sadar Upazila",
+        "wikidata": "Q2605671",
+        "type": "upazila of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q2605671"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.74182,
+          22.6745
+        ]
+      },
+      "properties": {
+        "name": "Sixty Dome Mosque",
+        "wikidata": "Q2834259",
+        "type": "mosque",
+        "url": "http://www.wikidata.org/entity/Q2834259"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.868611111,
+          22.784722222
+        ]
+      },
+      "properties": {
+        "name": "Chitalmari Upazila",
+        "wikidata": "Q3344934",
+        "type": "upazila of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q3344934"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.883333333,
+          22.65
+        ]
+      },
+      "properties": {
+        "name": "Kachua Upazila",
+        "wikidata": "Q3345743",
+        "type": "upazila of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q3345743"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.701388888,
+          22.768888888
+        ]
+      },
+      "properties": {
+        "name": "Fakirhat Upazila",
+        "wikidata": "Q3345751",
+        "type": "upazila of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q3345751"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.81304,
+          22.09522
+        ]
+      },
+      "properties": {
+        "name": "Sarankhola Upazila",
+        "wikidata": "Q3347529",
+        "type": "upazila of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q3347529"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.7917,
+          22.2917
+        ]
+      },
+      "properties": {
+        "name": "Sarankhola Upazila",
+        "wikidata": "Q3347529",
+        "type": "upazila of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q3347529"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.78,
+          22.88
+        ]
+      },
+      "properties": {
+        "name": "Mollahat Upazila",
+        "wikidata": "Q3347551",
+        "type": "upazila of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q3347551"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.7,
+          22.9417
+        ]
+      },
+      "properties": {
+        "name": "Mollahat Upazila",
+        "wikidata": "Q3347551",
+        "type": "upazila of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q3347551"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.6639,
+          22.5667
+        ]
+      },
+      "properties": {
+        "name": "Rampal Upazila",
+        "wikidata": "Q3347680",
+        "type": "upazila of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q3347680"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.68,
+          22.59
+        ]
+      },
+      "properties": {
+        "name": "Rampal Upazila",
+        "wikidata": "Q3347680",
+        "type": "upazila of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q3347680"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.6083,
+          22.4833
+        ]
+      },
+      "properties": {
+        "name": "Mongla Upazila",
+        "wikidata": "Q3351177",
+        "type": "upazila of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q3351177"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.8583,
+          22.45
+        ]
+      },
+      "properties": {
+        "name": "Morrelganj Upazila",
+        "wikidata": "Q3423897",
+        "type": "upazila of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q3423897"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.8,
+          22.933333333
+        ]
+      },
+      "properties": {
+        "name": "Mollahat",
+        "wikidata": "Q4300479",
+        "type": "human settlement",
+        "url": "http://www.wikidata.org/entity/Q4300479"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.85,
+          22.45
+        ]
+      },
+      "properties": {
+        "name": "Morrelgonj",
+        "wikidata": "Q4303202",
+        "type": "human settlement",
+        "url": "http://www.wikidata.org/entity/Q4303202"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.85584,
+          22.45566
+        ]
+      },
+      "properties": {
+        "name": "Morrelgonj",
+        "wikidata": "Q4303202",
+        "type": "human settlement",
+        "url": "http://www.wikidata.org/entity/Q4303202"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.658333333,
+          22.566666666
+        ]
+      },
+      "properties": {
+        "name": "Rampal",
+        "wikidata": "Q4389810",
+        "type": "human settlement",
+        "url": "http://www.wikidata.org/entity/Q4389810"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.783333333,
+          22.3
+        ]
+      },
+      "properties": {
+        "name": "Sarankhola",
+        "wikidata": "Q4408333",
+        "type": "human settlement",
+        "url": "http://www.wikidata.org/entity/Q4408333"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.791111111,
+          22.31
+        ]
+      },
+      "properties": {
+        "name": "Sarankhola",
+        "wikidata": "Q4408333",
+        "type": "human settlement",
+        "url": "http://www.wikidata.org/entity/Q4408333"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.8535,
+          22.3132
+        ]
+      },
+      "properties": {
+        "name": "Sarankhola",
+        "wikidata": "Q4408333",
+        "type": "human settlement",
+        "url": "http://www.wikidata.org/entity/Q4408333"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.783333333,
+          22.3
+        ]
+      },
+      "properties": {
+        "name": "Sarankhola",
+        "wikidata": "Q4408333",
+        "type": "mouza",
+        "url": "http://www.wikidata.org/entity/Q4408333"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.791111111,
+          22.31
+        ]
+      },
+      "properties": {
+        "name": "Sarankhola",
+        "wikidata": "Q4408333",
+        "type": "mouza",
+        "url": "http://www.wikidata.org/entity/Q4408333"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.8535,
+          22.3132
+        ]
+      },
+      "properties": {
+        "name": "Sarankhola",
+        "wikidata": "Q4408333",
+        "type": "mouza",
+        "url": "http://www.wikidata.org/entity/Q4408333"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.52700001,
+          22.47500001
+        ]
+      },
+      "properties": {
+        "name": "Q4516647",
+        "wikidata": "Q4516647",
+        "type": "administrative territorial entity",
+        "url": "http://www.wikidata.org/entity/Q4516647"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.644,
+          22.647
+        ]
+      },
+      "properties": {
+        "name": "Khan Jahan Ali Airport",
+        "wikidata": "Q6400061",
+        "type": "proposed airport",
+        "url": "http://www.wikidata.org/entity/Q6400061"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.75536111,
+          22.6585
+        ]
+      },
+      "properties": {
+        "name": "Nine Dome Mosque",
+        "wikidata": "Q7038296",
+        "type": "mosque",
+        "url": "http://www.wikidata.org/entity/Q7038296"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.766153,
+          22.655452
+        ]
+      },
+      "properties": {
+        "name": "Bagerhat",
+        "wikidata": "Q13058909",
+        "type": "human settlement",
+        "url": "http://www.wikidata.org/entity/Q13058909"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.7,
+          22.9417
+        ]
+      },
+      "properties": {
+        "name": "Kulia Union, Mollahat",
+        "wikidata": "Q13150223",
+        "type": "union council of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q13150223"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.7,
+          22.9417
+        ]
+      },
+      "properties": {
+        "name": "Kodalia Union",
+        "wikidata": "Q13150278",
+        "type": "union council of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q13150278"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.7,
+          22.9417
+        ]
+      },
+      "properties": {
+        "name": "Chunkhola Union",
+        "wikidata": "Q13150631",
+        "type": "union council of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q13150631"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.8355,
+          22.4582
+        ]
+      },
+      "properties": {
+        "name": "Baraikhali Union",
+        "wikidata": "Q13151608",
+        "type": "union council of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q13151608"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.7845,
+          22.4995
+        ]
+      },
+      "properties": {
+        "name": "Baharbunia Union",
+        "wikidata": "Q13151671",
+        "type": "union council of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q13151671"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.606666666,
+          22.485833333
+        ]
+      },
+      "properties": {
+        "name": "Q13152312",
+        "wikidata": "Q13152312",
+        "type": "municipality of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q13152312"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.6563547,
+          22.3816501
+        ]
+      },
+      "properties": {
+        "name": "Chadpai Wildlife Sanctuary",
+        "wikidata": "Q18987438",
+        "type": "protected area",
+        "url": "http://www.wikidata.org/entity/Q18987438"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.6609,
+          22.4008
+        ]
+      },
+      "properties": {
+        "name": "Baiddyamari",
+        "wikidata": "Q19882215",
+        "type": "mouza",
+        "url": "http://www.wikidata.org/entity/Q19882215"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.9173,
+          22.6013
+        ]
+      },
+      "properties": {
+        "name": "Banagram Union",
+        "wikidata": "Q22347521",
+        "type": "union council of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q22347521"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.7,
+          22.9417
+        ]
+      },
+      "properties": {
+        "name": "Atjuri Union",
+        "wikidata": "Q22347528",
+        "type": "union council of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q22347528"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.7,
+          22.9417
+        ]
+      },
+      "properties": {
+        "name": "Gangni Union, Mollahat",
+        "wikidata": "Q22347529",
+        "type": "union council of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q22347529"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.7,
+          22.9417
+        ]
+      },
+      "properties": {
+        "name": "Gaola Union",
+        "wikidata": "Q22347530",
+        "type": "union council of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q22347530"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.7,
+          22.9417
+        ]
+      },
+      "properties": {
+        "name": "Udoypur Union, Mollahat",
+        "wikidata": "Q22347531",
+        "type": "union council of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q22347531"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.787777777,
+          22.661111111
+        ]
+      },
+      "properties": {
+        "name": "Q22348011",
+        "wikidata": "Q22348011",
+        "type": "municipality of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q22348011"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.7,
+          22.78
+        ]
+      },
+      "properties": {
+        "name": "Bagerhat-1",
+        "wikidata": "Q24693163",
+        "type": "constituency of the Jatiya Sangsad",
+        "url": "http://www.wikidata.org/entity/Q24693163"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.77,
+          22.66
+        ]
+      },
+      "properties": {
+        "name": "Bagerhat-2",
+        "wikidata": "Q24693166",
+        "type": "constituency of the Jatiya Sangsad",
+        "url": "http://www.wikidata.org/entity/Q24693166"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.65,
+          22.56
+        ]
+      },
+      "properties": {
+        "name": "Bagerhat-3",
+        "wikidata": "Q24693168",
+        "type": "constituency of the Jatiya Sangsad",
+        "url": "http://www.wikidata.org/entity/Q24693168"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.758378,
+          22.660973
+        ]
+      },
+      "properties": {
+        "name": "One domed Mosque, Bagerhat",
+        "wikidata": "Q31724560",
+        "type": "mosque",
+        "url": "http://www.wikidata.org/entity/Q31724560"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.8035,
+          22.9254
+        ]
+      },
+      "properties": {
+        "name": "2001 Bagerhat bombing",
+        "wikidata": "Q39047806",
+        "type": "bomb attack",
+        "url": "http://www.wikidata.org/entity/Q39047806"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.7721627,
+          21.85428
+        ]
+      },
+      "properties": {
+        "name": "Kotka Sea Beach",
+        "wikidata": "Q55232156",
+        "type": "beach",
+        "url": "http://www.wikidata.org/entity/Q55232156"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.6728088,
+          22.6735363
+        ]
+      },
+      "properties": {
+        "name": "Bagerhat Museum",
+        "wikidata": "Q61366267",
+        "type": "museum",
+        "url": "http://www.wikidata.org/entity/Q61366267"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.742777777,
+          22.673333333
+        ]
+      },
+      "properties": {
+        "name": "Bagerhat Museum",
+        "wikidata": "Q61366267",
+        "type": "museum",
+        "url": "http://www.wikidata.org/entity/Q61366267"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.599509,
+          22.477769
+        ]
+      },
+      "properties": {
+        "name": "Mongla Railway Station",
+        "wikidata": "Q97252497",
+        "type": "railway station",
+        "url": "http://www.wikidata.org/entity/Q97252497"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.6158966,
+          22.4737356
+        ]
+      },
+      "properties": {
+        "name": "Mongla Government College",
+        "wikidata": "Q124411905",
+        "type": "college",
+        "url": "http://www.wikidata.org/entity/Q124411905"
+      }
+    }
+  ]
+}

@@ -5,7 +5,19 @@ const nextConfig: NextConfig = {
   images: {
     remotePatterns: [{
       hostname: "nd0i0g5tko.ufs.sh"
-    }]
+
+    },
+    {
+      protocol: 'http',
+      hostname: 'commons.wikimedia.org',
+      port: '',
+    },
+    {
+      protocol: 'https',
+      hostname: '**',
+      port: '',
+    },
+    ]
   }
 };
 

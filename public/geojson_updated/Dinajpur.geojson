@@ -1,0 +1,1909 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.016666666,
+          25.283333333
+        ]
+      },
+      "properties": {
+        "name": "Hakimpur",
+        "wikidata": "Q4494926",
+        "type": "human settlement",
+        "url": "http://www.wikidata.org/entity/Q4494926"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.783333333,
+          25.666666666
+        ]
+      },
+      "properties": {
+        "name": "Chirirbandar",
+        "wikidata": "Q4516192",
+        "type": "human settlement",
+        "url": "http://www.wikidata.org/entity/Q4516192"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.6551,
+          25.6106
+        ]
+      },
+      "properties": {
+        "name": "Dinajpur Medical College",
+        "wikidata": "Q5277915",
+        "type": "medical school",
+        "url": "http://www.wikidata.org/entity/Q5277915"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.6517,
+          25.697
+        ]
+      },
+      "properties": {
+        "name": "Hajee Mohammad Danesh Science & Technology University",
+        "wikidata": "Q5639859",
+        "type": "public university",
+        "url": "http://www.wikidata.org/entity/Q5639859"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.0067,
+          25.2773
+        ]
+      },
+      "properties": {
+        "name": "Hili Railway Station",
+        "wikidata": "Q5761868",
+        "type": "railway station",
+        "url": "http://www.wikidata.org/entity/Q5761868"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.0067,
+          25.2773
+        ]
+      },
+      "properties": {
+        "name": "Hili Railway Station",
+        "wikidata": "Q5761868",
+        "type": "border train station",
+        "url": "http://www.wikidata.org/entity/Q5761868"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.0067,
+          25.2773
+        ]
+      },
+      "properties": {
+        "name": "Hili Railway Station",
+        "wikidata": "Q5761868",
+        "type": "station located on surface",
+        "url": "http://www.wikidata.org/entity/Q5761868"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.0833,
+          25.4167
+        ]
+      },
+      "properties": {
+        "name": "Nawabganj Upazila",
+        "wikidata": "Q6982797",
+        "type": "upazila of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q6982797"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.488776,
+          25.666833
+        ]
+      },
+      "properties": {
+        "name": "Ramsagar National Park",
+        "wikidata": "Q7290101",
+        "type": "national park",
+        "url": "http://www.wikidata.org/entity/Q7290101"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.2123,
+          25.252
+        ]
+      },
+      "properties": {
+        "name": "Sura Mosque",
+        "wikidata": "Q7645258",
+        "type": "mosque",
+        "url": "http://www.wikidata.org/entity/Q7645258"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.635555555,
+          25.628416666
+        ]
+      },
+      "properties": {
+        "name": "Dinajpur Museum",
+        "wikidata": "Q13058226",
+        "type": "museum",
+        "url": "http://www.wikidata.org/entity/Q13058226"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.98,
+          25.37
+        ]
+      },
+      "properties": {
+        "name": "Q13150316",
+        "wikidata": "Q13150316",
+        "type": "union council of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q13150316"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.98,
+          25.37
+        ]
+      },
+      "properties": {
+        "name": "Q13151839",
+        "wikidata": "Q13151839",
+        "type": "union council of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q13151839"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.98,
+          25.37
+        ]
+      },
+      "properties": {
+        "name": "Q13152268",
+        "wikidata": "Q13152268",
+        "type": "union council of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q13152268"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.6,
+          25.7917
+        ]
+      },
+      "properties": {
+        "name": "Q13152273",
+        "wikidata": "Q13152273",
+        "type": "union council of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q13152273"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.9833,
+          25.3778
+        ]
+      },
+      "properties": {
+        "name": "Birampur",
+        "wikidata": "Q13637105",
+        "type": "human settlement",
+        "url": "http://www.wikidata.org/entity/Q13637105"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.8841,
+          25.6617
+        ]
+      },
+      "properties": {
+        "name": "LAMB Hospital",
+        "wikidata": "Q14565598",
+        "type": "hospital",
+        "url": "http://www.wikidata.org/entity/Q14565598"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.5513,
+          25.6323
+        ]
+      },
+      "properties": {
+        "name": "Biral railway station",
+        "wikidata": "Q15199362",
+        "type": "railway station",
+        "url": "http://www.wikidata.org/entity/Q15199362"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.5513,
+          25.6323
+        ]
+      },
+      "properties": {
+        "name": "Biral railway station",
+        "wikidata": "Q15199362",
+        "type": "border train station",
+        "url": "http://www.wikidata.org/entity/Q15199362"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.5513,
+          25.6323
+        ]
+      },
+      "properties": {
+        "name": "Biral railway station",
+        "wikidata": "Q15199362",
+        "type": "station located on surface",
+        "url": "http://www.wikidata.org/entity/Q15199362"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.6368526,
+          25.6244991
+        ]
+      },
+      "properties": {
+        "name": "Dinajpur Zilla School",
+        "wikidata": "Q16345577",
+        "type": "zilla school",
+        "url": "http://www.wikidata.org/entity/Q16345577"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.655486,
+          25.860771
+        ]
+      },
+      "properties": {
+        "name": "Q20613425",
+        "wikidata": "Q20613425",
+        "type": "union council of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q20613425"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.98,
+          25.37
+        ]
+      },
+      "properties": {
+        "name": "Dior Union",
+        "wikidata": "Q22347283",
+        "type": "union council of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q22347283"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.98,
+          25.37
+        ]
+      },
+      "properties": {
+        "name": "Katla Union",
+        "wikidata": "Q22347284",
+        "type": "union council of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q22347284"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.667414,
+          25.874506
+        ]
+      },
+      "properties": {
+        "name": "Q22347296",
+        "wikidata": "Q22347296",
+        "type": "union council of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q22347296"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.583333333,
+          26.0
+        ]
+      },
+      "properties": {
+        "name": "Shatagram Union",
+        "wikidata": "Q22347298",
+        "type": "union council of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q22347298"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.31666667,
+          23.15
+        ]
+      },
+      "properties": {
+        "name": "Q22347327",
+        "wikidata": "Q22347327",
+        "type": "union council of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q22347327"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.65,
+          25.86
+        ]
+      },
+      "properties": {
+        "name": "Dinajpur-1",
+        "wikidata": "Q24692971",
+        "type": "constituency of the Jatiya Sangsad",
+        "url": "http://www.wikidata.org/entity/Q24692971"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.08,
+          25.42
+        ]
+      },
+      "properties": {
+        "name": "Dinajpur-6",
+        "wikidata": "Q24692973",
+        "type": "constituency of the Jatiya Sangsad",
+        "url": "http://www.wikidata.org/entity/Q24692973"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.55,
+          25.63
+        ]
+      },
+      "properties": {
+        "name": "Dinajpur-2",
+        "wikidata": "Q24693201",
+        "type": "constituency of the Jatiya Sangsad",
+        "url": "http://www.wikidata.org/entity/Q24693201"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.64,
+          25.62
+        ]
+      },
+      "properties": {
+        "name": "Dinajpur-3",
+        "wikidata": "Q24693203",
+        "type": "constituency of the Jatiya Sangsad",
+        "url": "http://www.wikidata.org/entity/Q24693203"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.77,
+          25.65
+        ]
+      },
+      "properties": {
+        "name": "Dinajpur-4",
+        "wikidata": "Q24693206",
+        "type": "constituency of the Jatiya Sangsad",
+        "url": "http://www.wikidata.org/entity/Q24693206"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.91,
+          25.66
+        ]
+      },
+      "properties": {
+        "name": "Dinajpur-5",
+        "wikidata": "Q24693209",
+        "type": "constituency of the Jatiya Sangsad",
+        "url": "http://www.wikidata.org/entity/Q24693209"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.77582,
+          25.6459
+        ]
+      },
+      "properties": {
+        "name": "Chirirbandar railway station",
+        "wikidata": "Q25587761",
+        "type": "railway station",
+        "url": "http://www.wikidata.org/entity/Q25587761"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.63242,
+          25.62496
+        ]
+      },
+      "properties": {
+        "name": "Dinajpur railway station",
+        "wikidata": "Q25587774",
+        "type": "railway station",
+        "url": "http://www.wikidata.org/entity/Q25587774"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.6328132,
+          25.6250908
+        ]
+      },
+      "properties": {
+        "name": "Dinajpur railway station",
+        "wikidata": "Q25587774",
+        "type": "railway station",
+        "url": "http://www.wikidata.org/entity/Q25587774"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.59975,
+          25.62354
+        ]
+      },
+      "properties": {
+        "name": "Kanchan Junction Railway Station",
+        "wikidata": "Q25587778",
+        "type": "railway station",
+        "url": "http://www.wikidata.org/entity/Q25587778"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.70617,
+          25.61894
+        ]
+      },
+      "properties": {
+        "name": "Q25587779",
+        "wikidata": "Q25587779",
+        "type": "railway station",
+        "url": "http://www.wikidata.org/entity/Q25587779"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.46187,
+          25.79822
+        ]
+      },
+      "properties": {
+        "name": "Setabgonj railway station",
+        "wikidata": "Q25587787",
+        "type": "railway station",
+        "url": "http://www.wikidata.org/entity/Q25587787"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.84749,
+          25.65847
+        ]
+      },
+      "properties": {
+        "name": "Monmothpur Railway Station",
+        "wikidata": "Q25587788",
+        "type": "railway station",
+        "url": "http://www.wikidata.org/entity/Q25587788"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.53519,
+          25.71927
+        ]
+      },
+      "properties": {
+        "name": "Mangolpur railway station",
+        "wikidata": "Q25587789",
+        "type": "railway station",
+        "url": "http://www.wikidata.org/entity/Q25587789"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.925724,
+          25.3397729
+        ]
+      },
+      "properties": {
+        "name": "Q31725699",
+        "wikidata": "Q31725699",
+        "type": "high school",
+        "url": "http://www.wikidata.org/entity/Q31725699"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.9426651,
+          25.3388603
+        ]
+      },
+      "properties": {
+        "name": "Shoilan Government Primary School",
+        "wikidata": "Q43301375",
+        "type": "primary school",
+        "url": "http://www.wikidata.org/entity/Q43301375"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.9687335,
+          25.4954491
+        ]
+      },
+      "properties": {
+        "name": "Phulbari railway station",
+        "wikidata": "Q60433128",
+        "type": "railway station",
+        "url": "http://www.wikidata.org/entity/Q60433128"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.9941264,
+          25.3978985
+        ]
+      },
+      "properties": {
+        "name": "Birampur railway station",
+        "wikidata": "Q60433129",
+        "type": "railway station",
+        "url": "http://www.wikidata.org/entity/Q60433129"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.9821929,
+          25.6562805
+        ]
+      },
+      "properties": {
+        "name": "Kholahati railway station",
+        "wikidata": "Q60433154",
+        "type": "railway station",
+        "url": "http://www.wikidata.org/entity/Q60433154"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.9426517,
+          25.5786402
+        ]
+      },
+      "properties": {
+        "name": "Bhowanipur railway station",
+        "wikidata": "Q60454776",
+        "type": "railway station",
+        "url": "http://www.wikidata.org/entity/Q60454776"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.906517,
+          25.7261092
+        ]
+      },
+      "properties": {
+        "name": "Belaichandi railway station",
+        "wikidata": "Q60454781",
+        "type": "railway station",
+        "url": "http://www.wikidata.org/entity/Q60454781"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.5846479,
+          25.6671732
+        ]
+      },
+      "properties": {
+        "name": "Bajnahar railway station",
+        "wikidata": "Q60473935",
+        "type": "railway station",
+        "url": "http://www.wikidata.org/entity/Q60473935"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.5154429,
+          25.7580212
+        ]
+      },
+      "properties": {
+        "name": "Mollapara railway station",
+        "wikidata": "Q60473936",
+        "type": "railway station",
+        "url": "http://www.wikidata.org/entity/Q60473936"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.6535,
+          25.8548
+        ]
+      },
+      "properties": {
+        "name": "Birganj Pilot Govt High School",
+        "wikidata": "Q64348080",
+        "type": "secondary school",
+        "url": "http://www.wikidata.org/entity/Q64348080"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.004094444,
+          25.335202777
+        ]
+      },
+      "properties": {
+        "name": "Q85353007",
+        "wikidata": "Q85353007",
+        "type": "railway station",
+        "url": "http://www.wikidata.org/entity/Q85353007"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.547694444,
+          25.539638888
+        ]
+      },
+      "properties": {
+        "name": "Dharmapur National Forest",
+        "wikidata": "Q112764820",
+        "type": "national park",
+        "url": "http://www.wikidata.org/entity/Q112764820"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.55,
+          25.983333333
+        ]
+      },
+      "properties": {
+        "name": "Gorfotu",
+        "wikidata": "Q114012551",
+        "type": "Unknown",
+        "url": "http://www.wikidata.org/entity/Q114012551"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.78513,
+          25.84403
+        ]
+      },
+      "properties": {
+        "name": "Aokora Mosjid",
+        "wikidata": "Q130274840",
+        "type": "mosque",
+        "url": "http://www.wikidata.org/entity/Q130274840"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.992028,
+          25.380035
+        ]
+      },
+      "properties": {
+        "name": "Birampur Government College",
+        "wikidata": "Q136826472",
+        "type": "college",
+        "url": "http://www.wikidata.org/entity/Q136826472"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.463061,
+          25.79518
+        ]
+      },
+      "properties": {
+        "name": "Govt. Setab Ganj College",
+        "wikidata": "Q136992495",
+        "type": "college",
+        "url": "http://www.wikidata.org/entity/Q136992495"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.552891,
+          25.633191
+        ]
+      },
+      "properties": {
+        "name": "Birol Govt. College",
+        "wikidata": "Q137040323",
+        "type": "college",
+        "url": "http://www.wikidata.org/entity/Q137040323"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.602647,
+          25.782779
+        ]
+      },
+      "properties": {
+        "name": "Kaharol Government College",
+        "wikidata": "Q137175132",
+        "type": "college",
+        "url": "http://www.wikidata.org/entity/Q137175132"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.65,
+          25.63
+        ]
+      },
+      "properties": {
+        "name": "Dinajpur District",
+        "wikidata": "Q1985120",
+        "type": "district of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q1985120"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.5333,
+          25.6333
+        ]
+      },
+      "properties": {
+        "name": "Biral Upazila",
+        "wikidata": "Q3345353",
+        "type": "upazila of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q3345353"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.5833,
+          26.0
+        ]
+      },
+      "properties": {
+        "name": "Birganj Upazila",
+        "wikidata": "Q3345378",
+        "type": "upazila of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q3345378"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.9833,
+          25.3783
+        ]
+      },
+      "properties": {
+        "name": "Birampur Upazila",
+        "wikidata": "Q3345928",
+        "type": "upazila of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q3345928"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.6,
+          25.7917
+        ]
+      },
+      "properties": {
+        "name": "Kaharole Upazila",
+        "wikidata": "Q3346045",
+        "type": "upazila of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q3346045"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.6,
+          25.8
+        ]
+      },
+      "properties": {
+        "name": "Kaharole Upazila",
+        "wikidata": "Q3346045",
+        "type": "upazila of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q3346045"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.4611,
+          25.8
+        ]
+      },
+      "properties": {
+        "name": "Bochaganj Upazila",
+        "wikidata": "Q3346078",
+        "type": "upazila of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q3346078"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.2167,
+          25.2458
+        ]
+      },
+      "properties": {
+        "name": "Ghoraghat Upazila",
+        "wikidata": "Q3346144",
+        "type": "upazila of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q3346144"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.78,
+          25.85
+        ]
+      },
+      "properties": {
+        "name": "Khansama Upazila",
+        "wikidata": "Q3346225",
+        "type": "upazila of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q3346225"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.7333,
+          25.9278
+        ]
+      },
+      "properties": {
+        "name": "Khansama Upazila",
+        "wikidata": "Q3346225",
+        "type": "upazila of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q3346225"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.0167,
+          25.2833
+        ]
+      },
+      "properties": {
+        "name": "Hakimpur Upazila",
+        "wikidata": "Q3346722",
+        "type": "upazila of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q3346722"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.666738,
+          25.790531
+        ]
+      },
+      "properties": {
+        "name": "Kantajew Temple",
+        "wikidata": "Q3347158",
+        "type": "Hindu temple",
+        "url": "http://www.wikidata.org/entity/Q3347158"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.95029,
+          25.49504
+        ]
+      },
+      "properties": {
+        "name": "Fulbari Upazila",
+        "wikidata": "Q3347210",
+        "type": "upazila of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q3347210"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.7833,
+          25.6625
+        ]
+      },
+      "properties": {
+        "name": "Chirirbandar Upazila",
+        "wikidata": "Q3347497",
+        "type": "upazila of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q3347497"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.658411,
+          25.7818359
+        ]
+      },
+      "properties": {
+        "name": "Nayabad Mosque",
+        "wikidata": "Q3349262",
+        "type": "mosque",
+        "url": "http://www.wikidata.org/entity/Q3349262"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.6586,
+          25.7819
+        ]
+      },
+      "properties": {
+        "name": "Nayabad Mosque",
+        "wikidata": "Q3349262",
+        "type": "mosque",
+        "url": "http://www.wikidata.org/entity/Q3349262"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.91,
+          25.61
+        ]
+      },
+      "properties": {
+        "name": "Parbatipur Upazila",
+        "wikidata": "Q3350511",
+        "type": "upazila of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q3350511"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.9155,
+          25.6533
+        ]
+      },
+      "properties": {
+        "name": "Parbatipur Upazila",
+        "wikidata": "Q3350511",
+        "type": "upazila of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q3350511"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.533333333,
+          25.633333333
+        ]
+      },
+      "properties": {
+        "name": "Biral",
+        "wikidata": "Q4086964",
+        "type": "human settlement",
+        "url": "http://www.wikidata.org/entity/Q4086964"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.65,
+          25.866666666
+        ]
+      },
+      "properties": {
+        "name": "Birganj",
+        "wikidata": "Q4086972",
+        "type": "human settlement",
+        "url": "http://www.wikidata.org/entity/Q4086972"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.466666666,
+          25.8
+        ]
+      },
+      "properties": {
+        "name": "Bochaganj",
+        "wikidata": "Q4095291",
+        "type": "human settlement",
+        "url": "http://www.wikidata.org/entity/Q4095291"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.65,
+          25.6333
+        ]
+      },
+      "properties": {
+        "name": "Dinajpur Sadar Upazila",
+        "wikidata": "Q4122002",
+        "type": "upazila of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q4122002"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.65,
+          25.63333
+        ]
+      },
+      "properties": {
+        "name": "Dinajpur Sadar Upazila",
+        "wikidata": "Q4122002",
+        "type": "upazila of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q4122002"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.25,
+          25.25
+        ]
+      },
+      "properties": {
+        "name": "Ghoraghat",
+        "wikidata": "Q4153175",
+        "type": "human settlement",
+        "url": "http://www.wikidata.org/entity/Q4153175"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.65,
+          25.63
+        ]
+      },
+      "properties": {
+        "name": "Dinajpur",
+        "wikidata": "Q4161769",
+        "type": "city",
+        "url": "http://www.wikidata.org/entity/Q4161769"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.6,
+          25.783333333
+        ]
+      },
+      "properties": {
+        "name": "Kaharole",
+        "wikidata": "Q4217763",
+        "type": "human settlement",
+        "url": "http://www.wikidata.org/entity/Q4217763"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.733333333,
+          25.916666666
+        ]
+      },
+      "properties": {
+        "name": "Khansama",
+        "wikidata": "Q4250500",
+        "type": "human settlement",
+        "url": "http://www.wikidata.org/entity/Q4250500"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.083333333,
+          25.416666666
+        ]
+      },
+      "properties": {
+        "name": "Q4311293",
+        "wikidata": "Q4311293",
+        "type": "human settlement",
+        "url": "http://www.wikidata.org/entity/Q4311293"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.916666666,
+          25.666666666
+        ]
+      },
+      "properties": {
+        "name": "Parbatipur",
+        "wikidata": "Q4345048",
+        "type": "human settlement",
+        "url": "http://www.wikidata.org/entity/Q4345048"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.930833333,
+          25.663611111
+        ]
+      },
+      "properties": {
+        "name": "Parbatipur",
+        "wikidata": "Q4345048",
+        "type": "human settlement",
+        "url": "http://www.wikidata.org/entity/Q4345048"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.984139,
+          25.654864
+        ]
+      },
+      "properties": {
+        "name": "Cantonment Public School And College, Bir Uttam Shaheed Mahbub Senanibas",
+        "wikidata": "Q13058550",
+        "type": "school",
+        "url": "http://www.wikidata.org/entity/Q13058550"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.984139,
+          25.654864
+        ]
+      },
+      "properties": {
+        "name": "Cantonment Public School And College, Bir Uttam Shaheed Mahbub Senanibas",
+        "wikidata": "Q13058550",
+        "type": "college",
+        "url": "http://www.wikidata.org/entity/Q13058550"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.63694444,
+          25.63305556
+        ]
+      },
+      "properties": {
+        "name": "Government Girls' High School, Dinajpur",
+        "wikidata": "Q14980548",
+        "type": "government girls' high school",
+        "url": "http://www.wikidata.org/entity/Q14980548"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.76524,
+          25.838059
+        ]
+      },
+      "properties": {
+        "name": "Kayempur High School",
+        "wikidata": "Q14980562",
+        "type": "high school",
+        "url": "http://www.wikidata.org/entity/Q14980562"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.63304722,
+          25.61077778
+        ]
+      },
+      "properties": {
+        "name": "Dinajpur Stadium",
+        "wikidata": "Q15214044",
+        "type": "stadium",
+        "url": "http://www.wikidata.org/entity/Q15214044"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.6440336,
+          25.6499087
+        ]
+      },
+      "properties": {
+        "name": "Dinajpur Government College",
+        "wikidata": "Q16246055",
+        "type": "college",
+        "url": "http://www.wikidata.org/entity/Q16246055"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.6314193,
+          25.6119599
+        ]
+      },
+      "properties": {
+        "name": "Q16346925",
+        "wikidata": "Q16346925",
+        "type": "high school",
+        "url": "http://www.wikidata.org/entity/Q16346925"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.7652,
+          25.8381
+        ]
+      },
+      "properties": {
+        "name": "Kayempur",
+        "wikidata": "Q16893213",
+        "type": "human settlement",
+        "url": "http://www.wikidata.org/entity/Q16893213"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.637588,
+          25.610881
+        ]
+      },
+      "properties": {
+        "name": "Board of Intermediate and Secondary Education, Dinajpur",
+        "wikidata": "Q17020154",
+        "type": "intermediate and secondary education board of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q17020154"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.6470029,
+          25.6251949
+        ]
+      },
+      "properties": {
+        "name": "Dinajpur Govt. City College",
+        "wikidata": "Q20612541",
+        "type": "college",
+        "url": "http://www.wikidata.org/entity/Q20612541"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.91,
+          25.67
+        ]
+      },
+      "properties": {
+        "name": "American Camp",
+        "wikidata": "Q24951605",
+        "type": "village",
+        "url": "http://www.wikidata.org/entity/Q24951605"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.9085629,
+          25.6615369
+        ]
+      },
+      "properties": {
+        "name": "Abdus Shafi Memorial high school",
+        "wikidata": "Q25587214",
+        "type": "high school",
+        "url": "http://www.wikidata.org/entity/Q25587214"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.9158701,
+          25.6569547
+        ]
+      },
+      "properties": {
+        "name": "Gayanankur Pilot Model High School",
+        "wikidata": "Q25587215",
+        "type": "high school",
+        "url": "http://www.wikidata.org/entity/Q25587215"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.9088908,
+          25.6615076
+        ]
+      },
+      "properties": {
+        "name": "Mujibabad Government Primary School",
+        "wikidata": "Q25587222",
+        "type": "primary school",
+        "url": "http://www.wikidata.org/entity/Q25587222"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.9086735,
+          25.6553956
+        ]
+      },
+      "properties": {
+        "name": "Parbatipur Government College",
+        "wikidata": "Q25587224",
+        "type": "college",
+        "url": "http://www.wikidata.org/entity/Q25587224"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.9139796,
+          25.6576269
+        ]
+      },
+      "properties": {
+        "name": "Public High School, Parbatipur",
+        "wikidata": "Q25587234",
+        "type": "high school",
+        "url": "http://www.wikidata.org/entity/Q25587234"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.64603,
+          25.623189
+        ]
+      },
+      "properties": {
+        "name": "Dinajpur Polytechnic Institute",
+        "wikidata": "Q25587485",
+        "type": "polytechnic institute",
+        "url": "http://www.wikidata.org/entity/Q25587485"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.91618,
+          25.65299
+        ]
+      },
+      "properties": {
+        "name": "Parbatipur railway station",
+        "wikidata": "Q25587764",
+        "type": "railway station",
+        "url": "http://www.wikidata.org/entity/Q25587764"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.9833,
+          25.6519
+        ]
+      },
+      "properties": {
+        "name": "Kholahati Cantonment",
+        "wikidata": "Q30627289",
+        "type": "cantonment",
+        "url": "http://www.wikidata.org/entity/Q30627289"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.9867043,
+          25.6619573
+        ]
+      },
+      "properties": {
+        "name": "Q31724456",
+        "wikidata": "Q31724456",
+        "type": "college",
+        "url": "http://www.wikidata.org/entity/Q31724456"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.6550341,
+          25.6820035
+        ]
+      },
+      "properties": {
+        "name": "Q54317680",
+        "wikidata": "Q54317680",
+        "type": "school",
+        "url": "http://www.wikidata.org/entity/Q54317680"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.6550341,
+          25.6820035
+        ]
+      },
+      "properties": {
+        "name": "Q54317680",
+        "wikidata": "Q54317680",
+        "type": "college",
+        "url": "http://www.wikidata.org/entity/Q54317680"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.7154856,
+          25.5875697
+        ]
+      },
+      "properties": {
+        "name": "Q60783509",
+        "wikidata": "Q60783509",
+        "type": "college",
+        "url": "http://www.wikidata.org/entity/Q60783509"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.951509,
+          25.497794
+        ]
+      },
+      "properties": {
+        "name": "Fulbari Government College",
+        "wikidata": "Q97383683",
+        "type": "college",
+        "url": "http://www.wikidata.org/entity/Q97383683"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.6316,
+          25.6218
+        ]
+      },
+      "properties": {
+        "name": "Gor-E-Shahid Eidgah Maidan",
+        "wikidata": "Q106628432",
+        "type": "Eidgah",
+        "url": "http://www.wikidata.org/entity/Q106628432"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.642633,
+          25.623808
+        ]
+      },
+      "properties": {
+        "name": "Dinajpur Govt. Mohila College",
+        "wikidata": "Q131985966",
+        "type": "college",
+        "url": "http://www.wikidata.org/entity/Q131985966"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.847236111,
+          25.648136111
+        ]
+      },
+      "properties": {
+        "name": "Parbatipur Upazila Stadium",
+        "wikidata": "Q134129171",
+        "type": "sports venue",
+        "url": "http://www.wikidata.org/entity/Q134129171"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.634252,
+          25.634237
+        ]
+      },
+      "properties": {
+        "name": "Adarsha Mahabiddalaya, Dinajpur",
+        "wikidata": "Q136769504",
+        "type": "college",
+        "url": "http://www.wikidata.org/entity/Q136769504"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.638284,
+          25.632982
+        ]
+      },
+      "properties": {
+        "name": "Dinajpur Sangeet College",
+        "wikidata": "Q136994691",
+        "type": "music college",
+        "url": "http://www.wikidata.org/entity/Q136994691"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.239138,
+          25.261784
+        ]
+      },
+      "properties": {
+        "name": "Ghoraghat Government College",
+        "wikidata": "Q137176886",
+        "type": "college",
+        "url": "http://www.wikidata.org/entity/Q137176886"
+      }
+    }
+  ]
+}

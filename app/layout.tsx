@@ -5,6 +5,13 @@ import Navbar from "@/component/Navbar";
 import { auth } from "@/auth";
 import { Analytics } from "@vercel/analytics/next"
 
+import { Josefin_Sans } from "next/font/google";
+
+export const josefinSans = Josefin_Sans({
+  subsets: ["latin"],
+  weight: ["300", "400", "500", "600", "700"],
+});
+
 const geistSans = Geist({
   variable: "--font-geist-sans",
   subsets: ["latin"],
@@ -28,13 +35,20 @@ export default async function RootLayout({
   const session = await auth();
   return (
     <html lang="en">
+      <head>
+        {/* ✅ Boxicons CSS */}
+        <link
+  rel="stylesheet"
+  href="https://cdn.jsdelivr.net/npm/boxicons@2.1.4/css/boxicons.min.css"
+/>
+
+      </head>
       <body
         className={`${geistSans.variable} ${geistMono.variable} antialiased`}
       >
         <Navbar session={session} />
         {children}
         <Analytics />
-
       </body>
     </html>
   );

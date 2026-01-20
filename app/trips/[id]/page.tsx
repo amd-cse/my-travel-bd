@@ -20,6 +20,11 @@ export default async function indivTripDetail({ params }: { params: Promise<{ id
             tripID: tripID,
             userID: session.user?.id
         },
+        include: {
+            locations: {
+                orderBy: { createdAt: 'asc' }
+            }
+        }
     });
     if (!trip) {
         return <div className="bg-teal-500 text-white text-center text-xl mx-auto h-screen">

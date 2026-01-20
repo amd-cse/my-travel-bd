@@ -1,0 +1,1829 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.18,
+          23.5
+        ]
+      },
+      "properties": {
+        "name": "Jhenaidah",
+        "wikidata": "Q2167452",
+        "type": "city",
+        "url": "http://www.wikidata.org/entity/Q2167452"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.0,
+          23.54
+        ]
+      },
+      "properties": {
+        "name": "Jhenaidah District",
+        "wikidata": "Q2188750",
+        "type": "district of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q2188750"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.9125,
+          23.35
+        ]
+      },
+      "properties": {
+        "name": "Maheshpur Upazila",
+        "wikidata": "Q3347845",
+        "type": "upazila of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q3347845"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.0167,
+          23.4
+        ]
+      },
+      "properties": {
+        "name": "Kotchandpur Upazila",
+        "wikidata": "Q3348532",
+        "type": "upazila of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q3348532"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.24023,
+          23.68289
+        ]
+      },
+      "properties": {
+        "name": "Shailkupa Upazila",
+        "wikidata": "Q3348563",
+        "type": "upazila of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q3348563"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.25,
+          23.6917
+        ]
+      },
+      "properties": {
+        "name": "Shailkupa Upazila",
+        "wikidata": "Q3348563",
+        "type": "upazila of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q3348563"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.1833,
+          23.5417
+        ]
+      },
+      "properties": {
+        "name": "Jhenaidah Sadar Upazila",
+        "wikidata": "Q3348589",
+        "type": "upazila of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q3348589"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.05,
+          23.6417
+        ]
+      },
+      "properties": {
+        "name": "Harinakunda Upazila",
+        "wikidata": "Q3349605",
+        "type": "upazila of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q3349605"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.08,
+          23.65
+        ]
+      },
+      "properties": {
+        "name": "Harinakunda Upazila",
+        "wikidata": "Q3349605",
+        "type": "upazila of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q3349605"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.138055555,
+          23.409722222
+        ]
+      },
+      "properties": {
+        "name": "Kaliganj",
+        "wikidata": "Q4209346",
+        "type": "human settlement",
+        "url": "http://www.wikidata.org/entity/Q4209346"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.15,
+          23.416666666
+        ]
+      },
+      "properties": {
+        "name": "Kaliganj",
+        "wikidata": "Q4209346",
+        "type": "human settlement",
+        "url": "http://www.wikidata.org/entity/Q4209346"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.016666666,
+          23.416666666
+        ]
+      },
+      "properties": {
+        "name": "Kotchandpur",
+        "wikidata": "Q4236344",
+        "type": "human settlement",
+        "url": "http://www.wikidata.org/entity/Q4236344"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.9,
+          23.35
+        ]
+      },
+      "properties": {
+        "name": "Maheshpur",
+        "wikidata": "Q4285696",
+        "type": "human settlement",
+        "url": "http://www.wikidata.org/entity/Q4285696"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.25,
+          23.683333333
+        ]
+      },
+      "properties": {
+        "name": "Shailkupa",
+        "wikidata": "Q4519463",
+        "type": "human settlement",
+        "url": "http://www.wikidata.org/entity/Q4519463"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.1789,
+          23.5709
+        ]
+      },
+      "properties": {
+        "name": "Jhenaidah Cadet College",
+        "wikidata": "Q6191030",
+        "type": "cadet college",
+        "url": "http://www.wikidata.org/entity/Q6191030"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.1333,
+          23.4139
+        ]
+      },
+      "properties": {
+        "name": "Kaliganj Upazila",
+        "wikidata": "Q6352588",
+        "type": "upazila of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q6352588"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.17632778,
+          23.542625
+        ]
+      },
+      "properties": {
+        "name": "Bir Shrestha Hamidur Rahman Stadium",
+        "wikidata": "Q15199360",
+        "type": "stadium",
+        "url": "http://www.wikidata.org/entity/Q15199360"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.170153,
+          23.545538
+        ]
+      },
+      "properties": {
+        "name": "Govt. K.C. College Jhenaidah.",
+        "wikidata": "Q17155011",
+        "type": "college",
+        "url": "http://www.wikidata.org/entity/Q17155011"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.25,
+          23.68
+        ]
+      },
+      "properties": {
+        "name": "Jhenaidah-1",
+        "wikidata": "Q24693188",
+        "type": "constituency of the Jatiya Sangsad",
+        "url": "http://www.wikidata.org/entity/Q24693188"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.18,
+          23.54
+        ]
+      },
+      "properties": {
+        "name": "Jhenaidah-2",
+        "wikidata": "Q24693193",
+        "type": "constituency of the Jatiya Sangsad",
+        "url": "http://www.wikidata.org/entity/Q24693193"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.14,
+          23.42
+        ]
+      },
+      "properties": {
+        "name": "Jhenaidah-4",
+        "wikidata": "Q24693195",
+        "type": "constituency of the Jatiya Sangsad",
+        "url": "http://www.wikidata.org/entity/Q24693195"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.92,
+          23.36
+        ]
+      },
+      "properties": {
+        "name": "Jhenaidah-3",
+        "wikidata": "Q24693198",
+        "type": "constituency of the Jatiya Sangsad",
+        "url": "http://www.wikidata.org/entity/Q24693198"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.1245055,
+          23.4004904
+        ]
+      },
+      "properties": {
+        "name": "Mobarakganj railway station",
+        "wikidata": "Q60433109",
+        "type": "railway station",
+        "url": "http://www.wikidata.org/entity/Q60433109"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.014087,
+          23.4154955
+        ]
+      },
+      "properties": {
+        "name": "Kotchandpur railway station",
+        "wikidata": "Q60433110",
+        "type": "railway station",
+        "url": "http://www.wikidata.org/entity/Q60433110"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.9598554,
+          23.4631085
+        ]
+      },
+      "properties": {
+        "name": "Safdarpur railway station",
+        "wikidata": "Q60473889",
+        "type": "railway station",
+        "url": "http://www.wikidata.org/entity/Q60473889"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.0824458,
+          23.4160025
+        ]
+      },
+      "properties": {
+        "name": "Sundarpur railway station",
+        "wikidata": "Q60473890",
+        "type": "railway station",
+        "url": "http://www.wikidata.org/entity/Q60473890"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.1499034,
+          23.3061012
+        ]
+      },
+      "properties": {
+        "name": "Barobazar railway station",
+        "wikidata": "Q60473891",
+        "type": "railway station",
+        "url": "http://www.wikidata.org/entity/Q60473891"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.033333333,
+          23.65
+        ]
+      },
+      "properties": {
+        "name": "Harinakunda",
+        "wikidata": "Q4495844",
+        "type": "city",
+        "url": "http://www.wikidata.org/entity/Q4495844"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.1850459,
+          23.5621686
+        ]
+      },
+      "properties": {
+        "name": "Miar Dalan Zamindar Bari",
+        "wikidata": "Q13059332",
+        "type": "house",
+        "url": "http://www.wikidata.org/entity/Q13059332"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.0023,
+          23.3603
+        ]
+      },
+      "properties": {
+        "name": "Azampur Union",
+        "wikidata": "Q13149652",
+        "type": "union council of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q13149652"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.3281365,
+          23.6139901
+        ]
+      },
+      "properties": {
+        "name": "Abaipur Union",
+        "wikidata": "Q13149689",
+        "type": "union council of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q13149689"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.2496376,
+          23.6411534
+        ]
+      },
+      "properties": {
+        "name": "Umedpur Union",
+        "wikidata": "Q13149919",
+        "type": "union council of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q13149919"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.7839,
+          23.2473
+        ]
+      },
+      "properties": {
+        "name": "Kazirber Union",
+        "wikidata": "Q13150094",
+        "type": "union council of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q13150094"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.0719,
+          23.6065
+        ]
+      },
+      "properties": {
+        "name": "Kapashatia Union",
+        "wikidata": "Q13150110",
+        "type": "union council of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q13150110"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.2045,
+          23.5086
+        ]
+      },
+      "properties": {
+        "name": "Kalicharanpur Union",
+        "wikidata": "Q13150180",
+        "type": "union council of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q13150180"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.0129,
+          23.4612
+        ]
+      },
+      "properties": {
+        "name": "Kushna Union",
+        "wikidata": "Q13150234",
+        "type": "union council of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q13150234"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.020277777,
+          23.406666666
+        ]
+      },
+      "properties": {
+        "name": "Q13150271",
+        "wikidata": "Q13150271",
+        "type": "municipality of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q13150271"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.2158,
+          23.3981
+        ]
+      },
+      "properties": {
+        "name": "Kola Union, Kaliganj",
+        "wikidata": "Q13150287",
+        "type": "union council of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q13150287"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.0802,
+          23.4898
+        ]
+      },
+      "properties": {
+        "name": "Ganna Union",
+        "wikidata": "Q13150375",
+        "type": "union council of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q13150375"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.2509,
+          23.4855
+        ]
+      },
+      "properties": {
+        "name": "Ghorshal Union",
+        "wikidata": "Q13150487",
+        "type": "union council of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q13150487"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.1455,
+          23.5958
+        ]
+      },
+      "properties": {
+        "name": "Chandpur Union, Harinakunda",
+        "wikidata": "Q13150585",
+        "type": "union council of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q13150585"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.3364,
+          23.6598
+        ]
+      },
+      "properties": {
+        "name": "Dhaloharachandra Union",
+        "wikidata": "Q13150873",
+        "type": "union council of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q13150873"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.1572,
+          23.7041
+        ]
+      },
+      "properties": {
+        "name": "Tribeni Union",
+        "wikidata": "Q13150925",
+        "type": "union council of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q13150925"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.0749,
+          23.3784
+        ]
+      },
+      "properties": {
+        "name": "Trilochanpur Union",
+        "wikidata": "Q13150926",
+        "type": "union council of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q13150926"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.1946,
+          23.6861
+        ]
+      },
+      "properties": {
+        "name": "Dignagar Union",
+        "wikidata": "Q13151022",
+        "type": "union council of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q13151022"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.1827,
+          23.6133
+        ]
+      },
+      "properties": {
+        "name": "Dudshar Union",
+        "wikidata": "Q13151033",
+        "type": "union council of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q13151033"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.0214,
+          23.6177
+        ]
+      },
+      "properties": {
+        "name": "Daulatpur Union, Harinakunda",
+        "wikidata": "Q13151077",
+        "type": "union council of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q13151077"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.1664,
+          23.4414
+        ]
+      },
+      "properties": {
+        "name": "Naldanga Union",
+        "wikidata": "Q13151166",
+        "type": "union council of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q13151166"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.1595,
+          23.3838
+        ]
+      },
+      "properties": {
+        "name": "Niamatpur Union, Kaliganj",
+        "wikidata": "Q13151221",
+        "type": "union council of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q13151221"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.753,
+          23.2942
+        ]
+      },
+      "properties": {
+        "name": "Nepa Union",
+        "wikidata": "Q13151237",
+        "type": "union council of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q13151237"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.1525,
+          23.5344
+        ]
+      },
+      "properties": {
+        "name": "Paglakanai Union",
+        "wikidata": "Q13151348",
+        "type": "union council of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q13151348"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.893694444,
+          23.387416666
+        ]
+      },
+      "properties": {
+        "name": "Fatepur Union, Maheshpur",
+        "wikidata": "Q13151528",
+        "type": "union council of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q13151528"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.1622,
+          23.6513
+        ]
+      },
+      "properties": {
+        "name": "Fulhari Union",
+        "wikidata": "Q13151573",
+        "type": "union council of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q13151573"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.3045,
+          23.6255
+        ]
+      },
+      "properties": {
+        "name": "Bagura Union",
+        "wikidata": "Q13151590",
+        "type": "union council of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q13151590"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.9895,
+          23.4315
+        ]
+      },
+      "properties": {
+        "name": "Baluhar Union",
+        "wikidata": "Q13151667",
+        "type": "union council of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q13151667"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.818,
+          23.2817
+        ]
+      },
+      "properties": {
+        "name": "Banshbaria Union",
+        "wikidata": "Q13151691",
+        "type": "union council of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q13151691"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.1593,
+          23.306
+        ]
+      },
+      "properties": {
+        "name": "Barabazar Union",
+        "wikidata": "Q13151780",
+        "type": "union council of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q13151780"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.1439,
+          23.4779
+        ]
+      },
+      "properties": {
+        "name": "Maharazpur Union, Jhenaidah Sadar",
+        "wikidata": "Q13152130",
+        "type": "union council of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q13152130"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.914444444,
+          23.348333333
+        ]
+      },
+      "properties": {
+        "name": "Q13152136",
+        "wikidata": "Q13152136",
+        "type": "municipality of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q13152136"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.156,
+          23.6791
+        ]
+      },
+      "properties": {
+        "name": "Mirzapur Union, Shailkupa",
+        "wikidata": "Q13152246",
+        "type": "union council of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q13152246"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.2548233,
+          23.6795695
+        ]
+      },
+      "properties": {
+        "name": "Manoharpur Union, Shailkupa",
+        "wikidata": "Q13152337",
+        "type": "union council of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q13152337"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.879,
+          23.2515
+        ]
+      },
+      "properties": {
+        "name": "Jadabpur Union, Maheshpur",
+        "wikidata": "Q13152356",
+        "type": "union council of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q13152356"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.051203,
+          23.657076
+        ]
+      },
+      "properties": {
+        "name": "Raghunathpur Union, Harinakunda",
+        "wikidata": "Q13152365",
+        "type": "union council of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q13152365"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.02,
+          23.7
+        ]
+      },
+      "properties": {
+        "name": "Rakhalgachi Union",
+        "wikidata": "Q13152397",
+        "type": "union council of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q13152397"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.1574,
+          23.3815
+        ]
+      },
+      "properties": {
+        "name": "Raygram Union",
+        "wikidata": "Q13152474",
+        "type": "union council of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q13152474"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.9861,
+          23.5641
+        ]
+      },
+      "properties": {
+        "name": "Sadhuhati Union",
+        "wikidata": "Q13152738",
+        "type": "union council of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q13152738"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.9587,
+          23.4592
+        ]
+      },
+      "properties": {
+        "name": "Safdarpur Union",
+        "wikidata": "Q13152750",
+        "type": "union council of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q13152750"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.1984,
+          23.4909
+        ]
+      },
+      "properties": {
+        "name": "Surat Union",
+        "wikidata": "Q13152827",
+        "type": "union council of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q13152827"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.8048,
+          23.3708
+        ]
+      },
+      "properties": {
+        "name": "Swaruppur Union",
+        "wikidata": "Q13152872",
+        "type": "union council of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q13152872"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.303,
+          23.5593
+        ]
+      },
+      "properties": {
+        "name": "Harishongkorpur Union",
+        "wikidata": "Q13152904",
+        "type": "union council of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q13152904"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.0827,
+          23.5607
+        ]
+      },
+      "properties": {
+        "name": "Halidhani Union",
+        "wikidata": "Q13152939",
+        "type": "union council of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q13152939"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.169,
+          23.439
+        ]
+      },
+      "properties": {
+        "name": "Naldanga",
+        "wikidata": "Q16864643",
+        "type": "village",
+        "url": "http://www.wikidata.org/entity/Q16864643"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.2177,
+          23.4088
+        ]
+      },
+      "properties": {
+        "name": "Jamal Union",
+        "wikidata": "Q22346399",
+        "type": "union council of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q22346399"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.2084,
+          23.3361
+        ]
+      },
+      "properties": {
+        "name": "Maliat Union",
+        "wikidata": "Q22346401",
+        "type": "union council of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q22346401"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.1132,
+          23.3937
+        ]
+      },
+      "properties": {
+        "name": "Simla-Rokonpur Union",
+        "wikidata": "Q22346404",
+        "type": "union council of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q22346404"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.121,
+          23.4471
+        ]
+      },
+      "properties": {
+        "name": "Sundarpur-Durgapur Union",
+        "wikidata": "Q22346405",
+        "type": "union council of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q22346405"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.9882,
+          23.4878
+        ]
+      },
+      "properties": {
+        "name": "Dora Union",
+        "wikidata": "Q22346486",
+        "type": "union council of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q22346486"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.0469,
+          23.4015
+        ]
+      },
+      "properties": {
+        "name": "Elangi Union",
+        "wikidata": "Q22346487",
+        "type": "union council of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q22346487"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.2932,
+          23.4921
+        ]
+      },
+      "properties": {
+        "name": "Fursondi Union",
+        "wikidata": "Q22346723",
+        "type": "union council of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q22346723"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.1067,
+          23.5366
+        ]
+      },
+      "properties": {
+        "name": "Kumrabaria Union",
+        "wikidata": "Q22346724",
+        "type": "union council of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q22346724"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.0146,
+          23.5072
+        ]
+      },
+      "properties": {
+        "name": "Modhuhati Union",
+        "wikidata": "Q22346725",
+        "type": "union council of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q22346725"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.2979,
+          23.5285
+        ]
+      },
+      "properties": {
+        "name": "Padmakar Union",
+        "wikidata": "Q22346726",
+        "type": "union council of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q22346726"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.0475,
+          23.564
+        ]
+      },
+      "properties": {
+        "name": "Saganna Union",
+        "wikidata": "Q22346727",
+        "type": "union council of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q22346727"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.8544,
+          23.3663
+        ]
+      },
+      "properties": {
+        "name": "Panthapara Union",
+        "wikidata": "Q22347426",
+        "type": "union council of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q22347426"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.7865,
+          23.3464
+        ]
+      },
+      "properties": {
+        "name": "Shyamkur Union, Maheshpur",
+        "wikidata": "Q22347427",
+        "type": "union council of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q22347427"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.9442,
+          23.3873
+        ]
+      },
+      "properties": {
+        "name": "S.B.K Union",
+        "wikidata": "Q22347428",
+        "type": "union council of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q22347428"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.2956,
+          23.6875
+        ]
+      },
+      "properties": {
+        "name": "Hakimpur Union, Shailkupa",
+        "wikidata": "Q22347742",
+        "type": "union council of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q22347742"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.2056,
+          23.7338
+        ]
+      },
+      "properties": {
+        "name": "Kancherkol Union",
+        "wikidata": "Q22347743",
+        "type": "union council of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q22347743"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.2673415,
+          23.6159273
+        ]
+      },
+      "properties": {
+        "name": "Nityanandapur Union",
+        "wikidata": "Q22347745",
+        "type": "union council of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q22347745"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.2475462,
+          23.7168969
+        ]
+      },
+      "properties": {
+        "name": "Sarutia Union",
+        "wikidata": "Q22347746",
+        "type": "union council of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q22347746"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.0735,
+          23.707
+        ]
+      },
+      "properties": {
+        "name": "Joradah Union",
+        "wikidata": "Q22347919",
+        "type": "union council of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q22347919"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.075,
+          23.647
+        ]
+      },
+      "properties": {
+        "name": "Falsi Union",
+        "wikidata": "Q22347921",
+        "type": "union council of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q22347921"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.171388888,
+          23.551944444
+        ]
+      },
+      "properties": {
+        "name": "Jhenidah Municipality",
+        "wikidata": "Q22348007",
+        "type": "municipality of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q22348007"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.245833333,
+          23.6925
+        ]
+      },
+      "properties": {
+        "name": "Q22348008",
+        "wikidata": "Q22348008",
+        "type": "municipality of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q22348008"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.0106,
+          23.4046
+        ]
+      },
+      "properties": {
+        "name": "Kotchandpur Govt. Model Pilot Secondary School",
+        "wikidata": "Q60761334",
+        "type": "school",
+        "url": "http://www.wikidata.org/entity/Q60761334"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.0106,
+          23.4046
+        ]
+      },
+      "properties": {
+        "name": "Kotchandpur Govt. Model Pilot Secondary School",
+        "wikidata": "Q60761334",
+        "type": "architectural structure",
+        "url": "http://www.wikidata.org/entity/Q60761334"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.171394,
+          23.538521
+        ]
+      },
+      "properties": {
+        "name": "Q108652850",
+        "wikidata": "Q108652850",
+        "type": "madrasa",
+        "url": "http://www.wikidata.org/entity/Q108652850"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.179331,
+          23.540378
+        ]
+      },
+      "properties": {
+        "name": "Nurunnaher Government Women's College",
+        "wikidata": "Q125000955",
+        "type": "educational institution",
+        "url": "http://www.wikidata.org/entity/Q125000955"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.052107,
+          23.661146
+        ]
+      },
+      "properties": {
+        "name": "Lalon Shah Government College",
+        "wikidata": "Q125020511",
+        "type": "educational institution",
+        "url": "http://www.wikidata.org/entity/Q125020511"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.033012,
+          23.645936
+        ]
+      },
+      "properties": {
+        "name": "Q129885393",
+        "wikidata": "Q129885393",
+        "type": "thana of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q129885393"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.24843,
+          23.683922
+        ]
+      },
+      "properties": {
+        "name": "Q129912391",
+        "wikidata": "Q129912391",
+        "type": "thana of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q129912391"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.136508,
+          23.412421
+        ]
+      },
+      "properties": {
+        "name": "Q129914802",
+        "wikidata": "Q129914802",
+        "type": "thana of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q129914802"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.066084,
+          23.712547
+        ]
+      },
+      "properties": {
+        "name": "Q130529955",
+        "wikidata": "Q130529955",
+        "type": "higher secondary school",
+        "url": "http://www.wikidata.org/entity/Q130529955"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.249293,
+          23.685579
+        ]
+      },
+      "properties": {
+        "name": "Shailkupa Government College",
+        "wikidata": "Q130552728",
+        "type": "university college",
+        "url": "http://www.wikidata.org/entity/Q130552728"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.246045,
+          23.685114
+        ]
+      },
+      "properties": {
+        "name": "Shailkupa Govt. Pilot High School",
+        "wikidata": "Q131753905",
+        "type": "secondary school",
+        "url": "http://www.wikidata.org/entity/Q131753905"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.259296,
+          23.743561
+        ]
+      },
+      "properties": {
+        "name": "Q132329293",
+        "wikidata": "Q132329293",
+        "type": "college",
+        "url": "http://www.wikidata.org/entity/Q132329293"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.147166666,
+          23.298105555
+        ]
+      },
+      "properties": {
+        "name": "Noongola Mosque",
+        "wikidata": "Q134775709",
+        "type": "mosque",
+        "url": "http://www.wikidata.org/entity/Q134775709"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.147166666,
+          23.298105555
+        ]
+      },
+      "properties": {
+        "name": "Noongola Mosque",
+        "wikidata": "Q134775709",
+        "type": "human settlement",
+        "url": "http://www.wikidata.org/entity/Q134775709"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.170746,
+          23.553901
+        ]
+      },
+      "properties": {
+        "name": "Jheniadah College",
+        "wikidata": "Q135444433",
+        "type": "college",
+        "url": "http://www.wikidata.org/entity/Q135444433"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.368462,
+          23.665678
+        ]
+      },
+      "properties": {
+        "name": "Q135451085",
+        "wikidata": "Q135451085",
+        "type": "market",
+        "url": "http://www.wikidata.org/entity/Q135451085"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.192437,
+          23.541317
+        ]
+      },
+      "properties": {
+        "name": "Q135478377",
+        "wikidata": "Q135478377",
+        "type": "children's hospital",
+        "url": "http://www.wikidata.org/entity/Q135478377"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.192437,
+          23.541317
+        ]
+      },
+      "properties": {
+        "name": "Q135478377",
+        "wikidata": "Q135478377",
+        "type": "public hospital",
+        "url": "http://www.wikidata.org/entity/Q135478377"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.305752,
+          23.665184
+        ]
+      },
+      "properties": {
+        "name": "Q135616864",
+        "wikidata": "Q135616864",
+        "type": "college",
+        "url": "http://www.wikidata.org/entity/Q135616864"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.254649,
+          23.584819
+        ]
+      },
+      "properties": {
+        "name": "Ashurhat",
+        "wikidata": "Q135686168",
+        "type": "human settlement",
+        "url": "http://www.wikidata.org/entity/Q135686168"
+      }
+    }
+  ]
+}

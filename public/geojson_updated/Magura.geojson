@@ -1,0 +1,549 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.5,
+          23.38
+        ]
+      },
+      "properties": {
+        "name": "Payari",
+        "wikidata": "Q192251",
+        "type": "human settlement",
+        "url": "http://www.wikidata.org/entity/Q192251"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.4,
+          23.4
+        ]
+      },
+      "properties": {
+        "name": "Magura District",
+        "wikidata": "Q2039085",
+        "type": "district of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q2039085"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.4208,
+          23.4875
+        ]
+      },
+      "properties": {
+        "name": "Magura Sadar Upazila",
+        "wikidata": "Q3347485",
+        "type": "upazila of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q3347485"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.56,
+          23.4
+        ]
+      },
+      "properties": {
+        "name": "Mohammadpur Upazila",
+        "wikidata": "Q3347547",
+        "type": "upazila of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q3347547"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.605,
+          23.405
+        ]
+      },
+      "properties": {
+        "name": "Mohammadpur Upazila",
+        "wikidata": "Q3347547",
+        "type": "upazila of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q3347547"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.38,
+          23.305
+        ]
+      },
+      "properties": {
+        "name": "Shalikha Upazila",
+        "wikidata": "Q3348603",
+        "type": "upazila of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q3348603"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.36,
+          23.34
+        ]
+      },
+      "properties": {
+        "name": "Shalikha Upazila",
+        "wikidata": "Q3348603",
+        "type": "upazila of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q3348603"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.42,
+          23.49
+        ]
+      },
+      "properties": {
+        "name": "Magura",
+        "wikidata": "Q4274209",
+        "type": "city",
+        "url": "http://www.wikidata.org/entity/Q4274209"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.116666666,
+          22.75
+        ]
+      },
+      "properties": {
+        "name": "Magura",
+        "wikidata": "Q4274214",
+        "type": "city",
+        "url": "http://www.wikidata.org/entity/Q4274214"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.6,
+          23.4
+        ]
+      },
+      "properties": {
+        "name": "Mohammadpur",
+        "wikidata": "Q4305022",
+        "type": "human settlement",
+        "url": "http://www.wikidata.org/entity/Q4305022"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.383333333,
+          23.3
+        ]
+      },
+      "properties": {
+        "name": "Shalikha",
+        "wikidata": "Q4519693",
+        "type": "human settlement",
+        "url": "http://www.wikidata.org/entity/Q4519693"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.391666666,
+          23.591666666
+        ]
+      },
+      "properties": {
+        "name": "Q4526628",
+        "wikidata": "Q4526628",
+        "type": "human settlement",
+        "url": "http://www.wikidata.org/entity/Q4526628"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.3875,
+          23.6
+        ]
+      },
+      "properties": {
+        "name": "Sreepur Upazila",
+        "wikidata": "Q7585734",
+        "type": "upazila of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q7585734"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.25,
+          23.38
+        ]
+      },
+      "properties": {
+        "name": "Amalsar Union",
+        "wikidata": "Q13149701",
+        "type": "union council of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q13149701"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.28,
+          23.34
+        ]
+      },
+      "properties": {
+        "name": "Kadirpara Union",
+        "wikidata": "Q13150105",
+        "type": "administrative territorial entity",
+        "url": "http://www.wikidata.org/entity/Q13150105"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.28,
+          23.34
+        ]
+      },
+      "properties": {
+        "name": "Kadirpara Union",
+        "wikidata": "Q13150105",
+        "type": "union council of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q13150105"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.23,
+          23.34
+        ]
+      },
+      "properties": {
+        "name": "Sreekol Union",
+        "wikidata": "Q13152675",
+        "type": "union council of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q13152675"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.24,
+          23.35
+        ]
+      },
+      "properties": {
+        "name": "Sreepur Union",
+        "wikidata": "Q13152681",
+        "type": "union council of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q13152681"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.41289444,
+          23.48381944
+        ]
+      },
+      "properties": {
+        "name": "Magura Stadium",
+        "wikidata": "Q15243662",
+        "type": "stadium",
+        "url": "http://www.wikidata.org/entity/Q15243662"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.4366,
+          23.2896
+        ]
+      },
+      "properties": {
+        "name": "Pulum Golam Sarwar Secondary School",
+        "wikidata": "Q18326238",
+        "type": "school",
+        "url": "http://www.wikidata.org/entity/Q18326238"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.3737,
+          23.3645
+        ]
+      },
+      "properties": {
+        "name": "Arpara Union",
+        "wikidata": "Q22347686",
+        "type": "union council of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q22347686"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.26,
+          23.33
+        ]
+      },
+      "properties": {
+        "name": "Shobdalpur Union",
+        "wikidata": "Q22347767",
+        "type": "administrative territorial entity",
+        "url": "http://www.wikidata.org/entity/Q22347767"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.26,
+          23.33
+        ]
+      },
+      "properties": {
+        "name": "Shobdalpur Union",
+        "wikidata": "Q22347767",
+        "type": "union council of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q22347767"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.396388888,
+          23.48
+        ]
+      },
+      "properties": {
+        "name": "Magura Municipality",
+        "wikidata": "Q22348009",
+        "type": "municipality of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q22348009"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.42,
+          23.49
+        ]
+      },
+      "properties": {
+        "name": "Magura-1",
+        "wikidata": "Q22665417",
+        "type": "constituency of the Jatiya Sangsad",
+        "url": "http://www.wikidata.org/entity/Q22665417"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.42,
+          23.49
+        ]
+      },
+      "properties": {
+        "name": "Magura-2",
+        "wikidata": "Q22665681",
+        "type": "constituency of the Jatiya Sangsad",
+        "url": "http://www.wikidata.org/entity/Q22665681"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.41,
+          23.48
+        ]
+      },
+      "properties": {
+        "name": "Magura Govt. Boys High School",
+        "wikidata": "Q25588281",
+        "type": "high school",
+        "url": "http://www.wikidata.org/entity/Q25588281"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.4204,
+          23.4913
+        ]
+      },
+      "properties": {
+        "name": "Magura Govt. Girls' High School",
+        "wikidata": "Q31723923",
+        "type": "government girls' high school",
+        "url": "http://www.wikidata.org/entity/Q31723923"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.22,
+          23.37
+        ]
+      },
+      "properties": {
+        "name": "Gayeshpur Union",
+        "wikidata": "Q31728606",
+        "type": "union council of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q31728606"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.4217,
+          23.48643
+        ]
+      },
+      "properties": {
+        "name": "Magura Medical College",
+        "wikidata": "Q62675657",
+        "type": "medical school",
+        "url": "http://www.wikidata.org/entity/Q62675657"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.27,
+          23.37
+        ]
+      },
+      "properties": {
+        "name": "Dariapur Union, Sreepur",
+        "wikidata": "Q97253170",
+        "type": "union council of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q97253170"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.29,
+          23.33
+        ]
+      },
+      "properties": {
+        "name": "Nakol Union",
+        "wikidata": "Q97253232",
+        "type": "union council of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q97253232"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.412466666,
+          23.482777777
+        ]
+      },
+      "properties": {
+        "name": "Magura Indoor Stadium",
+        "wikidata": "Q133460946",
+        "type": "sports venue",
+        "url": "http://www.wikidata.org/entity/Q133460946"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.4365787,
+          23.2888357
+        ]
+      },
+      "properties": {
+        "name": "Q137430136",
+        "wikidata": "Q137430136",
+        "type": "village of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q137430136"
+      }
+    }
+  ]
+}

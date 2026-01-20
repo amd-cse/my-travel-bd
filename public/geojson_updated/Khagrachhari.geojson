@@ -1,0 +1,1349 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.8361,
+          22.8347
+        ]
+      },
+      "properties": {
+        "name": "Manikchhari Upazila",
+        "wikidata": "Q266188",
+        "type": "upazila of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q266188"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.83667,
+          22.835
+        ]
+      },
+      "properties": {
+        "name": "Manikchhari Upazila",
+        "wikidata": "Q266188",
+        "type": "upazila of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q266188"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.9944,
+          23.0417
+        ]
+      },
+      "properties": {
+        "name": "Khagrachari District",
+        "wikidata": "Q1429685",
+        "type": "district of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q1429685"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.875,
+          23.0417
+        ]
+      },
+      "properties": {
+        "name": "Matiranga Upazila",
+        "wikidata": "Q3348351",
+        "type": "upazila of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q3348351"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.88,
+          23.09
+        ]
+      },
+      "properties": {
+        "name": "Matiranga Upazila",
+        "wikidata": "Q3348351",
+        "type": "upazila of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q3348351"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.88,
+          23.3
+        ]
+      },
+      "properties": {
+        "name": "Panchhari Upazila",
+        "wikidata": "Q3348608",
+        "type": "upazila of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q3348608"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.9,
+          23.29
+        ]
+      },
+      "properties": {
+        "name": "Panchhari Upazila",
+        "wikidata": "Q3348608",
+        "type": "upazila of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q3348608"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.9,
+          22.79
+        ]
+      },
+      "properties": {
+        "name": "Lakshmichhari Upazila",
+        "wikidata": "Q3348987",
+        "type": "upazila of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q3348987"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.94,
+          22.81
+        ]
+      },
+      "properties": {
+        "name": "Lakshmichhari Upazila",
+        "wikidata": "Q3348987",
+        "type": "upazila of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q3348987"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.025,
+          22.92
+        ]
+      },
+      "properties": {
+        "name": "Mahalchhari Upazila",
+        "wikidata": "Q3349069",
+        "type": "upazila of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q3349069"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.7,
+          22.9667
+        ]
+      },
+      "properties": {
+        "name": "Ramgarh Upazila",
+        "wikidata": "Q3349654",
+        "type": "upazila of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q3349654"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.7,
+          22.9667
+        ]
+      },
+      "properties": {
+        "name": "Ramgarh Upazila",
+        "wikidata": "Q3349654",
+        "type": "border city",
+        "url": "http://www.wikidata.org/entity/Q3349654"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.06672,
+          23.24541
+        ]
+      },
+      "properties": {
+        "name": "Dighinala Upazila",
+        "wikidata": "Q3349662",
+        "type": "upazila of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q3349662"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.9944,
+          23.0417
+        ]
+      },
+      "properties": {
+        "name": "Khagrachhari Sadar Upazila",
+        "wikidata": "Q3352156",
+        "type": "upazila of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q3352156"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.066666666,
+          23.266666666
+        ]
+      },
+      "properties": {
+        "name": "Dighinala",
+        "wikidata": "Q4161584",
+        "type": "human settlement",
+        "url": "http://www.wikidata.org/entity/Q4161584"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.9,
+          22.783333333
+        ]
+      },
+      "properties": {
+        "name": "Lakshmichhari",
+        "wikidata": "Q4253380",
+        "type": "human settlement",
+        "url": "http://www.wikidata.org/entity/Q4253380"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.833333333,
+          22.833333333
+        ]
+      },
+      "properties": {
+        "name": "Manikchari",
+        "wikidata": "Q4280439",
+        "type": "human settlement",
+        "url": "http://www.wikidata.org/entity/Q4280439"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.84128,
+          22.83957
+        ]
+      },
+      "properties": {
+        "name": "Manikchari",
+        "wikidata": "Q4280439",
+        "type": "human settlement",
+        "url": "http://www.wikidata.org/entity/Q4280439"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.866666666,
+          23.05
+        ]
+      },
+      "properties": {
+        "name": "Matiranga",
+        "wikidata": "Q4284819",
+        "type": "human settlement",
+        "url": "http://www.wikidata.org/entity/Q4284819"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.016666666,
+          22.916666666
+        ]
+      },
+      "properties": {
+        "name": "Mahalchhari",
+        "wikidata": "Q4285626",
+        "type": "human settlement",
+        "url": "http://www.wikidata.org/entity/Q4285626"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.9,
+          23.283333333
+        ]
+      },
+      "properties": {
+        "name": "Panchhari",
+        "wikidata": "Q4344495",
+        "type": "human settlement",
+        "url": "http://www.wikidata.org/entity/Q4344495"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.725,
+          22.975
+        ]
+      },
+      "properties": {
+        "name": "Ramgarh",
+        "wikidata": "Q4389650",
+        "type": "human settlement",
+        "url": "http://www.wikidata.org/entity/Q4389650"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.875,
+          23.0417
+        ]
+      },
+      "properties": {
+        "name": "Palashpur",
+        "wikidata": "Q7126755",
+        "type": "human settlement",
+        "url": "http://www.wikidata.org/entity/Q7126755"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.01666667,
+          23.15
+        ]
+      },
+      "properties": {
+        "name": "Golabari Union",
+        "wikidata": "Q13057776",
+        "type": "union council of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q13057776"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.03333333,
+          22.93333333
+        ]
+      },
+      "properties": {
+        "name": "Mahalchhari Union",
+        "wikidata": "Q13059238",
+        "type": "union council of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q13059238"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.05833333,
+          22.94166667
+        ]
+      },
+      "properties": {
+        "name": "Mubachhari Union",
+        "wikidata": "Q13059424",
+        "type": "union council of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q13059424"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.05,
+          23.1
+        ]
+      },
+      "properties": {
+        "name": "Kamalchhari Union",
+        "wikidata": "Q13149998",
+        "type": "union council of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q13149998"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.05,
+          22.99166667
+        ]
+      },
+      "properties": {
+        "name": "Kiyangghat Union",
+        "wikidata": "Q13150134",
+        "type": "union council of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q13150134"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.88333333,
+          22.98333333
+        ]
+      },
+      "properties": {
+        "name": "Guimara Upazila",
+        "wikidata": "Q13150401",
+        "type": "upazila of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q13150401"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.93333333,
+          23.38333333
+        ]
+      },
+      "properties": {
+        "name": "Chengi Union",
+        "wikidata": "Q13150634",
+        "type": "union council of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q13150634"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.81666667,
+          23.25
+        ]
+      },
+      "properties": {
+        "name": "Tabalchhari Union",
+        "wikidata": "Q13150867",
+        "type": "union council of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q13150867"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.06666667,
+          23.25
+        ]
+      },
+      "properties": {
+        "name": "Dighinala Union",
+        "wikidata": "Q13151029",
+        "type": "union council of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q13151029"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.93333333,
+          22.85
+        ]
+      },
+      "properties": {
+        "name": "Dulyatali Union",
+        "wikidata": "Q13151060",
+        "type": "union council of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q13151060"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.81666667,
+          22.96666667
+        ]
+      },
+      "properties": {
+        "name": "Patachara Union",
+        "wikidata": "Q13151364",
+        "type": "union council of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q13151364"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.91666667,
+          23.3
+        ]
+      },
+      "properties": {
+        "name": "Panchhari Union",
+        "wikidata": "Q13151375",
+        "type": "union council of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q13151375"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.96666667,
+          23.15833333
+        ]
+      },
+      "properties": {
+        "name": "Perachhara Union",
+        "wikidata": "Q13151498",
+        "type": "union council of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q13151498"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.85,
+          23.1
+        ]
+      },
+      "properties": {
+        "name": "Belchhari Union",
+        "wikidata": "Q13151903",
+        "type": "union council of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q13151903"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.05,
+          23.2
+        ]
+      },
+      "properties": {
+        "name": "Boalkhali Union",
+        "wikidata": "Q13151934",
+        "type": "union council of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q13151934"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.875,
+          23.0417
+        ]
+      },
+      "properties": {
+        "name": "Matiranga Municipality",
+        "wikidata": "Q13152178",
+        "type": "municipality of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q13152178"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.13333333,
+          23.16666667
+        ]
+      },
+      "properties": {
+        "name": "Merung Union",
+        "wikidata": "Q13152241",
+        "type": "union council of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q13152241"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.91666667,
+          22.8
+        ]
+      },
+      "properties": {
+        "name": "Lakkhichhari Union",
+        "wikidata": "Q13152524",
+        "type": "union council of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q13152524"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.91666667,
+          23.26666667
+        ]
+      },
+      "properties": {
+        "name": "Latiban Union",
+        "wikidata": "Q13152539",
+        "type": "union council of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q13152539"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.9,
+          23.36666667
+        ]
+      },
+      "properties": {
+        "name": "Logang Union",
+        "wikidata": "Q13152596",
+        "type": "union council of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q13152596"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.96761389,
+          23.12358611
+        ]
+      },
+      "properties": {
+        "name": "Khagrachhari Stadium",
+        "wikidata": "Q15235947",
+        "type": "stadium",
+        "url": "http://www.wikidata.org/entity/Q15235947"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.88333333,
+          23.05
+        ]
+      },
+      "properties": {
+        "name": "Matiranga Union",
+        "wikidata": "Q16346168",
+        "type": "union council of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q16346168"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.95666667,
+          23.08833333
+        ]
+      },
+      "properties": {
+        "name": "Alutila Cave",
+        "wikidata": "Q19881899",
+        "type": "cave",
+        "url": "http://www.wikidata.org/entity/Q19881899"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.925,
+          23.2
+        ]
+      },
+      "properties": {
+        "name": "Bhaibonchhara Union",
+        "wikidata": "Q22346501",
+        "type": "union council of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q22346501"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.98333333,
+          23.06666667
+        ]
+      },
+      "properties": {
+        "name": "Khagrachhari Union",
+        "wikidata": "Q22346502",
+        "type": "union council of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q22346502"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.01666667,
+          23.36666667
+        ]
+      },
+      "properties": {
+        "name": "Babuchhara Union",
+        "wikidata": "Q22346823",
+        "type": "union council of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q22346823"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.11666667,
+          23.2
+        ]
+      },
+      "properties": {
+        "name": "Kabakhali Union",
+        "wikidata": "Q22346824",
+        "type": "union council of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q22346824"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.0,
+          23.04166667
+        ]
+      },
+      "properties": {
+        "name": "Maischhari Union",
+        "wikidata": "Q22347417",
+        "type": "union council of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q22347417"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.98333333,
+          22.93333333
+        ]
+      },
+      "properties": {
+        "name": "Sindukchhari Union",
+        "wikidata": "Q22347418",
+        "type": "union council of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q22347418"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.81666667,
+          23.2
+        ]
+      },
+      "properties": {
+        "name": "Baranal Union",
+        "wikidata": "Q22347439",
+        "type": "union council of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q22347439"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.86666667,
+          23.13333333
+        ]
+      },
+      "properties": {
+        "name": "Gumti Union",
+        "wikidata": "Q22347440",
+        "type": "union council of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q22347440"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.8,
+          23.3
+        ]
+      },
+      "properties": {
+        "name": "Taindang Union",
+        "wikidata": "Q22347442",
+        "type": "union council of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q22347442"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.81666667,
+          22.9
+        ]
+      },
+      "properties": {
+        "name": "Batnatali Union",
+        "wikidata": "Q22347459",
+        "type": "union council of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q22347459"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.85,
+          22.85
+        ]
+      },
+      "properties": {
+        "name": "Manikchhari Union",
+        "wikidata": "Q22347460",
+        "type": "union council of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q22347460"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.95,
+          22.875
+        ]
+      },
+      "properties": {
+        "name": "Hafchari Union",
+        "wikidata": "Q22347597",
+        "type": "union council of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q22347597"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.76666667,
+          23.0
+        ]
+      },
+      "properties": {
+        "name": "Ramgar Union",
+        "wikidata": "Q22347598",
+        "type": "union council of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q22347598"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.95,
+          22.70833333
+        ]
+      },
+      "properties": {
+        "name": "Barmachhari Union",
+        "wikidata": "Q22347643",
+        "type": "union council of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q22347643"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.7,
+          22.9667
+        ]
+      },
+      "properties": {
+        "name": "Ramgarh Municipality",
+        "wikidata": "Q22347961",
+        "type": "municipality of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q22347961"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.064069,
+          23.240847
+        ]
+      },
+      "properties": {
+        "name": "Dighinala Cantonment",
+        "wikidata": "Q23018889",
+        "type": "cantonment",
+        "url": "http://www.wikidata.org/entity/Q23018889"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.986318,
+          23.117573
+        ]
+      },
+      "properties": {
+        "name": "Khagrachari Cantonment",
+        "wikidata": "Q23019158",
+        "type": "cantonment",
+        "url": "http://www.wikidata.org/entity/Q23019158"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.99,
+          23.11
+        ]
+      },
+      "properties": {
+        "name": "Khagrachhari",
+        "wikidata": "Q24693572",
+        "type": "constituency of the Jatiya Sangsad",
+        "url": "http://www.wikidata.org/entity/Q24693572"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.0583,
+          23.2583
+        ]
+      },
+      "properties": {
+        "name": "Q56231479",
+        "wikidata": "Q56231479",
+        "type": "thana of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q56231479"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.88333333,
+          22.98333333
+        ]
+      },
+      "properties": {
+        "name": "Guimara Union",
+        "wikidata": "Q56599090",
+        "type": "union council of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q56599090"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.9944,
+          23.0417
+        ]
+      },
+      "properties": {
+        "name": "Khagrachhari Municipality",
+        "wikidata": "Q61360577",
+        "type": "municipality of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q61360577"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.88333333,
+          23.31666667
+        ]
+      },
+      "properties": {
+        "name": "Ultachhari Union",
+        "wikidata": "Q61363675",
+        "type": "union council of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q61363675"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.9,
+          23.2903
+        ]
+      },
+      "properties": {
+        "name": "Q61363679",
+        "wikidata": "Q61363679",
+        "type": "thana of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q61363679"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.875,
+          23.0417
+        ]
+      },
+      "properties": {
+        "name": "Q61363690",
+        "wikidata": "Q61363690",
+        "type": "thana of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q61363690"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.83333333,
+          23.16666667
+        ]
+      },
+      "properties": {
+        "name": "Amtali Union",
+        "wikidata": "Q61363714",
+        "type": "union council of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q61363714"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.9944,
+          23.0417
+        ]
+      },
+      "properties": {
+        "name": "Q61363736",
+        "wikidata": "Q61363736",
+        "type": "thana of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q61363736"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.025,
+          22.9194
+        ]
+      },
+      "properties": {
+        "name": "Q61363775",
+        "wikidata": "Q61363775",
+        "type": "thana of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q61363775"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.88333333,
+          22.98333333
+        ]
+      },
+      "properties": {
+        "name": "Q61363789",
+        "wikidata": "Q61363789",
+        "type": "thana of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q61363789"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.7,
+          22.9667
+        ]
+      },
+      "properties": {
+        "name": "Q61363801",
+        "wikidata": "Q61363801",
+        "type": "thana of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q61363801"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.7,
+          22.9667
+        ]
+      },
+      "properties": {
+        "name": "Q61363835",
+        "wikidata": "Q61363835",
+        "type": "thana of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q61363835"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.8,
+          22.8
+        ]
+      },
+      "properties": {
+        "name": "Jogyachhola Union",
+        "wikidata": "Q61363849",
+        "type": "union council of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q61363849"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.85,
+          22.81666667
+        ]
+      },
+      "properties": {
+        "name": "Tintahari Union",
+        "wikidata": "Q61363860",
+        "type": "union council of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q61363860"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.9,
+          22.7903
+        ]
+      },
+      "properties": {
+        "name": "Q61363861",
+        "wikidata": "Q61363861",
+        "type": "thana of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q61363861"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.8910733,
+          23.2595123
+        ]
+      },
+      "properties": {
+        "name": "Panchari Shantipur Aranya Kutir",
+        "wikidata": "Q61747782",
+        "type": "Hindu temple",
+        "url": "http://www.wikidata.org/entity/Q61747782"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.9777986,
+          23.1134364
+        ]
+      },
+      "properties": {
+        "name": "Q108333384",
+        "wikidata": "Q108333384",
+        "type": "college",
+        "url": "http://www.wikidata.org/entity/Q108333384"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.954438,
+          23.088988
+        ]
+      },
+      "properties": {
+        "name": "Alutila Tourist Centre",
+        "wikidata": "Q124336280",
+        "type": "tourist attraction",
+        "url": "http://www.wikidata.org/entity/Q124336280"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.988518,
+          23.110165
+        ]
+      },
+      "properties": {
+        "name": "Q135913067",
+        "wikidata": "Q135913067",
+        "type": "Government High School",
+        "url": "http://www.wikidata.org/entity/Q135913067"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          91.733129,
+          23.000146
+        ]
+      },
+      "properties": {
+        "name": "Q135917771",
+        "wikidata": "Q135917771",
+        "type": "high school",
+        "url": "http://www.wikidata.org/entity/Q135917771"
+      }
+    }
+  ]
+}

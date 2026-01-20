@@ -1,0 +1,4901 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.2547,
+          23.9113
+        ]
+      },
+      "properties": {
+        "name": "Jatiyo Smriti Soudho",
+        "wikidata": "Q3351595",
+        "type": "architectural structure",
+        "url": "http://www.wikidata.org/entity/Q3351595"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.382433,
+          23.745654
+        ]
+      },
+      "properties": {
+        "name": "Anwer Khan Modern Medical College",
+        "wikidata": "Q4778088",
+        "type": "medical school",
+        "url": "http://www.wikidata.org/entity/Q4778088"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.369830555,
+          23.750558333
+        ]
+      },
+      "properties": {
+        "name": "Bangladesh Medical College",
+        "wikidata": "Q4855346",
+        "type": "medical school",
+        "url": "http://www.wikidata.org/entity/Q4855346"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.2671,
+          23.8824
+        ]
+      },
+      "properties": {
+        "name": "Jahangirnagar University",
+        "wikidata": "Q6123196",
+        "type": "public university",
+        "url": "http://www.wikidata.org/entity/Q6123196"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.35715,
+          23.75085
+        ]
+      },
+      "properties": {
+        "name": "Martyred Intellectuals Memorial",
+        "wikidata": "Q6777731",
+        "type": "architectural structure",
+        "url": "http://www.wikidata.org/entity/Q6777731"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.4007,
+          23.8584
+        ]
+      },
+      "properties": {
+        "name": "Medical College for Women and Hospital",
+        "wikidata": "Q6806299",
+        "type": "medical school",
+        "url": "http://www.wikidata.org/entity/Q6806299"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.401586,
+          23.794458
+        ]
+      },
+      "properties": {
+        "name": "Mohammadpur Government High School",
+        "wikidata": "Q6892810",
+        "type": "secondary school",
+        "url": "http://www.wikidata.org/entity/Q6892810"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.402064,
+          23.87035
+        ]
+      },
+      "properties": {
+        "name": "RAJUK Uttara Model College",
+        "wikidata": "Q7275731",
+        "type": "school",
+        "url": "http://www.wikidata.org/entity/Q7275731"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.2644,
+          23.8503
+        ]
+      },
+      "properties": {
+        "name": "Savar Model College",
+        "wikidata": "Q7427919",
+        "type": "school",
+        "url": "http://www.wikidata.org/entity/Q7427919"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.397771,
+          23.879065
+        ]
+      },
+      "properties": {
+        "name": "Shaheed Monsur Ali Medical College",
+        "wikidata": "Q7461545",
+        "type": "medical school",
+        "url": "http://www.wikidata.org/entity/Q7461545"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.21384,
+          23.87714
+        ]
+      },
+      "properties": {
+        "name": "Kulla Union",
+        "wikidata": "Q13150231",
+        "type": "union council of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q13150231"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.116146,
+          23.958946
+        ]
+      },
+      "properties": {
+        "name": "Q13150236",
+        "wikidata": "Q13150236",
+        "type": "union council of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q13150236"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.254444444,
+          23.942222222
+        ]
+      },
+      "properties": {
+        "name": "Dhamsana Union",
+        "wikidata": "Q13151113",
+        "type": "union council of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q13151113"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.200226,
+          23.959934
+        ]
+      },
+      "properties": {
+        "name": "Q13152020",
+        "wikidata": "Q13152020",
+        "type": "union council of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q13152020"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.047442,
+          23.5946382
+        ]
+      },
+      "properties": {
+        "name": "Q13152230",
+        "wikidata": "Q13152230",
+        "type": "union council of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q13152230"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.1572452,
+          23.5457855
+        ]
+      },
+      "properties": {
+        "name": "Muksudpur Union",
+        "wikidata": "Q13152270",
+        "type": "union council of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q13152270"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.117704,
+          23.63596
+        ]
+      },
+      "properties": {
+        "name": "Q13152477",
+        "wikidata": "Q13152477",
+        "type": "human settlement",
+        "url": "http://www.wikidata.org/entity/Q13152477"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.117704,
+          23.63596
+        ]
+      },
+      "properties": {
+        "name": "Q13152477",
+        "wikidata": "Q13152477",
+        "type": "union council of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q13152477"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.2541,
+          23.8467
+        ]
+      },
+      "properties": {
+        "name": "Gonoshasthaya Samaj Vittik Medical College",
+        "wikidata": "Q16891757",
+        "type": "medical school",
+        "url": "http://www.wikidata.org/entity/Q16891757"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.2356,
+          23.9157
+        ]
+      },
+      "properties": {
+        "name": "National Institute of Textile Engineering and Research",
+        "wikidata": "Q16895693",
+        "type": "university",
+        "url": "http://www.wikidata.org/entity/Q16895693"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.3935,
+          23.865
+        ]
+      },
+      "properties": {
+        "name": "International Turkish Hope School, Dhaka",
+        "wikidata": "Q17056761",
+        "type": "school",
+        "url": "http://www.wikidata.org/entity/Q17056761"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.057809,
+          23.999259
+        ]
+      },
+      "properties": {
+        "name": "Q21152460",
+        "wikidata": "Q21152460",
+        "type": "union council of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q21152460"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.3715,
+          23.7619
+        ]
+      },
+      "properties": {
+        "name": "CARe Medical College",
+        "wikidata": "Q22080316",
+        "type": "medical school",
+        "url": "http://www.wikidata.org/entity/Q22080316"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.077775,
+          23.631586
+        ]
+      },
+      "properties": {
+        "name": "Q22346850",
+        "wikidata": "Q22346850",
+        "type": "union council of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q22346850"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.15,
+          23.556944444
+        ]
+      },
+      "properties": {
+        "name": "Q22346851",
+        "wikidata": "Q22346851",
+        "type": "union council of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q22346851"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.065755,
+          23.914086
+        ]
+      },
+      "properties": {
+        "name": "Q22346875",
+        "wikidata": "Q22346875",
+        "type": "union council of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q22346875"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.09706,
+          23.914596
+        ]
+      },
+      "properties": {
+        "name": "Suti Para Union, Dhamrai",
+        "wikidata": "Q22346879",
+        "type": "union council of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q22346879"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.368,
+          23.767
+        ]
+      },
+      "properties": {
+        "name": "Mohammadpur Model School & College",
+        "wikidata": "Q23044802",
+        "type": "school",
+        "url": "http://www.wikidata.org/entity/Q23044802"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.257701,
+          23.8482
+        ]
+      },
+      "properties": {
+        "name": "Savar",
+        "wikidata": "Q23958347",
+        "type": "city",
+        "url": "http://www.wikidata.org/entity/Q23958347"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.2669,
+          23.9071
+        ]
+      },
+      "properties": {
+        "name": "Savar Cantonment Public School and College",
+        "wikidata": "Q25587028",
+        "type": "school",
+        "url": "http://www.wikidata.org/entity/Q25587028"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.4258,
+          23.6687
+        ]
+      },
+      "properties": {
+        "name": "Bashundhara Ad-din Medical College",
+        "wikidata": "Q29026418",
+        "type": "medical school",
+        "url": "http://www.wikidata.org/entity/Q29026418"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.36086,
+          23.76732
+        ]
+      },
+      "properties": {
+        "name": "Studio 6/6",
+        "wikidata": "Q47462536",
+        "type": "art gallery",
+        "url": "http://www.wikidata.org/entity/Q47462536"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.36086,
+          23.76732
+        ]
+      },
+      "properties": {
+        "name": "Studio 6/6",
+        "wikidata": "Q47462536",
+        "type": "arts venue",
+        "url": "http://www.wikidata.org/entity/Q47462536"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.4105466,
+          23.8523621
+        ]
+      },
+      "properties": {
+        "name": "Uttara Government College, Dhaka",
+        "wikidata": "Q47509305",
+        "type": "college",
+        "url": "http://www.wikidata.org/entity/Q47509305"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.272284,
+          23.900399
+        ]
+      },
+      "properties": {
+        "name": "Zirabo Cantonment Public School & College",
+        "wikidata": "Q47516249",
+        "type": "school",
+        "url": "http://www.wikidata.org/entity/Q47516249"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.4008,
+          23.8793
+        ]
+      },
+      "properties": {
+        "name": "Uttara Town College",
+        "wikidata": "Q48733671",
+        "type": "school",
+        "url": "http://www.wikidata.org/entity/Q48733671"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.4008,
+          23.8793
+        ]
+      },
+      "properties": {
+        "name": "Uttara Town College",
+        "wikidata": "Q48733671",
+        "type": "college",
+        "url": "http://www.wikidata.org/entity/Q48733671"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.26828,
+          23.87978
+        ]
+      },
+      "properties": {
+        "name": "Shaheed Minar",
+        "wikidata": "Q64347516",
+        "type": "architectural structure",
+        "url": "http://www.wikidata.org/entity/Q64347516"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.26828,
+          23.87978
+        ]
+      },
+      "properties": {
+        "name": "Shaheed Minar",
+        "wikidata": "Q64347516",
+        "type": "memorial",
+        "url": "http://www.wikidata.org/entity/Q64347516"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.2178,
+          23.9131
+        ]
+      },
+      "properties": {
+        "name": "Dhamrai Govt. College, Dhaka",
+        "wikidata": "Q97247593",
+        "type": "college",
+        "url": "http://www.wikidata.org/entity/Q97247593"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.4209,
+          23.7962
+        ]
+      },
+      "properties": {
+        "name": "High commission of Canada in Bangladesh",
+        "wikidata": "Q104363866",
+        "type": "high commission",
+        "url": "http://www.wikidata.org/entity/Q104363866"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.387432,
+          23.875684
+        ]
+      },
+      "properties": {
+        "name": "Uttara West Thana",
+        "wikidata": "Q107619479",
+        "type": "Unknown",
+        "url": "http://www.wikidata.org/entity/Q107619479"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.400499,
+          23.866925
+        ]
+      },
+      "properties": {
+        "name": "Uttara East Thana",
+        "wikidata": "Q107619583",
+        "type": "Unknown",
+        "url": "http://www.wikidata.org/entity/Q107619583"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.400394,
+          23.874573
+        ]
+      },
+      "properties": {
+        "name": "House Building, Uttara",
+        "wikidata": "Q110233826",
+        "type": "neighborhood",
+        "url": "http://www.wikidata.org/entity/Q110233826"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.383649,
+          23.874014
+        ]
+      },
+      "properties": {
+        "name": "Tagore University of Creative Arts",
+        "wikidata": "Q110477496",
+        "type": "private university",
+        "url": "http://www.wikidata.org/entity/Q110477496"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.341111111,
+          23.651944444
+        ]
+      },
+      "properties": {
+        "name": "Aourahati power plant",
+        "wikidata": "Q111265747",
+        "type": "oil-fired power station",
+        "url": "http://www.wikidata.org/entity/Q111265747"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.3975788,
+          23.7030861
+        ]
+      },
+      "properties": {
+        "name": "Lion Cinemas",
+        "wikidata": "Q113033624",
+        "type": "movie theater",
+        "url": "http://www.wikidata.org/entity/Q113033624"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.405555555,
+          23.723333333
+        ]
+      },
+      "properties": {
+        "name": "2023 Dhaka Bangabazar fire",
+        "wikidata": "Q117425829",
+        "type": "conflagration",
+        "url": "http://www.wikidata.org/entity/Q117425829"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.171115,
+          23.540091
+        ]
+      },
+      "properties": {
+        "name": "Q118116217",
+        "wikidata": "Q118116217",
+        "type": "college",
+        "url": "http://www.wikidata.org/entity/Q118116217"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.265893,
+          23.873031
+        ]
+      },
+      "properties": {
+        "name": "Q118116268",
+        "wikidata": "Q118116268",
+        "type": "lake",
+        "url": "http://www.wikidata.org/entity/Q118116268"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.3140394,
+          23.8532824
+        ]
+      },
+      "properties": {
+        "name": "Birulia",
+        "wikidata": "Q120964460",
+        "type": "village",
+        "url": "http://www.wikidata.org/entity/Q120964460"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.415132,
+          23.773658
+        ]
+      },
+      "properties": {
+        "name": "Shahid Dr. Fazle Rabbi Park",
+        "wikidata": "Q126949084",
+        "type": "urban park",
+        "url": "http://www.wikidata.org/entity/Q126949084"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.38863,
+          23.764792
+        ]
+      },
+      "properties": {
+        "name": "Sheikh Mujibur Rahman statue destruction",
+        "wikidata": "Q130282766",
+        "type": "sculpture",
+        "url": "http://www.wikidata.org/entity/Q130282766"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.368526111,
+          23.874983055
+        ]
+      },
+      "properties": {
+        "name": "Data:Artist Quamrul Hassan Road.map",
+        "wikidata": "Q130477589",
+        "type": "geospatial vector dataset",
+        "url": "http://www.wikidata.org/entity/Q130477589"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.40377,
+          23.733689
+        ]
+      },
+      "properties": {
+        "name": "Matsya Bhaban",
+        "wikidata": "Q130601922",
+        "type": "administrative territorial entity",
+        "url": "http://www.wikidata.org/entity/Q130601922"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.2707999,
+          23.8787718
+        ]
+      },
+      "properties": {
+        "name": "Selim Al Deen Muktomanch",
+        "wikidata": "Q130607297",
+        "type": "sylvan theater",
+        "url": "http://www.wikidata.org/entity/Q130607297"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.3895417,
+          23.8858181
+        ]
+      },
+      "properties": {
+        "name": "Sector 10, Uttara",
+        "wikidata": "Q130857904",
+        "type": "administrative territorial entity",
+        "url": "http://www.wikidata.org/entity/Q130857904"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.1152,
+          23.965354
+        ]
+      },
+      "properties": {
+        "name": "Nabojug College",
+        "wikidata": "Q132530935",
+        "type": "college",
+        "url": "http://www.wikidata.org/entity/Q132530935"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.108865,
+          23.604663
+        ]
+      },
+      "properties": {
+        "name": "Q134615156",
+        "wikidata": "Q134615156",
+        "type": "union council of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q134615156"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.149682,
+          23.590926
+        ]
+      },
+      "properties": {
+        "name": "Q134615290",
+        "wikidata": "Q134615290",
+        "type": "union council of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q134615290"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.30912,
+          23.69145
+        ]
+      },
+      "properties": {
+        "name": "Government Ispahane College",
+        "wikidata": "Q136842306",
+        "type": "college",
+        "url": "http://www.wikidata.org/entity/Q136842306"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.3941,
+          23.73755
+        ]
+      },
+      "properties": {
+        "name": "Bangladesh National Museum",
+        "wikidata": "Q51876",
+        "type": "museum",
+        "url": "http://www.wikidata.org/entity/Q51876"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.3941,
+          23.73755
+        ]
+      },
+      "properties": {
+        "name": "Bangladesh National Museum",
+        "wikidata": "Q51876",
+        "type": "history museum",
+        "url": "http://www.wikidata.org/entity/Q51876"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.3941,
+          23.73755
+        ]
+      },
+      "properties": {
+        "name": "Bangladesh National Museum",
+        "wikidata": "Q51876",
+        "type": "national museum",
+        "url": "http://www.wikidata.org/entity/Q51876"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.398055555,
+          23.725555555
+        ]
+      },
+      "properties": {
+        "name": "Dhaka Medical College",
+        "wikidata": "Q1207503",
+        "type": "medical school",
+        "url": "http://www.wikidata.org/entity/Q1207503"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.398055555,
+          23.725555555
+        ]
+      },
+      "properties": {
+        "name": "Dhaka Medical College",
+        "wikidata": "Q1207503",
+        "type": "university hospital",
+        "url": "http://www.wikidata.org/entity/Q1207503"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.424379,
+          23.737593
+        ]
+      },
+      "properties": {
+        "name": "Ideal School and College",
+        "wikidata": "Q1970756",
+        "type": "school",
+        "url": "http://www.wikidata.org/entity/Q1970756"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.4025,
+          23.7308
+        ]
+      },
+      "properties": {
+        "name": "Supreme Court of Bangladesh",
+        "wikidata": "Q3346963",
+        "type": "supreme court",
+        "url": "http://www.wikidata.org/entity/Q3346963"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.347574269,
+          23.812901433
+        ]
+      },
+      "properties": {
+        "name": "National Botanical Garden",
+        "wikidata": "Q3348108",
+        "type": "botanical garden",
+        "url": "http://www.wikidata.org/entity/Q3348108"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.4155,
+          23.85403333
+        ]
+      },
+      "properties": {
+        "name": "Ashkona",
+        "wikidata": "Q4805197",
+        "type": "neighborhood",
+        "url": "http://www.wikidata.org/entity/Q4805197"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.3533,
+          23.7849
+        ]
+      },
+      "properties": {
+        "name": "Govt. Bangla College",
+        "wikidata": "Q4855242",
+        "type": "college",
+        "url": "http://www.wikidata.org/entity/Q4855242"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.4001,
+          23.7604
+        ]
+      },
+      "properties": {
+        "name": "Bangladesh University of Textiles",
+        "wikidata": "Q4855391",
+        "type": "public university",
+        "url": "http://www.wikidata.org/entity/Q4855391"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.368348,
+          23.75111
+        ]
+      },
+      "properties": {
+        "name": "Chhayanat",
+        "wikidata": "Q5094859",
+        "type": "organization",
+        "url": "http://www.wikidata.org/entity/Q5094859"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.4138,
+          23.7944
+        ]
+      },
+      "properties": {
+        "name": "Doreen Tower",
+        "wikidata": "Q5297686",
+        "type": "skyscraper",
+        "url": "http://www.wikidata.org/entity/Q5297686"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.3734,
+          23.7682
+        ]
+      },
+      "properties": {
+        "name": "Gonobhaban Government High School",
+        "wikidata": "Q5582035",
+        "type": "high school",
+        "url": "http://www.wikidata.org/entity/Q5582035"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.39277778,
+          23.7575
+        ]
+      },
+      "properties": {
+        "name": "Government Science College",
+        "wikidata": "Q5589091",
+        "type": "college",
+        "url": "http://www.wikidata.org/entity/Q5589091"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.3912,
+          23.7584
+        ]
+      },
+      "properties": {
+        "name": "Holy Cross College",
+        "wikidata": "Q5885173",
+        "type": "college",
+        "url": "http://www.wikidata.org/entity/Q5885173"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.3912,
+          23.7584
+        ]
+      },
+      "properties": {
+        "name": "Holy Cross Girls' High School",
+        "wikidata": "Q5885227",
+        "type": "high school",
+        "url": "http://www.wikidata.org/entity/Q5885227"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.3965,
+          23.7385
+        ]
+      },
+      "properties": {
+        "name": "Ibrahim Medical College",
+        "wikidata": "Q5984659",
+        "type": "medical school",
+        "url": "http://www.wikidata.org/entity/Q5984659"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.42196,
+          23.83037
+        ]
+      },
+      "properties": {
+        "name": "Kurmitola High School",
+        "wikidata": "Q6446190",
+        "type": "high school",
+        "url": "http://www.wikidata.org/entity/Q6446190"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.4207,
+          23.7908
+        ]
+      },
+      "properties": {
+        "name": "Manarat Dhaka International School and College",
+        "wikidata": "Q6746955",
+        "type": "school",
+        "url": "http://www.wikidata.org/entity/Q6746955"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.375,
+          23.7949
+        ]
+      },
+      "properties": {
+        "name": "Monipur High School and College",
+        "wikidata": "Q6900313",
+        "type": "secondary school",
+        "url": "http://www.wikidata.org/entity/Q6900313"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.37405,
+          23.74315
+        ]
+      },
+      "properties": {
+        "name": "Mughal Eidgah",
+        "wikidata": "Q6932152",
+        "type": "Eidgah",
+        "url": "http://www.wikidata.org/entity/Q6932152"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.395,
+          23.76861111
+        ]
+      },
+      "properties": {
+        "name": "Nakhalpara",
+        "wikidata": "Q6960553",
+        "type": "human settlement",
+        "url": "http://www.wikidata.org/entity/Q6960553"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.3824953,
+          23.7330295
+        ]
+      },
+      "properties": {
+        "name": "New Market, Dhaka",
+        "wikidata": "Q7009999",
+        "type": "market",
+        "url": "http://www.wikidata.org/entity/Q7009999"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.4027,
+          23.7245
+        ]
+      },
+      "properties": {
+        "name": "Nimtali arch",
+        "wikidata": "Q7037796",
+        "type": "gate",
+        "url": "http://www.wikidata.org/entity/Q7037796"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.4027,
+          23.7245
+        ]
+      },
+      "properties": {
+        "name": "Nimtali arch",
+        "wikidata": "Q7037796",
+        "type": "portal",
+        "url": "http://www.wikidata.org/entity/Q7037796"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.4027,
+          23.7245
+        ]
+      },
+      "properties": {
+        "name": "Nimtali arch",
+        "wikidata": "Q7037796",
+        "type": "museum building",
+        "url": "http://www.wikidata.org/entity/Q7037796"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.4027,
+          23.7245
+        ]
+      },
+      "properties": {
+        "name": "Nimtali arch",
+        "wikidata": "Q7037796",
+        "type": "historic building",
+        "url": "http://www.wikidata.org/entity/Q7037796"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.4211,
+          23.73
+        ]
+      },
+      "properties": {
+        "name": "Notre Dame College, Dhaka",
+        "wikidata": "Q7063389",
+        "type": "college",
+        "url": "http://www.wikidata.org/entity/Q7063389"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.4211,
+          23.73
+        ]
+      },
+      "properties": {
+        "name": "Notre Dame College, Dhaka",
+        "wikidata": "Q7063389",
+        "type": "private educational institution",
+        "url": "http://www.wikidata.org/entity/Q7063389"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.4211,
+          23.73
+        ]
+      },
+      "properties": {
+        "name": "Notre Dame College, Dhaka",
+        "wikidata": "Q7063389",
+        "type": "higher secondary school",
+        "url": "http://www.wikidata.org/entity/Q7063389"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.3797,
+          23.7385
+        ]
+      },
+      "properties": {
+        "name": "Popular Medical College",
+        "wikidata": "Q7229710",
+        "type": "medical school",
+        "url": "http://www.wikidata.org/entity/Q7229710"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.37694444,
+          23.805
+        ]
+      },
+      "properties": {
+        "name": "SOS Hermann Gmeiner College",
+        "wikidata": "Q7392111",
+        "type": "school",
+        "url": "http://www.wikidata.org/entity/Q7392111"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.3788,
+          23.7775
+        ]
+      },
+      "properties": {
+        "name": "Sher-e-Bangla Nagar Government Boys' High School",
+        "wikidata": "Q7494589",
+        "type": "high school",
+        "url": "http://www.wikidata.org/entity/Q7494589"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.41089167,
+          23.74502778
+        ]
+      },
+      "properties": {
+        "name": "Siddheswari Boys' High School",
+        "wikidata": "Q7508163",
+        "type": "high school",
+        "url": "http://www.wikidata.org/entity/Q7508163"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.370852777,
+          23.750780555
+        ]
+      },
+      "properties": {
+        "name": "College of Development Alternative",
+        "wikidata": "Q13057170",
+        "type": "college",
+        "url": "http://www.wikidata.org/entity/Q13057170"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.4075,
+          23.7383
+        ]
+      },
+      "properties": {
+        "name": "Willes Little Flower School",
+        "wikidata": "Q13057245",
+        "type": "school",
+        "url": "http://www.wikidata.org/entity/Q13057245"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.383697,
+          23.736482
+        ]
+      },
+      "properties": {
+        "name": "Govt. Teachers' Training College, Dhaka",
+        "wikidata": "Q13058116",
+        "type": "academic institution",
+        "url": "http://www.wikidata.org/entity/Q13058116"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.34828,
+          23.81058
+        ]
+      },
+      "properties": {
+        "name": "BCIC College",
+        "wikidata": "Q13059015",
+        "type": "college",
+        "url": "http://www.wikidata.org/entity/Q13059015"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.197641,
+          23.6448152
+        ]
+      },
+      "properties": {
+        "name": "Agla Union, Nawabganj",
+        "wikidata": "Q13149634",
+        "type": "union council of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q13149634"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.1633391,
+          23.6605898
+        ]
+      },
+      "properties": {
+        "name": "Kolakopa Union",
+        "wikidata": "Q13150039",
+        "type": "union council of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q13150039"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.2330231,
+          23.6786917
+        ]
+      },
+      "properties": {
+        "name": "Kailail Union",
+        "wikidata": "Q13150264",
+        "type": "union council of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q13150264"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.476025,
+          23.726425
+        ]
+      },
+      "properties": {
+        "name": "Q13150856",
+        "wikidata": "Q13150856",
+        "type": "union council of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q13150856"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.45,
+          23.88333333
+        ]
+      },
+      "properties": {
+        "name": "Dakshin Khan",
+        "wikidata": "Q13150972",
+        "type": "union council of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q13150972"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.102389,
+          23.6626088
+        ]
+      },
+      "properties": {
+        "name": "Nayansree Union",
+        "wikidata": "Q13151147",
+        "type": "union council of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q13151147"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.1764117,
+          23.6433363
+        ]
+      },
+      "properties": {
+        "name": "Bakshanagar Union",
+        "wikidata": "Q13151589",
+        "type": "union council of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q13151589"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.076084,
+          23.671569
+        ]
+      },
+      "properties": {
+        "name": "Baruakhali Union",
+        "wikidata": "Q13151631",
+        "type": "union council of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q13151631"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.193537,
+          23.677307
+        ]
+      },
+      "properties": {
+        "name": "Barrah Union",
+        "wikidata": "Q13151672",
+        "type": "union council of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q13151672"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.130477,
+          23.653133
+        ]
+      },
+      "properties": {
+        "name": "Bandura Union",
+        "wikidata": "Q13151765",
+        "type": "union council of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q13151765"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.462034,
+          23.706073
+        ]
+      },
+      "properties": {
+        "name": "Q13152182",
+        "wikidata": "Q13152182",
+        "type": "union council of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q13152182"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.148544,
+          23.682475
+        ]
+      },
+      "properties": {
+        "name": "Jantrail Union",
+        "wikidata": "Q13152358",
+        "type": "union council of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q13152358"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.438513,
+          23.684604
+        ]
+      },
+      "properties": {
+        "name": "Q13152669",
+        "wikidata": "Q13152669",
+        "type": "union council of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q13152669"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.455281,
+          23.783764
+        ]
+      },
+      "properties": {
+        "name": "Q13152735",
+        "wikidata": "Q13152735",
+        "type": "union council of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q13152735"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.42388889,
+          23.73277778
+        ]
+      },
+      "properties": {
+        "name": "Motijheel Model High School and College",
+        "wikidata": "Q13650769",
+        "type": "high school",
+        "url": "http://www.wikidata.org/entity/Q13650769"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.42995,
+          23.76621
+        ]
+      },
+      "properties": {
+        "name": "Dhaka Imperial College",
+        "wikidata": "Q15213852",
+        "type": "college",
+        "url": "http://www.wikidata.org/entity/Q15213852"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.2505,
+          23.4341
+        ]
+      },
+      "properties": {
+        "name": "Red Crescent Rupayan Tower",
+        "wikidata": "Q15272136",
+        "type": "skyscraper",
+        "url": "http://www.wikidata.org/entity/Q15272136"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.2435,
+          23.4735
+        ]
+      },
+      "properties": {
+        "name": "Unique Acropolis",
+        "wikidata": "Q15720599",
+        "type": "skyscraper",
+        "url": "http://www.wikidata.org/entity/Q15720599"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.374,
+          23.76521
+        ]
+      },
+      "properties": {
+        "name": "Ganabhaban",
+        "wikidata": "Q16152640",
+        "type": "building",
+        "url": "http://www.wikidata.org/entity/Q16152640"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.4109,
+          23.7406
+        ]
+      },
+      "properties": {
+        "name": "Bangladesh Institute of Science and Technology",
+        "wikidata": "Q16345942",
+        "type": "academic institution",
+        "url": "http://www.wikidata.org/entity/Q16345942"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.3522,
+          23.7994
+        ]
+      },
+      "properties": {
+        "name": "Mirpur Govt. High School",
+        "wikidata": "Q16346224",
+        "type": "high school",
+        "url": "http://www.wikidata.org/entity/Q16346224"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.4197,
+          23.7895
+        ]
+      },
+      "properties": {
+        "name": "Shahabuddin Medical College",
+        "wikidata": "Q22032306",
+        "type": "medical school",
+        "url": "http://www.wikidata.org/entity/Q22032306"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.477505,
+          23.800617
+        ]
+      },
+      "properties": {
+        "name": "Q22346561",
+        "wikidata": "Q22346561",
+        "type": "union council of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q22346561"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.2244998,
+          23.6153074
+        ]
+      },
+      "properties": {
+        "name": "Churain Union",
+        "wikidata": "Q22346917",
+        "type": "union council of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q22346917"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.1943812,
+          23.6216717
+        ]
+      },
+      "properties": {
+        "name": "Galimpur Union",
+        "wikidata": "Q22346918",
+        "type": "union council of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q22346918"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.0367696,
+          23.6763814
+        ]
+      },
+      "properties": {
+        "name": "Joykrishnapur Union",
+        "wikidata": "Q22346919",
+        "type": "union council of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q22346919"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.063382,
+          23.716191
+        ]
+      },
+      "properties": {
+        "name": "Shikaripara Union",
+        "wikidata": "Q22346921",
+        "type": "union council of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q22346921"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.1707,
+          23.709688
+        ]
+      },
+      "properties": {
+        "name": "Sholla Union",
+        "wikidata": "Q22346922",
+        "type": "union council of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q22346922"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.42,
+          23.7334
+        ]
+      },
+      "properties": {
+        "name": "T & T High School",
+        "wikidata": "Q23044808",
+        "type": "high school",
+        "url": "http://www.wikidata.org/entity/Q23044808"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.37173333,
+          23.76847222
+        ]
+      },
+      "properties": {
+        "name": "Shaheed Suhrawardy Medical College",
+        "wikidata": "Q25587094",
+        "type": "medical school",
+        "url": "http://www.wikidata.org/entity/Q25587094"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.4252,
+          23.7503
+        ]
+      },
+      "properties": {
+        "name": "National Ideal College",
+        "wikidata": "Q28449953",
+        "type": "college",
+        "url": "http://www.wikidata.org/entity/Q28449953"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.3875,
+          23.8039
+        ]
+      },
+      "properties": {
+        "name": "Central University of Science and Technology",
+        "wikidata": "Q29025771",
+        "type": "private university",
+        "url": "http://www.wikidata.org/entity/Q29025771"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.359512561,
+          23.836057277
+        ]
+      },
+      "properties": {
+        "name": "Defence Services Command and Staff College (Bangladesh)",
+        "wikidata": "Q30599800",
+        "type": "university",
+        "url": "http://www.wikidata.org/entity/Q30599800"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.359512561,
+          23.836057277
+        ]
+      },
+      "properties": {
+        "name": "Defence Services Command and Staff College (Bangladesh)",
+        "wikidata": "Q30599800",
+        "type": "staff college",
+        "url": "http://www.wikidata.org/entity/Q30599800"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.359512561,
+          23.836057277
+        ]
+      },
+      "properties": {
+        "name": "Defence Services Command and Staff College (Bangladesh)",
+        "wikidata": "Q30599800",
+        "type": "ministry-owned university",
+        "url": "http://www.wikidata.org/entity/Q30599800"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.403773,
+          23.733052
+        ]
+      },
+      "properties": {
+        "name": "Bangladesh Bar Council",
+        "wikidata": "Q39049236",
+        "type": "bar council",
+        "url": "http://www.wikidata.org/entity/Q39049236"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.34487,
+          23.79559
+        ]
+      },
+      "properties": {
+        "name": "Shahid Buddhijibi Koborsthan",
+        "wikidata": "Q61360742",
+        "type": "cemetery",
+        "url": "http://www.wikidata.org/entity/Q61360742"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.366463888,
+          23.811633333
+        ]
+      },
+      "properties": {
+        "name": "Shaheed Suhrawardi Indoor Stadium",
+        "wikidata": "Q64348048",
+        "type": "arena",
+        "url": "http://www.wikidata.org/entity/Q64348048"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.366463888,
+          23.811633333
+        ]
+      },
+      "properties": {
+        "name": "Shaheed Suhrawardi Indoor Stadium",
+        "wikidata": "Q64348048",
+        "type": "sports venue",
+        "url": "http://www.wikidata.org/entity/Q64348048"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.3741548,
+          23.7425133
+        ]
+      },
+      "properties": {
+        "name": "Chistia Palace",
+        "wikidata": "Q67572426",
+        "type": "building",
+        "url": "http://www.wikidata.org/entity/Q67572426"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.461997222,
+          23.716375
+        ]
+      },
+      "properties": {
+        "name": "Dr. Mahbubur Rahman Mollah College",
+        "wikidata": "Q94378651",
+        "type": "college",
+        "url": "http://www.wikidata.org/entity/Q94378651"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.4077759,
+          23.8007526
+        ]
+      },
+      "properties": {
+        "name": "Gulshan Society Mosque",
+        "wikidata": "Q94695875",
+        "type": "mosque",
+        "url": "http://www.wikidata.org/entity/Q94695875"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.42,
+          23.73
+        ]
+      },
+      "properties": {
+        "name": "Arambagh",
+        "wikidata": "Q97246725",
+        "type": "neighborhood",
+        "url": "http://www.wikidata.org/entity/Q97246725"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.42,
+          23.73
+        ]
+      },
+      "properties": {
+        "name": "Arambagh",
+        "wikidata": "Q97246725",
+        "type": "human settlement",
+        "url": "http://www.wikidata.org/entity/Q97246725"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.42,
+          23.73
+        ]
+      },
+      "properties": {
+        "name": "Arambagh",
+        "wikidata": "Q97246725",
+        "type": "mahallah",
+        "url": "http://www.wikidata.org/entity/Q97246725"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.415088,
+          23.79315
+        ]
+      },
+      "properties": {
+        "name": "Hilton Dhaka",
+        "wikidata": "Q104387090",
+        "type": "building",
+        "url": "http://www.wikidata.org/entity/Q104387090"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.382694444,
+          23.724972222
+        ]
+      },
+      "properties": {
+        "name": "Azimpur Dayera Sharif Khanqah",
+        "wikidata": "Q105753352",
+        "type": "historic site",
+        "url": "http://www.wikidata.org/entity/Q105753352"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.38681,
+          23.750518
+        ]
+      },
+      "properties": {
+        "name": "Hamdard Public College",
+        "wikidata": "Q109642291",
+        "type": "college",
+        "url": "http://www.wikidata.org/entity/Q109642291"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.431220429,
+          23.740301372
+        ]
+      },
+      "properties": {
+        "name": "Bir Muktijoddha Shahid Alauddin Park",
+        "wikidata": "Q115654692",
+        "type": "urban park",
+        "url": "http://www.wikidata.org/entity/Q115654692"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.431220429,
+          23.740301372
+        ]
+      },
+      "properties": {
+        "name": "Bir Muktijoddha Shahid Alauddin Park",
+        "wikidata": "Q115654692",
+        "type": "playground",
+        "url": "http://www.wikidata.org/entity/Q115654692"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.372762,
+          23.768696
+        ]
+      },
+      "properties": {
+        "name": "College of Nursing, Sher-e-Bangla Nagar, Dhaka",
+        "wikidata": "Q118982739",
+        "type": "college",
+        "url": "http://www.wikidata.org/entity/Q118982739"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.414696683,
+          23.797794001
+        ]
+      },
+      "properties": {
+        "name": "Justice Shahabuddin Ahmed Park",
+        "wikidata": "Q121027900",
+        "type": "park",
+        "url": "http://www.wikidata.org/entity/Q121027900"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.413888888,
+          23.725083333
+        ]
+      },
+      "properties": {
+        "name": "Bangladesh Kabaddi Stadium",
+        "wikidata": "Q122954981",
+        "type": "sports venue",
+        "url": "http://www.wikidata.org/entity/Q122954981"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.430555555,
+          23.740277777
+        ]
+      },
+      "properties": {
+        "name": "Basabo",
+        "wikidata": "Q125503635",
+        "type": "neighborhood",
+        "url": "http://www.wikidata.org/entity/Q125503635"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.414823,
+          23.790024
+        ]
+      },
+      "properties": {
+        "name": "Gulshan Central Mosque",
+        "wikidata": "Q132195660",
+        "type": "mosque",
+        "url": "http://www.wikidata.org/entity/Q132195660"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.383413888,
+          23.727022222
+        ]
+      },
+      "properties": {
+        "name": "Mayor Mohammad Hanif Jame Masjid",
+        "wikidata": "Q133456421",
+        "type": "mosque",
+        "url": "http://www.wikidata.org/entity/Q133456421"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.414696512,
+          23.725737882
+        ]
+      },
+      "properties": {
+        "name": "Shaheed Tajuddin Ahmad Indoor Stadium",
+        "wikidata": "Q134446396",
+        "type": "stadium",
+        "url": "http://www.wikidata.org/entity/Q134446396"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.414696512,
+          23.725737882
+        ]
+      },
+      "properties": {
+        "name": "Shaheed Tajuddin Ahmad Indoor Stadium",
+        "wikidata": "Q134446396",
+        "type": "arena",
+        "url": "http://www.wikidata.org/entity/Q134446396"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.3966,
+          23.7383
+        ]
+      },
+      "properties": {
+        "name": "July Memorial Monument, Shahbag",
+        "wikidata": "Q136523871",
+        "type": "monument",
+        "url": "http://www.wikidata.org/entity/Q136523871"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.158367,
+          23.663421
+        ]
+      },
+      "properties": {
+        "name": "Govt. Dohar-Nawabganj College",
+        "wikidata": "Q136840188",
+        "type": "college",
+        "url": "http://www.wikidata.org/entity/Q136840188"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.484961,
+          23.719691
+        ]
+      },
+      "properties": {
+        "name": "Demra Thana",
+        "wikidata": "Q5256412",
+        "type": "thana of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q5256412"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.325,
+          23.705
+        ]
+      },
+      "properties": {
+        "name": "Dhaka Kotwali Thana",
+        "wikidata": "Q5268741",
+        "type": "thana of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q5268741"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.3972,
+          23.7167
+        ]
+      },
+      "properties": {
+        "name": "Lalbagh Thana",
+        "wikidata": "Q5286603",
+        "type": "thana of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q5286603"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.3975,
+          23.77027778
+        ]
+      },
+      "properties": {
+        "name": "East Nakhalpara",
+        "wikidata": "Q5329023",
+        "type": "human settlement",
+        "url": "http://www.wikidata.org/entity/Q5329023"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.4253,
+          23.769
+        ]
+      },
+      "properties": {
+        "name": "East West University",
+        "wikidata": "Q5329668",
+        "type": "private university",
+        "url": "http://www.wikidata.org/entity/Q5329668"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.314596,
+          23.866606
+        ]
+      },
+      "properties": {
+        "name": "Eastern University",
+        "wikidata": "Q5330551",
+        "type": "private university",
+        "url": "http://www.wikidata.org/entity/Q5330551"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.3661,
+          23.7739
+        ]
+      },
+      "properties": {
+        "name": "European University of Bangladesh",
+        "wikidata": "Q5413410",
+        "type": "private university",
+        "url": "http://www.wikidata.org/entity/Q5413410"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.9,
+          22.86666667
+        ]
+      },
+      "properties": {
+        "name": "Farashganj",
+        "wikidata": "Q5434835",
+        "type": "neighborhood",
+        "url": "http://www.wikidata.org/entity/Q5434835"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.4212,
+          23.6995
+        ]
+      },
+      "properties": {
+        "name": "Gendaria",
+        "wikidata": "Q5530910",
+        "type": "thana of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q5530910"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.2447,
+          23.9284
+        ]
+      },
+      "properties": {
+        "name": "Gono Bishwabidyalay",
+        "wikidata": "Q5582039",
+        "type": "private university",
+        "url": "http://www.wikidata.org/entity/Q5582039"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.37,
+          23.73
+        ]
+      },
+      "properties": {
+        "name": "Hazaribagh Thana",
+        "wikidata": "Q5639831",
+        "type": "thana of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q5639831"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.37,
+          23.735
+        ]
+      },
+      "properties": {
+        "name": "Hazaribagh Thana",
+        "wikidata": "Q5639831",
+        "type": "thana of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q5639831"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.610208,
+          23.615199
+        ]
+      },
+      "properties": {
+        "name": "Hamdard University Bangladesh",
+        "wikidata": "Q5644388",
+        "type": "private university",
+        "url": "http://www.wikidata.org/entity/Q5644388"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.37258,
+          23.75442
+        ]
+      },
+      "properties": {
+        "name": "IBAIS University",
+        "wikidata": "Q5968497",
+        "type": "private university",
+        "url": "http://www.wikidata.org/entity/Q5968497"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.3706,
+          23.7533
+        ]
+      },
+      "properties": {
+        "name": "Institute of Science and Technology, Bangladesh",
+        "wikidata": "Q6040848",
+        "type": "educational institution",
+        "url": "http://www.wikidata.org/entity/Q6040848"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.42416667,
+          23.81333333
+        ]
+      },
+      "properties": {
+        "name": "Jamuna Future Park",
+        "wikidata": "Q6148303",
+        "type": "shopping center",
+        "url": "http://www.wikidata.org/entity/Q6148303"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.4349,
+          23.7106
+        ]
+      },
+      "properties": {
+        "name": "Jatrabari Thana",
+        "wikidata": "Q6164667",
+        "type": "thana of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q6164667"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.38611,
+          23.79306
+        ]
+      },
+      "properties": {
+        "name": "Kafrul Thana",
+        "wikidata": "Q6346241",
+        "type": "thana of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q6346241"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.3867,
+          23.7933
+        ]
+      },
+      "properties": {
+        "name": "Kafrul Thana",
+        "wikidata": "Q6346241",
+        "type": "thana of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q6346241"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.3733,
+          23.715
+        ]
+      },
+      "properties": {
+        "name": "Kamrangirchar Thana",
+        "wikidata": "Q6359633",
+        "type": "thana of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q6359633"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.3925,
+          23.75388889
+        ]
+      },
+      "properties": {
+        "name": "Kawran Bazar",
+        "wikidata": "Q6380065",
+        "type": "Unknown",
+        "url": "http://www.wikidata.org/entity/Q6380065"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.4267,
+          23.75
+        ]
+      },
+      "properties": {
+        "name": "Khilgaon Thana",
+        "wikidata": "Q6401623",
+        "type": "thana of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q6401623"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.58333333,
+          23.65
+        ]
+      },
+      "properties": {
+        "name": "Maghbazar",
+        "wikidata": "Q6730394",
+        "type": "human settlement",
+        "url": "http://www.wikidata.org/entity/Q6730394"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.4209,
+          23.791
+        ]
+      },
+      "properties": {
+        "name": "Manarat International University",
+        "wikidata": "Q6746956",
+        "type": "private university",
+        "url": "http://www.wikidata.org/entity/Q6746956"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.357888888,
+          23.837869444
+        ]
+      },
+      "properties": {
+        "name": "Military Institute of Science and Technology",
+        "wikidata": "Q6852059",
+        "type": "university",
+        "url": "http://www.wikidata.org/entity/Q6852059"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.4185,
+          23.7421
+        ]
+      },
+      "properties": {
+        "name": "Millennium University",
+        "wikidata": "Q6858965",
+        "type": "private university",
+        "url": "http://www.wikidata.org/entity/Q6858965"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.4181,
+          23.7333
+        ]
+      },
+      "properties": {
+        "name": "Motijheel Thana",
+        "wikidata": "Q6917700",
+        "type": "thana of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q6917700"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.415,
+          23.736666666
+        ]
+      },
+      "properties": {
+        "name": "Paltan Thana",
+        "wikidata": "Q7128762",
+        "type": "thana of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q7128762"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.3855,
+          23.7519
+        ]
+      },
+      "properties": {
+        "name": "Pantapath",
+        "wikidata": "Q7131659",
+        "type": "Unknown",
+        "url": "http://www.wikidata.org/entity/Q7131659"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.375,
+          23.7325
+        ]
+      },
+      "properties": {
+        "name": "Pilkhana, Bangladesh",
+        "wikidata": "Q7194075",
+        "type": "geographical feature",
+        "url": "http://www.wikidata.org/entity/Q7194075"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.4083,
+          23.7417
+        ]
+      },
+      "properties": {
+        "name": "Ramna Thana",
+        "wikidata": "Q7215487",
+        "type": "thana of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q7215487"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.49716667,
+          23.84619444
+        ]
+      },
+      "properties": {
+        "name": "Purbachal New Town",
+        "wikidata": "Q7260863",
+        "type": "Unknown",
+        "url": "http://www.wikidata.org/entity/Q7260863"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.35895556,
+          23.75773611
+        ]
+      },
+      "properties": {
+        "name": "Saat Masjid",
+        "wikidata": "Q7395716",
+        "type": "mosque",
+        "url": "http://www.wikidata.org/entity/Q7395716"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.358956,
+          23.757736
+        ]
+      },
+      "properties": {
+        "name": "Saat Masjid",
+        "wikidata": "Q7395716",
+        "type": "mosque",
+        "url": "http://www.wikidata.org/entity/Q7395716"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.35895556,
+          23.75773611
+        ]
+      },
+      "properties": {
+        "name": "Saat Masjid",
+        "wikidata": "Q7395716",
+        "type": "archaeological sites in Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q7395716"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.358956,
+          23.757736
+        ]
+      },
+      "properties": {
+        "name": "Saat Masjid",
+        "wikidata": "Q7395716",
+        "type": "archaeological sites in Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q7395716"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.4333,
+          23.7333
+        ]
+      },
+      "properties": {
+        "name": "Sabujbagh Thana",
+        "wikidata": "Q7396478",
+        "type": "thana of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q7396478"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.40038,
+          23.72931
+        ]
+      },
+      "properties": {
+        "name": "Shahbaz Khan Mosque",
+        "wikidata": "Q7461483",
+        "type": "mosque",
+        "url": "http://www.wikidata.org/entity/Q7461483"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.39361111,
+          23.77083333
+        ]
+      },
+      "properties": {
+        "name": "Shaheenbag",
+        "wikidata": "Q7461587",
+        "type": "human settlement",
+        "url": "http://www.wikidata.org/entity/Q7461587"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.435,
+          23.69
+        ]
+      },
+      "properties": {
+        "name": "Shyampur Thana",
+        "wikidata": "Q7491687",
+        "type": "thana of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q7491687"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.385,
+          23.738333333
+        ]
+      },
+      "properties": {
+        "name": "Sher-e-Bangla Nagar",
+        "wikidata": "Q7494590",
+        "type": "thana of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q7494590"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.42,
+          23.7
+        ]
+      },
+      "properties": {
+        "name": "Sutrapur Thana",
+        "wikidata": "Q7650120",
+        "type": "thana of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q7650120"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.405,
+          23.8667
+        ]
+      },
+      "properties": {
+        "name": "Uttara Model Town",
+        "wikidata": "Q7903381",
+        "type": "human settlement",
+        "url": "http://www.wikidata.org/entity/Q7903381"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.418861,
+          23.714989
+        ]
+      },
+      "properties": {
+        "name": "Wari Thana",
+        "wikidata": "Q7969416",
+        "type": "Unknown",
+        "url": "http://www.wikidata.org/entity/Q7969416"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.39472222,
+          23.76861111
+        ]
+      },
+      "properties": {
+        "name": "West Nakhalpara",
+        "wikidata": "Q7986047",
+        "type": "human settlement",
+        "url": "http://www.wikidata.org/entity/Q7986047"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.4204,
+          23.7389
+        ]
+      },
+      "properties": {
+        "name": "Motijheel Government Boys' High School",
+        "wikidata": "Q11030397",
+        "type": "high school",
+        "url": "http://www.wikidata.org/entity/Q11030397"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.410515,
+          23.714119
+        ]
+      },
+      "properties": {
+        "name": "Bangsal",
+        "wikidata": "Q14205280",
+        "type": "thana of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q14205280"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.40361111,
+          23.73694444
+        ]
+      },
+      "properties": {
+        "name": "Kakrail",
+        "wikidata": "Q16345195",
+        "type": "neighborhood",
+        "url": "http://www.wikidata.org/entity/Q16345195"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.44427,
+          23.738679
+        ]
+      },
+      "properties": {
+        "name": "Sree Sree Baraderswari Kalimata Temple",
+        "wikidata": "Q16345896",
+        "type": "Hindu temple",
+        "url": "http://www.wikidata.org/entity/Q16345896"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.359279,
+          23.770657
+        ]
+      },
+      "properties": {
+        "name": "Adabor Thana",
+        "wikidata": "Q18109368",
+        "type": "thana of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q18109368"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.457721,
+          23.69726
+        ]
+      },
+      "properties": {
+        "name": "Kadamtali Thana",
+        "wikidata": "Q18126443",
+        "type": "thana of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q18126443"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.3869,
+          23.7331
+        ]
+      },
+      "properties": {
+        "name": "New Market Thana",
+        "wikidata": "Q18128687",
+        "type": "thana of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q18128687"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.451666666,
+          23.728333333
+        ]
+      },
+      "properties": {
+        "name": "Green Model Town, Dhaka, Bangladesh",
+        "wikidata": "Q18346086",
+        "type": "human settlement",
+        "url": "http://www.wikidata.org/entity/Q18346086"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.4044,
+          23.7355
+        ]
+      },
+      "properties": {
+        "name": "International Mother Language Institute",
+        "wikidata": "Q18351857",
+        "type": "institute",
+        "url": "http://www.wikidata.org/entity/Q18351857"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.432662,
+          23.870929
+        ]
+      },
+      "properties": {
+        "name": "Uttar Khan Thana",
+        "wikidata": "Q18357617",
+        "type": "thana of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q18357617"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.386335,
+          23.730997
+        ]
+      },
+      "properties": {
+        "name": "College of Home Economics, Azimpur, Dhaka",
+        "wikidata": "Q19358781",
+        "type": "college",
+        "url": "http://www.wikidata.org/entity/Q19358781"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.4083,
+          23.7611
+        ]
+      },
+      "properties": {
+        "name": "Tejgaon Industrial Area Thana",
+        "wikidata": "Q19787103",
+        "type": "industrial zone",
+        "url": "http://www.wikidata.org/entity/Q19787103"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.4083,
+          23.7611
+        ]
+      },
+      "properties": {
+        "name": "Tejgaon Industrial Area Thana",
+        "wikidata": "Q19787103",
+        "type": "thana of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q19787103"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.385,
+          23.86833333
+        ]
+      },
+      "properties": {
+        "name": "Azampur",
+        "wikidata": "Q23043450",
+        "type": "neighborhood",
+        "url": "http://www.wikidata.org/entity/Q23043450"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.382944444,
+          23.748638888
+        ]
+      },
+      "properties": {
+        "name": "Kalabagan",
+        "wikidata": "Q23930540",
+        "type": "thana of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q23930540"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.16,
+          23.66
+        ]
+      },
+      "properties": {
+        "name": "Dhaka-1",
+        "wikidata": "Q24692983",
+        "type": "constituency of the Jatiya Sangsad",
+        "url": "http://www.wikidata.org/entity/Q24692983"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.34,
+          23.7
+        ]
+      },
+      "properties": {
+        "name": "Dhaka-2",
+        "wikidata": "Q24692986",
+        "type": "constituency of the Jatiya Sangsad",
+        "url": "http://www.wikidata.org/entity/Q24692986"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.34,
+          23.7
+        ]
+      },
+      "properties": {
+        "name": "Dhaka-3",
+        "wikidata": "Q24692988",
+        "type": "constituency of the Jatiya Sangsad",
+        "url": "http://www.wikidata.org/entity/Q24692988"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.43,
+          23.69
+        ]
+      },
+      "properties": {
+        "name": "Dhaka-Bangladesh",
+        "wikidata": "Q24692991",
+        "type": "constituency of the Jatiya Sangsad",
+        "url": "http://www.wikidata.org/entity/Q24692991"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.44,
+          23.71
+        ]
+      },
+      "properties": {
+        "name": "Dhaka-5",
+        "wikidata": "Q24692994",
+        "type": "constituency of the Jatiya Sangsad",
+        "url": "http://www.wikidata.org/entity/Q24692994"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.42,
+          23.71
+        ]
+      },
+      "properties": {
+        "name": "Dhaka-6",
+        "wikidata": "Q24692997",
+        "type": "constituency of the Jatiya Sangsad",
+        "url": "http://www.wikidata.org/entity/Q24692997"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.39,
+          23.72
+        ]
+      },
+      "properties": {
+        "name": "Dhaka-7",
+        "wikidata": "Q24693000",
+        "type": "constituency of the Jatiya Sangsad",
+        "url": "http://www.wikidata.org/entity/Q24693000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.41,
+          23.73
+        ]
+      },
+      "properties": {
+        "name": "Dhaka-8",
+        "wikidata": "Q24693003",
+        "type": "constituency of the Jatiya Sangsad",
+        "url": "http://www.wikidata.org/entity/Q24693003"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.44,
+          23.74
+        ]
+      },
+      "properties": {
+        "name": "Dhaka-9",
+        "wikidata": "Q24693006",
+        "type": "constituency of the Jatiya Sangsad",
+        "url": "http://www.wikidata.org/entity/Q24693006"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.38,
+          23.74
+        ]
+      },
+      "properties": {
+        "name": "Dhaka-10",
+        "wikidata": "Q24693008",
+        "type": "constituency of the Jatiya Sangsad",
+        "url": "http://www.wikidata.org/entity/Q24693008"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.43,
+          23.77
+        ]
+      },
+      "properties": {
+        "name": "Dhaka-11",
+        "wikidata": "Q24693011",
+        "type": "constituency of the Jatiya Sangsad",
+        "url": "http://www.wikidata.org/entity/Q24693011"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.42,
+          23.71
+        ]
+      },
+      "properties": {
+        "name": "Dhaka-12",
+        "wikidata": "Q24693014",
+        "type": "constituency of the Jatiya Sangsad",
+        "url": "http://www.wikidata.org/entity/Q24693014"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.39,
+          23.79
+        ]
+      },
+      "properties": {
+        "name": "Dhaka-15",
+        "wikidata": "Q24693022",
+        "type": "constituency of the Jatiya Sangsad",
+        "url": "http://www.wikidata.org/entity/Q24693022"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.36,
+          23.83
+        ]
+      },
+      "properties": {
+        "name": "Dhaka-16",
+        "wikidata": "Q24693024",
+        "type": "constituency of the Jatiya Sangsad",
+        "url": "http://www.wikidata.org/entity/Q24693024"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.41,
+          23.8
+        ]
+      },
+      "properties": {
+        "name": "Dhaka-17",
+        "wikidata": "Q24693027",
+        "type": "constituency of the Jatiya Sangsad",
+        "url": "http://www.wikidata.org/entity/Q24693027"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.43,
+          23.86
+        ]
+      },
+      "properties": {
+        "name": "Dhaka-18",
+        "wikidata": "Q24693029",
+        "type": "constituency of the Jatiya Sangsad",
+        "url": "http://www.wikidata.org/entity/Q24693029"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.26,
+          23.83
+        ]
+      },
+      "properties": {
+        "name": "Dhaka-19",
+        "wikidata": "Q24693033",
+        "type": "constituency of the Jatiya Sangsad",
+        "url": "http://www.wikidata.org/entity/Q24693033"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.21,
+          23.92
+        ]
+      },
+      "properties": {
+        "name": "Dhaka-20",
+        "wikidata": "Q24693036",
+        "type": "constituency of the Jatiya Sangsad",
+        "url": "http://www.wikidata.org/entity/Q24693036"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.45,
+          23.88333333
+        ]
+      },
+      "properties": {
+        "name": "Dakshinkhan Thana",
+        "wikidata": "Q24906768",
+        "type": "thana of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q24906768"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.444,
+          23.821
+        ]
+      },
+      "properties": {
+        "name": "Bashundhara Residential Area",
+        "wikidata": "Q28225354",
+        "type": "human settlement",
+        "url": "http://www.wikidata.org/entity/Q28225354"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.40174,
+          23.791274
+        ]
+      },
+      "properties": {
+        "name": "Fareast International University",
+        "wikidata": "Q28225457",
+        "type": "private university",
+        "url": "http://www.wikidata.org/entity/Q28225457"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.41972222,
+          23.82805556
+        ]
+      },
+      "properties": {
+        "name": "Khilkhet Thana",
+        "wikidata": "Q30626546",
+        "type": "thana of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q30626546"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.433333333,
+          23.8
+        ]
+      },
+      "properties": {
+        "name": "Vatara Thana",
+        "wikidata": "Q38249272",
+        "type": "human-geographic territorial entity",
+        "url": "http://www.wikidata.org/entity/Q38249272"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.4556,
+          23.6565
+        ]
+      },
+      "properties": {
+        "name": "Port of Pangaon",
+        "wikidata": "Q39056119",
+        "type": "inland port",
+        "url": "http://www.wikidata.org/entity/Q39056119"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.4106,
+          23.8155
+        ]
+      },
+      "properties": {
+        "name": "Dhaka Cantonment railway station",
+        "wikidata": "Q43401161",
+        "type": "railway station",
+        "url": "http://www.wikidata.org/entity/Q43401161"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.4106,
+          23.8155
+        ]
+      },
+      "properties": {
+        "name": "Dhaka Cantonment railway station",
+        "wikidata": "Q43401161",
+        "type": "station located on surface",
+        "url": "http://www.wikidata.org/entity/Q43401161"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.4207,
+          23.76124
+        ]
+      },
+      "properties": {
+        "name": "Rampura",
+        "wikidata": "Q47460043",
+        "type": "thana of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q47460043"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.3947722,
+          23.7601822
+        ]
+      },
+      "properties": {
+        "name": "Tejgaon railway station",
+        "wikidata": "Q60454803",
+        "type": "railway station",
+        "url": "http://www.wikidata.org/entity/Q60454803"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.4289932,
+          23.7014875
+        ]
+      },
+      "properties": {
+        "name": "Gandaria railway station",
+        "wikidata": "Q60473897",
+        "type": "railway station",
+        "url": "http://www.wikidata.org/entity/Q60473897"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.4008474,
+          23.7956504
+        ]
+      },
+      "properties": {
+        "name": "Banani railway station",
+        "wikidata": "Q60473899",
+        "type": "railway station",
+        "url": "http://www.wikidata.org/entity/Q60473899"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.343,
+          23.7922
+        ]
+      },
+      "properties": {
+        "name": "Darus Salam Thana",
+        "wikidata": "Q60771890",
+        "type": "thana of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q60771890"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.4109,
+          23.8509
+        ]
+      },
+      "properties": {
+        "name": "Bimanbandar Thana",
+        "wikidata": "Q62332456",
+        "type": "thana of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q62332456"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.3489,
+          23.8055
+        ]
+      },
+      "properties": {
+        "name": "Shah Ali Thana",
+        "wikidata": "Q64781432",
+        "type": "thana of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q64781432"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.3550599,
+          23.8745078
+        ]
+      },
+      "properties": {
+        "name": "Turag Thana",
+        "wikidata": "Q64781478",
+        "type": "thana of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q64781478"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.4157937,
+          23.7730542
+        ]
+      },
+      "properties": {
+        "name": "Police Plaza Concord",
+        "wikidata": "Q81207103",
+        "type": "shopping center",
+        "url": "http://www.wikidata.org/entity/Q81207103"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.3589591,
+          23.7576502
+        ]
+      },
+      "properties": {
+        "name": "Sat Gambuj Mosque Tomb",
+        "wikidata": "Q82869059",
+        "type": "tomb",
+        "url": "http://www.wikidata.org/entity/Q82869059"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.3589591,
+          23.7576502
+        ]
+      },
+      "properties": {
+        "name": "Sat Gambuj Mosque Tomb",
+        "wikidata": "Q82869059",
+        "type": "archaeological sites in Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q82869059"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.28,
+          23.88
+        ]
+      },
+      "properties": {
+        "name": "Savar Upazila",
+        "wikidata": "Q1027100",
+        "type": "upazila of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q1027100"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.44714,
+          23.793777
+        ]
+      },
+      "properties": {
+        "name": "Dhaka International University",
+        "wikidata": "Q1707102",
+        "type": "private university",
+        "url": "http://www.wikidata.org/entity/Q1707102"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.3921,
+          23.7487
+        ]
+      },
+      "properties": {
+        "name": "Dhaka District",
+        "wikidata": "Q1850485",
+        "type": "district of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q1850485"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.1222,
+          23.5958
+        ]
+      },
+      "properties": {
+        "name": "Dohar Upazila",
+        "wikidata": "Q2606634",
+        "type": "upazila of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q2606634"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.385252,
+          23.720577
+        ]
+      },
+      "properties": {
+        "name": "Khan Mohammad Mridha Mosque",
+        "wikidata": "Q2667438",
+        "type": "mosque",
+        "url": "http://www.wikidata.org/entity/Q2667438"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.385252,
+          23.720577
+        ]
+      },
+      "properties": {
+        "name": "Khan Mohammad Mridha Mosque",
+        "wikidata": "Q2667438",
+        "type": "archaeological sites in Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q2667438"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.427444444,
+          23.822055555
+        ]
+      },
+      "properties": {
+        "name": "American International University-Bangladesh",
+        "wikidata": "Q3194784",
+        "type": "private university",
+        "url": "http://www.wikidata.org/entity/Q3194784"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.15,
+          23.94
+        ]
+      },
+      "properties": {
+        "name": "Dhamrai Upazila",
+        "wikidata": "Q3345155",
+        "type": "upazila of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q3345155"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.216666666,
+          23.908333333
+        ]
+      },
+      "properties": {
+        "name": "Dhamrai Upazila",
+        "wikidata": "Q3345155",
+        "type": "upazila of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q3345155"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.333333333,
+          23.683333333
+        ]
+      },
+      "properties": {
+        "name": "Keraniganj Upazila",
+        "wikidata": "Q3345695",
+        "type": "upazila of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q3345695"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.380583333,
+          23.875083333
+        ]
+      },
+      "properties": {
+        "name": "Uttara",
+        "wikidata": "Q3346612",
+        "type": "suburb",
+        "url": "http://www.wikidata.org/entity/Q3346612"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.566311111,
+          23.829502777
+        ]
+      },
+      "properties": {
+        "name": "Green University of Bangladesh",
+        "wikidata": "Q3347307",
+        "type": "private university",
+        "url": "http://www.wikidata.org/entity/Q3347307"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.3625,
+          23.7542
+        ]
+      },
+      "properties": {
+        "name": "Mohammadpur Thana",
+        "wikidata": "Q3347514",
+        "type": "thana of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q3347514"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.385,
+          23.738333333
+        ]
+      },
+      "properties": {
+        "name": "Dhanmondi Thana",
+        "wikidata": "Q3347571",
+        "type": "suburb",
+        "url": "http://www.wikidata.org/entity/Q3347571"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.385,
+          23.738333333
+        ]
+      },
+      "properties": {
+        "name": "Dhanmondi Thana",
+        "wikidata": "Q3347571",
+        "type": "thana of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q3347571"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.1667,
+          23.6667
+        ]
+      },
+      "properties": {
+        "name": "Nawabganj Upazila",
+        "wikidata": "Q3347736",
+        "type": "upazila of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q3347736"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.4167,
+          23.7917
+        ]
+      },
+      "properties": {
+        "name": "Gulshan Thana",
+        "wikidata": "Q3347768",
+        "type": "thana of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q3347768"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.39583333,
+          23.73833333
+        ]
+      },
+      "properties": {
+        "name": "Shahbag",
+        "wikidata": "Q3348278",
+        "type": "thana of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q3348278"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.37,
+          23.825
+        ]
+      },
+      "properties": {
+        "name": "Pallabi Thana",
+        "wikidata": "Q3349084",
+        "type": "thana of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q3349084"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.3917,
+          23.7583
+        ]
+      },
+      "properties": {
+        "name": "Tejgaon Thana",
+        "wikidata": "Q3351196",
+        "type": "thana of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q3351196"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.3667,
+          23.8042
+        ]
+      },
+      "properties": {
+        "name": "Mirpur Thana",
+        "wikidata": "Q3351227",
+        "type": "thana of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q3351227"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.1425,
+          23.593055555
+        ]
+      },
+      "properties": {
+        "name": "Dohar",
+        "wikidata": "Q4167336",
+        "type": "human settlement",
+        "url": "http://www.wikidata.org/entity/Q4167336"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.216666666,
+          23.916666666
+        ]
+      },
+      "properties": {
+        "name": "Dhamrai",
+        "wikidata": "Q4171479",
+        "type": "human settlement",
+        "url": "http://www.wikidata.org/entity/Q4171479"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.316666666,
+          23.683333333
+        ]
+      },
+      "properties": {
+        "name": "Keraniganj",
+        "wikidata": "Q4219500",
+        "type": "human settlement",
+        "url": "http://www.wikidata.org/entity/Q4219500"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.166666666,
+          23.666666666
+        ]
+      },
+      "properties": {
+        "name": "Nawabganj",
+        "wikidata": "Q4311290",
+        "type": "human settlement",
+        "url": "http://www.wikidata.org/entity/Q4311290"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.3663,
+          23.7738
+        ]
+      },
+      "properties": {
+        "name": "ASA University Bangladesh",
+        "wikidata": "Q4654070",
+        "type": "private university",
+        "url": "http://www.wikidata.org/entity/Q4654070"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.373658,
+          23.779195
+        ]
+      },
+      "properties": {
+        "name": "Agargaon",
+        "wikidata": "Q4691326",
+        "type": "human settlement",
+        "url": "http://www.wikidata.org/entity/Q4691326"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.40694444,
+          23.76361111
+        ]
+      },
+      "properties": {
+        "name": "Ahsanullah University of Science and Technology",
+        "wikidata": "Q4696357",
+        "type": "private university",
+        "url": "http://www.wikidata.org/entity/Q4696357"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.40838,
+          23.85171
+        ]
+      },
+      "properties": {
+        "name": "Airport railway station",
+        "wikidata": "Q4698879",
+        "type": "railway station",
+        "url": "http://www.wikidata.org/entity/Q4698879"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.40838,
+          23.85171
+        ]
+      },
+      "properties": {
+        "name": "Airport railway station",
+        "wikidata": "Q4698879",
+        "type": "airport railway station",
+        "url": "http://www.wikidata.org/entity/Q4698879"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.3996,
+          23.8692
+        ]
+      },
+      "properties": {
+        "name": "Asian University of Bangladesh",
+        "wikidata": "Q4806767",
+        "type": "private university",
+        "url": "http://www.wikidata.org/entity/Q4806767"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.377283,
+          23.867019
+        ]
+      },
+      "properties": {
+        "name": "Atish Dipankar University of Science and Technology",
+        "wikidata": "Q4815854",
+        "type": "private university",
+        "url": "http://www.wikidata.org/entity/Q4815854"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.385,
+          23.73
+        ]
+      },
+      "properties": {
+        "name": "Azimpur",
+        "wikidata": "Q4832613",
+        "type": "geographic location",
+        "url": "http://www.wikidata.org/entity/Q4832613"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.3854,
+          23.7298
+        ]
+      },
+      "properties": {
+        "name": "Azimpur",
+        "wikidata": "Q4832613",
+        "type": "geographic location",
+        "url": "http://www.wikidata.org/entity/Q4832613"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.385,
+          23.73
+        ]
+      },
+      "properties": {
+        "name": "Azimpur",
+        "wikidata": "Q4832613",
+        "type": "city district",
+        "url": "http://www.wikidata.org/entity/Q4832613"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.3854,
+          23.7298
+        ]
+      },
+      "properties": {
+        "name": "Azimpur",
+        "wikidata": "Q4832613",
+        "type": "city district",
+        "url": "http://www.wikidata.org/entity/Q4832613"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.424636,
+          23.773154
+        ]
+      },
+      "properties": {
+        "name": "BRAC University",
+        "wikidata": "Q4836325",
+        "type": "private university",
+        "url": "http://www.wikidata.org/entity/Q4836325"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.425,
+          23.7867
+        ]
+      },
+      "properties": {
+        "name": "Badda Thana",
+        "wikidata": "Q4840673",
+        "type": "thana of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q4840673"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.4287,
+          23.7212
+        ]
+      },
+      "properties": {
+        "name": "Bangladesh Islami University",
+        "wikidata": "Q4855322",
+        "type": "private university",
+        "url": "http://www.wikidata.org/entity/Q4855322"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.3674,
+          23.7629
+        ]
+      },
+      "properties": {
+        "name": "Bangladesh University",
+        "wikidata": "Q4855389",
+        "type": "private university",
+        "url": "http://www.wikidata.org/entity/Q4855389"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.3522,
+          23.8065
+        ]
+      },
+      "properties": {
+        "name": "Bangladesh University of Business and Technology",
+        "wikidata": "Q4855390",
+        "type": "private university",
+        "url": "http://www.wikidata.org/entity/Q4855390"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.4083,
+          23.8222
+        ]
+      },
+      "properties": {
+        "name": "Cantonment Thana",
+        "wikidata": "Q5034015",
+        "type": "thana of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q5034015"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.424154,
+          23.720123
+        ]
+      },
+      "properties": {
+        "name": "Central Women's University",
+        "wikidata": "Q5062041",
+        "type": "private university",
+        "url": "http://www.wikidata.org/entity/Q5062041"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.121388888,
+          23.669444444
+        ]
+      },
+      "properties": {
+        "name": "Chotogolla",
+        "wikidata": "Q5105402",
+        "type": "human settlement",
+        "url": "http://www.wikidata.org/entity/Q5105402"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.396322,
+          23.717036
+        ]
+      },
+      "properties": {
+        "name": "Chowkbazar Thana",
+        "wikidata": "Q5105564",
+        "type": "thana of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q5105564"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.30951,
+          23.8728
+        ]
+      },
+      "properties": {
+        "name": "City University, Bangladesh",
+        "wikidata": "Q5123476",
+        "type": "private university",
+        "url": "http://www.wikidata.org/entity/Q5123476"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.40189,
+          23.7274
+        ]
+      },
+      "properties": {
+        "name": "Curzon Hall",
+        "wikidata": "Q5196138",
+        "type": "building",
+        "url": "http://www.wikidata.org/entity/Q5196138"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.321388888,
+          23.878611111
+        ]
+      },
+      "properties": {
+        "name": "Daffodil International University",
+        "wikidata": "Q5208319",
+        "type": "private university",
+        "url": "http://www.wikidata.org/entity/Q5208319"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.3819,
+          23.7393
+        ]
+      },
+      "properties": {
+        "name": "Darul Ihsan University",
+        "wikidata": "Q5225774",
+        "type": "private university",
+        "url": "http://www.wikidata.org/entity/Q5225774"
+      }
+    }
+  ]
+}

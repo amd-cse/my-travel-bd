@@ -1,0 +1,1349 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.66,
+          25.75
+        ]
+      },
+      "properties": {
+        "name": "Kurigram District",
+        "wikidata": "Q2348751",
+        "type": "district of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q2348751"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.55,
+          25.8
+        ]
+      },
+      "properties": {
+        "name": "Rajarhat Upazila",
+        "wikidata": "Q3347458",
+        "type": "upazila of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q3347458"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.56,
+          25.78
+        ]
+      },
+      "properties": {
+        "name": "Rajarhat Upazila",
+        "wikidata": "Q3347458",
+        "type": "upazila of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q3347458"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.85,
+          25.5625
+        ]
+      },
+      "properties": {
+        "name": "Rowmari Upazila",
+        "wikidata": "Q3348378",
+        "type": "upazila of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q3348378"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.6833,
+          26.125
+        ]
+      },
+      "properties": {
+        "name": "Bhurungamari Upazila",
+        "wikidata": "Q3348389",
+        "type": "upazila of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q3348389"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.6917,
+          25.5667
+        ]
+      },
+      "properties": {
+        "name": "Chilmari Upazila",
+        "wikidata": "Q3348451",
+        "type": "upazila of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q3348451"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.6333,
+          25.6639
+        ]
+      },
+      "properties": {
+        "name": "Ulipur Upazila",
+        "wikidata": "Q3348513",
+        "type": "upazila of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q3348513"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.68,
+          25.69
+        ]
+      },
+      "properties": {
+        "name": "Ulipur Upazila",
+        "wikidata": "Q3348513",
+        "type": "upazila of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q3348513"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.74,
+          25.96
+        ]
+      },
+      "properties": {
+        "name": "Nageshwari Upazila",
+        "wikidata": "Q3348551",
+        "type": "upazila of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q3348551"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.7083,
+          25.9792
+        ]
+      },
+      "properties": {
+        "name": "Nageshwari Upazila",
+        "wikidata": "Q3348551",
+        "type": "upazila of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q3348551"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.65,
+          25.8167
+        ]
+      },
+      "properties": {
+        "name": "Kurigram Sadar Upazila",
+        "wikidata": "Q3349000",
+        "type": "upazila of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q3349000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.7,
+          25.82
+        ]
+      },
+      "properties": {
+        "name": "Kurigram Sadar Upazila",
+        "wikidata": "Q3349000",
+        "type": "upazila of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q3349000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.6917,
+          25.4
+        ]
+      },
+      "properties": {
+        "name": "Char Rajibpur Upazila",
+        "wikidata": "Q3349162",
+        "type": "upazila of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q3349162"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.566666666,
+          25.95
+        ]
+      },
+      "properties": {
+        "name": "Phulbari Upazila",
+        "wikidata": "Q3349924",
+        "type": "upazila of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q3349924"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.666666666,
+          26.116666666
+        ]
+      },
+      "properties": {
+        "name": "Bhurungamari",
+        "wikidata": "Q4100825",
+        "type": "human settlement",
+        "url": "http://www.wikidata.org/entity/Q4100825"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.643055555,
+          25.812777777
+        ]
+      },
+      "properties": {
+        "name": "Kurigram",
+        "wikidata": "Q4248310",
+        "type": "city",
+        "url": "http://www.wikidata.org/entity/Q4248310"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.69153,
+          25.96817
+        ]
+      },
+      "properties": {
+        "name": "Nageswari",
+        "wikidata": "Q4311542",
+        "type": "human settlement",
+        "url": "http://www.wikidata.org/entity/Q4311542"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.7,
+          25.983333333
+        ]
+      },
+      "properties": {
+        "name": "Nageswari",
+        "wikidata": "Q4311542",
+        "type": "human settlement",
+        "url": "http://www.wikidata.org/entity/Q4311542"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.833333333,
+          25.558333333
+        ]
+      },
+      "properties": {
+        "name": "Rowmari",
+        "wikidata": "Q4390925",
+        "type": "human settlement",
+        "url": "http://www.wikidata.org/entity/Q4390925"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.616666666,
+          25.65
+        ]
+      },
+      "properties": {
+        "name": "Ulipur",
+        "wikidata": "Q4470971",
+        "type": "human settlement",
+        "url": "http://www.wikidata.org/entity/Q4470971"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.766666666,
+          25.383333333
+        ]
+      },
+      "properties": {
+        "name": "Char Bajibpur",
+        "wikidata": "Q4507323",
+        "type": "human settlement",
+        "url": "http://www.wikidata.org/entity/Q4507323"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.670833333,
+          25.556111111
+        ]
+      },
+      "properties": {
+        "name": "Chilmari",
+        "wikidata": "Q4515965",
+        "type": "human settlement",
+        "url": "http://www.wikidata.org/entity/Q4515965"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.683333333,
+          25.566666666
+        ]
+      },
+      "properties": {
+        "name": "Chilmari",
+        "wikidata": "Q4515965",
+        "type": "human settlement",
+        "url": "http://www.wikidata.org/entity/Q4515965"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.6412,
+          25.8042
+        ]
+      },
+      "properties": {
+        "name": "Kurigram Government College",
+        "wikidata": "Q6446007",
+        "type": "academic institution",
+        "url": "http://www.wikidata.org/entity/Q6446007"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.6195,
+          25.6612
+        ]
+      },
+      "properties": {
+        "name": "Ulipur M.S. High School & College",
+        "wikidata": "Q13057275",
+        "type": "school",
+        "url": "http://www.wikidata.org/entity/Q13057275"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.6195,
+          25.6612
+        ]
+      },
+      "properties": {
+        "name": "Ulipur M.S. High School & College",
+        "wikidata": "Q13057275",
+        "type": "high school",
+        "url": "http://www.wikidata.org/entity/Q13057275"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.55,
+          25.8
+        ]
+      },
+      "properties": {
+        "name": "Q13151185",
+        "wikidata": "Q13151185",
+        "type": "union council of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q13151185"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.63895556,
+          25.80600833
+        ]
+      },
+      "properties": {
+        "name": "Kurigram Stadium",
+        "wikidata": "Q15240831",
+        "type": "stadium",
+        "url": "http://www.wikidata.org/entity/Q15240831"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.542948,
+          25.794575
+        ]
+      },
+      "properties": {
+        "name": "Q19744513",
+        "wikidata": "Q19744513",
+        "type": "high school",
+        "url": "http://www.wikidata.org/entity/Q19744513"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.4879616,
+          25.800944
+        ]
+      },
+      "properties": {
+        "name": "Gharialdanga Union",
+        "wikidata": "Q22347581",
+        "type": "union council of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q22347581"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.69,
+          25.97
+        ]
+      },
+      "properties": {
+        "name": "Kurigram-1",
+        "wikidata": "Q24693216",
+        "type": "constituency of the Jatiya Sangsad",
+        "url": "http://www.wikidata.org/entity/Q24693216"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.64,
+          25.81
+        ]
+      },
+      "properties": {
+        "name": "Kurigram-2",
+        "wikidata": "Q24693218",
+        "type": "constituency of the Jatiya Sangsad",
+        "url": "http://www.wikidata.org/entity/Q24693218"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.62,
+          25.66
+        ]
+      },
+      "properties": {
+        "name": "Kurigram-3",
+        "wikidata": "Q24693222",
+        "type": "constituency of the Jatiya Sangsad",
+        "url": "http://www.wikidata.org/entity/Q24693222"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.83,
+          25.57
+        ]
+      },
+      "properties": {
+        "name": "Kurigram-4",
+        "wikidata": "Q24693226",
+        "type": "constituency of the Jatiya Sangsad",
+        "url": "http://www.wikidata.org/entity/Q24693226"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.6213023,
+          25.8076432
+        ]
+      },
+      "properties": {
+        "name": "Kurigram railway station",
+        "wikidata": "Q60454782",
+        "type": "railway station",
+        "url": "http://www.wikidata.org/entity/Q60454782"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.6236646,
+          25.6523274
+        ]
+      },
+      "properties": {
+        "name": "Ulipur railway station",
+        "wikidata": "Q60454783",
+        "type": "railway station",
+        "url": "http://www.wikidata.org/entity/Q60454783"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.6729886,
+          25.5786155
+        ]
+      },
+      "properties": {
+        "name": "Ramna Bazar railway station",
+        "wikidata": "Q60454784",
+        "type": "railway station",
+        "url": "http://www.wikidata.org/entity/Q60454784"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.5031362,
+          25.8044467
+        ]
+      },
+      "properties": {
+        "name": "Singerdabari Hat railway station",
+        "wikidata": "Q60473966",
+        "type": "railway station",
+        "url": "http://www.wikidata.org/entity/Q60473966"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.5461407,
+          25.7980022
+        ]
+      },
+      "properties": {
+        "name": "Rajarhat railway station",
+        "wikidata": "Q60473967",
+        "type": "railway station",
+        "url": "http://www.wikidata.org/entity/Q60473967"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.5898098,
+          25.8081014
+        ]
+      },
+      "properties": {
+        "name": "Tograihat railway station",
+        "wikidata": "Q60473968",
+        "type": "railway station",
+        "url": "http://www.wikidata.org/entity/Q60473968"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.6498778,
+          25.6046501
+        ]
+      },
+      "properties": {
+        "name": "Balabari railway station",
+        "wikidata": "Q60473969",
+        "type": "railway station",
+        "url": "http://www.wikidata.org/entity/Q60473969"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.625033333,
+          25.735338888
+        ]
+      },
+      "properties": {
+        "name": "Q85355249",
+        "wikidata": "Q85355249",
+        "type": "railway station",
+        "url": "http://www.wikidata.org/entity/Q85355249"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.5035063,
+          25.8032064
+        ]
+      },
+      "properties": {
+        "name": "Singerdabri Hat Ml High School & College",
+        "wikidata": "Q108332900",
+        "type": "high school",
+        "url": "http://www.wikidata.org/entity/Q108332900"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.5035063,
+          25.8032064
+        ]
+      },
+      "properties": {
+        "name": "Singerdabri Hat Ml High School & College",
+        "wikidata": "Q108332900",
+        "type": "School and college",
+        "url": "http://www.wikidata.org/entity/Q108332900"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.517111,
+          25.813059
+        ]
+      },
+      "properties": {
+        "name": "Sindurmati Tirthadham",
+        "wikidata": "Q113699165",
+        "type": "Hindu temple",
+        "url": "http://www.wikidata.org/entity/Q113699165"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.490781,
+          25.813118
+        ]
+      },
+      "properties": {
+        "name": "Koteshwar Shiva Mandir",
+        "wikidata": "Q116045917",
+        "type": "Hindu temple",
+        "url": "http://www.wikidata.org/entity/Q116045917"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.732969444,
+          25.5919
+        ]
+      },
+      "properties": {
+        "name": "Manushmara, Kurigram",
+        "wikidata": "Q118114988",
+        "type": "human settlement",
+        "url": "http://www.wikidata.org/entity/Q118114988"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.526765,
+          25.935249
+        ]
+      },
+      "properties": {
+        "name": "Q130751054",
+        "wikidata": "Q130751054",
+        "type": "road bridge",
+        "url": "http://www.wikidata.org/entity/Q130751054"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.664057,
+          26.087911
+        ]
+      },
+      "properties": {
+        "name": "Joymonirhat Union",
+        "wikidata": "Q13150704",
+        "type": "union council of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q13150704"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.697442,
+          26.170325
+        ]
+      },
+      "properties": {
+        "name": "Q13150905",
+        "wikidata": "Q13150905",
+        "type": "union council of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q13150905"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.7030992,
+          25.8134721
+        ]
+      },
+      "properties": {
+        "name": "Panchgachi Union",
+        "wikidata": "Q13151337",
+        "type": "union council of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q13151337"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.4545,
+          26.509
+        ]
+      },
+      "properties": {
+        "name": "Q13151877",
+        "wikidata": "Q13151877",
+        "type": "union council of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q13151877"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.7218307,
+          25.8449551
+        ]
+      },
+      "properties": {
+        "name": "Mogolbasha Union",
+        "wikidata": "Q13152324",
+        "type": "union council of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q13152324"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.812096,
+          25.521076
+        ]
+      },
+      "properties": {
+        "name": "Jadur Char Union",
+        "wikidata": "Q13152345",
+        "type": "union council of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q13152345"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.5885142,
+          25.8646377
+        ]
+      },
+      "properties": {
+        "name": "Holokhana Union",
+        "wikidata": "Q13152955",
+        "type": "union council of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q13152955"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.5885142,
+          25.8646377
+        ]
+      },
+      "properties": {
+        "name": "Bhogdanga Union",
+        "wikidata": "Q22346449",
+        "type": "union council of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q22346449"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.7218307,
+          25.8449551
+        ]
+      },
+      "properties": {
+        "name": "Ghogadaha Union",
+        "wikidata": "Q22346450",
+        "type": "union council of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q22346450"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.7598826,
+          25.4378229
+        ]
+      },
+      "properties": {
+        "name": "Rajibpur Union",
+        "wikidata": "Q22346617",
+        "type": "union council of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q22346617"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.781892,
+          26.062681
+        ]
+      },
+      "properties": {
+        "name": "Boldia Union",
+        "wikidata": "Q22347300",
+        "type": "union council of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q22347300"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.748489,
+          26.084499
+        ]
+      },
+      "properties": {
+        "name": "Bangasonahat Union",
+        "wikidata": "Q22347301",
+        "type": "union council of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q22347301"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.711026,
+          26.096004
+        ]
+      },
+      "properties": {
+        "name": "Paikarchara Union",
+        "wikidata": "Q22347302",
+        "type": "union council of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q22347302"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.662654,
+          26.190025
+        ]
+      },
+      "properties": {
+        "name": "Q22347304",
+        "wikidata": "Q22347304",
+        "type": "union council of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q22347304"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.634862,
+          25.802661
+        ]
+      },
+      "properties": {
+        "name": "Kurigram Polytechnic Institute",
+        "wikidata": "Q25587464",
+        "type": "polytechnic institute",
+        "url": "http://www.wikidata.org/entity/Q25587464"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.6808362,
+          26.0329491
+        ]
+      },
+      "properties": {
+        "name": "Royganj M.L High School",
+        "wikidata": "Q27048256",
+        "type": "high school",
+        "url": "http://www.wikidata.org/entity/Q27048256"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.6422802,
+          25.8053655
+        ]
+      },
+      "properties": {
+        "name": "KURIGRAM GOVT. HIGH SCHOOL",
+        "wikidata": "Q60768141",
+        "type": "high school",
+        "url": "http://www.wikidata.org/entity/Q60768141"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.663788,
+          26.11036
+        ]
+      },
+      "properties": {
+        "name": "Q108333064",
+        "wikidata": "Q108333064",
+        "type": "union council of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q108333064"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.728675,
+          26.042055
+        ]
+      },
+      "properties": {
+        "name": "Q108333065",
+        "wikidata": "Q108333065",
+        "type": "union council of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q108333065"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.686131,
+          25.97196
+        ]
+      },
+      "properties": {
+        "name": "Nageshwari Government College",
+        "wikidata": "Q108333431",
+        "type": "college",
+        "url": "http://www.wikidata.org/entity/Q108333431"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.6344,
+          25.7926
+        ]
+      },
+      "properties": {
+        "name": "Kurigram Agricultural University",
+        "wikidata": "Q112108681",
+        "type": "public university",
+        "url": "http://www.wikidata.org/entity/Q112108681"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.488281,
+          25.800306
+        ]
+      },
+      "properties": {
+        "name": "Rajmohan Govt. Primary School",
+        "wikidata": "Q115138346",
+        "type": "primary school",
+        "url": "http://www.wikidata.org/entity/Q115138346"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.63739,
+          25.807525
+        ]
+      },
+      "properties": {
+        "name": "Kurigram Govt. Mohila College",
+        "wikidata": "Q126223837",
+        "type": "college",
+        "url": "http://www.wikidata.org/entity/Q126223837"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.543575,
+          25.794331
+        ]
+      },
+      "properties": {
+        "name": "GOVT. MIR ISMAIL HOSSAIN COLLEGE",
+        "wikidata": "Q130551019",
+        "type": "college",
+        "url": "http://www.wikidata.org/entity/Q130551019"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.798325,
+          25.443682
+        ]
+      },
+      "properties": {
+        "name": "Rajibpur Degree College",
+        "wikidata": "Q130552538",
+        "type": "college",
+        "url": "http://www.wikidata.org/entity/Q130552538"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.661833,
+          25.579878
+        ]
+      },
+      "properties": {
+        "name": "Chilmari Government College",
+        "wikidata": "Q130580731",
+        "type": "college",
+        "url": "http://www.wikidata.org/entity/Q130580731"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.624623,
+          25.657917
+        ]
+      },
+      "properties": {
+        "name": "Ulipur Government College",
+        "wikidata": "Q131275975",
+        "type": "college",
+        "url": "http://www.wikidata.org/entity/Q131275975"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.667924,
+          26.105941
+        ]
+      },
+      "properties": {
+        "name": "Bhurungamari Government College",
+        "wikidata": "Q131387518",
+        "type": "college",
+        "url": "http://www.wikidata.org/entity/Q131387518"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.603006,
+          25.929483
+        ]
+      },
+      "properties": {
+        "name": "SAIFUR RAHMAN COLLEGE",
+        "wikidata": "Q131392604",
+        "type": "college",
+        "url": "http://www.wikidata.org/entity/Q131392604"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.825725,
+          25.575788
+        ]
+      },
+      "properties": {
+        "name": "Rowmari Government College",
+        "wikidata": "Q131392652",
+        "type": "college",
+        "url": "http://www.wikidata.org/entity/Q131392652"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.639953,
+          25.81002
+        ]
+      },
+      "properties": {
+        "name": "Kurigram Law College",
+        "wikidata": "Q131629572",
+        "type": "law school",
+        "url": "http://www.wikidata.org/entity/Q131629572"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.542713,
+          25.790167
+        ]
+      },
+      "properties": {
+        "name": "Rajarhat Mohila Degree College",
+        "wikidata": "Q136526112",
+        "type": "college",
+        "url": "http://www.wikidata.org/entity/Q136526112"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.700875,
+          25.885989
+        ]
+      },
+      "properties": {
+        "name": "Bhitarband Degree College",
+        "wikidata": "Q136799377",
+        "type": "college",
+        "url": "http://www.wikidata.org/entity/Q136799377"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.652845,
+          25.817539
+        ]
+      },
+      "properties": {
+        "name": "Majida Adarsha Degree College",
+        "wikidata": "Q136799604",
+        "type": "college",
+        "url": "http://www.wikidata.org/entity/Q136799604"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.67279,
+          26.112079
+        ]
+      },
+      "properties": {
+        "name": "Bhurungamari Mohila College",
+        "wikidata": "Q136800582",
+        "type": "college",
+        "url": "http://www.wikidata.org/entity/Q136800582"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.696203,
+          25.962123
+        ]
+      },
+      "properties": {
+        "name": "Nageswari Mohila College",
+        "wikidata": "Q136804918",
+        "type": "college",
+        "url": "http://www.wikidata.org/entity/Q136804918"
+      }
+    }
+  ]
+}

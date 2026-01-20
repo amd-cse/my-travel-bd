@@ -1,0 +1,1205 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.62,
+          24.33
+        ]
+      },
+      "properties": {
+        "name": "Sirajganj District",
+        "wikidata": "Q2429432",
+        "type": "district of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q2429432"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.716666666,
+          24.45
+        ]
+      },
+      "properties": {
+        "name": "Sirajganj",
+        "wikidata": "Q2579193",
+        "type": "city",
+        "url": "http://www.wikidata.org/entity/Q2579193"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.588333333,
+          24.17
+        ]
+      },
+      "properties": {
+        "name": "Shahjadpur Upazila",
+        "wikidata": "Q2605676",
+        "type": "upazila of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q2605676"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.7,
+          24.3
+        ]
+      },
+      "properties": {
+        "name": "Belkuchi",
+        "wikidata": "Q4082073",
+        "type": "human settlement",
+        "url": "http://www.wikidata.org/entity/Q4082073"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.7,
+          24.2917
+        ]
+      },
+      "properties": {
+        "name": "Belkuchi Upazila",
+        "wikidata": "Q4082077",
+        "type": "upazila of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q4082077"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.7,
+          24.3
+        ]
+      },
+      "properties": {
+        "name": "Belkuchi Upazila",
+        "wikidata": "Q4082077",
+        "type": "upazila of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q4082077"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.65,
+          24.65
+        ]
+      },
+      "properties": {
+        "name": "Kazipur",
+        "wikidata": "Q4208364",
+        "type": "human settlement",
+        "url": "http://www.wikidata.org/entity/Q4208364"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.65,
+          24.6417
+        ]
+      },
+      "properties": {
+        "name": "Kazipur Upazila",
+        "wikidata": "Q4208371",
+        "type": "upazila of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q4208371"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.65,
+          24.366666666
+        ]
+      },
+      "properties": {
+        "name": "Kamarkhanda",
+        "wikidata": "Q4210736",
+        "type": "human settlement",
+        "url": "http://www.wikidata.org/entity/Q4210736"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.533333333,
+          24.5
+        ]
+      },
+      "properties": {
+        "name": "Raiganj",
+        "wikidata": "Q4388908",
+        "type": "human settlement",
+        "url": "http://www.wikidata.org/entity/Q4388908"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.5347,
+          24.5014
+        ]
+      },
+      "properties": {
+        "name": "Raiganj Upazila",
+        "wikidata": "Q4388915",
+        "type": "upazila of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q4388915"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.7,
+          24.4583
+        ]
+      },
+      "properties": {
+        "name": "Sirajganj Sadar Upazila",
+        "wikidata": "Q4420707",
+        "type": "upazila of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q4420707"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.7,
+          24.45833
+        ]
+      },
+      "properties": {
+        "name": "Sirajganj Sadar Upazila",
+        "wikidata": "Q4420707",
+        "type": "upazila of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q4420707"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.375,
+          24.4333
+        ]
+      },
+      "properties": {
+        "name": "Tarash Upazila",
+        "wikidata": "Q4451915",
+        "type": "upazila of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q4451915"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.5667,
+          24.3194
+        ]
+      },
+      "properties": {
+        "name": "Ullahpara Upazila",
+        "wikidata": "Q4474784",
+        "type": "upazila of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q4474784"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.708333333,
+          24.216666666
+        ]
+      },
+      "properties": {
+        "name": "Chauhali",
+        "wikidata": "Q4507823",
+        "type": "human settlement",
+        "url": "http://www.wikidata.org/entity/Q4507823"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.583333333,
+          24.166666666
+        ]
+      },
+      "properties": {
+        "name": "Shahjadpur",
+        "wikidata": "Q4521178",
+        "type": "human settlement",
+        "url": "http://www.wikidata.org/entity/Q4521178"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.5073,
+          24.5542
+        ]
+      },
+      "properties": {
+        "name": "Chandaikona M.L High School",
+        "wikidata": "Q5070916",
+        "type": "high school",
+        "url": "http://www.wikidata.org/entity/Q5070916"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.7208,
+          24.2111
+        ]
+      },
+      "properties": {
+        "name": "Chauhali Upazila",
+        "wikidata": "Q5088147",
+        "type": "upazila of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q5088147"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.6783985,
+          24.2241696
+        ]
+      },
+      "properties": {
+        "name": "Enayetpur",
+        "wikidata": "Q5375273",
+        "type": "thana of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q5375273"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.65,
+          24.38
+        ]
+      },
+      "properties": {
+        "name": "Kamarkhanda Upazila",
+        "wikidata": "Q6356058",
+        "type": "upazila of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q6356058"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.7042,
+          24.3667
+        ]
+      },
+      "properties": {
+        "name": "Kamarkhanda Upazila",
+        "wikidata": "Q6356058",
+        "type": "upazila of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q6356058"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.48,
+          24.29
+        ]
+      },
+      "properties": {
+        "name": "Khaduly",
+        "wikidata": "Q6398933",
+        "type": "human settlement",
+        "url": "http://www.wikidata.org/entity/Q6398933"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.5674,
+          24.3199
+        ]
+      },
+      "properties": {
+        "name": "Ullapara Science College",
+        "wikidata": "Q7879137",
+        "type": "school",
+        "url": "http://www.wikidata.org/entity/Q7879137"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.7853,
+          24.3991
+        ]
+      },
+      "properties": {
+        "name": "Jamuna Bridge",
+        "wikidata": "Q10729282",
+        "type": "bridge",
+        "url": "http://www.wikidata.org/entity/Q10729282"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.68333333,
+          24.16666667
+        ]
+      },
+      "properties": {
+        "name": "Koizuri Union",
+        "wikidata": "Q13150262",
+        "type": "union council of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q13150262"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.71092222,
+          24.45573889
+        ]
+      },
+      "properties": {
+        "name": "Shaeed Samsuddin Stadium",
+        "wikidata": "Q15276629",
+        "type": "stadium",
+        "url": "http://www.wikidata.org/entity/Q15276629"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.7109,
+          24.4588
+        ]
+      },
+      "properties": {
+        "name": "Shaheed M. Monsur Ali Medical College, Sirajganj",
+        "wikidata": "Q18712523",
+        "type": "medical school",
+        "url": "http://www.wikidata.org/entity/Q18712523"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.5933262,
+          24.1750854
+        ]
+      },
+      "properties": {
+        "name": "Rabindra University, Bangladesh",
+        "wikidata": "Q20613210",
+        "type": "public university",
+        "url": "http://www.wikidata.org/entity/Q20613210"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.64,
+          24.65
+        ]
+      },
+      "properties": {
+        "name": "Sirajganj-1",
+        "wikidata": "Q24693373",
+        "type": "constituency of the Jatiya Sangsad",
+        "url": "http://www.wikidata.org/entity/Q24693373"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.7,
+          24.45
+        ]
+      },
+      "properties": {
+        "name": "Sirajganj-2",
+        "wikidata": "Q24693379",
+        "type": "constituency of the Jatiya Sangsad",
+        "url": "http://www.wikidata.org/entity/Q24693379"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.53,
+          24.51
+        ]
+      },
+      "properties": {
+        "name": "Sirajganj-3",
+        "wikidata": "Q24693384",
+        "type": "constituency of the Jatiya Sangsad",
+        "url": "http://www.wikidata.org/entity/Q24693384"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.7,
+          24.3
+        ]
+      },
+      "properties": {
+        "name": "Sirajganj-5",
+        "wikidata": "Q24693395",
+        "type": "constituency of the Jatiya Sangsad",
+        "url": "http://www.wikidata.org/entity/Q24693395"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.56666667,
+          24.32
+        ]
+      },
+      "properties": {
+        "name": "Shribari Haribhanga Govt. Primary School",
+        "wikidata": "Q28160889",
+        "type": "human settlement",
+        "url": "http://www.wikidata.org/entity/Q28160889"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.7124,
+          24.4613
+        ]
+      },
+      "properties": {
+        "name": "Islamia Government College",
+        "wikidata": "Q28803154",
+        "type": "college",
+        "url": "http://www.wikidata.org/entity/Q28803154"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.6667,
+          24.2497
+        ]
+      },
+      "properties": {
+        "name": "Daulatpur Degree College",
+        "wikidata": "Q56663261",
+        "type": "college",
+        "url": "http://www.wikidata.org/entity/Q56663261"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.7033884,
+          24.2256199
+        ]
+      },
+      "properties": {
+        "name": "Khwaja Yunus Ali Medical College",
+        "wikidata": "Q56806290",
+        "type": "medical school",
+        "url": "http://www.wikidata.org/entity/Q56806290"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.699769444,
+          24.288730555
+        ]
+      },
+      "properties": {
+        "name": "Sirajganj - Enayetpur Road",
+        "wikidata": "Q56867980",
+        "type": "road",
+        "url": "http://www.wikidata.org/entity/Q56867980"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.7335172,
+          24.3958433
+        ]
+      },
+      "properties": {
+        "name": "Syedabad Railway Station",
+        "wikidata": "Q60433084",
+        "type": "railway station",
+        "url": "http://www.wikidata.org/entity/Q60433084"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.5708371,
+          24.2902682
+        ]
+      },
+      "properties": {
+        "name": "Ullapara railway station",
+        "wikidata": "Q60433104",
+        "type": "railway station",
+        "url": "http://www.wikidata.org/entity/Q60433104"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.6602392,
+          24.3611518
+        ]
+      },
+      "properties": {
+        "name": "Jamtail railway station",
+        "wikidata": "Q60433105",
+        "type": "railway station",
+        "url": "http://www.wikidata.org/entity/Q60433105"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.6901043,
+          24.3972888
+        ]
+      },
+      "properties": {
+        "name": "Shahid M. Monsur Ali railway station",
+        "wikidata": "Q60433106",
+        "type": "railway station",
+        "url": "http://www.wikidata.org/entity/Q60433106"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.7055149,
+          24.4484339
+        ]
+      },
+      "properties": {
+        "name": "Sirajganj Bazar railway station",
+        "wikidata": "Q60454791",
+        "type": "railway station",
+        "url": "http://www.wikidata.org/entity/Q60454791"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.4986844,
+          24.2605222
+        ]
+      },
+      "properties": {
+        "name": "Lahiri Mohanpur railway station",
+        "wikidata": "Q60473978",
+        "type": "railway station",
+        "url": "http://www.wikidata.org/entity/Q60473978"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.6126568,
+          24.3157454
+        ]
+      },
+      "properties": {
+        "name": "Salop railway station",
+        "wikidata": "Q60473980",
+        "type": "railway station",
+        "url": "http://www.wikidata.org/entity/Q60473980"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.6999091,
+          24.4374067
+        ]
+      },
+      "properties": {
+        "name": "Sirajganj Raipur railway station",
+        "wikidata": "Q60473981",
+        "type": "railway station",
+        "url": "http://www.wikidata.org/entity/Q60473981"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.697494444,
+          24.287330555
+        ]
+      },
+      "properties": {
+        "name": "Al-Aman Bahela Khatun Masjid",
+        "wikidata": "Q106604780",
+        "type": "mosque",
+        "url": "http://www.wikidata.org/entity/Q106604780"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.708333333,
+          24.460583333
+        ]
+      },
+      "properties": {
+        "name": "Elliott Bridge",
+        "wikidata": "Q112079485",
+        "type": "bridge",
+        "url": "http://www.wikidata.org/entity/Q112079485"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.508197,
+          24.414945
+        ]
+      },
+      "properties": {
+        "name": "Salanga Thana",
+        "wikidata": "Q130214600",
+        "type": "thana of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q130214600"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.646974,
+          24.404332
+        ]
+      },
+      "properties": {
+        "name": "Q130342657",
+        "wikidata": "Q130342657",
+        "type": "college",
+        "url": "http://www.wikidata.org/entity/Q130342657"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.738088888,
+          24.394861111
+        ]
+      },
+      "properties": {
+        "name": "Q131291766",
+        "wikidata": "Q131291766",
+        "type": "thana of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q131291766"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.366666666,
+          24.433333333
+        ]
+      },
+      "properties": {
+        "name": "Tarash",
+        "wikidata": "Q4451912",
+        "type": "human settlement",
+        "url": "http://www.wikidata.org/entity/Q4451912"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.566666666,
+          24.316666666
+        ]
+      },
+      "properties": {
+        "name": "Ullahpara",
+        "wikidata": "Q4474778",
+        "type": "human settlement",
+        "url": "http://www.wikidata.org/entity/Q4474778"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.6402,
+          24.4109
+        ]
+      },
+      "properties": {
+        "name": "CHHONGACHHA UNION",
+        "wikidata": "Q13150669",
+        "type": "union council of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q13150669"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.42,
+          24.22
+        ]
+      },
+      "properties": {
+        "name": "Q13150814",
+        "wikidata": "Q13150814",
+        "type": "union council of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q13150814"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.70833333,
+          24.3
+        ]
+      },
+      "properties": {
+        "name": "Belkuchi Union",
+        "wikidata": "Q13151891",
+        "type": "union council of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q13151891"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.42,
+          24.22
+        ]
+      },
+      "properties": {
+        "name": "Q13151956",
+        "wikidata": "Q13151956",
+        "type": "union council of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q13151956"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.42,
+          24.17
+        ]
+      },
+      "properties": {
+        "name": "Bhangbari Union",
+        "wikidata": "Q13151975",
+        "type": "union council of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q13151975"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.6498,
+          24.4572
+        ]
+      },
+      "properties": {
+        "name": "Q13152374",
+        "wikidata": "Q13152374",
+        "type": "union council of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q13152374"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.71,
+          24.36
+        ]
+      },
+      "properties": {
+        "name": "Q13152421",
+        "wikidata": "Q13152421",
+        "type": "union council of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q13152421"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.5672,
+          24.3132
+        ]
+      },
+      "properties": {
+        "name": "Govt. Akbar Ali College",
+        "wikidata": "Q16251581",
+        "type": "college",
+        "url": "http://www.wikidata.org/entity/Q16251581"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.39,
+          24.38
+        ]
+      },
+      "properties": {
+        "name": "Q22346348",
+        "wikidata": "Q22346348",
+        "type": "union council of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q22346348"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.42,
+          24.22
+        ]
+      },
+      "properties": {
+        "name": "Q22346374",
+        "wikidata": "Q22346374",
+        "type": "union council of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q22346374"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.42,
+          24.22
+        ]
+      },
+      "properties": {
+        "name": "Q22346375",
+        "wikidata": "Q22346375",
+        "type": "union council of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q22346375"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.35,
+          24.1
+        ]
+      },
+      "properties": {
+        "name": "Q22347698",
+        "wikidata": "Q22347698",
+        "type": "union council of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q22347698"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.6182,
+          24.4971
+        ]
+      },
+      "properties": {
+        "name": "Q22347850",
+        "wikidata": "Q22347850",
+        "type": "union council of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q22347850"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.710412,
+          24.3573565
+        ]
+      },
+      "properties": {
+        "name": "Rajapur Degree College",
+        "wikidata": "Q56663228",
+        "type": "college",
+        "url": "http://www.wikidata.org/entity/Q56663228"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.699777777,
+          24.288722222
+        ]
+      },
+      "properties": {
+        "name": "Baniaganti S. N. Academy School & College",
+        "wikidata": "Q56819986",
+        "type": "school",
+        "url": "http://www.wikidata.org/entity/Q56819986"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.5962659,
+          24.1761901
+        ]
+      },
+      "properties": {
+        "name": "Shahzadpur Govt. College",
+        "wikidata": "Q56867957",
+        "type": "college",
+        "url": "http://www.wikidata.org/entity/Q56867957"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.551712,
+          24.419218
+        ]
+      },
+      "properties": {
+        "name": "Hatikumrul Union",
+        "wikidata": "Q108333053",
+        "type": "union council of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q108333053"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.644422222,
+          24.363544444
+        ]
+      },
+      "properties": {
+        "name": "Q131291756",
+        "wikidata": "Q131291756",
+        "type": "thana of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q131291756"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.522594444,
+          24.507347222
+        ]
+      },
+      "properties": {
+        "name": "Raiganj Thana, Sirajganj",
+        "wikidata": "Q131309217",
+        "type": "thana of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q131309217"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.694411111,
+          24.301866666
+        ]
+      },
+      "properties": {
+        "name": "Q131310396",
+        "wikidata": "Q131310396",
+        "type": "thana of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q131310396"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.597136111,
+          24.175944444
+        ]
+      },
+      "properties": {
+        "name": "Q131311462",
+        "wikidata": "Q131311462",
+        "type": "thana of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q131311462"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.698236111,
+          24.458097222
+        ]
+      },
+      "properties": {
+        "name": "Q131311738",
+        "wikidata": "Q131311738",
+        "type": "thana of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q131311738"
+      }
+    }
+  ]
+}

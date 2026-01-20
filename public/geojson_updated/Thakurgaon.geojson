@@ -1,0 +1,885 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.458333333,
+          26.034444444
+        ]
+      },
+      "properties": {
+        "name": "Thakurgaon District",
+        "wikidata": "Q2367825",
+        "type": "district of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q2367825"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.283333333,
+          26.1
+        ]
+      },
+      "properties": {
+        "name": "Baliadangi",
+        "wikidata": "Q4076597",
+        "type": "human settlement",
+        "url": "http://www.wikidata.org/entity/Q4076597"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.359444444,
+          25.855833333
+        ]
+      },
+      "properties": {
+        "name": "Q4363295",
+        "wikidata": "Q4363295",
+        "type": "human settlement",
+        "url": "http://www.wikidata.org/entity/Q4363295"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.366666666,
+          25.866666666
+        ]
+      },
+      "properties": {
+        "name": "Q4363295",
+        "wikidata": "Q4363295",
+        "type": "human settlement",
+        "url": "http://www.wikidata.org/entity/Q4363295"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.25,
+          25.9
+        ]
+      },
+      "properties": {
+        "name": "Ranisankail",
+        "wikidata": "Q4389916",
+        "type": "human settlement",
+        "url": "http://www.wikidata.org/entity/Q4389916"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.47,
+          26.030833333
+        ]
+      },
+      "properties": {
+        "name": "Thakurgaon",
+        "wikidata": "Q4466847",
+        "type": "city",
+        "url": "http://www.wikidata.org/entity/Q4466847"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.47,
+          26.030833333
+        ]
+      },
+      "properties": {
+        "name": "Thakurgaon",
+        "wikidata": "Q4466847",
+        "type": "human settlement",
+        "url": "http://www.wikidata.org/entity/Q4466847"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          90.983333333,
+          23.1
+        ]
+      },
+      "properties": {
+        "name": "Haripur",
+        "wikidata": "Q4495863",
+        "type": "human settlement",
+        "url": "http://www.wikidata.org/entity/Q4495863"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.27,
+          26.1
+        ]
+      },
+      "properties": {
+        "name": "Baliadangi Upazila",
+        "wikidata": "Q4850862",
+        "type": "upazila of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q4850862"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.275,
+          26.1
+        ]
+      },
+      "properties": {
+        "name": "Baliadangi Upazila",
+        "wikidata": "Q4850862",
+        "type": "upazila of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q4850862"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.1417,
+          25.8083
+        ]
+      },
+      "properties": {
+        "name": "Haripur Upazila",
+        "wikidata": "Q5286638",
+        "type": "upazila of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q5286638"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.25166667,
+          25.88833333
+        ]
+      },
+      "properties": {
+        "name": "Ranisankail Upazila",
+        "wikidata": "Q7293075",
+        "type": "upazila of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q7293075"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.4667,
+          26.0208
+        ]
+      },
+      "properties": {
+        "name": "Thakurgaon Sadar Upazila",
+        "wikidata": "Q7709436",
+        "type": "upazila of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q7709436"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.47,
+          26.08
+        ]
+      },
+      "properties": {
+        "name": "Thakurgaon Sadar Upazila",
+        "wikidata": "Q7709436",
+        "type": "upazila of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q7709436"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.537247,
+          26.126524
+        ]
+      },
+      "properties": {
+        "name": "Q13151664",
+        "wikidata": "Q13151664",
+        "type": "union council of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q13151664"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.411474,
+          26.170422
+        ]
+      },
+      "properties": {
+        "name": "Ruhia Union",
+        "wikidata": "Q13152493",
+        "type": "union council of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q13152493"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.3667,
+          25.8542
+        ]
+      },
+      "properties": {
+        "name": "Pirganj Upazila",
+        "wikidata": "Q13419437",
+        "type": "upazila of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q13419437"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.4751,
+          26.0264
+        ]
+      },
+      "properties": {
+        "name": "Thakurgaon Stadium",
+        "wikidata": "Q16632610",
+        "type": "stadium",
+        "url": "http://www.wikidata.org/entity/Q16632610"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.1427191,
+          25.9180657
+        ]
+      },
+      "properties": {
+        "name": "Q18987283",
+        "wikidata": "Q18987283",
+        "type": "union council of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q18987283"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.1648,
+          25.854
+        ]
+      },
+      "properties": {
+        "name": "Dangipara Union",
+        "wikidata": "Q18987504",
+        "type": "union council of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q18987504"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.214789,
+          25.82885
+        ]
+      },
+      "properties": {
+        "name": "Bhaturia Union",
+        "wikidata": "Q18988579",
+        "type": "union council of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q18988579"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.1648,
+          25.854
+        ]
+      },
+      "properties": {
+        "name": "Haripur Union",
+        "wikidata": "Q19745307",
+        "type": "union council of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q19745307"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.41,
+          26.0
+        ]
+      },
+      "properties": {
+        "name": "Q22346752",
+        "wikidata": "Q22346752",
+        "type": "union council of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q22346752"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.466555,
+          26.030676
+        ]
+      },
+      "properties": {
+        "name": "Thakurgaon-1",
+        "wikidata": "Q24692950",
+        "type": "constituency of the Jatiya Sangsad",
+        "url": "http://www.wikidata.org/entity/Q24692950"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.28,
+          26.09
+        ]
+      },
+      "properties": {
+        "name": "Thakurgaon-2",
+        "wikidata": "Q24692952",
+        "type": "constituency of the Jatiya Sangsad",
+        "url": "http://www.wikidata.org/entity/Q24692952"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.85,
+          23.64
+        ]
+      },
+      "properties": {
+        "name": "Thakurgaon-3",
+        "wikidata": "Q24692955",
+        "type": "constituency of the Jatiya Sangsad",
+        "url": "http://www.wikidata.org/entity/Q24692955"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.165456,
+          25.8542835
+        ]
+      },
+      "properties": {
+        "name": "Ranhatta Chourangi high school",
+        "wikidata": "Q25586909",
+        "type": "high school",
+        "url": "http://www.wikidata.org/entity/Q25586909"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.4529,
+          26.0394
+        ]
+      },
+      "properties": {
+        "name": "Thakurgaon Government College",
+        "wikidata": "Q25587097",
+        "type": "college",
+        "url": "http://www.wikidata.org/entity/Q25587097"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.1292933,
+          25.8294307
+        ]
+      },
+      "properties": {
+        "name": "Haripur Pilot high school",
+        "wikidata": "Q25587166",
+        "type": "high school",
+        "url": "http://www.wikidata.org/entity/Q25587166"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.1284129,
+          25.8253645
+        ]
+      },
+      "properties": {
+        "name": "Haripur Dimukhi Girls High school",
+        "wikidata": "Q25587174",
+        "type": "high school",
+        "url": "http://www.wikidata.org/entity/Q25587174"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.4700579,
+          26.0276507
+        ]
+      },
+      "properties": {
+        "name": "Q25587176",
+        "wikidata": "Q25587176",
+        "type": "college",
+        "url": "http://www.wikidata.org/entity/Q25587176"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.2627269,
+          25.8959645
+        ]
+      },
+      "properties": {
+        "name": "Q25587179",
+        "wikidata": "Q25587179",
+        "type": "college",
+        "url": "http://www.wikidata.org/entity/Q25587179"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.4659057,
+          26.032249
+        ]
+      },
+      "properties": {
+        "name": "Thakurgaon Govt. Boys' High School",
+        "wikidata": "Q25587184",
+        "type": "high school",
+        "url": "http://www.wikidata.org/entity/Q25587184"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.3578266,
+          25.859262
+        ]
+      },
+      "properties": {
+        "name": "Pirganj railway station",
+        "wikidata": "Q25587614",
+        "type": "railway station",
+        "url": "http://www.wikidata.org/entity/Q25587614"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.56403,
+          26.12527
+        ]
+      },
+      "properties": {
+        "name": "Balia Mosque",
+        "wikidata": "Q31724936",
+        "type": "mosque",
+        "url": "http://www.wikidata.org/entity/Q31724936"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.443018,
+          26.039023
+        ]
+      },
+      "properties": {
+        "name": "Thakurgaon Polytechnic Institute",
+        "wikidata": "Q54317619",
+        "type": "polytechnic institute",
+        "url": "http://www.wikidata.org/entity/Q54317619"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.4628125,
+          26.028175361
+        ]
+      },
+      "properties": {
+        "name": "Thakurgaon Govt. Girls' High School",
+        "wikidata": "Q57633317",
+        "type": "government girls' high school",
+        "url": "http://www.wikidata.org/entity/Q57633317"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.3672589,
+          25.9333037
+        ]
+      },
+      "properties": {
+        "name": "Bhomradaha railway station",
+        "wikidata": "Q60454777",
+        "type": "railway station",
+        "url": "http://www.wikidata.org/entity/Q60454777"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.4054874,
+          26.1682689
+        ]
+      },
+      "properties": {
+        "name": "Ruhia railway station",
+        "wikidata": "Q60454779",
+        "type": "railway station",
+        "url": "http://www.wikidata.org/entity/Q60454779"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.4037691,
+          25.8230183
+        ]
+      },
+      "properties": {
+        "name": "Sultanpur School railway station",
+        "wikidata": "Q60473938",
+        "type": "railway station",
+        "url": "http://www.wikidata.org/entity/Q60473938"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.4034647,
+          25.9982659
+        ]
+      },
+      "properties": {
+        "name": "Shibganj railway station",
+        "wikidata": "Q60473940",
+        "type": "railway station",
+        "url": "http://www.wikidata.org/entity/Q60473940"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.3913532,
+          26.0988829
+        ]
+      },
+      "properties": {
+        "name": "Akhanagar railway station",
+        "wikidata": "Q60473942",
+        "type": "railway station",
+        "url": "http://www.wikidata.org/entity/Q60473942"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.2657366,
+          25.9817271
+        ]
+      },
+      "properties": {
+        "name": "Q60782809",
+        "wikidata": "Q60782809",
+        "type": "high school",
+        "url": "http://www.wikidata.org/entity/Q60782809"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.452495,
+          26.062172
+        ]
+      },
+      "properties": {
+        "name": "Lokayan Life Diversity Museum",
+        "wikidata": "Q61361293",
+        "type": "museum",
+        "url": "http://www.wikidata.org/entity/Q61361293"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.4965,
+          26.1125
+        ]
+      },
+      "properties": {
+        "name": "Q97255091",
+        "wikidata": "Q97255091",
+        "type": "thana of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q97255091"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.411474,
+          26.170422
+        ]
+      },
+      "properties": {
+        "name": "Q108333071",
+        "wikidata": "Q108333071",
+        "type": "union council of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q108333071"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.588981,
+          26.058522
+        ]
+      },
+      "properties": {
+        "name": "Q115193725",
+        "wikidata": "Q115193725",
+        "type": "Hindu temple",
+        "url": "http://www.wikidata.org/entity/Q115193725"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.223974,
+          26.134612
+        ]
+      },
+      "properties": {
+        "name": "Q116742249",
+        "wikidata": "Q116742249",
+        "type": "Hindu temple",
+        "url": "http://www.wikidata.org/entity/Q116742249"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.4267702,
+          26.0391632
+        ]
+      },
+      "properties": {
+        "name": "Thakurgaon Road railway station",
+        "wikidata": "Q131632273",
+        "type": "railway station",
+        "url": "http://www.wikidata.org/entity/Q131632273"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.4266537,
+          26.0407339
+        ]
+      },
+      "properties": {
+        "name": "Thakurgaon Road railway station",
+        "wikidata": "Q131632273",
+        "type": "railway station",
+        "url": "http://www.wikidata.org/entity/Q131632273"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.4267702,
+          26.0391632
+        ]
+      },
+      "properties": {
+        "name": "Thakurgaon Road railway station",
+        "wikidata": "Q131632273",
+        "type": "Q719456",
+        "url": "http://www.wikidata.org/entity/Q131632273"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.4266537,
+          26.0407339
+        ]
+      },
+      "properties": {
+        "name": "Thakurgaon Road railway station",
+        "wikidata": "Q131632273",
+        "type": "Q719456",
+        "url": "http://www.wikidata.org/entity/Q131632273"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.359615,
+          25.86611
+        ]
+      },
+      "properties": {
+        "name": "Q137381948",
+        "wikidata": "Q137381948",
+        "type": "college",
+        "url": "http://www.wikidata.org/entity/Q137381948"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.264839,
+          25.982725
+        ]
+      },
+      "properties": {
+        "name": "Q137392763",
+        "wikidata": "Q137392763",
+        "type": "college",
+        "url": "http://www.wikidata.org/entity/Q137392763"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.277526,
+          26.103055
+        ]
+      },
+      "properties": {
+        "name": "Shahid Akbar Ali Science & Technology College",
+        "wikidata": "Q137392892",
+        "type": "college",
+        "url": "http://www.wikidata.org/entity/Q137392892"
+      }
+    }
+  ]
+}

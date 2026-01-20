@@ -1,0 +1,1861 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.2183,
+          22.1953
+        ]
+      },
+      "properties": {
+        "name": "Bandarban",
+        "wikidata": "Q806261",
+        "type": "human settlement",
+        "url": "http://www.wikidata.org/entity/Q806261"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.219444444,
+          22.195277777
+        ]
+      },
+      "properties": {
+        "name": "Bandarban",
+        "wikidata": "Q806261",
+        "type": "human settlement",
+        "url": "http://www.wikidata.org/entity/Q806261"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.35,
+          22.2
+        ]
+      },
+      "properties": {
+        "name": "Bandarban",
+        "wikidata": "Q806261",
+        "type": "human settlement",
+        "url": "http://www.wikidata.org/entity/Q806261"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.4,
+          21.8
+        ]
+      },
+      "properties": {
+        "name": "Bandarban District",
+        "wikidata": "Q806273",
+        "type": "district of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q806273"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.2,
+          21.775
+        ]
+      },
+      "properties": {
+        "name": "Lama Upazila",
+        "wikidata": "Q3346656",
+        "type": "upazila of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q3346656"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.45,
+          22.03
+        ]
+      },
+      "properties": {
+        "name": "Ruma Upazila",
+        "wikidata": "Q3346682",
+        "type": "upazila of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q3346682"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.4167,
+          22.05
+        ]
+      },
+      "properties": {
+        "name": "Ruma Upazila",
+        "wikidata": "Q3346682",
+        "type": "upazila of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q3346682"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.3056,
+          21.6667
+        ]
+      },
+      "properties": {
+        "name": "Ali Kadam Upazila",
+        "wikidata": "Q3347518",
+        "type": "upazila of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q3347518"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.43,
+          21.58
+        ]
+      },
+      "properties": {
+        "name": "Ali Kadam Upazila",
+        "wikidata": "Q3347518",
+        "type": "upazila of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q3347518"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.1833,
+          21.4167
+        ]
+      },
+      "properties": {
+        "name": "Naikhongchhari Upazila",
+        "wikidata": "Q3348575",
+        "type": "upazila of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q3348575"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.26,
+          21.49
+        ]
+      },
+      "properties": {
+        "name": "Naikhongchhari Upazila",
+        "wikidata": "Q3348575",
+        "type": "upazila of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q3348575"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.1917,
+          22.2333
+        ]
+      },
+      "properties": {
+        "name": "Bandarban Sadar Upazila",
+        "wikidata": "Q3349016",
+        "type": "upazila of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q3349016"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.55,
+          21.64
+        ]
+      },
+      "properties": {
+        "name": "Thanchi Upazila",
+        "wikidata": "Q3349108",
+        "type": "upazila of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q3349108"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.4278,
+          21.7861
+        ]
+      },
+      "properties": {
+        "name": "Thanchi Upazila",
+        "wikidata": "Q3349108",
+        "type": "upazila of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q3349108"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.3333,
+          22.1667
+        ]
+      },
+      "properties": {
+        "name": "Rowangchhari Upazila",
+        "wikidata": "Q3349124",
+        "type": "upazila of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q3349124"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.43,
+          21.58
+        ]
+      },
+      "properties": {
+        "name": "Alikadam",
+        "wikidata": "Q4062341",
+        "type": "human settlement",
+        "url": "http://www.wikidata.org/entity/Q4062341"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.51441,
+          21.94993
+        ]
+      },
+      "properties": {
+        "name": "Keokradong",
+        "wikidata": "Q1515977",
+        "type": "mountain",
+        "url": "http://www.wikidata.org/entity/Q1515977"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.60968,
+          21.78657
+        ]
+      },
+      "properties": {
+        "name": "Mowdok tiang",
+        "wikidata": "Q2696459",
+        "type": "mountain",
+        "url": "http://www.wikidata.org/entity/Q2696459"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.2,
+          21.766666666
+        ]
+      },
+      "properties": {
+        "name": "Lama",
+        "wikidata": "Q4253440",
+        "type": "human settlement",
+        "url": "http://www.wikidata.org/entity/Q4253440"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.183333333,
+          21.416666666
+        ]
+      },
+      "properties": {
+        "name": "Naikhongchhari",
+        "wikidata": "Q4312429",
+        "type": "human settlement",
+        "url": "http://www.wikidata.org/entity/Q4312429"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.333333333,
+          22.175
+        ]
+      },
+      "properties": {
+        "name": "Rowangchhari",
+        "wikidata": "Q4395174",
+        "type": "human settlement",
+        "url": "http://www.wikidata.org/entity/Q4395174"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.416666666,
+          22.066666666
+        ]
+      },
+      "properties": {
+        "name": "Ruma",
+        "wikidata": "Q4400011",
+        "type": "human settlement",
+        "url": "http://www.wikidata.org/entity/Q4400011"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.45,
+          21.766666666
+        ]
+      },
+      "properties": {
+        "name": "Thanchi",
+        "wikidata": "Q4466853",
+        "type": "human settlement",
+        "url": "http://www.wikidata.org/entity/Q4466853"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.22388889,
+          21.38388889
+        ]
+      },
+      "properties": {
+        "name": "Aaartali",
+        "wikidata": "Q4661054",
+        "type": "human settlement",
+        "url": "http://www.wikidata.org/entity/Q4661054"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.3,
+          21.983333333
+        ]
+      },
+      "properties": {
+        "name": "Barpara, Bandarban",
+        "wikidata": "Q4863076",
+        "type": "human settlement",
+        "url": "http://www.wikidata.org/entity/Q4863076"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.1977168,
+          22.2231095
+        ]
+      },
+      "properties": {
+        "name": "Buddha Dhatu Jadi",
+        "wikidata": "Q4984151",
+        "type": "temple",
+        "url": "http://www.wikidata.org/entity/Q4984151"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.166666666,
+          22.283333333
+        ]
+      },
+      "properties": {
+        "name": "Crowpara",
+        "wikidata": "Q5189577",
+        "type": "human settlement",
+        "url": "http://www.wikidata.org/entity/Q5189577"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.433333333,
+          21.8
+        ]
+      },
+      "properties": {
+        "name": "Lainkalangpara",
+        "wikidata": "Q6474012",
+        "type": "human settlement",
+        "url": "http://www.wikidata.org/entity/Q6474012"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.4,
+          22.133333333
+        ]
+      },
+      "properties": {
+        "name": "Mahajanpara",
+        "wikidata": "Q6732831",
+        "type": "human settlement",
+        "url": "http://www.wikidata.org/entity/Q6732831"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.166666666,
+          21.333333333
+        ]
+      },
+      "properties": {
+        "name": "Paglirpara",
+        "wikidata": "Q7124377",
+        "type": "human settlement",
+        "url": "http://www.wikidata.org/entity/Q7124377"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.2,
+          21.25
+        ]
+      },
+      "properties": {
+        "name": "Rejupara",
+        "wikidata": "Q7310573",
+        "type": "human settlement",
+        "url": "http://www.wikidata.org/entity/Q7310573"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.333333333,
+          22.166666666
+        ]
+      },
+      "properties": {
+        "name": "Roangchari",
+        "wikidata": "Q7339757",
+        "type": "human settlement",
+        "url": "http://www.wikidata.org/entity/Q7339757"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.45,
+          22.15
+        ]
+      },
+      "properties": {
+        "name": "Ronipara",
+        "wikidata": "Q7365718",
+        "type": "human settlement",
+        "url": "http://www.wikidata.org/entity/Q7365718"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.4,
+          22.233333333
+        ]
+      },
+      "properties": {
+        "name": "Rulkippara",
+        "wikidata": "Q7379071",
+        "type": "human settlement",
+        "url": "http://www.wikidata.org/entity/Q7379071"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.408833333,
+          22.04925
+        ]
+      },
+      "properties": {
+        "name": "Ruma Bazar",
+        "wikidata": "Q7379113",
+        "type": "human settlement",
+        "url": "http://www.wikidata.org/entity/Q7379113"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.166666666,
+          21.683333333
+        ]
+      },
+      "properties": {
+        "name": "Sangumukh",
+        "wikidata": "Q7418174",
+        "type": "human settlement",
+        "url": "http://www.wikidata.org/entity/Q7418174"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.533333333,
+          21.6
+        ]
+      },
+      "properties": {
+        "name": "Singpa",
+        "wikidata": "Q7524155",
+        "type": "human settlement",
+        "url": "http://www.wikidata.org/entity/Q7524155"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.46666667,
+          21.71666667
+        ]
+      },
+      "properties": {
+        "name": "Tindu Union",
+        "wikidata": "Q13058167",
+        "type": "union council of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q13058167"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.08333333,
+          21.91666667
+        ]
+      },
+      "properties": {
+        "name": "Aziznagar Union",
+        "wikidata": "Q13149643",
+        "type": "union council of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q13149643"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.36666667,
+          22.23333333
+        ]
+      },
+      "properties": {
+        "name": "Alekkhyong Union",
+        "wikidata": "Q13149757",
+        "type": "union council of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q13149757"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.25,
+          21.83333333
+        ]
+      },
+      "properties": {
+        "name": "Gajalia Union",
+        "wikidata": "Q13150371",
+        "type": "union council of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q13150371"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.1714,
+          21.1969
+        ]
+      },
+      "properties": {
+        "name": "Ghumdhum Union",
+        "wikidata": "Q13150479",
+        "type": "union council of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q13150479"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.33333333,
+          21.96666667
+        ]
+      },
+      "properties": {
+        "name": "Galengya Union",
+        "wikidata": "Q13150481",
+        "type": "union council of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q13150481"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.26666667,
+          22.16666667
+        ]
+      },
+      "properties": {
+        "name": "Tarachha Union",
+        "wikidata": "Q13150874",
+        "type": "union council of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q13150874"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.45,
+          21.8
+        ]
+      },
+      "properties": {
+        "name": "Thanchi Union",
+        "wikidata": "Q13150927",
+        "type": "union council of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q13150927"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.31666667,
+          22.26666667
+        ]
+      },
+      "properties": {
+        "name": "Nowapatang Union",
+        "wikidata": "Q13151259",
+        "type": "union council of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q13151259"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.175,
+          21.51666667
+        ]
+      },
+      "properties": {
+        "name": "Baishari Union",
+        "wikidata": "Q13151694",
+        "type": "union council of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q13151694"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.49,
+          22.03
+        ]
+      },
+      "properties": {
+        "name": "Bandarban Municipality",
+        "wikidata": "Q13151761",
+        "type": "municipality of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q13151761"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.28333333,
+          22.2
+        ]
+      },
+      "properties": {
+        "name": "Bandarban Union",
+        "wikidata": "Q13151762",
+        "type": "union council of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q13151762"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.33333333,
+          21.83333333
+        ]
+      },
+      "properties": {
+        "name": "Rupasipara Union",
+        "wikidata": "Q13152496",
+        "type": "union council of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q13152496"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.41666667,
+          22.05
+        ]
+      },
+      "properties": {
+        "name": "Ruma Union",
+        "wikidata": "Q13152497",
+        "type": "union council of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q13152497"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.33333333,
+          22.16666667
+        ]
+      },
+      "properties": {
+        "name": "Roangchhari Union",
+        "wikidata": "Q13152506",
+        "type": "union council of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q13152506"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.22335278,
+          22.19183333
+        ]
+      },
+      "properties": {
+        "name": "Bandarban Stadium",
+        "wikidata": "Q15196464",
+        "type": "stadium",
+        "url": "http://www.wikidata.org/entity/Q15196464"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.6047,
+          21.67331
+        ]
+      },
+      "properties": {
+        "name": "Zow Tlang",
+        "wikidata": "Q19899273",
+        "type": "mountain",
+        "url": "http://www.wikidata.org/entity/Q19899273"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.53066,
+          21.81646
+        ]
+      },
+      "properties": {
+        "name": "Tazing Dong",
+        "wikidata": "Q21745671",
+        "type": "mountain",
+        "url": "http://www.wikidata.org/entity/Q21745671"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.483769,
+          22.184286
+        ]
+      },
+      "properties": {
+        "name": "Sippi Arsuang",
+        "wikidata": "Q21745850",
+        "type": "mountain",
+        "url": "http://www.wikidata.org/entity/Q21745850"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.38,
+          21.82
+        ]
+      },
+      "properties": {
+        "name": "Thaingkhiang Taung",
+        "wikidata": "Q21745975",
+        "type": "mountain",
+        "url": "http://www.wikidata.org/entity/Q21745975"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.31,
+          21.65
+        ]
+      },
+      "properties": {
+        "name": "Alikadam Cantonment",
+        "wikidata": "Q23018813",
+        "type": "cantonment",
+        "url": "http://www.wikidata.org/entity/Q23018813"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.213273,
+          22.20167
+        ]
+      },
+      "properties": {
+        "name": "Bandarban Cantonment",
+        "wikidata": "Q23018823",
+        "type": "cantonment",
+        "url": "http://www.wikidata.org/entity/Q23018823"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.35,
+          22.1
+        ]
+      },
+      "properties": {
+        "name": "Paindu Union",
+        "wikidata": "Q24331680",
+        "type": "union council of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q24331680"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.33333333,
+          21.96666667
+        ]
+      },
+      "properties": {
+        "name": "Remakriprangsa Union",
+        "wikidata": "Q24331681",
+        "type": "union council of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q24331681"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.23333333,
+          21.78333333
+        ]
+      },
+      "properties": {
+        "name": "Lama Union",
+        "wikidata": "Q24331705",
+        "type": "union council of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q24331705"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.16666667,
+          21.68333333
+        ]
+      },
+      "properties": {
+        "name": "Fansiakhali Union",
+        "wikidata": "Q24331721",
+        "type": "union council of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q24331721"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.225,
+          21.91666667
+        ]
+      },
+      "properties": {
+        "name": "Sarai Union",
+        "wikidata": "Q24345967",
+        "type": "union council of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q24345967"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.53333333,
+          21.66666667
+        ]
+      },
+      "properties": {
+        "name": "Remakri Union",
+        "wikidata": "Q24345971",
+        "type": "union council of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q24345971"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.45,
+          21.8
+        ]
+      },
+      "properties": {
+        "name": "Balipara Union",
+        "wikidata": "Q24345975",
+        "type": "union council of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q24345975"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.36666667,
+          21.66666667
+        ]
+      },
+      "properties": {
+        "name": "Alikadam Union",
+        "wikidata": "Q24345978",
+        "type": "union council of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q24345978"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.26666667,
+          21.68333333
+        ]
+      },
+      "properties": {
+        "name": "Chaikkhyong Union",
+        "wikidata": "Q24345983",
+        "type": "union council of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q24345983"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.16666667,
+          22.35
+        ]
+      },
+      "properties": {
+        "name": "Rajbila Union",
+        "wikidata": "Q24345987",
+        "type": "union council of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q24345987"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.18333333,
+          22.23333333
+        ]
+      },
+      "properties": {
+        "name": "Kuhalong Union",
+        "wikidata": "Q24345992",
+        "type": "union council of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q24345992"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.18333333,
+          22.15
+        ]
+      },
+      "properties": {
+        "name": "Sualak Union",
+        "wikidata": "Q24345995",
+        "type": "union council of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q24345995"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.25,
+          22.0
+        ]
+      },
+      "properties": {
+        "name": "Tankabati Union",
+        "wikidata": "Q24345998",
+        "type": "union council of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q24345998"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.18333333,
+          21.41666667
+        ]
+      },
+      "properties": {
+        "name": "Naikhongchhari Union",
+        "wikidata": "Q24346002",
+        "type": "union council of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q24346002"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.31666667,
+          21.45833333
+        ]
+      },
+      "properties": {
+        "name": "Dochhari Union",
+        "wikidata": "Q24346005",
+        "type": "union council of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q24346005"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.2192,
+          22.1952
+        ]
+      },
+      "properties": {
+        "name": "Bandarban Hills",
+        "wikidata": "Q24693557",
+        "type": "constituency of the Jatiya Sangsad",
+        "url": "http://www.wikidata.org/entity/Q24693557"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.15833333,
+          21.38333333
+        ]
+      },
+      "properties": {
+        "name": "Sonaichhari Union",
+        "wikidata": "Q47509402",
+        "type": "union council of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q47509402"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.18333333,
+          21.8
+        ]
+      },
+      "properties": {
+        "name": "Faitang Union",
+        "wikidata": "Q48827546",
+        "type": "union council of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q48827546"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.48333333,
+          21.48333333
+        ]
+      },
+      "properties": {
+        "name": "Kurukpata Union",
+        "wikidata": "Q48829518",
+        "type": "union council of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q48829518"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.31666667,
+          21.6
+        ]
+      },
+      "properties": {
+        "name": "Nayapara Union",
+        "wikidata": "Q48829532",
+        "type": "union council of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q48829532"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.2,
+          21.775
+        ]
+      },
+      "properties": {
+        "name": "Lama Municipality",
+        "wikidata": "Q50808632",
+        "type": "municipality of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q50808632"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.2,
+          21.775
+        ]
+      },
+      "properties": {
+        "name": "Q50808637",
+        "wikidata": "Q50808637",
+        "type": "thana of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q50808637"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.1833,
+          21.4167
+        ]
+      },
+      "properties": {
+        "name": "Q50808639",
+        "wikidata": "Q50808639",
+        "type": "thana of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q50808639"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.3056,
+          21.6667
+        ]
+      },
+      "properties": {
+        "name": "Q50808676",
+        "wikidata": "Q50808676",
+        "type": "thana of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q50808676"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.4278,
+          21.7861
+        ]
+      },
+      "properties": {
+        "name": "Q50822358",
+        "wikidata": "Q50822358",
+        "type": "thana of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q50822358"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.4167,
+          22.05
+        ]
+      },
+      "properties": {
+        "name": "Q50822366",
+        "wikidata": "Q50822366",
+        "type": "thana of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q50822366"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.3333,
+          22.1667
+        ]
+      },
+      "properties": {
+        "name": "Q50822607",
+        "wikidata": "Q50822607",
+        "type": "thana of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q50822607"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.49,
+          22.03
+        ]
+      },
+      "properties": {
+        "name": "Q50822610",
+        "wikidata": "Q50822610",
+        "type": "thana of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q50822610"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.548319,
+          21.922519
+        ]
+      },
+      "properties": {
+        "name": "Tlabong Waterfalls",
+        "wikidata": "Q55232201",
+        "type": "waterfall",
+        "url": "http://www.wikidata.org/entity/Q55232201"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.514474,
+          21.94376
+        ]
+      },
+      "properties": {
+        "name": "Passing Para",
+        "wikidata": "Q55232221",
+        "type": "human settlement",
+        "url": "http://www.wikidata.org/entity/Q55232221"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.1876697,
+          22.1827804
+        ]
+      },
+      "properties": {
+        "name": "Meghla Parjatan Complex",
+        "wikidata": "Q55232254",
+        "type": "building complex",
+        "url": "http://www.wikidata.org/entity/Q55232254"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.2145187,
+          22.1508061
+        ]
+      },
+      "properties": {
+        "name": "Shaila Prapat",
+        "wikidata": "Q55232284",
+        "type": "fountain",
+        "url": "http://www.wikidata.org/entity/Q55232284"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.2475838,
+          22.0951736
+        ]
+      },
+      "properties": {
+        "name": "Sairu Hill Resort",
+        "wikidata": "Q55232288",
+        "type": "resort",
+        "url": "http://www.wikidata.org/entity/Q55232288"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.54888356,
+          21.776677698
+        ]
+      },
+      "properties": {
+        "name": "Amiakhum Waterfall",
+        "wikidata": "Q55232299",
+        "type": "waterfall",
+        "url": "http://www.wikidata.org/entity/Q55232299"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.225016,
+          22.192609
+        ]
+      },
+      "properties": {
+        "name": "Bandarban Government College",
+        "wikidata": "Q61359545",
+        "type": "college",
+        "url": "http://www.wikidata.org/entity/Q61359545"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.209756,
+          22.21581
+        ]
+      },
+      "properties": {
+        "name": "Bandarban Government Mohila College",
+        "wikidata": "Q61359548",
+        "type": "college",
+        "url": "http://www.wikidata.org/entity/Q61359548"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.52411,
+          21.900894
+        ]
+      },
+      "properties": {
+        "name": "Kapital Hill",
+        "wikidata": "Q63707360",
+        "type": "mountain",
+        "url": "http://www.wikidata.org/entity/Q63707360"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.5802,
+          21.92641
+        ]
+      },
+      "properties": {
+        "name": "Kreikung Taung",
+        "wikidata": "Q63728180",
+        "type": "mountain",
+        "url": "http://www.wikidata.org/entity/Q63728180"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.60159,
+          21.70372
+        ]
+      },
+      "properties": {
+        "name": "Jogi Haphong",
+        "wikidata": "Q63863656",
+        "type": "mountain",
+        "url": "http://www.wikidata.org/entity/Q63863656"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.6008,
+          21.76086
+        ]
+      },
+      "properties": {
+        "name": "Q63867140",
+        "wikidata": "Q63867140",
+        "type": "mountain",
+        "url": "http://www.wikidata.org/entity/Q63867140"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.60493,
+          21.7426
+        ]
+      },
+      "properties": {
+        "name": "Q63867226",
+        "wikidata": "Q63867226",
+        "type": "mountain",
+        "url": "http://www.wikidata.org/entity/Q63867226"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.2549117,
+          22.0575707
+        ]
+      },
+      "properties": {
+        "name": "Chimbuk hill",
+        "wikidata": "Q64517866",
+        "type": "hill",
+        "url": "http://www.wikidata.org/entity/Q64517866"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.3232091,
+          21.9118681
+        ]
+      },
+      "properties": {
+        "name": "Nilgiri Hill Resort",
+        "wikidata": "Q64547356",
+        "type": "resort",
+        "url": "http://www.wikidata.org/entity/Q64547356"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.40416,
+          22.11381
+        ]
+      },
+      "properties": {
+        "name": "Jurvarongpara",
+        "wikidata": "Q65044396",
+        "type": "human settlement",
+        "url": "http://www.wikidata.org/entity/Q65044396"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.187076,
+          22.1817895
+        ]
+      },
+      "properties": {
+        "name": "Meghla Park Lake",
+        "wikidata": "Q66638457",
+        "type": "lake",
+        "url": "http://www.wikidata.org/entity/Q66638457"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.2444087,
+          22.1955224
+        ]
+      },
+      "properties": {
+        "name": "Rama Zadi Temple",
+        "wikidata": "Q70317033",
+        "type": "temple",
+        "url": "http://www.wikidata.org/entity/Q70317033"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.466567,
+          21.830476
+        ]
+      },
+      "properties": {
+        "name": "Tama Tungi",
+        "wikidata": "Q113681620",
+        "type": "architectural landmark",
+        "url": "http://www.wikidata.org/entity/Q113681620"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.247799,
+          21.669369
+        ]
+      },
+      "properties": {
+        "name": "Maraing Taung",
+        "wikidata": "Q113686225",
+        "type": "hill",
+        "url": "http://www.wikidata.org/entity/Q113686225"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.247799,
+          21.669369
+        ]
+      },
+      "properties": {
+        "name": "Maraing Taung",
+        "wikidata": "Q113686225",
+        "type": "tourist attraction",
+        "url": "http://www.wikidata.org/entity/Q113686225"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.081924,
+          21.901059
+        ]
+      },
+      "properties": {
+        "name": "Chairman Lake",
+        "wikidata": "Q114790386",
+        "type": "lake",
+        "url": "http://www.wikidata.org/entity/Q114790386"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.2710935,
+          22.0568638
+        ]
+      },
+      "properties": {
+        "name": "Chimbuk Tourist Centre",
+        "wikidata": "Q122641873",
+        "type": "tourist attraction",
+        "url": "http://www.wikidata.org/entity/Q122641873"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.18936,
+          22.18157
+        ]
+      },
+      "properties": {
+        "name": "Meghla Hanging Bridge 1",
+        "wikidata": "Q122644019",
+        "type": "bridge",
+        "url": "http://www.wikidata.org/entity/Q122644019"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.18936,
+          22.18157
+        ]
+      },
+      "properties": {
+        "name": "Meghla Hanging Bridge 1",
+        "wikidata": "Q122644019",
+        "type": "Q58946450",
+        "url": "http://www.wikidata.org/entity/Q122644019"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.269961,
+          22.218474
+        ]
+      },
+      "properties": {
+        "name": "Q122830572",
+        "wikidata": "Q122830572",
+        "type": "union council of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q122830572"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.1703,
+          22.132
+        ]
+      },
+      "properties": {
+        "name": "Bandarban University",
+        "wikidata": "Q126007885",
+        "type": "university",
+        "url": "http://www.wikidata.org/entity/Q126007885"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.2152049,
+          22.1926242
+        ]
+      },
+      "properties": {
+        "name": "Bandarban University",
+        "wikidata": "Q126007885",
+        "type": "university",
+        "url": "http://www.wikidata.org/entity/Q126007885"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          92.195657,
+          21.783116
+        ]
+      },
+      "properties": {
+        "name": "Q137612569",
+        "wikidata": "Q137612569",
+        "type": "secondary school",
+        "url": "http://www.wikidata.org/entity/Q137612569"
+      }
+    }
+  ]
+}

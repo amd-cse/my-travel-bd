@@ -1,0 +1,2053 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.316666666,
+          25.416666666
+        ]
+      },
+      "properties": {
+        "name": "Pirganj",
+        "wikidata": "Q4363296",
+        "type": "human settlement",
+        "url": "http://www.wikidata.org/entity/Q4363296"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.4,
+          25.666666666
+        ]
+      },
+      "properties": {
+        "name": "Pirgachha",
+        "wikidata": "Q4363299",
+        "type": "human settlement",
+        "url": "http://www.wikidata.org/entity/Q4363299"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.016666666,
+          25.8
+        ]
+      },
+      "properties": {
+        "name": "Taraganj",
+        "wikidata": "Q4451476",
+        "type": "human settlement",
+        "url": "http://www.wikidata.org/entity/Q4451476"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.05,
+          25.66666667
+        ]
+      },
+      "properties": {
+        "name": "Badarganj Upazila",
+        "wikidata": "Q4840618",
+        "type": "upazila of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q4840618"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.26041,
+          25.71612
+        ]
+      },
+      "properties": {
+        "name": "Begum Rokeya University, Rangpur",
+        "wikidata": "Q4880627",
+        "type": "public university",
+        "url": "http://www.wikidata.org/entity/Q4880627"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.255,
+          25.7188
+        ]
+      },
+      "properties": {
+        "name": "Carmichael College",
+        "wikidata": "Q5043663",
+        "type": "college",
+        "url": "http://www.wikidata.org/entity/Q5043663"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.255,
+          25.7188
+        ]
+      },
+      "properties": {
+        "name": "Carmichael College",
+        "wikidata": "Q5043663",
+        "type": "academic institution",
+        "url": "http://www.wikidata.org/entity/Q5043663"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.2167,
+          25.85
+        ]
+      },
+      "properties": {
+        "name": "Gangachara Upazila",
+        "wikidata": "Q5521012",
+        "type": "upazila of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q5521012"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.22,
+          25.87
+        ]
+      },
+      "properties": {
+        "name": "Gangachara Upazila",
+        "wikidata": "Q5521012",
+        "type": "upazila of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q5521012"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.4167,
+          25.7708
+        ]
+      },
+      "properties": {
+        "name": "Kaunia Upazila",
+        "wikidata": "Q6378832",
+        "type": "upazila of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q6378832"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.9808,
+          25.7266
+        ]
+      },
+      "properties": {
+        "name": "Laldighi Mosque",
+        "wikidata": "Q6480235",
+        "type": "mosque",
+        "url": "http://www.wikidata.org/entity/Q6480235"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.2833,
+          25.5417
+        ]
+      },
+      "properties": {
+        "name": "Mithapukur Upazila",
+        "wikidata": "Q6881592",
+        "type": "upazila of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q6881592"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.4,
+          25.58
+        ]
+      },
+      "properties": {
+        "name": "Pirgachha Upazila",
+        "wikidata": "Q7197965",
+        "type": "upazila of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q7197965"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.42,
+          25.67
+        ]
+      },
+      "properties": {
+        "name": "Pirgachha Upazila",
+        "wikidata": "Q7197965",
+        "type": "upazila of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q7197965"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.3167,
+          25.4153
+        ]
+      },
+      "properties": {
+        "name": "Pirganj Upazila",
+        "wikidata": "Q7197966",
+        "type": "upazila of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q7197966"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.233,
+          25.746
+        ]
+      },
+      "properties": {
+        "name": "Police Training Centre, Rangpur",
+        "wikidata": "Q7209534",
+        "type": "school",
+        "url": "http://www.wikidata.org/entity/Q7209534"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.2226,
+          25.7437
+        ]
+      },
+      "properties": {
+        "name": "Prime Medical College",
+        "wikidata": "Q7243274",
+        "type": "medical school",
+        "url": "http://www.wikidata.org/entity/Q7243274"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.234062,
+          25.766697
+        ]
+      },
+      "properties": {
+        "name": "Rangpur Medical College",
+        "wikidata": "Q7292909",
+        "type": "medical school",
+        "url": "http://www.wikidata.org/entity/Q7292909"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.23333,
+          25.75014
+        ]
+      },
+      "properties": {
+        "name": "Rangpur Sadar Upazila",
+        "wikidata": "Q7292912",
+        "type": "upazila of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q7292912"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.2333,
+          25.7583
+        ]
+      },
+      "properties": {
+        "name": "Rangpur Sadar Upazila",
+        "wikidata": "Q7292912",
+        "type": "upazila of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q7292912"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.04,
+          25.79
+        ]
+      },
+      "properties": {
+        "name": "Taraganj Upazila",
+        "wikidata": "Q7685293",
+        "type": "upazila of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q7685293"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.0167,
+          25.8111
+        ]
+      },
+      "properties": {
+        "name": "Taraganj Upazila",
+        "wikidata": "Q7685293",
+        "type": "upazila of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q7685293"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.242852,
+          25.757411
+        ]
+      },
+      "properties": {
+        "name": "Rangpur Zilla School",
+        "wikidata": "Q14980579",
+        "type": "zilla school",
+        "url": "http://www.wikidata.org/entity/Q14980579"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.24758889,
+          25.756475
+        ]
+      },
+      "properties": {
+        "name": "Rangpur Cricket Garden",
+        "wikidata": "Q15271812",
+        "type": "sports venue",
+        "url": "http://www.wikidata.org/entity/Q15271812"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.24970833,
+          25.7592
+        ]
+      },
+      "properties": {
+        "name": "Rangpur Stadium",
+        "wikidata": "Q15271814",
+        "type": "stadium",
+        "url": "http://www.wikidata.org/entity/Q15271814"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.2476,
+          25.7589
+        ]
+      },
+      "properties": {
+        "name": "Rangpur Government College",
+        "wikidata": "Q17379561",
+        "type": "college",
+        "url": "http://www.wikidata.org/entity/Q17379561"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.2494,
+          25.7568
+        ]
+      },
+      "properties": {
+        "name": "Police Lines School and College",
+        "wikidata": "Q19895310",
+        "type": "school",
+        "url": "http://www.wikidata.org/entity/Q19895310"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.2494,
+          25.7568
+        ]
+      },
+      "properties": {
+        "name": "Police Lines School and College",
+        "wikidata": "Q19895310",
+        "type": "college",
+        "url": "http://www.wikidata.org/entity/Q19895310"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.257979,
+          25.749936
+        ]
+      },
+      "properties": {
+        "name": "RANGPUR GOVT. CITY COLLEGE",
+        "wikidata": "Q20612572",
+        "type": "college",
+        "url": "http://www.wikidata.org/entity/Q20612572"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.260853,
+          25.752657
+        ]
+      },
+      "properties": {
+        "name": "Rangpur Polytechnic Institute",
+        "wikidata": "Q21609747",
+        "type": "polytechnic institute",
+        "url": "http://www.wikidata.org/entity/Q21609747"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.039722222,
+          25.706666666
+        ]
+      },
+      "properties": {
+        "name": "Damodarpur Union, Badarganj",
+        "wikidata": "Q22347190",
+        "type": "union council of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q22347190"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.22,
+          25.85
+        ]
+      },
+      "properties": {
+        "name": "Rangpur-1",
+        "wikidata": "Q23023970",
+        "type": "constituency of the Jatiya Sangsad",
+        "url": "http://www.wikidata.org/entity/Q23023970"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.05,
+          25.67
+        ]
+      },
+      "properties": {
+        "name": "Rangpur-2",
+        "wikidata": "Q24692958",
+        "type": "constituency of the Jatiya Sangsad",
+        "url": "http://www.wikidata.org/entity/Q24692958"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.24,
+          25.76
+        ]
+      },
+      "properties": {
+        "name": "Rangpur-3",
+        "wikidata": "Q24692962",
+        "type": "constituency of the Jatiya Sangsad",
+        "url": "http://www.wikidata.org/entity/Q24692962"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.41,
+          25.66
+        ]
+      },
+      "properties": {
+        "name": "Rangpur-4",
+        "wikidata": "Q24692965",
+        "type": "constituency of the Jatiya Sangsad",
+        "url": "http://www.wikidata.org/entity/Q24692965"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.27,
+          25.57
+        ]
+      },
+      "properties": {
+        "name": "Rangpur-5",
+        "wikidata": "Q24692967",
+        "type": "constituency of the Jatiya Sangsad",
+        "url": "http://www.wikidata.org/entity/Q24692967"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.31,
+          25.42
+        ]
+      },
+      "properties": {
+        "name": "Rangpur-6",
+        "wikidata": "Q24692968",
+        "type": "constituency of the Jatiya Sangsad",
+        "url": "http://www.wikidata.org/entity/Q24692968"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.083984,
+          25.597336
+        ]
+      },
+      "properties": {
+        "name": "Chaprakot Mound",
+        "wikidata": "Q27126763",
+        "type": "archaeological site",
+        "url": "http://www.wikidata.org/entity/Q27126763"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.083984,
+          25.597336
+        ]
+      },
+      "properties": {
+        "name": "Chaprakot Mound",
+        "wikidata": "Q27126763",
+        "type": "vihara",
+        "url": "http://www.wikidata.org/entity/Q27126763"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.083984,
+          25.597336
+        ]
+      },
+      "properties": {
+        "name": "Chaprakot Mound",
+        "wikidata": "Q27126763",
+        "type": "mound",
+        "url": "http://www.wikidata.org/entity/Q27126763"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.249308445,
+          25.753593912
+        ]
+      },
+      "properties": {
+        "name": "Rangpur Govt. Technical School & College",
+        "wikidata": "Q28313190",
+        "type": "college",
+        "url": "http://www.wikidata.org/entity/Q28313190"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.248332532,
+          25.753613256
+        ]
+      },
+      "properties": {
+        "name": "Govt. Girls High School, Rangpur",
+        "wikidata": "Q31723853",
+        "type": "government girls' high school",
+        "url": "http://www.wikidata.org/entity/Q31723853"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.4238973,
+          25.7782961
+        ]
+      },
+      "properties": {
+        "name": "Kaunia Junction railway station",
+        "wikidata": "Q60433116",
+        "type": "railway station",
+        "url": "http://www.wikidata.org/entity/Q60433116"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.4073316,
+          25.6608011
+        ]
+      },
+      "properties": {
+        "name": "Pirgacha railway station",
+        "wikidata": "Q60433117",
+        "type": "railway station",
+        "url": "http://www.wikidata.org/entity/Q60433117"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.2634621,
+          25.7284973
+        ]
+      },
+      "properties": {
+        "name": "Rangpur railway station",
+        "wikidata": "Q60433131",
+        "type": "railway station",
+        "url": "http://www.wikidata.org/entity/Q60433131"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.057832,
+          25.6719668
+        ]
+      },
+      "properties": {
+        "name": "Badarganj railway station",
+        "wikidata": "Q60433155",
+        "type": "railway station",
+        "url": "http://www.wikidata.org/entity/Q60433155"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.1488975,
+          25.6942285
+        ]
+      },
+      "properties": {
+        "name": "Shyampur railway station",
+        "wikidata": "Q60473948",
+        "type": "railway station",
+        "url": "http://www.wikidata.org/entity/Q60473948"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.4091603,
+          25.7337011
+        ]
+      },
+      "properties": {
+        "name": "Annadanagar railway station",
+        "wikidata": "Q60473950",
+        "type": "railway station",
+        "url": "http://www.wikidata.org/entity/Q60473950"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.420274,
+          25.6078549
+        ]
+      },
+      "properties": {
+        "name": "Chowdhurani railway station",
+        "wikidata": "Q60473951",
+        "type": "railway station",
+        "url": "http://www.wikidata.org/entity/Q60473951"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.1090506,
+          25.8305871
+        ]
+      },
+      "properties": {
+        "name": "Vinnyajagat",
+        "wikidata": "Q60523244",
+        "type": "amusement park",
+        "url": "http://www.wikidata.org/entity/Q60523244"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.267362,
+          25.7475
+        ]
+      },
+      "properties": {
+        "name": "RCCI Public School & College",
+        "wikidata": "Q65004334",
+        "type": "school",
+        "url": "http://www.wikidata.org/entity/Q65004334"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.267362,
+          25.7475
+        ]
+      },
+      "properties": {
+        "name": "RCCI Public School & College",
+        "wikidata": "Q65004334",
+        "type": "college",
+        "url": "http://www.wikidata.org/entity/Q65004334"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.10817,
+          25.68257
+        ]
+      },
+      "properties": {
+        "name": "Q85350903",
+        "wikidata": "Q85350903",
+        "type": "railway station",
+        "url": "http://www.wikidata.org/entity/Q85350903"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.352041666,
+          25.764955555
+        ]
+      },
+      "properties": {
+        "name": "Mirbagh Railway Station",
+        "wikidata": "Q85351021",
+        "type": "railway station",
+        "url": "http://www.wikidata.org/entity/Q85351021"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.233401,
+          25.768574
+        ]
+      },
+      "properties": {
+        "name": "Rangpur Nursing College, Rangpur",
+        "wikidata": "Q97383335",
+        "type": "college",
+        "url": "http://www.wikidata.org/entity/Q97383335"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.21818,
+          25.76889
+        ]
+      },
+      "properties": {
+        "name": "Bir Uttam Shaheed Samad School and College",
+        "wikidata": "Q97383765",
+        "type": "college",
+        "url": "http://www.wikidata.org/entity/Q97383765"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.2201316,
+          25.8523783
+        ]
+      },
+      "properties": {
+        "name": "Gangachara Government College",
+        "wikidata": "Q107285069",
+        "type": "college",
+        "url": "http://www.wikidata.org/entity/Q107285069"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.252155004,
+          25.754030512
+        ]
+      },
+      "properties": {
+        "name": "Rangpur High School",
+        "wikidata": "Q107651699",
+        "type": "school",
+        "url": "http://www.wikidata.org/entity/Q107651699"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.253741,
+          25.752778
+        ]
+      },
+      "properties": {
+        "name": "Kailash Ranjan High School, Rangpur",
+        "wikidata": "Q107651844",
+        "type": "school",
+        "url": "http://www.wikidata.org/entity/Q107651844"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.25183,
+          25.746504
+        ]
+      },
+      "properties": {
+        "name": "Collectorate School & College, Rangpur",
+        "wikidata": "Q107651922",
+        "type": "school",
+        "url": "http://www.wikidata.org/entity/Q107651922"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.25183,
+          25.746504
+        ]
+      },
+      "properties": {
+        "name": "Collectorate School & College, Rangpur",
+        "wikidata": "Q107651922",
+        "type": "college",
+        "url": "http://www.wikidata.org/entity/Q107651922"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.236049,
+          25.760136
+        ]
+      },
+      "properties": {
+        "name": "BIAM Model School And College, Rangpur",
+        "wikidata": "Q107652363",
+        "type": "school",
+        "url": "http://www.wikidata.org/entity/Q107652363"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.25068,
+          25.754059
+        ]
+      },
+      "properties": {
+        "name": "Rangpur Town Hall",
+        "wikidata": "Q107719292",
+        "type": "city hall",
+        "url": "http://www.wikidata.org/entity/Q107719292"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.066039,
+          25.671487
+        ]
+      },
+      "properties": {
+        "name": "Badarganj Government College",
+        "wikidata": "Q112147427",
+        "type": "college",
+        "url": "http://www.wikidata.org/entity/Q112147427"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.296548,
+          25.727358
+        ]
+      },
+      "properties": {
+        "name": "Mahiganj College, Rangpur",
+        "wikidata": "Q112655806",
+        "type": "college",
+        "url": "http://www.wikidata.org/entity/Q112655806"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.263888888,
+          25.326666666
+        ]
+      },
+      "properties": {
+        "name": "Neel Doriya",
+        "wikidata": "Q113458497",
+        "type": "lake",
+        "url": "http://www.wikidata.org/entity/Q113458497"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.228597,
+          25.766986
+        ]
+      },
+      "properties": {
+        "name": "Rangpur Central Jail",
+        "wikidata": "Q114296638",
+        "type": "prison",
+        "url": "http://www.wikidata.org/entity/Q114296638"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.2542111,
+          25.7501893
+        ]
+      },
+      "properties": {
+        "name": "Q115867672",
+        "wikidata": "Q115867672",
+        "type": "Hindu temple",
+        "url": "http://www.wikidata.org/entity/Q115867672"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.254439,
+          25.72092
+        ]
+      },
+      "properties": {
+        "name": "Rangpur Carmichael University",
+        "wikidata": "Q124152944",
+        "type": "proposed university",
+        "url": "http://www.wikidata.org/entity/Q124152944"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.25635,
+          25.711454
+        ]
+      },
+      "properties": {
+        "name": "Teesta University",
+        "wikidata": "Q124653604",
+        "type": "private university",
+        "url": "http://www.wikidata.org/entity/Q124653604"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.243645,
+          25.7195551
+        ]
+      },
+      "properties": {
+        "name": "Tajhat Thana",
+        "wikidata": "Q130783824",
+        "type": "administrative territorial entity",
+        "url": "http://www.wikidata.org/entity/Q130783824"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.243645,
+          25.7195551
+        ]
+      },
+      "properties": {
+        "name": "Tajhat Thana",
+        "wikidata": "Q130783824",
+        "type": "police station",
+        "url": "http://www.wikidata.org/entity/Q130783824"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.252575,
+          25.747231
+        ]
+      },
+      "properties": {
+        "name": "Samaj Kalayan Bidya Bithi Girl's School & College",
+        "wikidata": "Q131139799",
+        "type": "educational institution",
+        "url": "http://www.wikidata.org/entity/Q131139799"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.151236,
+          25.696317
+        ]
+      },
+      "properties": {
+        "name": "Q131192833",
+        "wikidata": "Q131192833",
+        "type": "college",
+        "url": "http://www.wikidata.org/entity/Q131192833"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.188597847,
+          25.750585462
+        ]
+      },
+      "properties": {
+        "name": "Radha Krisnapur Degree College",
+        "wikidata": "Q131193280",
+        "type": "college",
+        "url": "http://www.wikidata.org/entity/Q131193280"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.266459,
+          25.702222
+        ]
+      },
+      "properties": {
+        "name": "Rangpur Model College, Rangpur",
+        "wikidata": "Q131285492",
+        "type": "college",
+        "url": "http://www.wikidata.org/entity/Q131285492"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.281926,
+          25.725591
+        ]
+      },
+      "properties": {
+        "name": "Agriculture Training Institute, Tajhat, Rangpur",
+        "wikidata": "Q131424498",
+        "type": "educational institution",
+        "url": "http://www.wikidata.org/entity/Q131424498"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.25975,
+          25.721416666
+        ]
+      },
+      "properties": {
+        "name": "Carmichael Collegiate School and College, Rangpur",
+        "wikidata": "Q131424586",
+        "type": "school",
+        "url": "http://www.wikidata.org/entity/Q131424586"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.25975,
+          25.721416666
+        ]
+      },
+      "properties": {
+        "name": "Carmichael Collegiate School and College, Rangpur",
+        "wikidata": "Q131424586",
+        "type": "college",
+        "url": "http://www.wikidata.org/entity/Q131424586"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.223971,
+          25.776971
+        ]
+      },
+      "properties": {
+        "name": "Border Guard Public School And College, Rangpur",
+        "wikidata": "Q131426593",
+        "type": "school",
+        "url": "http://www.wikidata.org/entity/Q131426593"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.223971,
+          25.776971
+        ]
+      },
+      "properties": {
+        "name": "Border Guard Public School And College, Rangpur",
+        "wikidata": "Q131426593",
+        "type": "college",
+        "url": "http://www.wikidata.org/entity/Q131426593"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.289617909,
+          25.72979994
+        ]
+      },
+      "properties": {
+        "name": "Pareshnath Temple, Rangpur",
+        "wikidata": "Q131463933",
+        "type": "Hindu temple",
+        "url": "http://www.wikidata.org/entity/Q131463933"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.2900865,
+          25.7293252
+        ]
+      },
+      "properties": {
+        "name": "Mahiganj Thana",
+        "wikidata": "Q132126846",
+        "type": "administrative territorial entity",
+        "url": "http://www.wikidata.org/entity/Q132126846"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.3163514,
+          25.802673
+        ]
+      },
+      "properties": {
+        "name": "Haragach Thana",
+        "wikidata": "Q132126855",
+        "type": "administrative territorial entity",
+        "url": "http://www.wikidata.org/entity/Q132126855"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.2298577,
+          25.784687
+        ]
+      },
+      "properties": {
+        "name": "Parshuram Thana",
+        "wikidata": "Q132132487",
+        "type": "administrative territorial entity",
+        "url": "http://www.wikidata.org/entity/Q132132487"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.249680555,
+          25.758133333
+        ]
+      },
+      "properties": {
+        "name": "Rangpur District Indoor Stadium",
+        "wikidata": "Q133499978",
+        "type": "sports venue",
+        "url": "http://www.wikidata.org/entity/Q133499978"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.252873,
+          25.72001
+        ]
+      },
+      "properties": {
+        "name": "Central Temple, Carmichael College",
+        "wikidata": "Q135105020",
+        "type": "Hindu temple",
+        "url": "http://www.wikidata.org/entity/Q135105020"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.255672,
+          25.744779
+        ]
+      },
+      "properties": {
+        "name": "Rangpur Law College",
+        "wikidata": "Q135415380",
+        "type": "law school",
+        "url": "http://www.wikidata.org/entity/Q135415380"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.244444444,
+          25.75
+        ]
+      },
+      "properties": {
+        "name": "Rangpur",
+        "wikidata": "Q994514",
+        "type": "city",
+        "url": "http://www.wikidata.org/entity/Q994514"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.244444444,
+          25.75
+        ]
+      },
+      "properties": {
+        "name": "Rangpur",
+        "wikidata": "Q994514",
+        "type": "big city",
+        "url": "http://www.wikidata.org/entity/Q994514"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.25,
+          25.733333333
+        ]
+      },
+      "properties": {
+        "name": "Rangpur District",
+        "wikidata": "Q2344570",
+        "type": "district of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q2344570"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.280367,
+          25.725057
+        ]
+      },
+      "properties": {
+        "name": "Tajhat Palace",
+        "wikidata": "Q3661445",
+        "type": "palace",
+        "url": "http://www.wikidata.org/entity/Q3661445"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.280367,
+          25.725057
+        ]
+      },
+      "properties": {
+        "name": "Tajhat Palace",
+        "wikidata": "Q3661445",
+        "type": "museum",
+        "url": "http://www.wikidata.org/entity/Q3661445"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.051979,
+          25.663596
+        ]
+      },
+      "properties": {
+        "name": "Badarganj",
+        "wikidata": "Q4074931",
+        "type": "human settlement",
+        "url": "http://www.wikidata.org/entity/Q4074931"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.05377,
+          25.67419
+        ]
+      },
+      "properties": {
+        "name": "Badarganj",
+        "wikidata": "Q4074931",
+        "type": "human settlement",
+        "url": "http://www.wikidata.org/entity/Q4074931"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.216666666,
+          25.85
+        ]
+      },
+      "properties": {
+        "name": "Gangachhara",
+        "wikidata": "Q4133183",
+        "type": "human settlement",
+        "url": "http://www.wikidata.org/entity/Q4133183"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.416666666,
+          25.766666666
+        ]
+      },
+      "properties": {
+        "name": "Kaunia",
+        "wikidata": "Q4217610",
+        "type": "human settlement",
+        "url": "http://www.wikidata.org/entity/Q4217610"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.283333333,
+          25.55
+        ]
+      },
+      "properties": {
+        "name": "Mithapukur",
+        "wikidata": "Q4296909",
+        "type": "human settlement",
+        "url": "http://www.wikidata.org/entity/Q4296909"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.23082222,
+          25.76455833
+        ]
+      },
+      "properties": {
+        "name": "Cantonment Public School and College, Rangpur",
+        "wikidata": "Q7292906",
+        "type": "school",
+        "url": "http://www.wikidata.org/entity/Q7292906"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.23082222,
+          25.76455833
+        ]
+      },
+      "properties": {
+        "name": "Cantonment Public School and College, Rangpur",
+        "wikidata": "Q7292906",
+        "type": "college",
+        "url": "http://www.wikidata.org/entity/Q7292906"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.25877,
+          25.71256
+        ]
+      },
+      "properties": {
+        "name": "Rangpur Cadet College",
+        "wikidata": "Q7292907",
+        "type": "college",
+        "url": "http://www.wikidata.org/entity/Q7292907"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.25877,
+          25.71256
+        ]
+      },
+      "properties": {
+        "name": "Rangpur Cadet College",
+        "wikidata": "Q7292907",
+        "type": "cadet college",
+        "url": "http://www.wikidata.org/entity/Q7292907"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.4,
+          25.5806
+        ]
+      },
+      "properties": {
+        "name": "Q13150054",
+        "wikidata": "Q13150054",
+        "type": "union council of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q13150054"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.458627,
+          25.60754
+        ]
+      },
+      "properties": {
+        "name": "Q13150114",
+        "wikidata": "Q13150114",
+        "type": "union council of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q13150114"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.534166666,
+          25.690555555
+        ]
+      },
+      "properties": {
+        "name": "Q13151335",
+        "wikidata": "Q13151335",
+        "type": "union council of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q13151335"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.256362,
+          25.601122
+        ]
+      },
+      "properties": {
+        "name": "Q13152532",
+        "wikidata": "Q13152532",
+        "type": "union council of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q13152532"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.415155,
+          25.774464
+        ]
+      },
+      "properties": {
+        "name": "Kaunia College",
+        "wikidata": "Q18987333",
+        "type": "college",
+        "url": "http://www.wikidata.org/entity/Q18987333"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.328055555,
+          25.483611111
+        ]
+      },
+      "properties": {
+        "name": "Q22347095",
+        "wikidata": "Q22347095",
+        "type": "union council of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q22347095"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.2474395,
+          25.7147107
+        ]
+      },
+      "properties": {
+        "name": "Rangpur Public School And College",
+        "wikidata": "Q24947218",
+        "type": "school",
+        "url": "http://www.wikidata.org/entity/Q24947218"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.2474395,
+          25.7147107
+        ]
+      },
+      "properties": {
+        "name": "Rangpur Public School And College",
+        "wikidata": "Q24947218",
+        "type": "college",
+        "url": "http://www.wikidata.org/entity/Q24947218"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.3086602,
+          25.4174916
+        ]
+      },
+      "properties": {
+        "name": "Q25586321",
+        "wikidata": "Q25586321",
+        "type": "college",
+        "url": "http://www.wikidata.org/entity/Q25586321"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.2557,
+          25.4753
+        ]
+      },
+      "properties": {
+        "name": "Q25588231",
+        "wikidata": "Q25588231",
+        "type": "union council of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q25588231"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.2333,
+          25.7583
+        ]
+      },
+      "properties": {
+        "name": "2017 Gangachra communal violence",
+        "wikidata": "Q54317665",
+        "type": "occurrence",
+        "url": "http://www.wikidata.org/entity/Q54317665"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.262613,
+          25.749061
+        ]
+      },
+      "properties": {
+        "name": "Govt. Begum Rokeya College, Rangpur",
+        "wikidata": "Q57419558",
+        "type": "women's college",
+        "url": "http://www.wikidata.org/entity/Q57419558"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.262726,
+          25.727216
+        ]
+      },
+      "properties": {
+        "name": "Rangpur Textile Institute",
+        "wikidata": "Q97248651",
+        "type": "educational institution",
+        "url": "http://www.wikidata.org/entity/Q97248651"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.9069305,
+          25.8710011
+        ]
+      },
+      "properties": {
+        "name": "Dimla Kali Mandir",
+        "wikidata": "Q97251568",
+        "type": "Hindu temple",
+        "url": "http://www.wikidata.org/entity/Q97251568"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.2576524,
+          25.7478534
+        ]
+      },
+      "properties": {
+        "name": "Lions School And College,  Rangpur",
+        "wikidata": "Q108332901",
+        "type": "school",
+        "url": "http://www.wikidata.org/entity/Q108332901"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.2576524,
+          25.7478534
+        ]
+      },
+      "properties": {
+        "name": "Lions School And College,  Rangpur",
+        "wikidata": "Q108332901",
+        "type": "college",
+        "url": "http://www.wikidata.org/entity/Q108332901"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.404098,
+          25.662038
+        ]
+      },
+      "properties": {
+        "name": "Pirghacha Government College",
+        "wikidata": "Q112147420",
+        "type": "college",
+        "url": "http://www.wikidata.org/entity/Q112147420"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.011554,
+          25.813077
+        ]
+      },
+      "properties": {
+        "name": "TARAGANG WAQF ESTATE GOVT. COLLEGE",
+        "wikidata": "Q112147436",
+        "type": "college",
+        "url": "http://www.wikidata.org/entity/Q112147436"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.218569444,
+          25.853002777
+        ]
+      },
+      "properties": {
+        "name": "Q119801250",
+        "wikidata": "Q119801250",
+        "type": "thana of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q119801250"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.273302777,
+          25.576422222
+        ]
+      },
+      "properties": {
+        "name": "Q122751472",
+        "wikidata": "Q122751472",
+        "type": "thana of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q122751472"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.207141,
+          25.411123
+        ]
+      },
+      "properties": {
+        "name": "Khalashpir Bangabandhu College",
+        "wikidata": "Q131195566",
+        "type": "college",
+        "url": "http://www.wikidata.org/entity/Q131195566"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.187916666,
+          25.669694444
+        ]
+      },
+      "properties": {
+        "name": "Palichara Stadium",
+        "wikidata": "Q134465689",
+        "type": "stadium",
+        "url": "http://www.wikidata.org/entity/Q134465689"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.187916666,
+          25.669694444
+        ]
+      },
+      "properties": {
+        "name": "Palichara Stadium",
+        "wikidata": "Q134465689",
+        "type": "sports venue",
+        "url": "http://www.wikidata.org/entity/Q134465689"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.27226,
+          25.680989
+        ]
+      },
+      "properties": {
+        "name": "Rangpur Technical Training Centre, Rangpur",
+        "wikidata": "Q135683787",
+        "type": "educational institution",
+        "url": "http://www.wikidata.org/entity/Q135683787"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.431668,
+          25.774128
+        ]
+      },
+      "properties": {
+        "name": "Kaunia Women's College",
+        "wikidata": "Q136536437",
+        "type": "women's college",
+        "url": "http://www.wikidata.org/entity/Q136536437"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.358072,
+          25.760912
+        ]
+      },
+      "properties": {
+        "name": "Mirbagh Degree College",
+        "wikidata": "Q136805132",
+        "type": "college",
+        "url": "http://www.wikidata.org/entity/Q136805132"
+      }
+    }
+  ]
+}

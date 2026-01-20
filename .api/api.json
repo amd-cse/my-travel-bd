@@ -1,0 +1,11 @@
+{
+  "version": "1.0",
+  "apis": [
+    {
+      "identifier": "fsq-developers-places",
+      "source": "@fsq-developers-places/v2025-06-17#1gq011mmk5te3y8",
+      "integrity": "sha512-r7aNBih0wqLX/LX2axuwwstgWCqwIpPBgPOVmYd2UqSX6UVYt9axE15NgzkwgxsWbkUPnURe+qfdxyaneN4Nhw==",
+      "installerVersion": "6.1.3"
+    }
+  ]
+}

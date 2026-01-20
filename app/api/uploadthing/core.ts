@@ -14,7 +14,7 @@ export const ourFileRouter = {
              * For full list of options and defaults, see the File Route API reference
              * @see https://docs.uploadthing.com/file-routes#route-config
              */
-            maxFileSize: "4MB",
+            maxFileSize: "16MB",
             maxFileCount: 15,
         },
     })
@@ -24,7 +24,10 @@ export const ourFileRouter = {
             const session = await auth();
 
             // If you throw, the user will not be able to upload
-            if (!session || !session.user?.id) throw new UploadThingError("Unauthorized");
+            if (!session || !session.user?.id) {
+                console.error("UploadThing Middleware: Unauthorized (No session or user ID)");
+                throw new UploadThingError("Unauthorized");
+            }
 
             // Whatever is returned here is accessible in onUploadComplete as `metadata`
             return { userId: session.user.id };

@@ -24,6 +24,25 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          90.41951539760416,
+          23.716951153630795
+        ]
+      },
+      "properties": {
+        "name": "Baldha Garden",
+        "tourism": "",
+        "historic": "Park",
+        "natural": "",
+        "amenity": "",
+        "district": "Dhaka"
+      }
+    },
+  
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           90.3781728,
           23.7666047
         ]
@@ -2922,8 +2941,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          90.4125613,
-          23.704508
+          90.41216192639583,
+          23.704830270684113
         ]
       },
       "properties": {

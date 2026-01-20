@@ -1,0 +1,405 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.5,
+          23.13
+        ]
+      },
+      "properties": {
+        "name": "Narail District",
+        "wikidata": "Q1550260",
+        "type": "district of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q1550260"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.495277777,
+          23.155
+        ]
+      },
+      "properties": {
+        "name": "Narail",
+        "wikidata": "Q3294802",
+        "type": "human settlement",
+        "url": "http://www.wikidata.org/entity/Q3294802"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.5,
+          23.15
+        ]
+      },
+      "properties": {
+        "name": "Narail Sadar Upazila",
+        "wikidata": "Q3346708",
+        "type": "upazila of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q3346708"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.505,
+          23.175
+        ]
+      },
+      "properties": {
+        "name": "Narail Sadar Upazila",
+        "wikidata": "Q3346708",
+        "type": "upazila of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q3346708"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.6167,
+          23.0333
+        ]
+      },
+      "properties": {
+        "name": "Kalia Upazila",
+        "wikidata": "Q3347725",
+        "type": "upazila of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q3347725"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.616666666,
+          23.033333333
+        ]
+      },
+      "properties": {
+        "name": "Kalia",
+        "wikidata": "Q4210036",
+        "type": "human settlement",
+        "url": "http://www.wikidata.org/entity/Q4210036"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.630833333,
+          23.043055555
+        ]
+      },
+      "properties": {
+        "name": "Kalia",
+        "wikidata": "Q4210036",
+        "type": "human settlement",
+        "url": "http://www.wikidata.org/entity/Q4210036"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.65,
+          23.183333333
+        ]
+      },
+      "properties": {
+        "name": "Lohagara",
+        "wikidata": "Q4267508",
+        "type": "human settlement",
+        "url": "http://www.wikidata.org/entity/Q4267508"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.62,
+          23.19
+        ]
+      },
+      "properties": {
+        "name": "Lohagara Upazila",
+        "wikidata": "Q6667942",
+        "type": "upazila of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q6667942"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.6625,
+          23.1833
+        ]
+      },
+      "properties": {
+        "name": "Lohagara Upazila",
+        "wikidata": "Q6667942",
+        "type": "upazila of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q6667942"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.500555555,
+          23.161111111
+        ]
+      },
+      "properties": {
+        "name": "Q13151137",
+        "wikidata": "Q13151137",
+        "type": "municipality of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q13151137"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.4808,
+          23.2014
+        ]
+      },
+      "properties": {
+        "name": "Shahabad Union",
+        "wikidata": "Q13152772",
+        "type": "union council of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q13152772"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.5146263,
+          23.2357909
+        ]
+      },
+      "properties": {
+        "name": "Hobkhali Union",
+        "wikidata": "Q13152876",
+        "type": "union council of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q13152876"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.50113611,
+          23.17481667
+        ]
+      },
+      "properties": {
+        "name": "Nur Mohammad Stadium",
+        "wikidata": "Q15263011",
+        "type": "stadium",
+        "url": "http://www.wikidata.org/entity/Q15263011"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.63,
+          23.033611111
+        ]
+      },
+      "properties": {
+        "name": "Q22348010",
+        "wikidata": "Q22348010",
+        "type": "municipality of Bangladesh",
+        "url": "http://www.wikidata.org/entity/Q22348010"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.63,
+          23.04
+        ]
+      },
+      "properties": {
+        "name": "Narail-1",
+        "wikidata": "Q24693157",
+        "type": "constituency of the Jatiya Sangsad",
+        "url": "http://www.wikidata.org/entity/Q24693157"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.65,
+          23.18
+        ]
+      },
+      "properties": {
+        "name": "Narail-2",
+        "wikidata": "Q24693160",
+        "type": "constituency of the Jatiya Sangsad",
+        "url": "http://www.wikidata.org/entity/Q24693160"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.5013475,
+          23.1582039
+        ]
+      },
+      "properties": {
+        "name": "SM Sultan Bengal Art College",
+        "wikidata": "Q61928000",
+        "type": "college",
+        "url": "http://www.wikidata.org/entity/Q61928000"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.502032,
+          23.179417
+        ]
+      },
+      "properties": {
+        "name": "Narail Govt. Women's College",
+        "wikidata": "Q125192677",
+        "type": "educational institution",
+        "url": "http://www.wikidata.org/entity/Q125192677"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.651516624,
+          23.18697815
+        ]
+      },
+      "properties": {
+        "name": "Lohagara Govt Pilot High School",
+        "wikidata": "Q125407994",
+        "type": "educational institution",
+        "url": "http://www.wikidata.org/entity/Q125407994"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.5009485,
+          23.1581747
+        ]
+      },
+      "properties": {
+        "name": "Sultan Complex",
+        "wikidata": "Q130354544",
+        "type": "mausoleum",
+        "url": "http://www.wikidata.org/entity/Q130354544"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.65992,
+          23.19847
+        ]
+      },
+      "properties": {
+        "name": "Lohagara railway station",
+        "wikidata": "Q131696645",
+        "type": "railway station",
+        "url": "http://www.wikidata.org/entity/Q131696645"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.6599224,
+          23.1984693
+        ]
+      },
+      "properties": {
+        "name": "Lohagara railway station",
+        "wikidata": "Q131696645",
+        "type": "railway station",
+        "url": "http://www.wikidata.org/entity/Q131696645"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.65992,
+          23.19847
+        ]
+      },
+      "properties": {
+        "name": "Lohagara railway station",
+        "wikidata": "Q131696645",
+        "type": "Q719456",
+        "url": "http://www.wikidata.org/entity/Q131696645"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.6599224,
+          23.1984693
+        ]
+      },
+      "properties": {
+        "name": "Lohagara railway station",
+        "wikidata": "Q131696645",
+        "type": "Q719456",
+        "url": "http://www.wikidata.org/entity/Q131696645"
+      }
+    }
+  ]
+}
