@@ -24,6 +24,23 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+         92.02452007913718,        
+          21.356950957477093        ]
+      },
+      "properties": {
+        "name": "Himchori Falls",
+        "tourism": "attraction",
+        "historic": "",
+        "natural": "",
+        "amenity": "",
+        "district": "Cox's_Bazar"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           92.0482773,
           21.2329536
         ]
