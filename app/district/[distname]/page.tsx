@@ -1,6 +1,8 @@
 import DistrictMap from "@/component/DistrictMap";
 import { notFound } from 'next/navigation';
 import { FeatureCollection, Point } from 'geojson';
+import fs from 'fs/promises';
+import path from 'path';
 
 const DIST = ['Dhaka', 'Faridpur', 'Gazipur', 'Gopalganj', 'Kishoreganj', 'Madaripur',
     'Manikganj', 'Munshiganj', 'Narayanganj', 'Narsingdi', 'Rajbari', 'Shariatpur',
@@ -14,30 +16,25 @@ const DIST = ['Dhaka', 'Faridpur', 'Gazipur', 'Gopalganj', 'Kishoreganj', 'Madar
     'Jessore', 'Jhenaidah', 'Khulna', 'Kushtia', 'Magura', 'Meherpur', 'Narail', 'Satkhira'
 ];
 
-export default async function DistPage({ params }: { params: { distname: string } }) {
+export default async function DistPage({ params }: { params: Promise<{ distname: string }> }) {
     const dName = await params;
     const distName = decodeURIComponent(dName.distname);
-    console.log(distName);
+
     if (!DIST.includes(distName)) {
         notFound()
     }
-    let theAbsURL = '';
-    if (process.env.VERCEL_URL) {
-        theAbsURL = "https://" + process.env.VERCEL_URL;
-    }
-    else {
-        theAbsURL = 'http://localhost:3000'
-    }
-    const geojsonUrl = theAbsURL + `/geojson/${distName}.geojson`;
+
+    // Normalize filename: "Cox's Bazar" -> "Cox's_Bazar.geojson"
+    const fileName = distName.replace(/\s+/g, '_') + '.geojson';
+    const filePath = path.join(process.cwd(), 'public', 'geojson', fileName);
+
     let geojsonData: FeatureCollection<Point>;
     try {
-        console.log(geojsonUrl);
-        const res = await fetch(geojsonUrl, { next: { revalidate: 3600 } })
-        if (!res.ok) throw new Error("Failed to load GEOJSON Data");
-        geojsonData = await res.json();
+        const fileContent = await fs.readFile(filePath, 'utf8');
+        geojsonData = JSON.parse(fileContent);
     }
     catch (err) {
-        console.error("Fetch Error: ", err);
+        console.error("Local Read Error: ", err);
         notFound();
     }
     console.log("GEOJSON LOADED: ", geojsonData.features.length, ' features');
