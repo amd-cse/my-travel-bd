@@ -17,6 +17,11 @@ const nextConfig: NextConfig = {
       hostname: '**',
       port: '',
     },
+    {
+      protocol: 'http',
+      hostname: '**',
+      port: '',
+    },
     ]
   }
 };
