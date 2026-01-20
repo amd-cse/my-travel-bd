@@ -125,7 +125,7 @@ export default function PostCard({ post, currentUserId }: { post: Post, currentU
                                         src={img}
                                         alt={`Post image ${idx + 1}`}
                                         fill
-                                        className="object-cover hover:opacity-95 transition-opacity cursor-pointer"
+                                        className="object-contain hover:opacity-95 transition-opacity cursor-pointer"
                                     />
                                 </div>
                             );
