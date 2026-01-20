@@ -125,7 +125,6 @@ export default function PostCard({ post, currentUserId }: { post: Post, currentU
                                         src={img}
                                         alt={`Post image ${idx + 1}`}
                                         fill
-                                        sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 33vw"
 
                                         className="object-cover hover:opacity-95 transition-opacity cursor-pointer"
                                     />
