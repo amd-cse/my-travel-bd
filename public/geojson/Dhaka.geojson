@@ -2954,6 +2954,24 @@
         "district": "Dhaka"
       }
     },
+     {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+         90.40210837281012,
+          23.727502052776046 
+        ]
+      },
+      "properties": {
+        "name": "Curzon Hall",
+        "tourism": "",
+        "historic": "archaeological_site",
+        "natural": "",
+        "amenity": "",
+        "district": "Dhaka"
+      }
+    },
     {
       "type": "Feature",
       "geometry": {
